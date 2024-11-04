@@ -46,3 +46,10 @@ O trabalho consiste em analisar a soberania digital e a dependência de países 
 8. **Discussão e Observações Principais**: A centralização do DNS representa riscos econômicos, incluindo interrupção de negócios e danos à reputação. As dimensões legais da soberania digital envolvem regulamentações e ações políticas. A centralização aumenta os riscos de censura na Internet e interrupções. Motivações econômicas para a centralização do DNS estão ligadas a grandes empresas de tecnologia. Espera-se que o mercado de DNS cresça significativamente, levantando preocupações sobre monopolização. Esforços legais na UE e no Brasil visam fortalecer a soberania digital.  
 9. **Conclusão e Trabalhos Futuros**: Compreender a centralização do DNS é crucial para o controle e regulamentação da sociedade. O artigo apresenta uma abordagem de medição para analisar a centralização do DNS. Os resultados mostram uma centralização significativa e uma soberania nacional reduzida na gestão do DNS. Trabalhos futuros expandirão a análise para mais países e abordarão as limitações identificadas. A abordagem pode ser adaptada para estudar outros protocolos relacionados à soberania digital.
 
+
+### Outros a serem resumidos:
+> https://www.linkedin.com/pulse/digital-sovereignty-global-economy-navigating-new-andre-ripla-pgcert-l4cce/  
+> [Digital sovereignty, Julia Pohle e Thorsten Thiel 2020](https://policyreview.info/pdf/policyreview-2020-4-1532.pdf)  
+> [Navigating Digital Sovereignty and its Impact on the Internet, Internet Society 2022](https://www.internetsociety.org/wp-content/uploads/2022/11/Digital-Sovereignty.pdf)  
+> [The digital trade imbalance and its implications for internet governance, Susan Ariel Aaronson](https://www.cigionline.org/static/documents/gcig_no25_web_0.pdf)
+
