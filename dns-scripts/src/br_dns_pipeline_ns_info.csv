@@ -1,0 +1,1001 @@
+rank_2023,domain,NS,NS-A,NS-AAAA,ASN,ASName,ASSource,ASCountry,OrgName
+1,petrobras.com.br,ns-1611.awsdns-09.co.uk,205.251.198.75,2600:9000:5306:4b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+2,jbs.com.br,ns2-03.azure-dns.net,150.171.21.3,2620:1ec:8ec:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+3,raizen.com.br,ns4-33.azure-dns.info,13.107.206.33,2620:1ec:bda:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+4,vale.com,ns-2026.awsdns-61.co.uk,205.251.199.234,2600:9000:5307:ea00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+5,vibraenergia.com.br,ns-1532.awsdns-63.org,205.251.197.252,2600:9000:5305:fc00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+6,cosan.com.br,ns2-35.azure-dns.net,150.171.16.35,2620:1ec:8ec:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+7,marfrig.com.br,ns3-08.azure-dns.org,204.14.183.8,2a01:111:4000:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+8,ultra.com.br,ns3.p201.dns.oraclecloud.net,108.59.170.201,2600:2000:2120::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+9,cargill.com.br,ns-1985.awsdns-56.co.uk,205.251.199.193,2600:9000:5307:c100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+10,grupocarrefourbrasil.com.br,newt.ns.cloudflare.com,172.64.33.212,2803:f800:50::6ca2:c1d4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+11,bunge.com.br,merlin.ns.cloudflare.com,173.245.59.205,2606:4700:58::adf5:3bcd,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+12,ambev.com.br,ns4-33.azure-dns.info,13.107.206.33,2620:1ec:bda:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+13,stellantis.com,ns-125-a.gandi.net,173.246.100.126,2001:4b98:aaaa::7e,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+14,br.cofcointernational.com,ns1-06.azure-dns.com,13.107.236.6,2603:1061:0:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+15,braskem.com.br,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+16,brasil.arcelormittal.com,nsz.perf1.fr,208.80.126.13,2600:1802:7::1,16552,DIGICERT,arin,US,Tiggee LLC
+17,gerdau.com.br,ns.gerdau.com.br,189.42.125.10,,4230,CLARO S.A.,lacnic,BR,GERDAU AÇOS LONGOS S.A.
+18,assai.com.br,ns-1920.awsdns-48.co.uk,205.251.199.128,2600:9000:5307:8000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+19,copersucar.com.br,ns82.domaincontrol.com,173.201.69.32,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+20,brf-global.com,ns3-03.azure-dns.org,204.14.183.3,2a01:111:4000:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+21,shell.com.br,dns2.shell.com,144.199.196.20,,3918,SHELL-3918 Shell Information Technology International B.V. Dokter van Zeelandstraat 1 2265 BD Leidschendam the Netherlands,apnic,MY,Sarawak Shell Berhad
+22,telefonica.com.br,te-br-spo-ib-dns2.tdatabrasil.net.br,200.153.0.200,,10429,TELEFONICA BRASIL S.A,lacnic,BR,TELEFÔNICA BRASIL S.A
+23,rededorsaoluiz.com.br,mary.ns.cloudflare.com,173.245.58.134,2606:4700:50::adf5:3a86,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+24,claropar.com.br,ns04.claro.net.br,200.169.123.38,,22085,Claro SA,lacnic,BR,Claro S/A
+25,csn.com.br,ns01.tivit.net,107.162.181.142,2604:e180:105f::ffff:6ba2:b58e,55002,DEFENSE-NET,arin,US,"F5, Inc."
+26,amaggi.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+27,neoenergia.com,dns.iberdrola.es,217.22.97.10,,15711,IBERDROLA Bilbao,ripencc,ES,IBSIS-MNT
+28,acelen.com.br,rafe.ns.cloudflare.com,173.245.58.216,2803:f800:50::6ca2:c0d8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+29,ldc.com,pdns07.domaincontrol.com,97.74.111.53,2603:5:21f1::35,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+30,enel.com.br,cdns.enel.it,158.47.0.65,,12551,AS-ENEL-,ripencc,IT,ENEL LIR
+31,equatorialenergia.com.br,dns6.equatorialenergia.com.br,189.3.154.216,,4230,CLARO S.A.,lacnic,BR,Companhia Energética do Maranhão - CEMAR
+32,suzano.com.br,ns1-07.azure-dns.com,13.107.236.7,2603:1061:0:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+33,cpfl.com.br,tate.ns.cloudflare.com,108.162.195.191,2a06:98c1:50::ac40:23bf,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+34,mercadolivre.com.br,ns-653.awsdns-17.net,205.251.194.141,2600:9000:5302:8d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+35,eletrobras.com,ns-cloud-a1.googledomains.com,216.239.32.106,2001:4860:4802:32::6a,15169,GOOGLE,arin,US,Google LLC
+36,cemig.com.br,ns2-36.azure-dns.net,150.171.16.36,2620:1ec:8ec:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+37,magazineluiza.com.br,ns-687.awsdns-21.net,205.251.194.175,2600:9000:5302:af00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+38,vw.com.br,ns3.volkswagen.com.br,187.8.218.30,,10429,TELEFONICA BRASIL S.A,lacnic,BR,Volkswagen do Brasil Ltda
+39,rdsaude.com.br,ns-1699.awsdns-20.co.uk,205.251.198.163,2600:9000:5306:a300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+40,weg.net,a10-67.akam.net,96.7.50.67,2600:1480:d000::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+41,simpar.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+42,latamairlines.com,naya.ns.cloudflare.com,162.159.38.242,2a06:98c1:50::ac40:22f2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+43,localiza.com,ns-393.awsdns-49.com,205.251.193.137,2600:9000:5301:8900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+44,casasbahia.com.br,a5-64.akam.net,95.100.168.64,2600:1480:b000::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+45,energisa.com.br,a7-66.akam.net,23.61.199.66,2600:1406:32::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+46,mosaicco.com.br,ns1-04.azure-dns.com,13.107.236.4,2603:1061:0:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+47,coamo.com.br,dsvr.coamo.com.br,177.67.70.28,2801:80:350:1:20c:29ff:fee2:c6da,262524,COAMO AGROINDUSTRIAL COOPERATIVA,lacnic,BR,COAMO AGROINDUSTRIAL COOPERATIVA
+48,honda.com.br,ns-94.awsdns-11.com,205.251.192.94,2600:9000:5300:5e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+49,usiminas.com,dns04.usiminas.com.br,200.210.151.119,,4230,CLARO S.A.,lacnic,BR,CLARO S.A.
+50,samsung.com,auth03.nhn.ic,,,,,,,
+51,minervafoods.com,ns-339.awsdns-42.com,205.251.193.83,2600:9000:5301:5300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+52,grupomateus.com.br,rudy.ns.cloudflare.com,108.162.193.229,2a06:98c1:50::ac40:21e5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+53,natura.com.br,ns-459.awsdns-57.com,205.251.193.203,2600:9000:5301:cb00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+54,votorantimcimentos.com.br,ns4-04.azure-dns.info,208.84.5.4,2620:1ec:bda:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+55,embraer.com,daniella.ns.cloudflare.com,172.64.34.228,2a06:98c1:50::ac40:22e4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+56,sabesp.com.br,dns1.sabesp.com.br,200.144.74.1,,28637,Cia Proc. de Dados do Estado de S Paulo - Prodesp,lacnic,BR,COMPANHIA DE SANEAMENTO BASICO DO EST. DE SAO
+57,syngenta.com.br,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+58,tim.com.br,ns1.a0.impervasecuredns.net,192.230.121.1,2a02:e980:4::1,19551,INCAPSULA,arin,US,Incapsula Inc
+59,cvale.com.br,ns1-07.azure-dns.com,13.107.236.7,2603:1061:0:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+60,lar.ind.br,a10-65.akam.net,96.7.50.65,2600:1480:d000::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+61,nestle.com.br,aoadns1.nestle.com,204.74.67.154,2610:a1:1015::29a,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+62,copel.com,ns2.copel.com,200.1.114.73,,270530,Companhia Paranaense de Energia - COPEL,lacnic,BR,Companhia Paranaense de Energia - COPEL
+63,basf.com,ns01.basf.com,162.159.11.247,2400:cb00:2049:1::a29f:bf7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+64,auroraalimentos.com.br,patrick.ns.cloudflare.com,108.162.195.200,2803:f800:50::6ca2:c3c8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+65,coca-cola-femsa.com.br,dns1.velx.com.br,45.224.130.10,,266400,Ferenz Networks,lacnic,BR,Ferenz Networks
+66,gpabr.com,ns-cloud-a3.googledomains.com,216.239.36.106,2001:4860:4802:36::6a,15169,GOOGLE,arin,US,Google LLC
+67,correios.com.br,ns4.correios.com.br,186.211.131.16,,14840,BR.Digital Provider,lacnic,BR,Empresa Brasileira de Correios e Telégrafos
+68,fertipar.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+69,grupoccr.com.br,ns3.grupoccr.com.br,177.130.115.101,,52551,SAMM Sociedade de Atividades em Multimidia LTDA,lacnic,BR,CONCESSIONÁRIA DA LINHA 4 DO METRÔ DE SÃO PAULO S.
+70,voegol.com.br,a8-64.akam.net,2.16.40.64,2600:1403:a::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+71,voeazul.com.br,a8-64.akam.net,2.16.40.64,2600:1403:a::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+72,yarabrasil.com.br,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+73,klabin.com.br,edns116.ultradns.net,204.74.110.116,2610:a1:1014::274,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+74,edp.com.br,nsedp1.edpbr.com.br,45.171.190.10,,268745,EDP ENERGIAS DO BRASIL S.A.,lacnic,BR,EDP ENERGIAS DO BRASIL S.A.
+75,comexport.com.br,elliott.ns.cloudflare.com,108.162.195.228,2606:4700:58::a29f:2ce4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+76,newholland.com.br,b.sec.dns.br,200.192.232.11,2001:12f8:b:1::11,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+77,volvogroup.com,goalkeeper.volvo.com,153.112.224.13,,58653,VOLVOITJAPAN UD Trucks Corporation,ripencc,SE,Volvo NIC
+78,pagbank.com.br,eliot.uol.com.br,172.64.52.216,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+79,ectpbrasil.com,a4-66.akam.net,72.246.46.66,2600:1480:9000::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+80,globo.com,ns03.globo.com,186.192.89.5,2804:294:4000:8001::5,28604,Globo Comunicacao e Participacoes SA,lacnic,BR,Globo Comunicação e Participaçoes SA
+81,iochpe.com.br,dns2.cloudns.net,185.136.97.77,2a06:fb00:1::2:77,203391,CLOUDNSNET Cloud DNS Ltd.,ripencc,BG,bg-cloud-1-mnt
+82,renault.com.br,anna.renault.fr,193.194.133.1,,8528,RENAULT,ripencc,FR,FR-DNS-MNT
+83,dasa.com.br,ns-1925.awsdns-48.co.uk,205.251.199.133,2600:9000:5307:8500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+84,galp.com,ns10.galpenergia.com,83.240.208.160,,15525,MEO-EMPRESAS,ripencc,PT,AS15525-MNT
+85,light.com.br,sdrlg04.light.com.br,179.127.127.104,,263673,LIGHT - SERVICOS DE ELETRICIDADE SA,lacnic,BR,LIGHT - SERVICOS DE ELETRICIDADE S/A
+86,grupodpsp.com.br,ns-1190.awsdns-20.org,205.251.196.166,2600:9000:5304:a600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+87,itaipu.gov.br,ns2.itaipu.gov.br,179.63.8.131,,272021,ITAIPU BINACIONAL,lacnic,PY,ITAIPU BINACIONAL
+88,www2.ale.com.br,sri.ns.cloudflare.com,173.245.59.234,2a06:98c1:50::ac40:21ea,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+89,lojasrenner.com.br,ns3.lojasrenner.com.br,177.174.101.216,,26599,TELEFONICA BRASIL S.A,lacnic,BR,TELEFÔNICA BRASIL S.A
+90,nexaresources.com,ns2-08.azure-dns.net,150.171.21.8,2620:1ec:8ec:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+91,comigo.com.br,srv-ns3.comigo.com.br,191.33.170.196,,18881,TELEFONICA BRASIL S.A,lacnic,BR,Coop. A. P. R. S. Goiano
+92,vwco.com.br,ns-761.awsdns-31.net,205.251.194.249,2600:9000:5302:f900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+93,cocamar.com.br,edns116.ultradns.net,204.74.110.116,2610:a1:1014::274,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+94,atem.com.br,bryce.ns.cloudflare.com,108.162.195.137,2803:f800:50::6ca2:c389,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+95,pt-br.novelis.com,cmtu.mt.ns.els-gms.att.net,99.99.99.132,2001:1890:1ff:9f1:99:99:99:132,7018,ATT-INTERNET4,arin,US,ATT Global Anycast Prefix
+96,aguiabranca.com.br,ns1.vab.net.br,177.67.254.117,,262559,Aguia Branca Participacoes Ltda,lacnic,BR,Aguia Branca Participações Ltda
+97,brasil.angloamerican.com,ns0.bt.net,217.35.209.188,,2856,BT-UK-AS BTnet UK Regional network,ripencc,GB,BTnet Support
+98,sotreq.com.br,ns1-06.azure-dns.com,13.107.236.6,2603:1061:0:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+99,prio3.com.br,meg.ns.cloudflare.com,173.245.58.196,2606:4700:50::adf5:3ac4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+100,whirlpool.com.br,ns2.whirlpool.com,173.245.58.8,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+101,cbmm.com,ns4-02.azure-dns.info,208.84.5.2,2620:1ec:bda:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+102,tupy.com.br,ns.tupy.com.br,45.177.230.2,,269052,TUPY SA,lacnic,BR,TUPY S/A
+103,stone.com.br,dns2.p01.nsone.net,198.51.45.1,2a00:edc0:6259:7:1::2,62597,NSONE,arin,US,NSONE Inc
+104,camilalimentos.com.br,ns-1978.awsdns-55.co.uk,205.251.199.186,2600:9000:5307:ba00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+105,paguemenos.com.br,ns3.aziondns.org,179.191.162.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+106,viveo.com.br,a3-66.akam.net,96.7.49.66,2600:1408:1c::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+107,larcopetroleo.com.br,ns177.hostgator.com.br,192.185.177.173,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+108,inpasa.com.br,pete.ns.cloudflare.com,108.162.193.136,2606:4700:58::adf5:3b88,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+109,rumolog.com,ns-1627.awsdns-11.co.uk,205.251.198.91,2600:9000:5306:5b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+110,randoncorp.com,ns1-04.azure-dns.com,13.107.236.4,2603:1061:0:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+111,mdiasbranco.com.br,ns3.mdb.com.br,177.184.136.22,,28368,SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME,lacnic,BR,M. Dias Branco S/A Ind e Com de Alimentos
+112,ream.com.br,nova.ns.cloudflare.com,172.64.34.129,2803:f800:50::6ca2:c281,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+113,supermuffato.com.br,dns.muffatointerno.com.br,18.231.158.165,,16509,AMAZON-02,arin,US,Amazon Data Services Brazil
+114,engie.com.br,ns-1167.awsdns-17.org,205.251.196.143,2600:9000:5304:8f00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+115,hospitalsaopaulo.org.br,ns-cloud-a4.googledomains.com,216.239.38.106,2001:4860:4802:38::6a,15169,GOOGLE,arin,US,Google LLC
+116,gpssa.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+117,cielo.com.br,a3-65.akam.net,96.7.49.65,2600:1408:1c::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+118,celesc.com.br,ns1.celesc.com.br,200.9.200.10,,264037,Centrais Eletricas de Santa Catarina S.A,lacnic,BR,Centrais Elétricas de Santa Catarina S.A
+119,copaenergia.com.br,chip.ns.cloudflare.com,173.245.59.84,2606:4700:58::adf5:3b54,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+120,hydro.com,b.portsdns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+121,eneva.com.br,ns3-08.azure-dns.org,204.14.183.8,2a01:111:4000:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+122,sertrading.com,ns25.domaincontrol.com,97.74.102.13,2603:5:2161::d,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+123,cencosud.com.br,ns02.cencosud.com.ar,200.32.56.57,,10834,Telefonica de Argentina,lacnic,AR,CENCOSUD S.A.
+124,userede.com.br,eur2.akam.net,95.100.173.64,,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+125,alzgraos.com.br,ns4.bdm.microsoftonline.com,208.84.5.208,2620:1ec:bda:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+126,loja.electrolux.com.br,ns-2008.awsdns-59.co.uk,205.251.199.216,2600:9000:5307:d800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+127,oi.com.br,ns2.oi.com.br,187.31.129.3,,14571,Oi S.A. - Em Recuperacao Judicial,lacnic,BR,Oi S.A. - Em Recuperação Judicial
+128,solarbr.com.br,ns4.solarbr.com.br,201.18.158.182,,7738,V tal,lacnic,BR,V tal
+129,copacol.com.br,ns2.copacol.com.br,177.124.176.148,,262328,CONSTEL TECNOLOGIA LTDA,lacnic,BR,CONSTEL TECNOLOGIA LTDA
+130,agrogalaxy.com.br,ns1-04.azure-dns.com,13.107.236.4,2603:1061:0:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+131,havan.com.br,dave.ns.cloudflare.com,173.245.59.109,2606:4700:58::adf5:3b6d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+132,agco.com.br,ns15.dnsmadeeasy.com,208.94.149.4,2600:1800:15::1,16552,DIGICERT,arin,US,Tiggee LLC
+133,slc.com.br,ns3.aziondns.org,179.191.162.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+134,elopar.com.br,ns01.tivit.net,107.162.181.142,2604:e180:105f::ffff:6ba2:b58e,55002,DEFENSE-NET,arin,US,"F5, Inc."
+135,eurofarma.com.br,ns-1003.awsdns-61.net,205.251.195.235,2600:9000:5303:eb00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+136,vli-logistica.com.br,ns2-03.azure-dns.net,150.171.21.3,2620:1ec:8ec:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+137,ntag.com.br,ns-1958.awsdns-52.co.uk,205.251.199.166,2600:9000:5307:a600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+138,3tentos.com.br,ns4-08.azure-dns.info,208.84.5.8,2620:1ec:bda:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+139,b3.com.br,jose.ns.cloudflare.com,162.159.44.88,2803:f800:50::6ca2:c358,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+140,ecorodovias.com.br,a1-84.akam.net,193.108.91.84,2600:1401:2::54,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+141,guararapes.com.br,ns3.p201.dns.oraclecloud.net,108.59.170.201,2600:2000:2120::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+142,profarma.com.br,ns-876.awsdns-45.net,205.251.195.108,2600:9000:5303:6c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+143,cooperalfa.com.br,luke.ns.cloudflare.com,172.64.33.200,2803:f800:50::6ca2:c1c8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+144,timbrotrading.com,corey.ns.cloudflare.com,108.162.195.24,2803:f800:50::6ca2:c318,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+145,ifood.com.br,ns-1259.awsdns-29.org,205.251.196.235,2600:9000:5304:eb00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+146,aegea.com.br,susan.ns.cloudflare.com,162.159.38.199,2606:4700:50::a29f:26c7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+147,bianchinisa.com.br,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+148,gruposaga.com.br,ns-753.awsdns-30.net,205.251.194.241,2600:9000:5302:f100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+149,mcdonalds.com.br,riya.ns.cloudflare.com,108.162.194.155,2a06:98c1:50::ac40:229b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+150,integrada.coop.br,ns2.p201.dns.oraclecloud.net,108.59.168.201,2600:2000:2110::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+151,grupopiracanjuba.com.br,ns1-08.azure-dns.com,13.107.236.8,2603:1061:0:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+152,fs.agr.br,a.sec.dns.br,200.160.0.11,2001:12ff::11,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+153,repsolsinopec.com.br,ns-628.awsdns-14.net,205.251.194.116,2600:9000:5302:7400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+154,gruponc.net.br,ns-391.awsdns-48.com,205.251.193.135,2600:9000:5301:8700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+155,bp.com,ns-692.awsdns-22.net,205.251.194.180,2600:9000:5302:b400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+156,hypera.com.br,cloe.ns.cloudflare.com,173.245.58.86,2a06:98c1:50::ac40:2056,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+157,3coracoes.com.br,ns2-06.azure-dns.net,150.171.21.6,2620:1ec:8ec:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+158,lavoroagro.com,mario.ns.cloudflare.com,172.64.33.203,2606:4700:58::adf5:3bcb,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+159,caramuru.com,ns-167.awsdns-20.com,205.251.192.167,2600:9000:5300:a700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+160,linkedin.com,dns4.p09.nsone.net,198.51.45.73,2a00:edc0:6259:7:9::4,62597,NSONE,arin,US,NSONE Inc
+161,samarco.com,ns2-03.azure-dns.net,150.171.21.3,2620:1ec:8ec:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+162,coopercitrus.com.br,d.dns.br,200.219.154.10,2001:12f8:4::10,11644,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+163,belagricola.com.br,ns4-09.azure-dns.info,208.84.5.9,2620:1ec:bda:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+164,zf.com,dns3.p04.nsone.net,198.51.44.68,2620:4d:4000:6259:7:4:0:3,62597,NSONE,arin,US,NSONE Inc
+165,mrv.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+166,copasa.com.br,ns.copasa.com.br,187.1.61.78,,28201,Companhia Itabirana Telecomunicacoes Ltda,lacnic,BR,Companhia Itabirana Telecomunicações Ltda
+167,brazil.vallourec.com,ns-940.awsdns-53.net,205.251.195.172,2600:9000:5303:ac00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+168,gazin.com.br,ns3-09.azure-dns.org,204.14.183.9,2a01:111:4000:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+169,dex.co,ns-1667.awsdns-16.co.uk,205.251.198.131,2600:9000:5306:8300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+170,ntsbrasil.com,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+171,cba.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+172,superkoch.com.br,ns2-04.azure-dns.net,150.171.21.4,2620:1ec:8ec:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+173,dmabrasil.com.br,ns1.wixdns.net,216.239.34.101,,15169,GOOGLE,arin,US,Google LLC
+174,agraria.com.br,ns3-05.azure-dns.org,204.14.183.5,2a01:111:4000:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+175,be8energy.com,ns2.be8energy.com,187.44.101.228,,16735,ALGAR TELECOM SA,lacnic,BR,Be8 S.A.
+176,bayer.com.br,pdns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+177,br.todosnegocios.com,robin.ns.cloudflare.com,172.64.32.218,2803:f800:50::6ca2:c0da,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+178,alcoa.com,edns1.ultradns.biz,204.74.67.1,2610:a1:1015::201,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+179,gruposbf.com.br,asia2.akam.net,95.101.36.64,,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+180,petrobahia.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+181,saomartinho.com.br,ns-1047.awsdns-02.org,205.251.196.23,2600:9000:5304:1700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+182,zaffari.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+183,cibra.com,ns49.domaincontrol.com,97.74.104.25,2603:5:2182::19,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+184,cea.com.br,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+185,br.tereos.com,ns3.iptwins.com,144.217.70.141,2607:5300:203:28d::,16276,OVH,arin,CA,"OVH Hosting, Inc."
+186,atvos.com,ns-cloud-b4.googledomains.com,216.239.38.107,2001:4860:4802:38::6b,15169,GOOGLE,arin,US,Google LLC
+187,marcopolo.com.br,ulla.ns.cloudflare.com,108.162.192.233,2606:4700:50::adf5:3ae9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+188,portosudeste.com,pdns12.domaincontrol.com,173.201.79.55,2603:5:22f2::37,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+189,bosch.com.br,gwa2.fe.bosch.de,103.4.124.215,2401:d00:ff0:2003::8,133466,BOSCH-NET-AP Robert Bosch GmbH,apnic,SG,ROBERT BOSCH GMBH - network administrator
+190,tendaatacado.com.br,ns2.aziondns.com,179.191.161.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+191,rodoil.com.br,kara.ns.cloudflare.com,172.64.32.123,2606:4700:50::adf5:3a7b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+192,grupofleury.com.br,roan.ns.cloudflare.com,173.245.59.226,2606:4700:58::adf5:3be2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+193,mrs.com.br,cruz.ns.cloudflare.com,173.245.58.88,2606:4700:50::adf5:3a58,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+194,cooxupe.com.br,ns-435.awsdns-54.com,205.251.193.179,2600:9000:5301:b300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+195,valgroupco.com,brad.ns.cloudflare.com,108.162.193.105,2803:f800:50::6ca2:c169,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+196,brasil.aperam.com,ns-1789.awsdns-31.co.uk,205.251.198.253,2600:9000:5306:fd00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+197,site.sanepar.com.br,cairu1.sanepar.com.br,177.69.70.29,,16735,ALGAR TELECOM SA,lacnic,BR,SB CONECT LTDA
+198,frisia.coop.br,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+199,cyrela.com.br,ns-53.awsdns-06.com,205.251.192.53,2600:9000:5300:3500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+200,isaenergiabrasil.com.br,trevor.ns.cloudflare.com,162.159.44.154,2a06:98c1:50::ac40:239a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+201,aurenenergia.com.br,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+202,evora.com,dns102.register.com,162.159.25.158,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+203,ri.arteris.com.br,kellen.ns.cloudflare.com,162.159.44.160,2606:4700:58::a29f:2ca0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+204,ctgbr.com.br,parkct1.secureserver.net,97.74.101.32,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+205,grupoelfa.com.br,a3-67.akam.net,96.7.49.67,2600:1408:1c::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+206,alliedbrasil.com.br,ns-1995.awsdns-57.co.uk,205.251.199.203,2600:9000:5307:cb00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+207,vtal.com,ns03.vtal.com.br,200.96.252.16,,8167,V tal,lacnic,BR,V tal
+208,cogna.com.br,ns-1388.awsdns-45.org,205.251.197.108,2600:9000:5305:6c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+209,potencial.net.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+210,eldoradobrasil.com.br,ns1-08.azure-dns.com,13.107.236.8,2603:1061:0:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+211,3rpetroleum.com.br,chelsea.ns.cloudflare.com,172.64.34.177,2a06:98c1:50::ac40:22b1,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+212,rodobens.com.br,ns1-07.azure-dns.com,13.107.236.7,2603:1061:0:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+213,naturgy.com.br,ns1.gasnatural.com,195.77.63.16,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+214,coasul-br.com,a.gtld-servers.net,192.5.6.30,2001:503:a83e::2:30,36631 396540 396543 396549 396574 396579 397198 397204,,arin,US,VeriSign Global Registry Services
+215,pfizer.com.br,ns4.p201.dns.oraclecloud.net,108.59.172.201,2600:2000:2130::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+216,kinross.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+217,castrolanda.coop.br,ns-515.awsdns-00.net,205.251.194.3,2600:9000:5302:300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+218,martinsdistribuidor.com.br,sol.martins.com.br,200.251.129.241,,4230,CLARO S.A.,lacnic,BR,Martins Comercio e Servicos de Distribuicao Ltda
+219,savegnago.com.br,ns2-05.azure-dns.net,150.171.21.5,2620:1ec:8ec:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+220,copasul.coop.br,ns-cloud-c2.googledomains.com,216.239.34.108,2001:4860:4802:34::6c,15169,GOOGLE,arin,US,Google LLC
+221,grupooncoclinicas.com,ns-1070.awsdns-05.org,205.251.196.46,2600:9000:5304:2e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+222,oleoplan.com.br,ns3.defferrari.com.br,57.128.17.50,,16276,OVH,ripencc,FR,OVH SAS
+223,albrasaluminio.com.br,e.sec.dns.br,200.192.232.14,2001:12f8:b:1::14,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+224,citrosuco.com.br,ns-1605.awsdns-08.co.uk,205.251.198.69,2600:9000:5306:4500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+225,einstein.br,a1-189.akam.net,193.108.91.189,2600:1401:2::bd,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+226,frimesa.com.br,ns3.p201.dns.oraclecloud.net,108.59.170.201,2600:2000:2120::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+227,somagrupo.com.br,carlos.ns.cloudflare.com,162.159.44.112,2a06:98c1:50::ac40:2370,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+228,cotrijal.com.br,eloise.ns.cloudflare.com,108.162.194.208,2803:f800:50::6ca2:c2d0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+229,heringer.com.br,ns2.heringer.com.br,200.228.102.22,,4230,CLARO S.A.,lacnic,BR,Fertilizantes Heringer S.A.
+230,zmaxgroup.com.br,ruben.ns.cloudflare.com,108.162.195.71,2a06:98c1:50::ac40:2347,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+231,brasil.pochteca.net,ns-1142.awsdns-14.org,205.251.196.118,2600:9000:5304:7600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+232,coopavel.com.br,opal.ns.cloudflare.com,172.64.34.100,2803:f800:50::6ca2:c264,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+233,novacana.com,cody.ns.cloudflare.com,172.64.33.107,2a06:98c1:50::ac40:216b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+234,agroamazonia.com,katja.ns.cloudflare.com,108.162.194.53,2a06:98c1:50::ac40:2235,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+235,condor.com.br,dns2.condor.com.br,200.142.148.202,,28591,METRO TELECOMUNICACOES SA,lacnic,BR,CONDOR SUPER CENTER LTDA
+236,yduqs.com.br,ns-686.awsdns-21.net,205.251.194.174,2600:9000:5302:ae00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+237,pernambucanas.com.br,ns2.aziondns.com,179.191.161.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+238,servicos.corsan.com.br,vin.ns.cloudflare.com,108.162.193.245,2606:4700:58::adf5:3bf5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+239,fmcagricola.com.br,a.sec.dns.br,200.160.0.11,2001:12ff::11,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+240,refit.com.br,kanye.ns.cloudflare.com,108.162.193.189,2a06:98c1:50::ac40:21bd,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+241,embasa.ba.gov.br,ada.ns.cloudflare.com,108.162.192.54,2a06:98c1:50::ac40:2036,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+242,cocari.com.br,simone.ns.cloudflare.com,172.64.34.26,2803:f800:50::6ca2:c21a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+243,amedigital.com,ns-463.awsdns-57.com,205.251.193.207,2600:9000:5301:cf00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+244,novartis.com,a7-64.akam.net,23.61.199.64,2600:1406:32::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+245,lojascem.com.br,ns1.lojascem.com.br,170.245.60.52,,266521,Lojas CEM S.A.,lacnic,BR,Lojas CEM S.A.
+246,ache.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+247,sanofi.com.br,ns4.sanofi-synthelabo.com,205.251.194.58,2600:9000:5302:3a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+248,araguaia.com.br,sean.ns.cloudflare.com,108.162.193.231,2606:4700:58::adf5:3be7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+249,tigre.com.br,ns-986.awsdns-59.net,205.251.195.218,2600:9000:5303:da00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+250,unipar.com,a10-65.akam.net,96.7.50.65,2600:1480:d000::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+251,sylvamo.com,ns3-03.azure-dns.org,204.14.183.3,2a01:111:4000:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+252,serasaexperian.com.br,segateway01.serasa.com.br,200.245.207.56,,4230,CLARO S.A.,lacnic,BR,SERASA S.A
+253,ambipar.com,jo.ns.cloudflare.com,173.245.58.172,2606:4700:50::adf5:3aac,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+254,arezzo.com.br,venkat.ns.cloudflare.com,108.162.195.254,2803:f800:50::6ca2:c3fe,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+255,tambasa.com,alice.ns.cloudflare.com,108.162.192.60,2803:f800:50::6ca2:c03c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+256,olfar.ind.br,ns-1642.awsdns-13.co.uk,205.251.198.106,2600:9000:5306:6a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+257,comerc.com.br,ns-259.awsdns-32.com,205.251.193.3,2600:9000:5301:300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+258,brkambiental.com.br,ns1-07.azure-dns.com,13.107.236.7,2603:1061:0:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+259,eisatecnologia.com.br,ns361.hostgator.com.br,108.167.188.34,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+260,roche.com.br,ray.ns.cloudflare.com,172.64.33.138,2606:4700:58::adf5:3b8a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+261,abac-br.org.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+262,totvs.com,ns-cloud-d3.googledomains.com,216.239.36.109,2001:4860:4802:36::6d,15169,GOOGLE,arin,US,Google LLC
+263,grupoacocearense.com.br,ns1-03.azure-dns.com,13.107.236.3,2603:1061:0:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+264,dimed.com.br,ns2.dimed.com.br,45.174.9.35,,268844,DIMED SA DISTRIBUIDORA DE MEDICAMENTOS,lacnic,BR,DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS
+265,grupolider.com.br,dns6.m9.network,142.44.199.23,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+266,dellys.com.br,dns.seti.com.br,200.174.56.40,,4230,CLARO S.A.,lacnic,BR,Seti Segurança e Tecnologia na Internet Ltda
+267,usinacoruripe.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+268,coca-cola.com,ns1-09.azure-dns.com,13.107.236.9,2603:1061:0:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+269,copercana.com.br,opal.ns.cloudflare.com,172.64.34.100,2803:f800:50::6ca2:c264,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+270,copercampos.com.br,ns1.inet.srv.br,200.23.119.35,,265392,Cooperativa Regional Agropecuaria de Campos Novos,lacnic,BR,Cooperativa Regional Agropecuária de Campos Novos
+271,sap.com,ns.sap-ag.de,194.39.131.82,,14114,SAP-NIE,ripencc,DE,SAP SE
+272,br.mahle.com,dns3.LF.net,213.178.170.2,,12374,LFNET-AS01,ripencc,DE,LFNET-MNT
+273,sondadelivery.com.br,marte.impsat.com.br,189.125.184.135,2001:13b4:2000:102::5,3549,LVLT-3549,lacnic,BR,Cirion Technologies do Brasil Ltda.
+274,bra.icl-group.com,hal.ns.cloudflare.com,108.162.193.174,2803:f800:50::6ca2:c1ae,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+275,record.r7.com,eur5.akam.net,23.74.25.64,,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+276,innova.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+277,smartfit.com.br,tina.ns.cloudflare.com,172.64.32.230,2803:f800:50::6ca2:c0e6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+278,cmocbrasil.com,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+279,lider.inc,skip.ns.cloudflare.com,172.64.33.233,2606:4700:58::adf5:3be9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+280,adama.com,ns-1794.awsdns-32.co.uk,205.251.199.2,2600:9000:5307:200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+281,alvoarlacteos.gupy.io,ns-1564.awsdns-03.co.uk,205.251.198.28,2600:9000:5306:1c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+282,intelbras.com,ns-1634.awsdns-12.co.uk,205.251.198.98,2600:9000:5306:6200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+283,calcadosbeirario.com.br,ns4-01.azure-dns.info,208.84.5.1,2620:1ec:bda:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+284,grupocereal.com.br,ns1-37.azure-dns.com,150.171.10.37,2603:1061:0:10::25,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+285,ttwork.com.br,ppa.hotlink.com.br,189.1.1.150,2804:2070:10:1::150,28661,HOTLINK INTERNET LTDA,lacnic,BR,HOTLINK INTERNET LTDA
+286,smrfund.com,ns2.dns-parking.com,162.159.25.42,2400:cb00:2049:1::a29f:192a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+287,oec-eng.com,ns4-04.azure-dns.info,208.84.5.4,2620:1ec:bda:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+288,ihara.com.br,pdns07.domaincontrol.com,97.74.111.53,2603:5:21f1::35,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+289,stategrid.com.br,remy.ns.cloudflare.com,172.64.35.115,2606:4700:58::a29f:2c73,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+290,fazsaobenedito.com.br,ns1.agenciaverus.com.br,192.185.176.250,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+291,solvay.com,ns3.markmonitor.com,149.112.161.1,2620:10a:80a9::1,394354,CIRA-CLOUD2,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+292,grupodass.com,ns-237.awsdns-29.com,205.251.192.237,2600:9000:5300:ed00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+293,embrapa.br,rigel.cnptia.embrapa.br,200.0.70.99,2801:80:1400:e::99,11097,EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA,lacnic,BR,EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA
+294,tenaris.com,otsrv1.techintgroup.net,201.234.38.237,,21756,SIDERCA S.A.I.C.,lacnic,AR,CIRION TECHNOLOGIES ARGENTINA S.A.
+295,gestamp.com,ns3-33.azure-dns.org,13.107.222.33,2a01:111:4000:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+296,americantower.com,ns-1530.awsdns-63.org,205.251.197.250,2600:9000:5305:fa00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+297,unidas.com.br,ns4-08.azure-dns.info,208.84.5.8,2620:1ec:bda:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+298,uniaoquimica.com.br,ns4-35.azure-dns.info,13.107.206.35,2620:1ec:bda:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+299,csdbr.com,ns-cloud-c3.googledomains.com,216.239.36.108,2001:4860:4802:36::6c,15169,GOOGLE,arin,US,Google LLC
+300,dia.com.br,ns-1589.awsdns-06.co.uk,205.251.198.53,2600:9000:5306:3500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+301,positivotecnologia.com.br,micah.ns.cloudflare.com,172.64.33.206,2606:4700:58::adf5:3bce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+302,sumitomochemical.com,ns3-08.azure-dns.org,204.14.183.8,2a01:111:4000:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+303,capal.coop.br,ns2.skymail.net.br,168.0.134.16,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+304,tradener.com.br,ns-1568.awsdns-04.co.uk,205.251.198.32,2600:9000:5306:2000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+305,zamp.com.br,a12-67.akam.net,184.26.160.67,2600:1480:f000::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+306,bahamas.com.br,kehlani.ns.cloudflare.com,172.64.34.223,2606:4700:50::a29f:26df,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+307,agrofel.com.br,ns-985.awsdns-59.net,205.251.195.217,2600:9000:5303:d900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+308,hpg.com.br,virginia.ns.cloudflare.com,108.162.194.37,2a06:98c1:50::ac40:2225,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+309,alpargatas.com.br,ns-874.awsdns-45.net,205.251.195.106,2600:9000:5303:6a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+310,ri.animaeducacao.com.br,ns-696.awsdns-23.net,205.251.194.184,2600:9000:5302:b800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+311,atakarejo.com.br,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+312,fuabc.org.br,ns2.skymail.net.br,168.0.134.16,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+313,bahiagas.com.br,cadmo.bahiagas.com.br,189.3.237.254,,4230,CLARO S.A.,lacnic,BR,Companhia de Gás da Bahia - Bahiagás
+314,gasmig.com.br,ns2.sondaativas.com.br,201.62.240.199,,263452,Ativas Data Center S.A.,lacnic,BR,Ativas Data Center S.A.
+315,araujo.com.br,a20-65.akam.net,95.100.175.65,2a02:26f0:67::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+316,site.fastshop.com.br,ns-1366.awsdns-42.org,205.251.197.86,2600:9000:5305:5600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+317,eletronenergy.com.br,sima.ns.cloudflare.com,108.162.192.222,2606:4700:50::adf5:3ade,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+318,columbiatrading.com.br,ns18.domaincontrol.com,173.201.76.9,2603:5:22c0::9,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+319,site.getnet.com.br,a28-65.akam.net,95.100.173.65,2600:1480:d800::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+320,brasil.intercement.com,ns4-32.azure-dns.info,13.107.206.32,2620:1ec:bda:10::20,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+321,verzani.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+322,multilaser.com.br,ns1.huaweicloud-dns.cn,139.9.224.17,2407:c080:20:ffff:ffff:fffe:0:1,58519 134542,,apnic,CN,IRT-CNNIC-CN
+323,zilor.com.br,svinter02.zilor.com.br,201.90.86.29,,4230,CLARO S.A.,lacnic,BR,ACUCAREIRA ZILLO LORENZETTI S/A
+324,saneago.com.br,joaoleite.saneago.com.br,198.17.232.242,2801:80:ea0::242,264095,Saneamento de Goias S.A.,lacnic,BR,Saneamento de Goias S.A.
+325,adecoagro.com,ns1.dnsmadeeasy.com,208.80.124.2,2600:1801:1::1,16552,DIGICERT,arin,US,Tiggee LLC
+326,manserv.com.br,ns-736.awsdns-28.net,205.251.194.224,2600:9000:5302:e000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+327,gtf.com.br,stella.ns.cloudflare.com,162.159.38.154,2a06:98c1:50::ac40:229a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+328,deltasucroenergia.com.br,ns2.deltasucroenergia.com.br,200.170.153.90,,16735,ALGAR TELECOM SA,lacnic,BR,USINA DELTA S.A.
+329,brasil-re-staging.aes.com,ns1-06.azure-dns.com,13.107.236.6,2603:1061:0:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+330,cotrisal.com.br,ns3.cotrisal.com.br,177.101.221.61,,25933,Vogel Solucoes em Telecom e Informatica SA,lacnic,BR,Cooperativa Tritícola Sarandi Ltda.
+331,bemol.com.br,ns2.rr64.com.br,200.219.149.195,2801:80:1920:2:200:219:149:195,264971,RR64 - INTELIGENCIA EM REDES,lacnic,BR,RR64 - INTELIGENCIA EM REDES
+332,cigas-am.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+333,brejeiro.com.br,olof.ns.cloudflare.com,162.159.44.51,2803:f800:50::6ca2:c333,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+334,jirauenergia.gupy.io,ns-1564.awsdns-03.co.uk,205.251.198.28,2600:9000:5306:1c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+335,superabc.com.br,james.ns.cloudflare.com,108.162.193.178,2a06:98c1:50::ac40:21b2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+336,alubar.net.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+337,institucional.taesa.com.br,ns1-36.azure-dns.com,150.171.10.36,2603:1061:0:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+338,portal.coperdia.com.br,ns2.coperdia.com.br,45.231.159.45,,267300,Cooperativa de Producao e Consumo Concordia Ltda.,lacnic,BR,Cooperativa de Producao e Consumo Concordia Ltda.
+339,facchini.com.br,connie.ns.cloudflare.com,108.162.192.247,2606:4700:50::adf5:3af7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+340,cenibra.com.br,ns1-38.azure-dns.com,150.171.10.38,2603:1061:0:10::26,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+341,alupar.com.br,carol.ns.cloudflare.com,173.245.58.80,2a06:98c1:50::ac40:2050,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+342,termomecanica.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+343,fuga.com,leanna.ns.cloudflare.com,162.159.38.151,2606:4700:50::a29f:2697,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+344,ajinomoto.com.br,ns-576.awsdns-08.net,205.251.194.64,2600:9000:5302:4000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+345,hospitalsiriolibanes.org.br,a3-66.akam.net,96.7.49.66,2600:1408:1c::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+346,karoonenergy.com.au,ns11.dnsmadeeasy.com,208.80.124.4,2600:1801:11::1,16552,DIGICERT,arin,US,Tiggee LLC
+347,jacto.com,ns-726.awsdns-26.net,205.251.194.214,2600:9000:5302:d600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+348,jmacedo.com.br,nucum.ns.cloudflare.com,108.162.194.145,2606:4700:50::a29f:2691,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+349,serpro.gov.br,bsa2.serpro.gov.br,161.148.201.102,2804:151:0:8::12,10954,SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO,lacnic,BR,SERVICO FEDERAL DE PROCESSAMENTO DE DADOS - SERPRO
+350,cedae.com.br,ns-866.awsdns-44.net,205.251.195.98,2600:9000:5303:6200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+351,colomboagroindustria.com.br,colomboavgwn.colomboagroindustria.com.br,189.50.16.11,,28324,COLOMBO AGROINDUSTRIA S.A,lacnic,BR,COLOMBO AGROINDÚSTRIA S.A
+352,angeloni.com.br,ns-1799.awsdns-32.co.uk,205.251.199.7,2600:9000:5307:700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+353,petz.com.br,ns-1163.awsdns-17.org,205.251.196.139,2600:9000:5304:8b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+354,tclsemp.com.br,ns2.tclsemp.com.br,189.39.221.214,,22381,Megatelecom Telecomunicacoes Ltda,lacnic,BR,CHINA MOBILE INTERNATIONAL (BRAZIL) TEC DA INF LTD
+355,naturgy.com.br,ns1.gasnatural.com,195.77.63.16,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+356,petrovia.com.br,ns3310.icloudzinc.com,200.187.79.32,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+357,giassi.com.br,daisy.ns.cloudflare.com,172.64.32.90,2803:f800:50::6ca2:c05a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+358,bembrasil.ind.br,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+359,south32.net,dns3.equant.net,204.59.152.207,2a01:ce95:4000:1001:204:59:152:207,51964,ORANGE-BUSINESS-SERVICES-IPSN-ASN,arin,US,"Orange Business Services U.S., Inc."
+360,frigol.com.br,dns1.kinghost.com.br,162.159.24.170,2400:cb00:2049:1::a29f:18aa,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+361,vigor.com.br,ns2.vigor.com.br,201.28.147.104,,10429,TELEFONICA BRASIL S.A,lacnic,BR,VIGOR S/A FABRICA DE PRODUTOS
+362,linkedin.com,ns1-42.azure-dns.com,150.171.10.42,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+363,pedraagroindustrial.com.br,ns2.uspedra.com.br,200.232.118.4,,10429,TELEFONICA BRASIL S.A,lacnic,BR,Pedra Agroindustrial S/A.
+364,zonasul.com.br,ruth.ns.cloudflare.com,172.64.32.143,2a06:98c1:50::ac40:208f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+365,linkedin.com,ns1-42.azure-dns.com,150.171.10.42,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+366,potencial.net.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+367,acciona.com.br,ns-608.awsdns-12.net,205.251.194.96,2600:9000:5302:6000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+368,ssa-br.com,ns4-08.azure-dns.info,208.84.5.8,2620:1ec:bda:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+369,stihl.com.br,ns1.plusserver.com,62.138.233.183,2a02:cbf3:0:1::96,61157,PLUSSERVER-ASN1,ripencc,DE,MNT-PlusServer
+370,montesantotavares.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+371,even.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+372,lmmobilidade.com.br,ns-1323.awsdns-37.org,205.251.197.43,2600:9000:5305:2b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+373,cjselecta.com.br,ns1-03.azure-dns.com,13.107.236.3,2603:1061:0:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+374,cisatrading.com.br,ns-1268.awsdns-30.org,205.251.196.244,2600:9000:5304:f400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+375,holdingcomporte.com.br,ns-cloud-e1.googledomains.com,216.239.32.110,2001:4860:4802:32::6e,15169,GOOGLE,arin,US,Google LLC
+376,coagril.coop.br,robin.ns.cloudflare.com,108.162.192.218,2803:f800:50::6ca2:c0da,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+377,invepar.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+378,tenda.com,ns-629.awsdns-14.net,205.251.194.117,2600:9000:5302:7500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+379,berneck.com.br,ns3-04.azure-dns.org,204.14.183.4,2a01:111:4000:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+380,rissul.com.br,jo.ns.cloudflare.com,108.162.192.172,2606:4700:50::adf5:3aac,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+381,cury.net,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+382,afya.com.br,fiona.ns.cloudflare.com,172.64.32.157,2803:f800:50::6ca2:c09d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+383,tecban.com.br,ns02.tecban.com.br,177.73.147.49,,262570,TECNOLOGIA BANCARIA SA,lacnic,BR,TECNOLOGIA BANCARIA S/A
+384,arcelormittalgonvarri.com.br,ns1.evolutio.es,212.49.128.65,,8903 202766,,ripencc,ES,ADMIN for AS8903 AS12541 AS8239
+385,vibragroindustrialbr.com,m.gtld-servers.net,192.55.83.30,2001:501:b1f9::30,40647 396566 396570 396576 397195 397200,,arin,US,VeriSign Global Registry Services
+386,copagril.com.br,ns3.skymail.net.br,200.187.66.240,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+387,abbottbrasil.com.br,rossns2.abbott.com,52.175.198.194,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+388,aerisenergy.com.br,ns3-07.azure-dns.org,204.14.183.7,2a01:111:4000:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+389,servicos.compesa.com.br,bob.ns.cloudflare.com,173.245.59.104,2a06:98c1:50::ac40:2168,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+390,vulcabras.com,ns1-09.azure-dns.com,13.107.236.9,2603:1061:0:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+391,cagece.com.br,ns3.p201.dns.oraclecloud.net,108.59.170.201,2600:2000:2120::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+392,saocamilo.br,ns-1852.awsdns-39.co.uk,205.251.199.60,2600:9000:5307:3c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+393,petroreconcavo.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+394,heinz.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+395,la.logicalis.com,ns2-08.azure-dns.net,150.171.21.8,2620:1ec:8ec:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+396,buffon.com.br,aida.ns.cloudflare.com,108.162.192.58,2606:4700:50::adf5:3a3a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+397,fortbras.com.br,ns1.supramail.com.br,199.59.96.211,,33724,BIZNESSHOSTING-DBA-VOLICO,arin,US,VOLICO
+398,loja.algartelecom.com.br,nspar.ctbc.com.br,201.48.254.49,2001:1291:0:46::b,16735,ALGAR TELECOM SA,lacnic,BR,ALGAR TELECOM S/A
+399,schindler.com.br,secwm066.schindler.com,47.19.155.221,,6128,CABLE-NET-1,arin,US,SCHINDLER GROUP
+400,brasil.angloamerican.com,ns2.bt.net,217.32.105.90,,2856,BT-UK-AS BTnet UK Regional network,ripencc,GB,BTnet Support
+401,comlurb.prefeitura.rio,ns0.rio.gov.br,187.111.111.17,,262714,Empresa Municipal de Informatica sa,lacnic,BR,Empresa Municipal de Informatica s/a
+402,allos.co,summer.ns.cloudflare.com,162.159.38.9,2a06:98c1:50::ac40:2209,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+403,sapore.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+404,primafoods.com.br,ns1-05.azure-dns.com,13.107.236.5,2603:1061:0:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+405,central-south-america.evonik.com,dns1.evonik.com,149.216.91.16,2a01:4bc0:900:1000::30,12422,EVONIK-AS Rellinghauser Str. 1-11,ripencc,DE,EVONIK-NOC
+406,eucatex.com.br,a.sec.dns.br,200.160.0.11,2001:12ff::11,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+407,brasil.edf.com,ns1.edf.fr,192.196.142.6,2a00:7e40:9ac1:803::d85,1301,FR-EDFDPT3 Electricite de France Service National,ripencc,FR,EDF LIR Contact1
+408,vipal.com,ns-1057.awsdns-04.org,205.251.196.33,2600:9000:5304:2100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+409,obahortifruti.com.br,ns4-08.azure-dns.info,208.84.5.8,2620:1ec:bda:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+410,alpekpolyester.com.br,ns4-09.azure-dns.info,208.84.5.9,2620:1ec:bda:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+411,dpaschoal.com.br,ns3-02.azure-dns.org,204.14.183.2,2a01:111:4000:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+412,postos7.com.br,vera.ns.cloudflare.com,173.245.58.147,2606:4700:50::adf5:3a93,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+413,libbs.com.br,ns1-01.azure-dns.com,13.107.236.1,2603:1061:0:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+414,cobasi.com.br,ns4-05.azure-dns.info,208.84.5.5,2620:1ec:bda:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+415,rhimagnesita.com,dns3.a1.net,176.97.158.105,2001:67c:10b8::105,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+416,cocal.com.br,elle.ns.cloudflare.com,108.162.192.110,2803:f800:50::6ca2:c06e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+417,cerradinho.com.br,a1-102.akam.net,193.108.91.102,2600:1401:2::66,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+418,redesantacatarina.org.br,ns-659.awsdns-18.net,205.251.194.147,2600:9000:5302:9300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+419,metalgroup.com.br,fay.ns.cloudflare.com,173.245.58.115,2606:4700:50::adf5:3a73,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+420,anglogoldashanti.com.br,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+421,g10transportes.com.br,ns-900.awsdns-48.net,205.251.195.132,2600:9000:5303:8400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+422,farmaciasnissei.com.br,d.sec.dns.br,200.160.0.14,2001:12ff::14,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+423,arauco.com.br,ns3-08.azure-dns.org,204.14.183.8,2a01:111:4000:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+424,cmaa.ind.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+425,plenaalimentos.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+426,portalcoop.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+427,atento.com,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+428,vicunha.com,ns4-02.azure-dns.info,208.84.5.2,2620:1ec:bda:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+429,tsebr.com,tony.ns.cloudflare.com,108.162.193.240,2803:f800:50::6ca2:c1f0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+430,ipirangaagroindustrial.com.br,ns2-02.azure-dns.net,150.171.21.2,2620:1ec:8ec:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+431,riobrancoenergias.com,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+432,cejam.org.br,ns-cloud-a4.googledomains.com,216.239.38.106,2001:4860:4802:38::6a,15169,GOOGLE,arin,US,Google LLC
+433,santher.com.br,STH32-UPE.santher.com.br,187.93.238.74,,10429,TELEFONICA BRASIL S.A,lacnic,BR,TELEFÔNICA BRASIL S.A
+434,ferbasa.com.br,ns-cloud-c3.googledomains.com,216.239.36.108,2001:4860:4802:36::6c,15169,GOOGLE,arin,US,Google LLC
+435,grendene.com.br,ns-cloud-d3.googledomains.com,216.239.36.109,2001:4860:4802:36::6d,15169,GOOGLE,arin,US,Google LLC
+436,wilsonsons.com.br,ns-1312.awsdns-36.org,205.251.197.32,2600:9000:5305:2000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+437,kalunga.com.br,a13-66.akam.net,2.22.230.66,2600:1480:800::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+438,unifertil.com.br,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+439,cordeiro.com.br,ns2.cordeiro.com.br,177.190.148.3,,263461,ONLINE DATA CENTER CONS EM INF E LOC DE BENS E SER,lacnic,BR,SECURITY SOLUTIONS COMERCIO E LOCACAO DE EQUIPAMEN
+440,queroquero.com.br,ns-cloud-a2.googledomains.com,216.239.34.106,2001:4860:4802:34::6a,15169,GOOGLE,arin,US,Google LLC
+441,wlm.com.br,pdns05.domaincontrol.com,97.74.110.52,2603:5:21e1::34,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+442,mili.com.br,ns-1815.awsdns-34.co.uk,205.251.199.23,2600:9000:5307:1700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+443,belenus.com.br,dns2.ctitech.net.br,186.193.234.22,,262731,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD,lacnic,BR,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD
+444,holambra.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+445,direcional.com.br,john.ns.cloudflare.com,172.64.33.185,2803:f800:50::6ca2:c1b9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+446,cantu.inc,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+447,usinasantaisabel.com.br,betty.ns.cloudflare.com,173.245.58.75,2606:4700:50::adf5:3a4b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+448,igua.com.br,ns1-08.azure-dns.com,13.107.236.8,2603:1061:0:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+449,account.microsoft.com,ns3-39.azure-dns.org,13.107.222.39,2a01:111:4000:10::27,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+450,br.pli-petronas.com,ns-1729.awsdns-24.co.uk,205.251.198.193,2600:9000:5306:c100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+451,distribuidora.com.br,june.ns.cloudflare.com,172.64.32.176,2606:4700:50::adf5:3ab0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+452,zoetis.com.br,edns4.ultradns.biz,204.74.67.4,2610:a1:1015::204,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+453,metro.sp.gov.br,ns2-02.azure-dns.net,150.171.21.2,2620:1ec:8ec:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+454,cotripal.com.br,ns-448.awsdns-56.com,205.251.193.192,2600:9000:5301:c000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+455,merckgroup.com,ns01.brandshelter.com,193.227.117.15,2a04:2b00:14cc::15,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+456,caesb.df.gov.br,ns02.caesb.df.gov.br,,,,,,,
+457,coopertradicao.com.br,ns3.skymail.net.br,200.187.66.240,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+458,cruzeirodosul.edu.br,a3-67.akam.net,96.7.49.67,2600:1408:1c::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+459,friato.com.br,lynn.ns.cloudflare.com,108.162.193.201,2a06:98c1:50::ac40:21c9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+460,flora.com.br,ns3-07.azure-dns.org,204.14.183.7,2a01:111:4000:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+461,villaresmetals.com.br,vaigns01.voestalpine.com,164.3.25.50,,8387,T-SYSTEMS-AT Rennweg 97-99,ripencc,AT,at-voestalpine-1-mnt
+462,santaluciadistribuidora.com.br,demi.ns.cloudflare.com,172.64.32.95,2a06:98c1:50::ac40:205f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+463,korasaude.com.br,craig.ns.cloudflare.com,162.159.44.192,2606:4700:58::a29f:2cc0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+464,picpay.com,ns-1783.awsdns-30.co.uk,205.251.198.247,2600:9000:5306:f700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+465,valid.com,ns1-01.azure-dns.com,13.107.236.1,2603:1061:0:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+466,cimedremedios.com.br,cecelia.ns.cloudflare.com,108.162.194.135,2a06:98c1:50::ac40:2287,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+467,cptm.sp.gov.br,ns1.cptm.sp.gov.br,201.55.47.92,,28637,Cia Proc. de Dados do Estado de S Paulo - Prodesp,lacnic,BR,Cia Proc. de Dados do Estado de S Paulo - Prodesp
+468,pt.wikipedia.org,ns0.wikimedia.org,208.80.154.238,,14907,WIKIMEDIA,arin,US,Wikimedia Foundation Inc.
+469,frisa.com.br,batcaverna.f13.com.br,187.58.65.21,,18881,TELEFONICA BRASIL S.A,lacnic,BR,TELEFÔNICA BRASIL S.A
+470,moura.com.br,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+471,stefanini.com,ns2.stefanini.com,69.41.54.101,,19197,STEFANINI-INC,arin,US,"Stefanini, Inc."
+472,ri.internationalmealcompany.com,ns-cloud-d2.googledomains.com,216.239.34.109,2001:4860:4802:34::6d,15169,GOOGLE,arin,US,Google LLC
+473,solvi.com,ns1.solvi.com,200.186.22.166,,3549,LVLT-3549,lacnic,BR,SOLVI PARTICIPAÇÕES S.A
+474,rima.com.br,mail4.rima.com.br,187.76.239.10,,7738,V tal,lacnic,BR,V tal
+475,prodesp.sp.gov.br,ns1.a2.impervasecuredns.net,192.230.123.1,2a02:e980:6::1,19551,INCAPSULA,arin,US,Incapsula Inc
+476,brasilarco.org.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+477,portobello.com.br,ns2.aziondns.com,179.191.161.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+478,grupoplaenge.com.br,a28-67.akam.net,95.100.173.67,2600:1480:d800::43,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+479,materdei.com.br,kanye.ns.cloudflare.com,173.245.59.189,2803:f800:50::6ca2:c1bd,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+480,vivara.com.br,ns2-02.azure-dns.net,150.171.21.2,2620:1ec:8ec:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+481,cms.santander.com.br,ns1-127.akam.net,193.108.91.127,2600:1401:2::7f,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+482,brasilmineral.com.br,gordon.ns.cloudflare.com,108.162.193.170,2a06:98c1:50::ac40:21aa,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+483,geessa.com,ns2.geessa.com,162.214.69.201,,46606,UNIFIEDLAYER-AS-1,arin,US,Unified Layer
+484,bp.org.br,ns-1201.awsdns-22.org,205.251.196.177,2600:9000:5304:b100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+485,usinabazan.com.br,ns2.3ax.com.br,187.45.159.11,,28370,GUIFAMI Informatica Ltda.,lacnic,BR,GUIFAMI Informática Ltda.
+486,santosbrasil.com.br,ns4-33.azure-dns.info,13.107.206.33,2620:1ec:bda:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+487,gdmseeds.com,ns3-08.azure-dns.org,204.14.183.8,2a01:111:4000:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+488,coopermota.coop.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+489,buzzi.com,lilyana.ns.cloudflare.com,172.64.34.244,2606:4700:50::a29f:26f4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+490,binatural.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+491,dufrio.com.br,penny.ns.cloudflare.com,172.64.34.124,2606:4700:50::a29f:267c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+492,josapar.com.br,ns4.bdm.microsoftonline.com,208.84.5.208,2620:1ec:bda:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+493,scgas.com.br,ns4-36.azure-dns.info,13.107.206.36,2620:1ec:bda:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+494,galp.com,ns20.galpenergia.com,62.28.115.10,,15525,MEO-EMPRESAS,ripencc,PT,AS15525-MNT
+495,agribrasil.net,ns14.domaincontrol.com,173.201.74.7,2603:5:22a0::7,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+496,ri.grupocvlb.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+497,fqm.com.br,ns1-09.azure-dns.com,13.107.236.9,2603:1061:0:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+498,amg-br.com,chad.ns.cloudflare.com,108.162.193.82,2606:4700:58::adf5:3b52,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+499,auraminerals.com,dns2.easydns.net,64.68.193.10,2620:49:2::10,16686,EDNS,arin,CA,"easyDNS Technologies, Inc."
+500,boasafrasementes.com.br,ns2.dns-parking.com,162.159.25.42,2400:cb00:2049:1::a29f:192a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+501,matrixenergia.com,paris.ns.cloudflare.com,108.162.194.113,2803:f800:50::6ca2:c271,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+502,planoeplano.com.br,dns2.planoeplano.com.br,138.97.107.47,,53107,EVEO S.A.,lacnic,BR,Silicom Planejamento Tec. e Informatica Ltda
+503,scheffer.agr.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+504,hydro.com,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+505,cbc.com.br,ns-1619.awsdns-10.co.uk,205.251.198.83,2600:9000:5306:5300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+506,tuper.com.br,garret.ns.cloudflare.com,172.64.35.246,2a06:98c1:50::ac40:23f6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+507,esfera.com.vc,ns4.p68.dns.oraclecloud.net,108.59.164.68,2600:2000:2240::68,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+508,cocatrel.com.br,paris.ns.cloudflare.com,108.162.194.113,2803:f800:50::6ca2:c271,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+509,multiplan.com.br,ns04.weblocal.com.br,169.62.195.93,,36351,SOFTLAYER,ripencc,US,MAINT-SOFTLAYER-TECH-INC
+510,ruff.com.br,kip.ns.cloudflare.com,108.162.193.128,2a06:98c1:50::ac40:2180,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+511,emis.com,ns-2024.awsdns-61.co.uk,205.251.199.232,2600:9000:5307:e800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+512,pratidonaduzzi.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+513,hospitalcare.com.br,hans.ns.cloudflare.com,173.245.59.175,2606:4700:58::adf5:3baf,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+514,romagnole.com,ns1.romagnole.com.br,181.191.184.13,,267445,Romagnole Produtos Eletricos S.A.,lacnic,BR,Romagnole Produtos Eletricos S.A.
+515,gruposaltaedu.com,laura.ns.cloudflare.com,108.162.192.183,2606:4700:50::adf5:3ab7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+516,metalfrio.com.br,ns-1166.awsdns-17.org,205.251.196.142,2600:9000:5304:8e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+517,vitru.com.br,ns-44.awsdns-05.com,205.251.192.44,2600:9000:5300:2c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+518,conasa.com,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+519,tramontina.com.br,tani.ns.cloudflare.com,172.64.32.224,2a06:98c1:50::ac40:20e0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+520,spicbrasil.com.br,ns1-08.azure-dns.com,13.107.236.8,2603:1061:0:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+521,nortox.com.br,ns-903.awsdns-48.net,205.251.195.135,2600:9000:5303:8700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+522,deten.com.br,ns-288.awsdns-36.com,205.251.193.32,2600:9000:5301:2000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+523,viterra.com.br,pdns111.ultradns.net,156.154.65.111,2610:a1:1014::93,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+524,maqcampo.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+525,orangesalimentos.com.br,ns2.websitecorporativo.com.br,200.201.208.241,,10733,DC MATRIX INTERNET SA,lacnic,BR,DC MATRIX INTERNET S/A
+526,grupomarquise.com.br,ns2.secrel.com.br,200.194.96.35,2804:1470::200:194:96:36,11921,SECRELNET INFORMATICA LTDA,lacnic,BR,SECRELNET INFORMATICA LTDA
+527,esgas.com.br,ns1.dns-parking.com,162.159.24.201,2400:cb00:2049:1::a29f:18c9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+528,camda.com.br,f.sec.dns.br,200.189.40.14,2001:12f8:9:1::14,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+529,pamplona.com.br,malavika.ns.cloudflare.com,172.64.34.165,2803:f800:50::6ca2:c2a5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+530,nitro.com.br,d.sec.dns.br,200.160.0.14,2001:12ff::14,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+531,schulzsa.com,cameron.ns.cloudflare.com,172.64.35.107,2803:f800:50::6ca2:c36b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+532,veracel.com.br,ns2.veracel.com.br,200.10.187.91,,265218,VERACEL CELULOSE S.A,lacnic,BR,VERACEL CELULOSE S.A
+533,colombo.com.br,ns-1899.awsdns-45.co.uk,205.251.199.107,2600:9000:5307:6b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+534,hbsa.com.br,ns1-37.azure-dns.com,150.171.10.37,2603:1061:0:10::25,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+535,masonholdings.com.br,mitch.ns.cloudflare.com,172.64.33.208,2803:f800:50::6ca2:c1d0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+536,grupocbo.com.br,ns4-04.azure-dns.info,208.84.5.4,2620:1ec:bda:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+537,grupoaguasdobrasil.com.br,ns4-03.azure-dns.info,208.84.5.3,2620:1ec:bda:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+538,dataprev.gov.br,dnsnetrj01.dataprev.gov.br,200.152.35.1,,26218,EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV,lacnic,BR,EMP. DE TEC. E INF. DA PREVIDENCIA - DATAPREV
+539,jalles.com,owen.ns.cloudflare.com,173.245.59.219,2803:f800:50::6ca2:c1db,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+540,hcpa.edu.br,agata.hcpa.edu.br,131.0.16.96,,61880,Hospital de Clinicas de Porto Alegre,lacnic,BR,Hospital de Clínicas de Porto Alegre
+541,pt-br.selmi.com.br,roxy.ns.cloudflare.com,172.64.32.142,2606:4700:50::adf5:3a8e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+542,aec.com.br,ns3-05.azure-dns.org,204.14.183.5,2a01:111:4000:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+543,panatlantica.com.br,kristina.ns.cloudflare.com,162.159.38.125,2803:f800:50::6ca2:c27d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+544,granjafaria.com.br,shaz.ns.cloudflare.com,108.162.194.249,2a06:98c1:50::ac40:22f9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+545,theconstellation.com,ingrid.ns.cloudflare.com,173.245.58.165,2803:f800:50::6ca2:c0a5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+546,braspress.com,dns3.cloudtecla.com.br,177.70.104.133,2804:5d4:0:3e0::133,262545,CLARANET TECHNOLOGY S.A.,lacnic,BR,CLARANET TECHNOLOGY S.A.
+547,bms.com,ns4.bms.com,158.117.22.129,,7246,BMS-AS,arin,US,Bristol-Myers Squibb Company
+548,prosegur.com.br,a14-66.akam.net,184.26.161.66,2600:1480:1800::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+549,superfestval.com.br,quentin.ns.cloudflare.com,172.64.35.7,2803:f800:50::6ca2:c307,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+550,alibem.com.br,ns2.terraempresas.com.br,172.177.177.207,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,ripencc,GB,MICROSOFT-MAINT
+551,ghc.com.br,ns01.ghc.com.br,200.17.81.10,2804:0:1400:998:172:16:251:4,2716,Universidade Federal do Rio Grande do Sul,lacnic,BR,HOSPITAL NOSSA SENHORA DA CONCEICAO S.A.
+552,andradegutierrez.com.br,volts.agnet.com.br,187.62.161.1,,53063,Andrade Gutierrez Engenharia SA,lacnic,BR,Andrade Gutierrez Engenharia S/A
+553,sereducacional.com,dns3.sereducacional.com,187.33.91.34,,28661,HOTLINK INTERNET LTDA,lacnic,BR,HOTLINK INTERNET LTDA
+554,grupomarilan.com.br,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+555,cbtexport.com,info653475.earth.orderbox-dns.com,162.251.82.118,,13335,CLOUDFLARENET,arin,US,PDR
+556,grupocarbel.com.br,ns-769.awsdns-32.net,205.251.195.1,2600:9000:5303:100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+557,grupobamaq.com.br,a18-66.akam.net,95.101.36.66,2600:1480:4800::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+558,zaraplast.com.br,dina.ns.cloudflare.com,172.64.32.107,2606:4700:50::adf5:3a6b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+559,casadosventos.com.br,ns-cloud-e3.googledomains.com,216.239.36.110,2001:4860:4802:36::6e,15169,GOOGLE,arin,US,Google LLC
+560,aethra.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+561,construcap.com.br,ns1.t-systems.com.br,187.86.208.9,,53070,T-Systems do Brasil Ltda.,lacnic,BR,T-Systems do Brasil Ltda.
+562,taurusarmas.com.br,anton.ns.cloudflare.com,172.64.35.175,2606:4700:58::a29f:2caf,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+563,bj.coop.br,ns1-36.azure-dns.com,150.171.10.36,2603:1061:0:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+564,canaverde.com.br,ns3.canaverde.com.br,187.72.72.81,,16735,ALGAR TELECOM SA,lacnic,BR,ALGAR TELECOM S/A
+565,emis.com,ns-2024.awsdns-61.co.uk,205.251.199.232,2600:9000:5307:e800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+566,kingspan-isoeste.com.br,thea.ns.cloudflare.com,108.162.194.247,2a06:98c1:50::ac40:22f7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+567,tivit.com,ns04.tivit.net,107.162.184.181,2604:e180:105f::ffff:6ba2:b8b5,55002,DEFENSE-NET,arin,US,"F5, Inc."
+568,qualicorp.com.br,ns-1204.awsdns-22.org,205.251.196.180,2600:9000:5304:b400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+569,dexxos.com.br,ns-621.awsdns-13.net,205.251.194.109,2600:9000:5302:6d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+570,omnibrasil.com.br,ns4.linode.com,92.123.95.4,2600:14c0:7::4,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+571,grupoolhodagua.com.br,ns3.wixdns.net,216.239.38.100,,15169,GOOGLE,arin,US,Google LLC
+572,anastacio.com,pdns13.domaincontrol.com,97.74.110.56,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+573,avb.com.br,ns1-03.azure-dns.com,13.107.236.3,2603:1061:0:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+574,clealco.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+575,restaurantemadero.com.br,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+576,cerradao.com.br,ns1024.hostgator.com.br,162.241.203.168,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,Unified Layer
+577,grupotristao.com,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+578,accamargo.org.br,sergi.ns.cloudflare.com,162.159.44.68,2a06:98c1:50::ac40:2344,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+579,usinabatatais.com.br,ns-505.awsdns-63.com,205.251.193.249,2600:9000:5301:f900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+580,portal.fgv.br,dnsdc1vpr0001.fgv.br,200.255.81.247,,4230,CLARO S.A.,lacnic,BR,Fundacao Getulio Vargas (RJ - Praia de Botafogo)
+581,institucional.solfarma.com.br,ns-2005.awsdns-58.co.uk,205.251.199.213,2600:9000:5307:d500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+582,pesa.com.br,pdns05.domaincontrol.com,97.74.110.52,2603:5:21e1::34,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+583,institucional.casadoadubo.com.br,ns-957.awsdns-55.net,205.251.195.189,2600:9000:5303:bd00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+584,mclartymaia.com.br,jean.ns.cloudflare.com,173.245.58.121,2803:f800:50::6ca2:c079,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+585,totalexpress.com.br,ns-1454.awsdns-53.org,205.251.197.174,2600:9000:5305:ae00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+586,inbetta.com,renan.ns.cloudflare.com,172.64.35.62,2a06:98c1:50::ac40:233e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+587,b2c.sodexobeneficios.com.br,ns-2032.awsdns-62.co.uk,205.251.199.240,2600:9000:5307:f000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+588,ourofinoagro.com.br,ns-66.awsdns-08.com,205.251.192.66,2600:9000:5300:4200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+589,krona.com.br,darwin.ns.cloudflare.com,172.64.33.151,2606:4700:58::adf5:3b97,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+590,maqnelson.com.br,riya.ns.cloudflare.com,162.159.38.155,2a06:98c1:50::ac40:229b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+591,marisa.com.br,ns-735.awsdns-27.net,205.251.194.223,2600:9000:5302:df00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+592,oceanpact.com,ns-1551.awsdns-01.co.uk,205.251.198.15,2600:9000:5306:f00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+593,unicafe.com.br,ns2.addit.com.br,200.106.190.2,,271256,Addit Servicos e Consultoria de Informatica Ltda,lacnic,BR,Addit Servicos e Consultoria de Informatica Ltda
+594,nardini.ind.br,mx3.nardini.ind.br,177.39.153.51,,262427,Invista Net Provedor de Acesso Ltda,lacnic,BR,Invista Net Provedor de Acesso Ltda
+595,transpanorama.com.br,ns-147.awsdns-18.com,205.251.192.147,2600:9000:5300:9300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+596,casan.com.br,ns-cloud-c1.googledomains.com,216.239.32.108,2001:4860:4802:32::6c,15169,GOOGLE,arin,US,Google LLC
+597,bartofil.com.br,ns-1552.awsdns-02.co.uk,205.251.198.16,2600:9000:5306:1000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+598,cmnp.com.br,ns-217.awsdns-27.com,205.251.192.217,2600:9000:5300:d900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+599,alloha.com,ns3.aziondns.org,179.191.162.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+600,lorenzetti.com.br,ns-cloud-e4.googledomains.com,216.239.38.110,2001:4860:4802:38::6e,15169,GOOGLE,arin,US,Google LLC
+601,nokia.com,ns5.nokia.com,198.41.223.186,2400:cb00:2049:1::c629:dfba,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+602,bbmlogistica.com.br,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+603,almaviva.it,ns4.dotnice.com,208.80.125.136,2600:1801:3::1:7,16552,DIGICERT,arin,US,dotNice International Limited
+604,erobrasil.com,ns64.domaincontrol.com,173.201.69.42,2603:5:2254::2a,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+605,brautoparts.com.br,yichun.ns.cloudflare.com,172.64.33.248,2803:f800:50::6ca2:c1f8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+606,irani.com.br,ns1.mandic.com.br,168.0.135.116,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+607,jhsf.com.br,ns-1474.awsdns-56.org,205.251.197.194,2600:9000:5305:c200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+608,origemenergia.com,ns-cloud-c4.googledomains.com,216.239.38.108,2001:4860:4802:38::6c,15169,GOOGLE,arin,US,Google LLC
+609,btp.com.br,ns4-09.azure-dns.info,208.84.5.9,2620:1ec:bda:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+610,tegmatic.com.br,e.sec.dns.br,200.192.232.14,2001:12f8:b:1::14,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+611,facebook.com,c.ns.facebook.com,185.89.218.12,2a03:2880:f1fc:c:face:b00c:0:35,32934,FACEBOOK,ripencc,IL,facebook-neteng
+612,ocyan-sa.com,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+613,brasal.com.br,ns-1982.awsdns-55.co.uk,205.251.199.190,2600:9000:5307:be00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+614,suecia.com.br,ns-1490.awsdns-58.org,205.251.197.210,2600:9000:5305:d200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+615,portodesantos.com.br,ns1.brssz.com.br,162.214.121.74,,46606,UNIFIEDLAYER-AS-1,arin,US,Unified Layer
+616,linkedin.com,dns2.p09.nsone.net,198.51.45.9,2a00:edc0:6259:7:9::2,62597,NSONE,arin,US,NSONE Inc
+617,teuto.com.br,ns2.teuto.com.br,187.5.96.154,,8167,V tal,lacnic,BR,V tal
+618,site.usinasantaadelia.com.br,ns4-04.azure-dns.info,208.84.5.4,2620:1ec:bda:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+619,ciriontechnologies.com,pdns1.cirion.live,189.125.184.135,2001:13b4:2000:102::5,3549,LVLT-3549,lacnic,BR,Cirion Technologies do Brasil Ltda.
+620,ciandt.com,ns-1919.awsdns-47.co.uk,205.251.199.127,2600:9000:5307:7f00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+621,coonagro.coop.br,nspro97.hostgator.com.br,162.241.63.18,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,Unified Layer
+622,correcta.ind.br,edns1.ultradns.net,204.74.110.1,2610:a1:1014::201,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+623,kepler.com.br,ns1-06.azure-dns.com,13.107.236.6,2603:1061:0:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+624,uisa.com.br,andy.ns.cloudflare.com,172.64.33.101,2606:4700:58::adf5:3b65,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+625,cocapec.com.br,ian.ns.cloudflare.com,108.162.193.118,2606:4700:58::adf5:3b76,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+626,home.sandvik,nx2.sandvik.com,194.58.198.50,,56908,NETNOD-NDS $Id: aut-num_AS56908,ripencc,SE,Netnod Administrative Contact
+627,guanabaradiesel.com.br,ns-1821.awsdns-35.co.uk,205.251.199.29,2600:9000:5307:1d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+628,ascenty.com,ns-1310.awsdns-35.org,205.251.197.30,2600:9000:5305:1e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+629,zema.com,ns-1604.awsdns-08.co.uk,205.251.198.68,2600:9000:5306:4400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+630,lupo.com.br,ns-2015.awsdns-59.co.uk,205.251.199.223,2600:9000:5307:df00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+631,guararapes.com.br,ns4.p201.dns.oraclecloud.net,108.59.172.201,2600:2000:2130::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+632,scherer-sa.com.br,ata.scherer-sa.com.br,189.42.17.162,,4230,CLARO S.A.,lacnic,BR,Scherer SA
+633,atmosfera.com.br,c.dns.br,200.192.233.10,2001:12f8:a::10,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+634,eurobike.com.br,ns-157.awsdns-19.com,205.251.192.157,2600:9000:5300:9d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+635,infraero.gov.br,ns-2.infraero.gov.br,45.171.50.71,,268766,INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA,lacnic,BR,INFRAERO - EMPRESA BRASILEIRA DE INFRA-ESTRUTURA
+636,auriverdebrasil.com.br,ns2.2rs.com.br,5.135.107.126,,16276,OVH,ripencc,FR,OVH SAS
+637,cvccorp.com.br,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+638,prumologistica.com.br,ns1-03.azure-dns.com,13.107.236.3,2603:1061:0:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+639,mgs.srv.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+640,agroterenas.com.br,a.sec.dns.br,200.160.0.11,2001:12ff::11,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+641,nadir.com.br,dax.ns.cloudflare.com,108.162.195.133,2a06:98c1:50::ac40:2385,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+642,bombril.com.br,NS1.dnsseconline.com,45.71.212.1,2804:444c::1,267623,House Tecnologia da Informacao Ltda,lacnic,BR,House Tecnologia da Informacao Ltda
+643,seguros.cotriel.com.br,a.ns.cotriel.com.br,177.36.36.4,,262907,BRASIL TECPAR AMIGO AVATO,lacnic,BR,Cooperativa Tritícola de Espumoso Ltda.
+644,elekeiroz.com.br,ns1.skymail.net.br,168.0.135.116,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+645,dialogo.com.br,ns1.digitalocean.com,172.64.52.210,2606:4700:52::ac40:34d2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+646,bbts.com.br,graham.ns.cloudflare.com,173.245.59.171,2a06:98c1:50::ac40:21ab,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+647,lpaaromas.com.br,ns1.lpaaromas.com.br,162.214.152.121,,46606,UNIFIEDLAYER-AS-1,arin,US,Unified Layer
+648,alpekpolyester.com.br,ns3-09.azure-dns.org,204.14.183.9,2a01:111:4000:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+649,saocarlosoficial.com.br,gabe.ns.cloudflare.com,108.162.193.114,2a06:98c1:50::ac40:2172,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+650,novo.copergas.com.br,ns1.k2host.com.br,209.208.62.134,,6364,ATLANTIC-NET-1,arin,US,"Atlantic.net, Inc."
+651,gov.br,e.dns.br,200.229.248.10,2001:12f8:2::10,12136,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+652,petrocoque.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+653,furukawalatam.com,ns4.t-systems.com.br,187.86.212.140,,53070,T-Systems do Brasil Ltda.,lacnic,BR,T-Systems do Brasil Ltda.
+654,cidadeimperial.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+655,nspenha.com.br,ns-cloud-e4.googledomains.com,216.239.38.110,2001:4860:4802:38::6e,15169,GOOGLE,arin,US,Google LLC
+656,ticket.com.br,ns1.safebrands.fr,193.227.117.17,2a04:2b00:14cc::17,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+657,descarbonizesolucoes.com.br,nick.ns.cloudflare.com,173.245.59.213,2606:4700:58::adf5:3bd5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+658,enauta.com.br,ns-438.awsdns-54.com,205.251.193.182,2600:9000:5301:b600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+659,ecbsa.com.br,ns1.ecbsa.com.br,177.69.241.2,,16735,ALGAR TELECOM SA,lacnic,BR,ALGAR TELECOM S/A
+660,pt.wikipedia.org,ns2.wikimedia.org,198.35.27.27,,14907,WIKIMEDIA,arin,US,Wikimedia Foundation Inc.
+661,eixosp.com.br,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+662,cagepa.pb.gov.br,ns-cloud-b4.googledomains.com,216.239.38.107,2001:4860:4802:38::6b,15169,GOOGLE,arin,US,Google LLC
+663,mills.com.br,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+664,primato.com.br,tricia.ns.cloudflare.com,172.64.32.232,2606:4700:50::adf5:3ae8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+665,blau.com,ns1.blau.com.br,189.16.77.170,,4230,CLARO S.A.,lacnic,BR,Blau Farmacêutica SA
+666,mackenzie.br,ns2.mackenzie.br,168.197.92.100,,265478,Instituto Presbiteriano Mackenzie,lacnic,BR,Instituto Presbiteriano Mackenzie
+667,casadamoeda.gov.br,ns1.casadamoeda.gov.br,177.222.180.196,,263390,FNT Telecomunicacoes e Acesso a Redes de Internet,lacnic,BR,FNT Telecomunicações e Acesso a Redes de Internet
+668,nuclea.com.br,ns-543.awsdns-03.net,205.251.194.31,2600:9000:5302:1f00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+669,armac.com.br,ns-487.awsdns-60.com,205.251.193.231,2600:9000:5301:e700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+670,ftd.com.br,alice.ns.cloudflare.com,108.162.192.60,2a06:98c1:50::ac40:203c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+671,jmendes.com.br,nola.ns.cloudflare.com,172.64.32.212,2803:f800:50::6ca2:c0d4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+672,cbmsa.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+673,site.estapar.com.br,ns4-04.azure-dns.info,208.84.5.4,2620:1ec:bda:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+674,parkindigo.com.br,ns1.netnames.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+675,patrimar.com.br,dns4.minas.com.br,45.76.249.235,,20473,AS-VULTR,arin,US,"Vultr Holdings, LLC"
+676,imecbrasil.com.br,c.dns.br,200.192.233.10,2001:12f8:a::10,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+677,expressonepomuceno.com.br,ns2-33.azure-dns.net,150.171.16.33,2620:1ec:8ec:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+678,dafiti.com.br,ns-97.awsdns-12.com,205.251.192.97,2600:9000:5300:6100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+679,enesa.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+680,expocacer.com.br,ns3.brasilwork.net,149.56.44.49,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+681,leitejussara.com.br,server2.aldeiadigital.com.br,62.146.226.226,,40021,NL-811-40021,ripencc,DE,MNT-CONTABO
+682,ri.brasil-agro.com,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+683,adami.com.br,ns1.adami.com.br,186.211.96.154,,53062,ALT GGNET TELECOM BACKBONE,lacnic,BR,Adami S/A Madeiras
+684,hospitalmoinhos.org.br,mitch.ns.cloudflare.com,173.245.59.208,2a06:98c1:50::ac40:21d0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+685,mcs.com.br,edns1.ultradns.net,204.74.110.1,2610:a1:1014::201,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+686,daiichisankyo.com.br,edns116.ultradns.biz,204.74.67.116,2610:a1:1015::274,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+687,ayoshii.com.br,ns4-05.azure-dns.info,208.84.5.5,2620:1ec:bda:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+688,usinasantafe.com.br,ns1-38.azure-dns.com,150.171.10.38,2603:1061:0:10::26,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+689,trinityenergia.com.br,ns587.hostgator.com.br,108.179.253.166,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+690,granado.com.br,ns.granado.com.br,201.16.229.85,,16735,ALGAR TELECOM SA,lacnic,BR,ALGAR TELECOM S/A
+691,segurpro.com.br,a5-66.akam.net,95.100.168.66,2600:1480:b000::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+692,kromaenergia.com.br,f.sec.dns.br,200.189.40.14,2001:12f8:9:1::14,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+693,grupodiniz.com.br,ns2.sozomarketingdigital.com.br,198.136.59.10,,33182,DIMENOC,arin,US,Ditcom Internet Ltda.
+694,egtc.com.br,ns-cloud-c3.googledomains.com,216.239.36.108,2001:4860:4802:36::6c,15169,GOOGLE,arin,US,Google LLC
+695,tp.com,pdns11.domaincontrol.com,97.74.111.55,2603:5:21f2::37,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+696,passarelli.com.br,riya.ns.cloudflare.com,108.162.194.155,2a06:98c1:50::ac40:229b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+697,progen.com.br,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+698,camnpal.com.br,mark.ns.cloudflare.com,108.162.193.130,2803:f800:50::6ca2:c182,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+699,arcom.com.br,ns2.arcom.com.br,200.251.86.135,,4230,CLARO S.A.,lacnic,BR,ARCOM S/A
+700,mor.com.br,ns3-34.azure-dns.org,13.107.222.34,2a01:111:4000:10::22,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+701,1500transportes.com.br,pedro.ns.cloudflare.com,172.64.35.183,2606:4700:58::a29f:2cb7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+702,jadlog.com.br,elisa.ns.cloudflare.com,108.162.194.54,2803:f800:50::6ca2:c236,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+703,ipemineracao.com.br,pdns12.domaincontrol.com,173.201.79.55,2603:5:22f2::37,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+704,nordica.com.br,ns-1160.awsdns-17.org,205.251.196.136,2600:9000:5304:8800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+705,hospitaloswaldocruz.org.br,ns1.a1.impervasecuredns.net,192.230.122.1,2a02:e980:5::1,19551,INCAPSULA,arin,US,Incapsula Inc
+706,bemobi.com,ns-1438.awsdns-51.org,205.251.197.158,2600:9000:5305:9e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+707,sarah.br,paraguai.sarah.br,200.130.147.248,,1916,Rede Nacional de Ensino e Pesquisa,lacnic,BR,Rede Nacional de Ensino e Pesquisa
+708,grupomaringa.com.br,ns2.dominios.uol.com.br,186.234.124.166,,7162,Universo Online S.A.,lacnic,BR,Universo Online S.A.
+709,grupofartura.com.br,ns2.ottisites.com.br,177.234.156.204,,53055,DIMENOC SERVICOS DE INFORMATICA LTDA,lacnic,BR,DIMENOC SERVICOS DE INFORMATICA LTDA
+710,uem.com.br,arya.ns.cloudflare.com,108.162.192.70,2803:f800:50::6ca2:c046,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+711,simpress.com.br,ns3-04.azure-dns.org,204.14.183.4,2a01:111:4000:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+712,lwsa.tech,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+713,abconcessoes.com.br,ns2-36.azure-dns.net,150.171.16.36,2620:1ec:8ec:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+714,usinacaete.com,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+715,cimentoitambe.com.br,ns3-35.azure-dns.org,13.107.222.35,2a01:111:4000:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+716,grupopmz.com,pdns08.domaincontrol.com,173.201.79.53,2603:5:22f1::35,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+717,mtaboca.com.br,tori.ns.cloudflare.com,173.245.58.231,2606:4700:50::adf5:3ae7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+718,gomesdacosta.com.br,pdns08.domaincontrol.com,173.201.79.53,2603:5:22f1::35,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+719,helbor.com.br,nile.ns.cloudflare.com,173.245.59.214,2606:4700:58::adf5:3bd6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+720,telemont.com.br,ns1-38.azure-dns.com,150.171.10.38,2603:1061:0:10::26,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+721,fagundes.com,ns3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+722,tegraincorporadora.com.br,diva.ns.cloudflare.com,173.245.58.97,2606:4700:50::adf5:3a61,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+723,saobraz.com.br,ns3.saobraz.com.br,187.33.237.194,,53087,TELY Ltda.,lacnic,BR,Sao Braz S/A Ind. e Com. de Alimentos
+724,dori.com.br,ns4-34.azure-dns.info,13.107.206.34,2620:1ec:bda:10::22,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+725,sanasa.com.br,a3-65.akam.net,96.7.49.65,2600:1408:1c::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+726,apsen.com.br,arushi.ns.cloudflare.com,172.64.34.61,2a06:98c1:50::ac40:223d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+727,ecourbis.com.br,ns2.dominios.uol.com.br,186.234.124.166,,7162,Universo Online S.A.,lacnic,BR,Universo Online S.A.
+728,rotadasbandeiras.com.br,micah.ns.cloudflare.com,173.245.59.206,2a06:98c1:50::ac40:21ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+729,moinhocearense.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+730,norsul.com,ns57.domaincontrol.com,97.74.108.29,2603:5:21c2::1d,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+731,cotricampo.com.br,dns2.i9website.com.br,189.38.95.3,2804:10:c022::2,28299,CYBERWEB NETWORKS LTDA,lacnic,BR,CYBERWEB NETWORKS LTDA
+732,lunelli.com.br,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+733,ripbr.com.br,ns552.znoc.net,167.114.76.238,,16276,OVH,arin,CA,NVA Hosting
+734,sponchiado.com.br,ns2.sponchiado.com.br,200.143.81.83,,14840,BR.Digital Provider,lacnic,BR,Sponchiado Jardine Veiculos Ltda
+735,tcp.com.br,ns1.tcp.com.br,200.195.158.100,,14868,Ligga Telecomunicacoes S.A.,lacnic,BR,TCP TERMINAL DE CONTEINERES DE PARANAGUA S/A
+736,protege.com.br,ns2.aziondns.com,179.191.161.2,,52580,Azion Technologies Ltda.,lacnic,BR,Azion Technologies Ltda.
+737,cacique.com.br,jobs.ns.cloudflare.com,172.64.33.183,2803:f800:50::6ca2:c1b7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+738,brisanet.com.br,ns.brisanet.com.br,177.37.220.25,2804:29b8:1000:1::25,28126,BRISANET SERVICOS DE TELECOMUNICACOES S.A,lacnic,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A
+739,cotrisul.com.br,dns5.m9.network,198.100.159.136,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+740,romi.com,ns39.worldnic.com,162.159.26.212,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+741,allya.com.br,ns-274.awsdns-34.com,205.251.193.18,2600:9000:5301:1200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+742,estrela.com.br,rachel.ns.cloudflare.com,172.64.32.215,2803:f800:50::6ca2:c0d7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+743,birlacarbon.com,ns47.worldnic.com,162.159.26.111,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+744,orquidea.com.br,d.sec.dns.br,200.160.0.14,2001:12ff::14,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+745,coagru.com.br,ns3.skymail.net.br,200.187.66.240,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+746,lwart.com.br,ns2.grupolwart.com.br,192.160.50.11,,264370,Lwart Solucoes Ambientais Ltda.,lacnic,BR,Lwart Solucoes Ambientais Ltda.
+747,emis.com,ns-703.awsdns-23.net,205.251.194.191,2600:9000:5302:bf00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+748,soufer.com.br,ns25m.sh2.com.br,167.235.10.239,,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+749,usinalins.com.br,ulrp-srtxdns.usinalins.com.br,177.69.118.12,,16735,ALGAR TELECOM SA,lacnic,BR,ALGAR TELECOM S/A
+750,pucpr.br,guss.ns.cloudflare.com,173.245.59.172,2606:4700:58::adf5:3bac,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+751,melnick.com.br,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+752,coopercarga.com.br,ns-834.awsdns-40.net,205.251.195.66,2600:9000:5303:4200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+753,cgnbe.com.br,ns4.bdm.microsoftonline.com,208.84.5.208,2620:1ec:bda:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+754,allianca.com,ns-1685.awsdns-18.co.uk,205.251.198.149,2600:9000:5306:9500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+755,aenabrasil.com.br,dns6.aena.es,194.224.177.231,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+756,ri.hmobi-sa.com.br,ns4.p201.dns.oraclecloud.net,108.59.172.201,2600:2000:2130::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+757,grupocesari.com.br,ns4-02.azure-dns.info,208.84.5.2,2620:1ec:bda:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+758,pacaembu.com,jill.ns.cloudflare.com,172.64.32.122,2803:f800:50::6ca2:c07a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+759,rihappy.com.br,ns1-04.azure-dns.com,13.107.236.4,2603:1061:0:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+760,cesan.com.br,brianna.ns.cloudflare.com,172.64.32.245,2606:4700:50::adf5:3af5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+761,cetsp.com.br,transito4.cetsp.com.br,187.93.241.125,,10429,TELEFONICA BRASIL S.A,lacnic,BR,TELEFÔNICA BRASIL S.A
+762,bra.sika.com,ns01.sika.com,204.74.66.165,2001:502:f3ff::2a5,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+763,grupocopobras.com.br,kaiser.ns.cloudflare.com,108.162.195.9,2606:4700:58::a29f:2c09,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+764,straumann.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+765,cotrisel.com,cody.ns.cloudflare.com,108.162.193.107,2a06:98c1:50::ac40:216b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+766,leomadeiras.com.br,ns2-05.azure-dns.net,150.171.21.5,2620:1ec:8ec:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+767,iguatemi.com.br,kareem.ns.cloudflare.com,108.162.195.22,2a06:98c1:50::ac40:2316,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+768,gruporedesol.com.br,dns1.minas.com.br,45.32.160.60,,20473,AS-VULTR,arin,US,"Vultr Holdings, LLC"
+769,portonave.com.br,ns2-05.azure-dns.net,150.171.21.5,2620:1ec:8ec:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+770,capebe.coop.br,camilo.ns.cloudflare.com,162.159.44.118,2a06:98c1:50::ac40:2376,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+771,mouradubeux.com.br,ns3.servhost.com.br,187.45.181.117,,53055,DIMENOC SERVICOS DE INFORMATICA LTDA,lacnic,BR,DIMENOC SERVICOS DE INFORMATICA LTDA
+772,brasif.com.br,e.sec.dns.br,200.192.232.14,2001:12f8:b:1::14,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+773,sbt.com.br,ns-cloud-b4.googledomains.com,216.239.38.107,2001:4860:4802:38::6b,15169,GOOGLE,arin,US,Google LLC
+774,cassol.com.br,bonnie.ns.cloudflare.com,172.64.32.76,2606:4700:50::adf5:3a4c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+775,avivar.com.br,emely.ns.cloudflare.com,108.162.194.209,2803:f800:50::6ca2:c2d1,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+776,sabin.com.br,ns-650.awsdns-17.net,205.251.194.138,2600:9000:5302:8a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+777,brasilgrafica.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+778,bbraun.com.br,ns2.knipp.de,195.253.6.52,2a01:5b0:0:29::34,8391,KNIPP-AS Knipp Medien und Kommunikation GmbH,ripencc,DE,Knipp Hostmaster
+779,supermercadosavenida.com.br,ns1-37.azure-dns.com,150.171.10.37,2603:1061:0:10::25,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+780,eternit.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+781,hcor.com.br,ns2-37.azure-dns.net,150.171.16.37,2620:1ec:8ec:10::25,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+782,grupobaumgart.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+783,ri.wiz.co,ns2-05.azure-dns.net,150.171.21.5,2620:1ec:8ec:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+784,portalempresas.gruposantajoana.com.br,ns-571.awsdns-07.net,205.251.194.59,2600:9000:5302:3b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+785,geosol.com.br,nspro37.hostgator.com.br,162.241.61.32,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,Unified Layer
+786,cedro.com.br,ns1.netsol.com.br,187.108.193.50,,53107,EVEO S.A.,lacnic,BR,NetSol Ltda.
+787,veste.com,ns4-05.azure-dns.info,208.84.5.5,2620:1ec:bda:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+788,gafisa.com.br,gail.ns.cloudflare.com,173.245.58.116,2a06:98c1:50::ac40:2074,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+789,marche.com.br,brodie.ns.cloudflare.com,172.64.35.237,2803:f800:50::6ca2:c3ed,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+790,htb.eng.br,ns29.hostgator.com.br,192.185.177.197,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+791,cbf.com.br,ns01.cbf.com.br,200.9.249.92,,264083,CONFEDERACAO BRASILEIRA DE FUTEBOL,lacnic,BR,CONFEDERACAO BRASILEIRA DE FUTEBOL
+792,grupoapia.com.br,ns17.domaincontrol.com,97.74.108.9,2603:5:21c0::9,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+793,doxbrasil.com.br,miki.ns.cloudflare.com,108.162.192.202,2803:f800:50::6ca2:c0ca,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+794,curimbaba.com.br,ns3-32.azure-dns.org,13.107.222.32,2a01:111:4000:10::20,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+795,eztec.com.br,pdns14.domaincontrol.com,173.201.78.56,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+796,gondaski.com.br,d.sec.dns.br,200.160.0.14,2001:12ff::14,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+797,tokstok.com.br,ns-1794.awsdns-32.co.uk,205.251.199.2,2600:9000:5307:200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+798,imediatonexway.com.br,ns3-07.azure-dns.org,204.14.183.7,2a01:111:4000:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+799,anaconda.com.br,ns700.hostgator.com.br,108.179.193.31,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+800,ticketlog.com.br,ns5.safebrands.tech,194.50.187.21,2a04:2b00:14dd::21,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+801,belembioenergia.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+802,infracommerce.lat,ns18.domaincontrol.com,173.201.76.9,2603:5:22c0::9,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+803,agricolafamosa.com.br,ns3.skymail.net.br,200.187.66.240,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+804,linkedin.com,ns4-42.azure-dns.info,13.107.206.42,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+805,usinacoprodia.com.br,server2.aldeiadigital.com.br,62.146.226.226,,40021,NL-811-40021,ripencc,DE,MNT-CONTABO
+806,eneva.com.br,ns2-08.azure-dns.net,150.171.21.8,2620:1ec:8ec:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+807,concremat.com.br,ns-1675.awsdns-17.co.uk,205.251.198.139,2600:9000:5306:8b00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+808,redeinspiraeducadores.com.br,jaxson.ns.cloudflare.com,162.159.44.221,2803:f800:50::6ca2:c3dd,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+809,brasdiesel.com.br,a.sec.dns.br,200.160.0.11,2001:12ff::11,22548,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+810,ferroport.com.br,ns42.domaincontrol.com,173.201.68.21,2603:5:2242::15,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+811,iacoagricolasa.com,e.gtld-servers.net,192.12.94.30,2001:502:1ca1::30,36631 396540 396543 396549 396574 396579 397198 397204,,arin,US,VeriSign Global Registry Services
+812,milplan.com.br,ns2.locaweb.com.br,187.45.248.254,2804:218:7001:0:187:45:248:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+813,trisul.com.br,trey.ns.cloudflare.com,108.162.193.242,2803:f800:50::6ca2:c1f2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+814,priner.com.br,ns4.bdm.microsoftonline.com,208.84.5.208,2620:1ec:bda:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+815,minasligas.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+816,asperbras.com,ns1.asperbras.com,131.100.209.176,,61652,Webplus Brasil Ltda Me,lacnic,BR,Webplus Brasil Ltda Me
+817,origeo.com,hank.ns.cloudflare.com,173.245.59.116,2a06:98c1:50::ac40:2174,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+818,linkedin.com,ns4-42.azure-dns.info,13.107.206.42,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+819,site.multilog.com.br,ns3-02.azure-dns.org,204.14.183.2,2a01:111:4000:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+820,triunfo.com,ns4-05.azure-dns.info,208.84.5.5,2620:1ec:bda:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+821,fgempreendimentos.com.br,ns2-36.azure-dns.net,150.171.16.36,2620:1ec:8ec:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+822,inb.gov.br,mercurio.inb.gov.br,189.127.82.72,,22381 262589,,lacnic,BR,Industrias Nucleares do Brasil S/A
+823,mipconstrutora.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+824,youinc.com.br,bella.ns.cloudflare.com,172.64.32.74,2a06:98c1:50::ac40:204a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+825,consagsa.com.br,volts,,,,,,,
+826,helibras.com.br,ns81.domaincontrol.com,97.74.101.32,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+827,saomanoel.com.br,ns3-06.azure-dns.org,204.14.183.6,2a01:111:4000:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+828,coplana.com,ns1-36.azure-dns.com,150.171.10.36,2603:1061:0:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+829,embramaco.com.br,walt.ns.cloudflare.com,108.162.193.148,2606:4700:58::adf5:3b94,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+830,commitgas.com,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+831,espacolaser.com.br,ns-cloud-a2.googledomains.com,216.239.34.106,2001:4860:4802:34::6a,15169,GOOGLE,arin,US,Google LLC
+832,castilho.com.br,dns3.kinghost.com.br,162.159.24.144,2400:cb00:2049:1::a29f:1890,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+833,lideraviacao.com.br,pdns13.domaincontrol.com,97.74.110.56,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+834,usj.com.br,ns02.atosorigin.com.br,200.192.84.6,,14886,Atos Origin Brasil Ltda,lacnic,BR,Atos Origin Brasil Ltda
+835,argoenergia.com.br,trevor.ns.cloudflare.com,162.159.44.154,2a06:98c1:50::ac40:239a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+836,xpenergy.com.br,ns550.hostgator.com.br,108.179.252.205,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+837,minasmaquinas.com.br,ns1-35.azure-dns.com,150.171.10.35,2603:1061:0:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+838,kallas.com.br,nsb5.hostnet.com.br,143.198.242.209,2a03:b0c0:1:d0::fe4:4001,14061,DIGITALOCEAN-ASN,arin,US,"DigitalOcean, LLC"
+839,damata.ind.br,ns4.agenciadesigual.com.br,,,,,,,
+840,bauminas.com.br,b.sec.dns.br,200.192.232.11,2001:12f8:b:1::11,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+841,br.privalia.com,ns03.veepee.tech,193.161.254.253,,60350,VP,ripencc,FR,VENTE-PRIVEE.COM - Network Team
+842,florenca.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+843,naturgy.com.br,ns2.gasnatural.com,195.76.103.30,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+844,ferrarigroup.net,alan.ns.cloudflare.com,173.245.59.57,2803:f800:50::6ca2:c139,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+845,caern.com.br,ns2.he.net,216.218.131.2,2001:470:200::2,6939,HURRICANE,arin,US,Hurricane Electric LLC
+846,desktop.com.br,dns1.desktop.com.br,201.77.112.18,2804:868:2::18,28649,Desktop Sigmanet Comunicacao Multimidia SA,lacnic,BR,Desktop Sigmanet Comunicação Multimídia SA
+847,sanofi.com.br,ns2.sanofi-synthelabo.com,205.251.196.144,2600:9000:5304:9000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+848,montecitrus.com.br,b.sec.dns.br,200.192.232.11,2001:12f8:b:1::11,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+849,compagas.com.br,ns2.compagas.com.br,187.95.150.44,,262318,-Reserved AS-,lacnic,BR,Ligga Telecomunicações S.A.
+850,yessinergy.com,ns2.zaon.tech,162.240.5.249,,46606,UNIFIEDLAYER-AS-1,arin,US,Unified Layer
+851,fragnani.com,ns1.cloudcloud.com.br,162.241.242.36,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,Unified Layer
+852,firstsa.com.br,ns2.cloud-network.biz,35.196.99.86,,396982,GOOGLE-CLOUD-PLATFORM,arin,US,Google LLC
+853,engepack.com.br,ns3.afraid.org,67.220.81.190,,33333,OBJX,arin,US,"objx.net, LLC"
+854,paranapanema.com.br,pdns14.domaincontrol.com,173.201.78.56,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+855,capgemini.com,dns1.p03.nsone.net,198.51.44.3,2620:4d:4000:6259:7:3:0:1,62597,NSONE,arin,US,NSONE Inc
+856,oneinnovation.com.br,nia.ns.cloudflare.com,172.64.32.210,2a06:98c1:50::ac40:20d2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+857,bevapbioenergia.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+858,neon.com.br,ns-621.awsdns-13.net,205.251.194.109,2600:9000:5302:6d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+859,brasilata.com.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+860,racional.com,ns85.worldnic.com,162.159.26.131,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+861,ferrolene.pandape.infojobs.com.br,ns-1205.awsdns-22.org,205.251.196.181,2600:9000:5304:b500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+862,novomundo.com.br,ns2.novomundo.com.br,168.138.226.211,,31898,ORACLE-BMC-31898,arin,US,Oracle Public Cloud
+863,pt.lubrizol.com,ns2.lubrizol.com,23.140.48.19,,63371,63371,arin,US,Lubrizol Advanced Materials
+864,liasa.com.br,ns1.liasa.com.br,186.248.66.122,,23106,AMERICAN TOWER DO BRASIL-COMUNICACAO MULTIMIDIA LT,lacnic,BR,AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT
+865,emccamp.com.br,ns3-34.azure-dns.org,13.107.222.34,2a01:111:4000:10::22,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+866,leveros.com.br,doug.ns.cloudflare.com,173.245.59.159,2606:4700:58::adf5:3b9f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+867,servopa.com.br,nitin.ns.cloudflare.com,108.162.193.215,2803:f800:50::6ca2:c1d7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+868,europ-assistance.com.br,ns-203.awsdns-25.com,205.251.192.203,2600:9000:5300:cb00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+869,rivelli.ind.br,mailserver.rivelli.ind.br,189.124.19.67,,28219,Net Rosas Telecomunicacoes Ltda.,lacnic,BR,NOGUEIRA RIVELLI IRMÃOS LTDA
+870,plascar.com.br,f.sec.dns.br,200.189.40.14,2001:12f8:9:1::14,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+871,hydro.com,b.portsdns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+872,globolivros.globo.com,ns-1466.awsdns-55.org,205.251.197.186,2600:9000:5305:ba00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+873,statkraft.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+874,ourofino.com,ns-1711.awsdns-21.co.uk,205.251.198.175,2600:9000:5306:af00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+875,brametal.com.br,nick.ns.cloudflare.com,173.245.59.213,2606:4700:58::adf5:3bd5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+876,todeschini.com.br,doug.ns.cloudflare.com,173.245.59.159,2606:4700:58::adf5:3b9f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+877,eletromidia.com.br,ns-cloud-a1.googledomains.com,216.239.32.106,2001:4860:4802:32::6a,15169,GOOGLE,arin,US,Google LLC
+878,ri.grupoccr.com.br,ns2.grupoccr.com.br,200.245.117.35,,4230,CLARO S.A.,lacnic,BR,CLARO S.A.
+879,tramontina.com.br,tani.ns.cloudflare.com,173.245.58.224,2a06:98c1:50::ac40:20e0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+880,superafarma.com.br,ns2.superafarma.com.br,186.193.235.115,,262731,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD,lacnic,BR,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD
+881,fgr.com.br,george.ns.cloudflare.com,108.162.193.167,2606:4700:58::adf5:3ba7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+882,belcar.com.br,watson.ns.cloudflare.com,162.159.44.23,2606:4700:58::a29f:2c17,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+883,vienairon.com.br,ns2.task.com.br,169.62.143.120,2607:f0d0:2701:6::4,36351,SOFTLAYER,ripencc,US,MAINT-SOFTLAYER-TECH-INC
+884,vilma.com.br,ximena.ns.cloudflare.com,172.64.34.10,2803:f800:50::6ca2:c20a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+885,kuhnbrasil.com.br,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+886,mangels.com.br,ns-1860.awsdns-40.co.uk,205.251.199.68,2600:9000:5307:4400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+887,morlan.com.br,ns3-33.azure-dns.org,13.107.222.33,2a01:111:4000:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+888,mitrerealty.com.br,ns-1747.awsdns-26.co.uk,205.251.198.211,2600:9000:5306:d300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+889,pucminas.br,ns-cloud-b3.googledomains.com,216.239.36.107,2001:4860:4802:36::6b,15169,GOOGLE,arin,US,Google LLC
+890,ibema.com.br,ns4.bdm.microsoftonline.com,208.84.5.208,2620:1ec:bda:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+891,verointernet.com.br,ns-2045.awsdns-63.co.uk,205.251.199.253,2600:9000:5307:fd00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+892,sgcomex.com.br,ns82.domaincontrol.com,173.201.69.32,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+893,puc-campinas.edu.br,srv-ns2.puc-campinas.edu.br,45.171.116.51,,268743,SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO,lacnic,BR,SOCIEDADE CAMPINEIRA DE EDUCAÇÃO E INSTRUÇÃO
+894,alisul.com.br,ns1.alisul.com.br,200.213.22.114,,4230,CLARO S.A.,lacnic,BR,Alisul Alimentos S.A.
+895,oceanica.com.br,ns1-09.azure-dns.com,13.107.236.9,2603:1061:0:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+896,lavvi.com.br,ns32.prodns.com.br,192.185.215.181,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+897,construtorapatriani.com.br,ns4-03.azure-dns.info,208.84.5.3,2620:1ec:bda:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+898,aesc.org.br,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+899,wdcnet.com.br,ns-175.awsdns-21.com,205.251.192.175,2600:9000:5300:af00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+900,grupoaterpa.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+901,entrevias.com.br,f.sec.dns.br,200.189.40.14,2001:12f8:9:1::14,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+902,gruporivesa.com.br,ns-1746.awsdns-26.co.uk,205.251.198.210,2600:9000:5306:d200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+903,viracopos.com,ns-1896.awsdns-45.co.uk,205.251.199.104,2600:9000:5307:6800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+904,electraenergy.com.br,NS3.locaweb.com.br,189.126.101.254,2804:218:7002:0:189:126:101:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+905,painco.com.br,ns865.hostgator.com.br,108.167.132.187,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+906,trabalheconosco.vagas.com.br,ns-1004.awsdns-61.net,205.251.195.236,2600:9000:5303:ec00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+907,grupomercadomoveis.com.br,dns3.olepropaganda.com.br,177.12.162.2,,28299,CYBERWEB NETWORKS LTDA,lacnic,BR,CYBERWEB NETWORKS LTDA
+908,ciamuller.com.br,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+909,sansuy.com.br,pelicano.birdsnet.com.br,177.71.179.215,,16509,AMAZON-02,lacnic,BR,A100 ROW SERVICOS DE DADOS BRASIL LTDA
+910,dedini.com.br,ns81.domaincontrol.com,97.74.101.32,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+911,unifique.com.br,nile.ns.cloudflare.com,173.245.59.214,2a06:98c1:50::ac40:21d6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+912,br.gigroup.com,c.gi-dns.com,88.99.250.86,,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+913,grandpoint.shop,ns2.dns-parking.com,162.159.25.42,2400:cb00:2049:1::a29f:192a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+914,ccsbr.com.br,ns13.wixdns.net,216.239.38.101,,15169,GOOGLE,arin,US,Google LLC
+915,acotubo.com.br,ns3-06.azure-dns.org,204.14.183.6,2a01:111:4000:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+916,abinsumos.com.br,dns.ostec.com.br,170.84.201.15,,265005,IPWORKS SISTEMAS LTDA ME,lacnic,BR,IPWORKS SISTEMAS LTDA ME
+917,anglogoldashanti.com,jupiter.is.co.za,196.4.160.3,2c0f:fc00:53:4160:0:53:a:1,3741,IS,afrinic,ZA,Dimension Data
+918,southservice.com.br,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+919,adata.com,tpdns02.adata.com,220.128.91.67,,10126,CHTI-IP-AP Taiwan Internet Gateway,apnic,TW,HINET-NET
+920,esmaltec.com.br,ns2.edsonqueiroz.com.br,8.243.54.147,,3356,LEVEL3,arin,US,CTL Brazil
+921,gbmx.com.br,rory.ns.cloudflare.com,162.159.44.166,2a06:98c1:50::ac40:23a6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+922,grupoagis.com.br,ns3.dominios.uol.com.br,186.234.124.169,,7162,Universo Online S.A.,lacnic,BR,Universo Online S.A.
+923,algar.com.br,tricia.ns.cloudflare.com,173.245.58.232,2803:f800:50::6ca2:c0e8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+924,bioaroeira.com.br,ns2.bdm.microsoftonline.com,150.171.21.208,2620:1ec:8ec:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+925,bspempreendimentos.com.br,a28-64.akam.net,95.100.173.64,2600:1480:d800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+926,gpsafira.com.br,drake.ns.cloudflare.com,172.64.35.14,2803:f800:50::6ca2:c30e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+927,grupobbf.com.br,quinton.ns.cloudflare.com,162.159.44.249,2803:f800:50::6ca2:c3f9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+928,vidroporto.com.br,ns249.hostgator.com.br,192.185.221.153,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+929,navbrasil.gov.br,edns116.ultradns.net,204.74.110.116,2610:a1:1014::274,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+930,lojafabercastell.com.br,ns1.kalunga.com.br,200.196.254.144,,11419,TELEFONICA BRASIL S.A,lacnic,BR,KALUNGA SA
+931,pettenati.com.br,ns3.bdm.microsoftonline.com,204.14.183.208,2a01:111:4000:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+932,ri.cea.com.br,b.portsdns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+933,mundial.com,ns3.mundialsa.com.br,177.52.150.83,,263656,BRSULNET TELECOM LTDA,lacnic,BR,BRSULNET TELECOM LTDA
+934,senior.com.br,ns-314.awsdns-39.com,205.251.193.58,2600:9000:5301:3a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+935,cnpj.services,angela.ns.cloudflare.com,173.245.58.65,2606:4700:50::adf5:3a41,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+936,paschoalotto.com.br,ns4-07.azure-dns.info,208.84.5.7,2620:1ec:bda:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+937,tempo.com.vc,ns-1349.awsdns-40.org,205.251.197.69,2600:9000:5305:4500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+938,zup.com.br,ns-74.awsdns-09.com,205.251.192.74,2600:9000:5300:4a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+939,sipcamnichino.com.br,ns3-03.azure-dns.org,204.14.183.3,2a01:111:4000:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+940,boavistaservicos.com.br,cruz.ns.cloudflare.com,172.64.32.88,2606:4700:50::adf5:3a58,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+941,sgpam.com.br,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+942,grupodelga.com.br,www01.ctinet.com.br,186.193.225.229,,262731,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD,lacnic,BR,CTINET SOLUCOES EM CONECTIVIDADE E INFORMATICA LTD
+943,construtorajl.com,ns1.construtorajl.com,189.26.120.106,,18881,TELEFONICA BRASIL S.A,lacnic,BR,Jota Ele Construções Civis S/A.
+944,portosrio.gov.br,ns1-07.azure-dns.com,13.107.236.7,2603:1061:0:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+945,hagana.com.br,b.sec.dns.br,200.192.232.11,2001:12f8:b:1::11,11284,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+946,vr.com.br,ns1-04.azure-dns.com,13.107.236.4,2603:1061:0:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+947,zenvia.com,dana.ns.cloudflare.com,172.64.32.105,2606:4700:50::adf5:3a69,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+948,puc-rio.br,calisto.rdc.puc-rio.br,139.82.202.2,,2715,Fundacao Carlos Chagas Filho de Amparo a Pesquisa,lacnic,BR,FACULDADES CATOLICAS
+949,eqsengenharia.com.br,phil.ns.cloudflare.com,172.64.33.137,2803:f800:50::6ca2:c189,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+950,ksb.com,ns5.brandshelter.us,194.50.187.14,2a04:2b00:14dd::14,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+951,agroschio.agr.br,ns-141.awsdns-17.com,205.251.192.141,2600:9000:5300:8d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+952,globalparticipacoesenergia.com.br,ns1059.hostgator.com.br,108.167.151.97,,19871,NETWORK-SOLUTIONS-HOSTING,arin,US,HostGator.com LLC
+953,paciente.clinicabrasil.com.br,ns1.revenda02.gubax.com.br,45.224.128.202,2804:3744:0:202::2,266400,Ferenz Networks,lacnic,BR,Ferenz Networks
+954,industriahoje.com.br,ace.ns.cloudflare.com,172.64.35.65,2a06:98c1:50::ac40:2341,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+955,gsinimabrasil.com.br,ns-106.awsdns-13.com,205.251.192.106,2600:9000:5300:6a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+956,bandeirantesdeicmar.com.br,zariyah.ns.cloudflare.com,162.159.38.72,2803:f800:50::6ca2:c248,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+957,coopama.com.br,ns2.valueserver.com.br,187.45.181.32,,53055,DIMENOC SERVICOS DE INFORMATICA LTDA,lacnic,BR,DIMENOC SERVICOS DE INFORMATICA LTDA
+958,usd.ind.br,ns1.locaweb.com.br,186.202.8.254,2804:218:7000:0:186:202:8:254,27715,Locaweb Servicos de Internet SA,lacnic,BR,Locaweb Serviços de Internet S/A
+959,fbsconstrutora.com.br,dns2801.playunix.com.br,177.11.54.160,,53243,Brasil Site Informatica LTDA,lacnic,BR,Brasil Site Informatica LTDA
+960,polofilms.com.br,ns2-07.azure-dns.net,150.171.21.7,2620:1ec:8ec:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+961,cblitio.com.br,ns14.wixdns.net,216.239.32.100,,15169,GOOGLE,arin,US,Google LLC
+962,saudali.com.br,dns5.m9.network,198.100.159.136,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+963,koppert.com.br,ns1.eurodns.com,199.167.66.107,2610:1c8:b002::107,23393,NUCDN,arin,US,NuCDN LLC
+964,oderich.com.br,ns2.oderich.com.br,187.84.58.145,,262907,BRASIL TECPAR AMIGO AVATO,lacnic,BR,BRASIL TECPAR | AMIGO | AVATO
+965,carmelofior.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+966,deso-se.com.br,ns1.deso-se.com.br,177.125.255.196,,263396,BK Telecomunicacoes LTDA,lacnic,BR,Companhia de Saneamento de Sergipe-DESO
+967,grupoorizon.com,ns2.dns-parking.com,162.159.25.42,2400:cb00:2049:1::a29f:192a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+968,rioquente.com.br,ns-cloud-b1.googledomains.com,216.239.32.107,2001:4860:4802:32::6b,15169,GOOGLE,arin,US,Google LLC
+969,sascar.com.br,ns02.sascar.com.br,201.94.130.130,,28662,Sascar Tecnologia e Seguranca Automotiva SA,lacnic,BR,Sascar Tecnologia e Segurança Automotiva S/A
+970,asabrancaturismo.com.br,ns1.asabrancaturismo.com.br,162.240.168.134,,46606,UNIFIEDLAYER-AS-1,arin,US,Unified Layer
+971,dpworld.com,ns-1994.awsdns-57.co.uk,205.251.199.202,2600:9000:5307:ca00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+972,toledobrasil.com,ns4-35.azure-dns.info,13.107.206.35,2620:1ec:bda:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+973,basequimica.com,ns1.natopx.com.br,177.93.111.24,,53107,EVEO S.A.,lacnic,BR,EVEO S.A.
+974,kicaldo.com.br,ns1.dominios.uol.com.br,186.234.124.159,,7162,Universo Online S.A.,lacnic,BR,Universo Online S.A.
+975,wine.com.br,matt.ns.cloudflare.com,173.245.59.131,2a06:98c1:50::ac40:2183,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+976,baldo.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+977,jucerja.rj.gov.br,condor.proderj.rj.gov.br,187.62.128.1,,28159,PRODERJ - Centro de Tecnologia da Informacao do RJ,lacnic,BR,PRODERJ - Centro de Tecnologia da Informação do RJ
+978,valedoverdao.com.br,c.sec.dns.br,200.189.40.11,2001:12f8:9:1::11,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+979,geolab.com.br,dnsc1.penso.com.br,179.190.27.164,,52925,Ascenty Data Centers e Telecomunicacoes SA,lacnic,BR,Ascenty Data Centers e Telecomunicações S/A
+980,rassini-nhk.com.br,ns81.domaincontrol.com,97.74.101.32,,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+981,cinpal.com,ns1.skymail.net.br,168.0.135.116,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf
+982,nstech.com.br,kinsley.ns.cloudflare.com,162.159.38.75,2803:f800:50::6ca2:c24b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+983,ucbpower.com.br,nero.ns.cloudflare.com,172.64.35.28,2a06:98c1:50::ac40:231c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+984,brasiltecpar.com.br,ns2.brasiltecpar.com.br,177.36.33.235,,262907,BRASIL TECPAR AMIGO AVATO,lacnic,BR,BRASIL TECPAR | AMIGO | AVATO
+985,vittia.com.br,dns6.kinghost.com.br,162.159.25.93,2400:cb00:2049:1::a29f:195d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+986,infineum.com,ns-1478.awsdns-56.org,205.251.197.198,2600:9000:5305:c600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+987,brzempreendimentos.com,ns-cloud-a3.googledomains.com,216.239.36.106,2001:4860:4802:36::6a,15169,GOOGLE,arin,US,Google LLC
+988,joanin.com.br,ns2.joanin.com.br,45.164.92.38,,268685,DCV SERVICOS DE LOCACAO DE MAQUINAS E EQUIPAMENTOS,lacnic,BR,DCV SERVICOS DE LOCACAO DE MAQUINAS E EQUIPAMENTOS
+989,unilider.gupy.io,ns-237.awsdns-29.com,205.251.192.237,2600:9000:5300:ed00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+990,ocrim.com.br,jimmy.ns.cloudflare.com,162.159.44.76,2a06:98c1:50::ac40:234c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+991,enkyo.org.br,amanda.ns.cloudflare.com,108.162.192.63,2a06:98c1:50::ac40:203f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+992,sequoialog.com.br,ns3-01.azure-dns.org,204.14.183.1,2a01:111:4000:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+993,jcpm.com.br,ns1.bdm.microsoftonline.com,13.107.236.208,2603:1061:0:700::d0,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+994,sanesul.ms.gov.br,buck.ns.cloudflare.com,173.245.59.78,2a06:98c1:50::ac40:214e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+995,koerich.com.br,ns-cloud-a3.googledomains.com,216.239.36.106,2001:4860:4802:36::6a,15169,GOOGLE,arin,US,Google LLC
+996,santacasabh.org.br,f.sec.dns.br,200.189.40.14,2001:12f8:9:1::14,10906,Nucleo de Inf. e Coord. do Ponto BR - NIC.,lacnic,BR,Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+997,nortisinc.com.br,ns2-05.azure-dns.net,150.171.21.5,2620:1ec:8ec:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+998,leitesol.com.br,plato.ns.cloudflare.com,172.64.33.223,2803:f800:50::6ca2:c1df,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+999,central.saamauditoria.com.br,ns1.dns-parking.com,162.159.24.201,2400:cb00:2049:1::a29f:18c9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+1000,ccab-agro.com.br,ns3.mandic.com.br,200.187.66.240,,265262,Skymail Servicos de Computacao e Provimento de Inf,lacnic,BR,Skymail Serviços de Computação e Provimento de Inf

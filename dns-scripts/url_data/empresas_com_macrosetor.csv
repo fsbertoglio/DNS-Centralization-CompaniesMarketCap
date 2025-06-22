@@ -11,11 +11,11 @@ rank_2023,company,headquarters,sector,net_revenue_in_r$_millions,net_income_in_r
 10,Grupo Carrefour Brasil,SP,Comércio Varejista,"109.859,00",-639,"-0,6",-3,grupocarrefourbrasil.com.br,False,Comércio,Comércio e Serviços
 11,Bunge Alimentos,SC,Agronegócio,"81.704,40","2.618,90","3,2","24,3",bunge.com.br,True,Agroindústria e Alimentos,Agropecuária e Alimentos
 12,Ambev,SP,Alimentos e Bebidas,"79.736,90","14.960,50","18,8","18,3",ambev.com.br,False,Agroindústria e Alimentos,Agropecuária e Alimentos
-13,Stellantis,MG,Veículos e Peças,"75.546,40",-,-,-,media.stellantis.com,True,Bens de Consumo e Duráveis,Indústria
+13,Stellantis,MG,Veículos e Peças,"75.546,40",-,-,-,stellantis.com,True,Bens de Consumo e Duráveis,Indústria
 14,Cofco International,SP,Agronegócio,"72.161,40","392,7","0,5",ND,br.cofcointernational.com,False,Agroindústria e Alimentos,Agropecuária e Alimentos
 15,Braskem,BA,Química e Petroquímica,"70.569,00","-4.530,00","-6,4","-96,5",braskem.com.br,False,Indústria de Transformação,Indústria
 16,ArcelorMittal,MG,Metalurgia e Siderurgia,"69.821,30","4.146,90","5,9","18,9",brasil.arcelormittal.com,True,Indústria Pesada,Indústria
-17,Gerdau,SP,Metalurgia e Siderurgia,"68.916,40","7.537,00","10,9","15,8",www2.gerdau.com.br,False,Indústria Pesada,Indústria
+17,Gerdau,SP,Metalurgia e Siderurgia,"68.916,40","7.537,00","10,9","15,8",gerdau.com.br,False,Indústria Pesada,Indústria
 18,Assaí,RJ,Comércio Varejista,"66.503,00",710,"1,1","16,7",assai.com.br,True,Comércio,Comércio e Serviços
 19,Copersucar,SP,Bioenergia,"54.075,40","280,6","0,5","13,2",copersucar.com.br,True,Energia,Infraestrutura e Logística
 20,BRF,SC,Alimentos e Bebidas,"53.615,40","-1.868,90","-3,5","-13,6",brf-global.com,True,Agroindústria e Alimentos,Agropecuária e Alimentos

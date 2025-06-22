@@ -1,0 +1,1001 @@
+rank,domain,NS,NS-A,NS-AAAA,ASN,ASName,ASSource,ASCountry,OrgName
+1.0,sap.com,ns.sap-ag.de,194.39.131.82,,14114,SAP-NIE,ripencc,DE,SAP SE
+2.0,novonordisk.com,ns1.novonordisk.com,217.16.101.177,,15687,AS15687,ripencc,DK,lir-dk-aeven-1-MNT
+3.0,hermes.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+4.0,lvmh.com,a.ns.domainoo.fr,83.167.45.12,2001:1b48:3:5:83:167:45:12,8218,NEO-ASN Zayo Europe,ripencc,FR,NEO-MNT
+5.0,asml.com,ns1.asml.com,194.105.127.36,,25413,ASML-NET,ripencc,NL,ASML DDI Authority
+6.0,lorealparisusa.com,rajeev.ns.cloudflare.com,173.245.59.224,2803:f800:50::6ca2:c1e0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+7.0,prosus.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+8.0,accenture.com,emens3501.accenture.com,170.252.72.92,,3573,ACCENTURE,arin,US,Accenture LLP
+9.0,siemens.com,a1-16.akam.net,193.108.91.16,2600:1401:2::10,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+10.0,telekom.com,dns2.telekom.de,194.25.225.3,,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+11.0,inditex.com,a11-64.akam.net,84.53.139.64,2600:1480:1::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+12.0,allianz.com,i.gtld-servers.net,192.43.172.30,2001:503:39c1::30,20172 20431 396544 396546 396577 397197,,arin,US,VeriSign Global Registry Services
+13.0,totalenergies.com,ns3.totalenergies.biz,141.227.32.14,,21070,TOTALENERGIES,ripencc,FR,TotalEnergies SE
+14.0,sanofi.com,ns3.sanofi-synthelabo.com,205.251.193.224,2600:9000:5301:e000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+15.0,essilorluxottica.com,frexi902.essilor.com,20.85.152.28,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+16.0,se.com,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+17.0,airbus.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+18.0,ab-inbev.com,ns2.domainnetwork.se,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+19.0,open.spotify.com,dns1.p07.nsone.net,198.51.44.7,2620:4d:4000:6259:7:7:0:1,62597,NSONE,arin,US,NSONE Inc
+20.0,usa.airliquide.com,ns04.airliquide.com,3.217.250.18,,14618,AMAZON-AES,arin,US,Amazon Data Services NoVa
+21.0,eaton.com,ns2.eaton.com,151.110.127.140,,11719,EATON-CORPORATION,arin,US,Eaton Corporation
+22.0,iberdrola.com,nsusorsw104.iberdrola.com,157.225.102.39,,2044,DF-PTL1,arin,US,Rochester Gas and Electric Corporation
+23.0,santanderbank.com,eur5.akam.net,23.74.25.64,,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+24.0,safran-group.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+25.0,medtronic.com,ns5.medtronic.com,144.15.238.210,,13684,ASN-MEDTRONIC-1,arin,US,"Medtronic, Incorporated"
+26.0,axa.com,dns02.axa.be,171.18.31.6,,43722,ATNEDC-AS,ripencc,FR,AXA Technology Services Germany GmbH Role Account
+27.0,group.intesasanpaolo.com,sp7.sanpaolo.net,193.203.232.4,,20942,ISP-ASN2,ripencc,IT,Admin TLC
+28.0,group.bnpparibas,ns4.domivesta.com,23.74.25.65,2600:1480:b800::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+29.0,dior.com,a7-65.akam.net,23.61.199.65,2600:1406:32::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+30.0,unicreditgroup.eu,a1-65.akam.net,193.108.91.65,2600:1401:2::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+31.0,investorab.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+32.0,munichre.com,a1-208.akam.net,193.108.91.208,2600:1401:2::d0,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+33.0,enel.com,cdns.enel.it,158.47.0.65,,12551,AS-ENEL-,ripencc,IT,ENEL LIR
+34.0,ferrari.com,zac.ns.cloudflare.com,108.162.195.178,2a06:98c1:50::ac40:23b2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+35.0,bbva.com,a1-166.akam.net,193.108.91.166,2600:1401:2::a6,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+36.0,tranetechnologies.com,ns-1139.awsdns-14.org,205.251.196.115,2600:9000:5304:7300::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+37.0,vinci.com,ns-206-b.gandi.net,213.167.230.207,2001:4b98:aaab::cf,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+38.0,atlascopco.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+39.0,rheinmetall.com,ns2.xc-ns.de,194.0.182.167,,1921 207021,,ripencc,DE,CENTRALNIC-MNT
+40.0,crh.com,ns4.combell.net,86.39.202.67,2001:1598:0:101::3,28747,EASYHOST-COLO-AS,ripencc,BE,EASYHOST NOC
+41.0,siemens-energy.com,a11-66.akam.net,84.53.139.66,2600:1480:1::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+42.0,merckgroup.com,ns01.brandshelter.com,193.227.117.15,2a04:2b00:14cc::15,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+43.0,siemens-healthineers.com,a11-66.akam.net,84.53.139.66,2600:1480:1::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+44.0,ing.com,ns1-229.akam.net,193.108.91.229,2600:1401:2::e5,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+45.0,credit-agricole.com,a1-241.akam.net,193.108.91.241,2600:1401:2::f1,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+46.0,mbusa.com,ns1.corpinter.net,141.113.0.53,2a03:9e42:e000:1::53,31399,DAIMLER-AS ITTTN Global Network,ripencc,DE,DAIMLER-MNT
+47.0,deutsche-boerse.com,a.dbgdns.lu,194.36.237.12,2a03:98c0:14:2504::1111:12,15814,AS15814 CS - Autonomous System,ripencc,LU,AS15814-MNT
+48.0,volvogroup.com,gate.volvo.se,192.138.110.253,,25252,VOLVOIT,ripencc,SE,Volvo Information Technology AB
+49.0,caixabank.com,ns1.lacaixa.com,217.148.69.50,,16383,LACAIXA-AS,ripencc,ES,LACAIXA-MNT
+50.0,thalesgroup.com,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+51.0,vw.com,ns3.vw.com,199.5.51.12,,55239,VWNA-AS2,arin,US,"Volkswagen Group of America, Inc."
+52.0,generali.com,ns2.generali.it,92.246.34.130,,47136,GGNET,ripencc,IT,INTERB-MNT
+53.0,danone.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+54.0,johnsoncontrols.com,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+55.0,saint-gobain.com,nsx1.saint-gobain.com,192.109.140.25,2a07:8140:0:3::53,49690,SGT-,ripencc,FR,Saint Gobain Group Digital & IT International SAS
+56.0,bmwusa.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+57.0,adyen.com,a24-64.akam.net,2.16.130.64,2600:1480:9800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+58.0,universalmusic.com,ns-1402.awsdns-47.org,205.251.197.122,2600:9000:5305:7a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+59.0,db.com,ns11.db-dns.com,96.7.50.65,,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+60.0,nxp.com,ns1.nxp.net,205.251.198.122,2600:9000:5306:7a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+61.0,heineken.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+62.0,3ds.com,ns-2041.awsdns-63.co.uk,205.251.199.249,2600:9000:5307:f900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+63.0,engie.com,ns-1633.awsdns-12.co.uk,205.251.198.97,2600:9000:5306:6100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+64.0,group.dhl.com,ns6.dhl.com,199.40.254.166,2403:c580:fff3:410a::1,2571,DHLNET,arin,CZ,DHL Information Services (Asia-Pacific) Sdn Bhd
+65.0,nordea.com,ns2.nordea.com,158.233.250.227,,201271,NORDEA-AS,ripencc,FI,Nordea Registry
+66.0,porsche.com,dns4.p09.nsone.net,198.51.45.73,2a00:edc0:6259:7:9::4,62597,NSONE,arin,US,NSONE Inc
+67.0,dsv.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+68.0,basf.com,ns02.basf.com,198.41.223.49,2400:cb00:2049:1::c629:df31,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+69.0,eon.com,ns0009.secondary.cloudflare.com,162.159.32.10,2606:4700:51::a29f:200a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+70.0,experian.com,exp5.experian.com,205.174.34.148,,14799,EXP-EC2000,arin,US,Experian
+71.0,eni.com,use1.akam.net,72.246.46.64,,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+72.0,infineon.com,pdns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+73.0,adidas.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+74.0,flutter.com,rene.ns.cloudflare.com,172.64.35.180,2606:4700:58::a29f:2cb4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+75.0,wolterskluwer.com,ns-1088.awsdns-08.org,205.251.196.64,2600:9000:5304:4000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+76.0,particuliers.sg.fr,tigdns05.socgen.com,194.119.0.10,,3299,INTL Internation Department,ripencc,FR,SOCIETE-GENERALE-MD5
+77.0,argenx.com,olof.ns.cloudflare.com,172.64.35.51,2606:4700:58::a29f:2c33,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+78.0,kbc.co.ke,ns03.mtnbusiness.co.ke,41.209.49.9,,9129,KE-NET2000,afrinic,KE,
+79.0,hannover-re.com,ns-1374.awsdns-43.org,205.251.197.94,2600:9000:5305:5e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+80.0,cityoforange.org,ns2.domain.com,172.64.53.117,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+81.0,aholddelhaize.com,a7-64.akam.net,23.61.199.64,2600:1406:32::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+82.0,aena.es,dns7.aena.es,194.224.177.232,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+83.0,heidelbergmaterials.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+84.0,ferrovial.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+85.0,amadeus.com,auth61.ns.uu.net,198.6.1.182,,701,UUNET,arin,US,Verizon Business
+86.0,eqt.com,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+87.0,assaabloy.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+88.0,ucb.com,ns4-03.azure-dns.info,208.84.5.3,2620:1ec:bda:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+89.0,exor.com,ns2.serfit.eu,213.215.251.5,,8220,COLT COLT Technology Services Group Limited,ripencc,GB,COLT-IT-MNT
+90.0,endesa.com,dnsibal.endesa.es,158.47.0.2,,12551,AS-ENEL-,ripencc,IT,ENEL LIR
+91.0,daimlertruck.com,dns4.p01.nsone.net,198.51.45.65,2a00:edc0:6259:7:1::4,62597,NSONE,arin,US,NSONE Inc
+92.0,sebgroup.com,ns2.sebgroup.com,129.178.50.8,,44320,SEBNET-AS,ripencc,SE,Skandinaviska Enskilda Banken AB
+93.0,beiersdorf.com,ns6.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+94.0,commerzbank.de,ns3.commerzbank.com,212.149.48.137,,16365,COMMERZBANK DE-60261 Frankfurt,ripencc,DE,Commerzbank Admin Role
+95.0,henkel.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+96.0,ingersollrand.com,joan.ns.cloudflare.com,108.162.192.173,2a06:98c1:50::ac40:20ad,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+97.0,leonardo.com,ns2.leonardo.com,185.51.13.93,,48135,ITMSC,ripencc,IT,ITMSC-MNT
+98.0,kone.com,ns2.domainnetwork.se,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+99.0,novozymes.com,ns2.p201.dns.oraclecloud.net,108.59.168.201,2600:2000:2110::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+100.0,talanx.com,ns1.eurodns.com,199.167.66.107,2610:1c8:b002::107,23393,NUCDN,arin,US,NuCDN LLC
+101.0,rwe.com,dns2-rwe.rwe.com,193.155.94.37,2a02:2ad0:112::2,702,UUNET,ripencc,DE,UUNETDE-I
+102.0,naturgy.com,ns1.gasnatural.com,195.77.63.16,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+103.0,danskebank.com,pdns109.ultradns.net,156.154.65.109,2610:a1:1014::91,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+104.0,telefonica.com,dns1.movistar.es,81.47.201.19,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,Administradores Telefonica de Espana
+105.0,legrand.com,lim.legrand.tm.fr,85.158.16.67,,16071,GRPLEG,ripencc,FR,LEGRAND-MNT
+106.0,hapag-lloyd.com,pdns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+107.0,stellantis.com,z.dns.gandi.net,162.159.24.51,2400:cb00:2049:1::a29f:19fa,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+108.0,cellnex.com,ns3.ascio.com,64.98.148.145,2604:4000:2800:2000:64:98:148:145,32491,TUCOWS-3,arin,CA,Ting Fiber Inc.
+109.0,cez.cz,ns20.cez.cz,89.111.77.200,2a01:a040:2004:100::1,39791,TPS-AS Telco Pro Services,ripencc,CZ,CEZNETAS-MNT
+110.0,dassault-aviation.com,ns0.ordipat.fr,193.41.194.1,2001:67c:2b38:172::1,16101,ORDIPAT,ripencc,FR,ORDIPAT-MNT
+111.0,ericsson.com,a6-65.akam.net,23.211.133.65,2600:1401:1::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+112.0,swedbank.com,dns1.p01.nsone.net,198.51.44.1,2620:4d:4000:6259:7:1:0:1,62597,NSONE,arin,US,NSONE Inc
+113.0,pernod-ricard.com,pdns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+114.0,erstegroup.com,ns3.it-austria.net,213.150.8.197,,198949,RADWARE,ripencc,AT,IRT-ITST1-RIPE
+115.0,nokia.com,ns5.nokia.com,198.41.223.186,2400:cb00:2049:1::c629:dfba,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+116.0,capgemini.com,dns1.p03.nsone.net,198.51.44.3,2620:4d:4000:6259:7:3:0:1,62597,NSONE,arin,US,NSONE Inc
+117.0,vonovia.com,ns1-35.azure-dns.com,150.171.10.35,2603:1061:0:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+118.0,sampo.com,ns4.if.fi,193.34.40.37,,24809,IF-AS,ripencc,SE,DATANET-NOC
+119.0,home.sandvik,ns.sandvik.com,164.4.17.7,,44013,SANDVIK-AS,ripencc,SE,MNT-SITS
+120.0,veolia.com,ns3.iptwins.com,144.217.70.141,2607:5300:203:28d::,16276,OVH,arin,CA,"OVH Hosting, Inc."
+121.0,freseniusmedicalcare.com,ace.ns.cloudflare.com,162.159.44.65,2803:f800:50::6ca2:c341,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+122.0,verbund.com,sec1.rcode0.net,192.174.68.100,2001:67c:1bc::100,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+123.0,poste.it,dns5.poste.it,62.241.6.232,,15720,Viale Europa,ripencc,IT,POSTECOM-MNT
+124.0,bayer.com,pdns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+125.0,maersk.com,a22-65.akam.net,23.211.61.65,2600:1480:7800::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+126.0,hexagon.com,ns-1815.awsdns-34.co.uk,205.251.199.23,2600:9000:5307:1700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+127.0,michelin.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+128.0,publicisgroupe.com,ns3.publicisgroupe.com,81.200.178.1,,50664,PUBGROUPE-FR publicisgroupe france,ripencc,FR,Network_Team
+129.0,pkobp.pl,ns2.pkobp.pl,194.242.62.40,,21344,INTELIGO,ripencc,PL,IRT-CERT-PKO-BP
+130.0,ryanair.com,edns6.ultradns.org,204.74.111.6,2001:502:4612::206,12008 397231 397235,,arin,US,"Vercara, LLC"
+131.0,coloplast.com,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+132.0,biontech.com,a1-250.akam.net,193.108.91.250,2600:1401:2::fa,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+133.0,kering.com,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+134.0,epiroc.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+135.0,handelsbanken.se,ns2.handelsbanken.se,194.58.198.50,2a01:3f1:3050::53,56908,NETNOD-NDS $Id: aut-num_AS56908,ripencc,SE,Netnod Administrative Contact
+136.0,asminternational.org,ns76.domaincontrol.com,173.201.75.48,2603:5:22b4::30,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+137.0,saab.com,weald-oc.saabgroup.com,192.165.232.52,,64420,ASNETW,ripencc,SE,Saab AB
+,hm.com,a8-66.akam.net,2.16.40.66,2600:1403:a::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+139.0,usa.philips.com,ns1.ext.philips.com,57.67.40.20,2a01:ce89:8001:0:57:67:40:20,51964,ORANGE-BUSINESS-SERVICES-IPSN-ASN,ripencc,IE,OBS2016-MNT
+140.0,corporate.arcelormittal.com,nsa.perf1.fr,81.92.94.100,2a01:c8:100::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+141.0,smurfitwestrock.com,ns5.markmonitor.com,149.112.160.2,2620:10a:80a8::2,55195,CIRA-CLOUD1,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+142.0,steris.com,ns2-07.azure-dns.net,150.171.21.7,2620:1ec:8ec:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+143.0,enbw.com,nss01.enbw.com,195.35.72.246,,15698,ENBW-AG,ripencc,DE,ENBW-MNT
+144.0,orlen.pl,dns1.orlen.pl,91.212.223.21,,49370,ORLEN,ripencc,PL,IPARTNERS-MNT
+145.0,terna.it,ns2.f5clouddns.com,107.162.176.221,2604:e180:1071::ffff:6ba2:b0dd,55002,DEFENSE-NET,arin,US,"F5, Inc."
+146.0,aercap.com,ns5.101domain.com,162.159.24.202,2400:cb00:2049:1::a29f:199c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+147.0,otpbank.hu,ns.otpbank.hu,195.228.112.250,,211595,OTPHU-AS,ripencc,HU,MTELEKOM-MNT
+148.0,uniper.energy,ns.global.adacor.net,194.58.198.59,2a01:3f1:3059::53,56908,NETNOD-NDS $Id: aut-num_AS56908,ripencc,SE,Netnod Administrative Contact
+149.0,essity.com,tilion.ngninfra.net,193.221.57.210,,25717,SCAAM0001,ripencc,SE,SCASGN
+150.0,dhs.gov,keira.ns.cloudflare.com,162.159.38.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+151.0,mtu.de,a.ns14.net,62.116.159.231,,15456,INTERNETX-AS,ripencc,DE,IX1-MNT
+152.0,carlsberggroup.com,pdns109.ultradns.net,156.154.65.109,2610:a1:1014::91,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+153.0,tenaris.com,otsrv1.techintgroup.net,201.234.38.237,,21756,SIDERCA S.A.I.C.,lacnic,AR,CIRION TECHNOLOGIES ARGENTINA S.A.
+154.0,latour.se,dns02.ports.se,45.63.42.179,2001:19f0:5001:2a:5400:ff:fe38:1e6f,20473,AS-VULTR,arin,US,"Vultr Holdings, LLC"
+155.0,evolution.com,ns-1247.awsdns-27.org,205.251.196.223,2600:9000:5304:df00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+156.0,kpn.com,ns11.kpn.net,213.75.63.33,2a02:a47f:ac:1::1153,8737,PT,ripencc,NL,KPN-MNT
+157.0,abnamro.com,a16-66.akam.net,23.211.132.66,2600:1406:1b::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+158.0,seagate.com,ns0154.secondary.cloudflare.com,162.159.33.29,2606:4700:59::a29f:211d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+159.0,kerry.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+160.0,mediobanca.com,a26-64.akam.net,23.74.25.64,2600:1480:b800::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+161.0,alfalaval.com,a28-66.akam.net,95.100.173.66,2600:1480:d800::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+162.0,expresslane.dps.louisiana.gov,ns-614.awsdns-12.net,205.251.194.102,2600:9000:5302:6600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+163.0,gruppo.bancobpm.it,ns2.crebergallery.it,62.97.1.55,,15529,SGS-BP-AS,ripencc,IT,MNT-SGSBP
+164.0,bollore.com,nsz.perf1.fr,208.80.126.13,2600:1802:7::1,16552,DIGICERT,arin,US,Tiggee LLC
+165.0,iairgroup.com,a1-20.akam.net,193.108.91.20,2600:1401:2::14,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+166.0,lifcohydraulics.com,virtualmin1.vaxxine.com,209.159.189.43,,11181,VAXXINE,arin,CA,Vaxxine Computer Systems Inc.
+167.0,euronext.com,dilbert.ns.cloudflare.com,173.245.59.155,2a06:98c1:50::ac40:219b,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+168.0,moncler.com,ns4.markmonitor.com,192.174.68.1,2001:67c:1bc::1,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+169.0,orsted.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+170.0,santander.pl,a11-67.akam.net,84.53.139.67,2600:1480:1::43,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+171.0,traton.com,ns98.irondns.de,195.253.112.2,2a01:5b0:30::2,50611,KNIPP-IRONDNS1-AS Technologiepark,ripencc,DE,Knipp Hostmaster
+172.0,bouygues.com,ns3.cms-france.net,195.154.66.49,,12876,Online SAS,ripencc,FR,MNT-TISCALIFR-B2B
+173.0,nn-group.com,ns1-2.akam.net,193.108.91.2,2600:1401:2::2,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+174.0,sartorius.com,ns2.eurodns.com,104.37.178.107,2610:1c8:b001::107,23393,NUCDN,arin,US,NuCDN LLC
+175.0,bancsabadell.com,a11-67.akam.net,84.53.139.67,2600:1480:1::43,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+176.0,symrise.com,ns5.netnames.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+177.0,edp.com,ns.edp.com.pt,185.58.83.135,,201523,EDP-AS,ripencc,PT,Infrastructure
+178.0,knorr-bremse.com,ns3.lemarit.de,178.248.243.66,,196922,HOFMEIR-AS,ripencc,DE,Hofmeir Media Hostmaster of the Day
+179.0,amundi.com,a18-64.akam.net,95.101.36.64,2600:1480:4800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+180.0,aib.ie,ns6.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+181.0,prada.com,henry.ns.cloudflare.com,172.64.33.176,2606:4700:58::adf5:3bb0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+182.0,renaultgroup.com,xenia.renault.fr,193.194.133.5,,8528,RENAULT,ripencc,FR,FR-DNS-MNT
+183.0,kingspangroup.com,ns1.markmonitor.com,149.112.160.1,2620:10a:80a8::1,55195,CIRA-CLOUD1,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+184.0,biomerieux.com,ns03.eolas.fr,51.83.201.211,2001:41d0:a800:801:f592:7c6d:e501:b473,16276,OVH,ripencc,FR,DULAC Frederic
+185.0,grupoacs.com,cleo.ns.cloudflare.com,108.162.193.89,2a06:98c1:50::ac40:2159,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+186.0,prysmian.com,ns-569.awsdns-07.net,205.251.194.57,2600:9000:5302:3900::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+187.0,continental.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+188.0,jeronimomartins.com,ns-cloud-b2.googledomains.com,216.239.34.107,2001:4860:4802:34::6b,15169,GOOGLE,arin,US,Google LLC
+189.0,industrivarden.se,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+190.0,fortum.com,ns3-35.azure-dns.org,13.107.222.35,2a01:111:4000:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+191.0,nemetschek.com,ns4-09.azure-dns.info,208.84.5.9,2620:1ec:bda:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+192.0,freseniusmedicalcare.com,ace.ns.cloudflare.com,162.159.44.65,2803:f800:50::6ca2:c341,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+193.0,hochtief.com,y.ns.joker.com,23.88.49.189,2a01:4f8:c0c:165b::1,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+194.0,teliacompany.com,dns358.fi.telia.net,88.194.40.67,,1759,TSF-IP-CORE Telia Finland Oyj,ripencc,FI,DATANET-NOC
+195.0,tryg.com,ns1.eurodns.com,199.167.66.107,2610:1c8:b002::107,23393,NUCDN,arin,US,NuCDN LLC
+196.0,upm.com,ns2.domainnetwork.se,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+197.0,group.bureauveritas.com,ns-215.awsdns-26.com,205.251.192.215,2600:9000:5300:d700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+198.0,grupadino.pl,christian.ns.cloudflare.com,108.162.195.247,2606:4700:58::a29f:2cf7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+199.0,repsol.com,ns-1224.awsdns-25.org,205.251.196.200,2600:9000:5304:c800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+200.0,pzu.pl,dns2.pzu.pl,193.109.244.4,,20983,PZU-AS,ripencc,PL,NETIA-MNT
+201.0,pekao.com.pl,a26-66.akam.net,23.74.25.66,2600:1480:b800::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+202.0,amersports.com,ns2.observatoiredesmarques.fr,209.250.245.2,2001:19f0:5000:1fcb::2,20473,AS-VULTR,ripencc,US,MAINT-AS20473
+203.0,vestas.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+204.0,aptiv.com,ns4-33.azure-dns.info,13.107.206.33,2620:1ec:bda:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+205.0,genmab.com,ns08.sac-it.dk,128.76.60.63,,3292,TDC TDC AS,ripencc,DK,AS3292 Staff
+206.0,asrnederland.nl,bob.ns.cloudflare.com,173.245.59.104,2a06:98c1:50::ac40:2168,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+207.0,lundbergforetagen.se,unit.nmugroup.com,217.10.116.210,2001:4db8:e004::2,35706,NAO,ripencc,SE,Net at Once NOC
+208.0,porsche-se.com,dns1.p09.nsone.net,198.51.44.9,2620:4d:4000:6259:7:9:0:1,62597,NSONE,arin,US,NSONE Inc
+209.0,akelius.com,ns4.p201.dns.oraclecloud.net,108.59.172.201,2600:2000:2130::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+210.0,unipol.com,dns2.unipolgf.it,81.117.60.174,,3269,ASN-IBSNAZ,ripencc,IT,TIG-MNT
+211.0,covestro.com,pdns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+212.0,hidroelectrica.ro,sec-dns-a.rotld.ro,192.162.16.20,2a03:5e80:0:4:192:162:16:20,3233,ICI-ROTLD Romanian National R&D Network,ripencc,RO,AS3233-MNT
+213.0,eiffage.com,rihana.ns.cloudflare.com,173.245.58.244,2a06:98c1:50::ac40:20f4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+214.0,parisaeroport.fr,ns1.a1.impervasecuredns.net,192.230.122.1,2a02:e980:5::1,19551,INCAPSULA,arin,US,Incapsula Inc
+215.0,finecobank.com,a11-64.akam.net,84.53.139.64,2600:1480:1::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+216.0,iconplc.com,brit.ns.cloudflare.com,172.64.32.78,2803:f800:50::6ca2:c04e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+217.0,all.accor.com,indom130.indomco.org,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+218.0,unibail-rodamco-westfield.de,ns2.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+219.0,ageas.com,aida.ns.cloudflare.com,172.64.32.58,2606:4700:50::adf5:3a3a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+220.0,bankofireland.com,pdns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+221.0,allegion.com,dns2.allegion.com,162.159.11.58,2400:cb00:2049:1::a29f:b3a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+222.0,recordati.com,ns1.register.it,107.162.197.144,2604:e180:1032::ffff:6ba2:c590,55002,DEFENSE-NET,arin,US,"F5, Inc."
+223.0,ree.es,a13-65.akam.net,2.22.230.65,2600:1480:800::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+224.0,jdepeets.com,ns4.iptwins.com,161.202.174.147,2401:c900:1101:496::3,36351,SOFTLAYER,ripencc,US,MAINT-SOFTLAYER-TECH-INC
+225.0,ing.pl,a11-65.akam.net,84.53.139.65,2600:1480:1::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+226.0,bper.it,dns2.widhost.net,217.61.96.167,,199653,ARUBAFR-AS,ripencc,IT,ARUBA Network Core
+227.0,pandora.com,dns1.p05.nsone.net,198.51.44.5,2620:4d:4000:6259:7:5:0:1,62597,NSONE,arin,US,NSONE Inc
+228.0,eliagroup.eu,dns2.elia.be,77.74.88.1,,42851,ELIABE-AS,ripencc,BE,Elia-Asset-mntner
+229.0,galp.com,ns10.galpenergia.com,83.240.208.160,,15525,MEO-EMPRESAS,ripencc,PT,AS15525-MNT
+230.0,bancamediolanum.it,venere.inet.it,194.20.8.4,,3313,INET-AS,ripencc,IT,INET-NOC
+231.0,eurofins.com,nsa.perf1.fr,81.92.94.100,2a01:c8:100::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+232.0,corporate.eventim.de,a6-65.akam.net,23.211.133.65,2600:1401:1::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+233.0,hella.com,secondary006.dtag.net,195.244.245.25,2a00:fa8:3:0:100:0:6:1,5605,NETUSE,ripencc,DE,NU-MNT
+234.0,inwit.it,dnsfc2.interbusiness.it,2.113.95.113,,3269,ASN-IBSNAZ,ripencc,IT,Interbusiness Network Administration Staff
+235.0,mapfreinsurance.com,pdns3.ultradns.org,199.7.68.1,2610:a1:1015::1,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+236.0,gruppomps.it,ns2.mps.it,195.7.19.7,,13018,Banca Monte Dei Paschi Di Siena,ripencc,IT,COGMPS
+237.0,alstom.com,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+238.0,akzonobel.com,ns2.akzonobel.com,57.73.127.194,2a01:ce9d:0:1001:57:73:127:194,51964,ORANGE-BUSINESS-SERVICES-IPSN-ASN,ripencc,IE,OBS2016-MNT
+239.0,puig.com,bella.ns.cloudflare.com,173.245.58.74,2803:f800:50::6ca2:c04a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+240.0,bankinter.com,dns44.bankinter.es,195.235.30.44,,202997,ASBANKINTER,ripencc,ES,MAINT-AS3352
+241.0,wartsila.com,dns3.safenames.org,185.191.162.1,2a00:a900:8afe:12::1,60819,SAFENAMES-AS,ripencc,GB,Safenames Ltd.
+242.0,dieterengroup.com,ns1-08.azure-dns.com,13.107.236.8,2603:1061:0:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+243.0,gea.com,ns1.lemarit.de,81.209.198.1,,24640,BSWS-AS,ripencc,DE,LNC-MNT
+244.0,eurobankholdings.gr,a14-67.akam.net,184.26.161.67,2600:1480:1800::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+245.0,evonik.com,qdns2.degussa.de,149.216.207.60,2a01:4bc0:910:7000::31,12422,EVONIK-AS Rellinghauser Str. 1-11,ripencc,DE,EVONIK-NOC
+246.0,sobi.com,dns03.ports.se,94.237.33.102,2a04:3540:1000:310:287e:f6ff:fe1d:4789,202053,UPCLOUD,ripencc,FI,MNT-UPCLOUD
+247.0,aegon.com,NS4.AEGONINS.COM,198.39.105.23,,11857,AEGONUSA,arin,US,AEGON EDC LIMITED
+248.0,dws.com,ns.domainnetwork.se,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+249.0,sce.com,dnse1.sce.com,192.213.136.158,,7127,SCE,arin,US,Southern California Edison
+250.0,strabag.com,ns-2011.awsdns-59.co.uk,205.251.199.219,2600:9000:5307:db00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+251.0,jameshardie.com,davina.ns.cloudflare.com,172.64.34.40,2a06:98c1:50::ac40:2228,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+252.0,klepierre.com,ns-110-b.gandi.net,213.167.230.111,2001:4b98:aaab::6f,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+253.0,carrefour.com,lakas.ns.cloudflare.com,172.64.33.194,2a06:98c1:50::ac40:21c2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+254.0,gbl.com,ns4.combell.net,86.39.202.67,2001:1598:0:101::3,28747,EASYHOST-COLO-AS,ripencc,BE,EASYHOST NOC
+255.0,getlinkgroup.com,ns3.eurotunnel.com,86.188.170.30,,2856,BT-UK-AS BTnet UK Regional network,ripencc,GB,BTNET-MNT
+256.0,ascendispharma.com,b.portsdns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+257.0,tele2.com,c.dns.tele2.net,130.242.124.20,2001:6b0:7:124::20,1653,SUNET SUNET Swedish University Network,ripencc,SE,Nordic University NOC
+258.0,millenniumbcp.pt,ns2.webside.pt,62.48.131.11,2a02:818:2020:5151::d011,15525,MEO-EMPRESAS,ripencc,PT,AS15525-MNT
+259.0,zalando.com,ns-1818.awsdns-35.co.uk,205.251.199.26,2600:9000:5307:1a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+260.0,deutsche-wohnen.com,ns4-33.azure-dns.info,13.107.206.33,2620:1ec:bda:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+261.0,nbg.gr,a28-66.akam.net,95.100.173.66,2600:1480:d800::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+262.0,mbank.pl,a18-64.akam.net,95.101.36.64,2600:1480:4800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+263.0,edpr.com,dns2.host-redirect.com,194.8.30.2,2001:4cc0:4:10::5,33876,FLESK-AS,ripencc,PT,Dominios S.A. - SysAdmins
+264.0,birkenstock.com,c.ns14.net,89.146.248.231,2a01:130:2000:118:89:146:248:231,8495,INTERNET_AG Frankfurt-Munich-Stuttgart-Amsterdam-London,ripencc,DE,AS8495-MNT
+265.0,indutrade.com,b.portsdns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+266.0,buzziunicemusa.com,ns1.hover.com,216.40.47.26,2604:4000:0:d:216:40:47:26,15348,TUCOWS,arin,CA,Tucows.com Co.
+267.0,rational-online.com,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+268.0,kb.cz,nsn1.mojebanka.cz,194.50.202.5,,201163,KB-AS-,ripencc,CZ,KB-CZ-MNT
+269.0,brenntag.com,vida.ns.cloudflare.com,172.64.32.236,2a06:98c1:50::ac40:20ec,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+270.0,about.allegro.eu,dns2.allegro.pl,91.207.14.244,2a02:dc8:20::5,42656,QXL-POLAND,ripencc,PL,Allegro Network Administrators
+271.0,ipsen.com,ns-1409.awsdns-48.org,205.251.197.129,2600:9000:5305:8100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+272.0,rockwool.com,ns7.markmonitor.com,149.112.161.2,2620:10a:80a9::2,394354,CIRA-CLOUD2,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+273.0,skanska.com,dns11.us.skanska.net,144.57.129.251,,39052,SKANSKANET-AS,ripencc,SE,Skanska Sverige AB
+274.0,qiagen.com,ns1-01.azure-dns.com,13.107.236.1,2603:1061:0:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+275.0,sofinagroup.com,eric.ns.cloudflare.com,172.64.33.112,2606:4700:58::adf5:3b70,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+276.0,sodexo.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+277.0,sca.com,ns1.sca.com,193.235.12.11,,60238,SCAFP,ripencc,SE,SCA Forest Products AB
+278.0,kesco.co.in,ns4.ctrls.in,182.18.166.50,2400:3b00:1:5::50,18229,CTRLS-AS-IN CtrlS,apnic,IN,IRT-PEL-IN
+279.0,rbinternational.com,ns0233.secondary.cloudflare.com,162.159.33.108,2606:4700:59::a29f:216c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+280.0,skf.com,dns01.skf.com,57.67.127.194,2a01:ce89:8000:1001:57:67:127:194,51964,ORANGE-BUSINESS-SERVICES-IPSN-ASN,ripencc,IE,OBS2016-MNT
+281.0,ctp.eu,sam.ns.cloudflare.com,172.64.33.141,2803:f800:50::6ca2:c18d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+282.0,metso.com,dns4.p07.nsone.net,198.51.45.71,2a00:edc0:6259:7:7::4,62597,NSONE,arin,US,NSONE Inc
+283.0,securitas.com,ns5.netnames.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+284.0,besi.com,ns1.your-server.de,213.133.100.102,2a01:4f8:0:1::5ddc:1,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+285.0,boliden.com,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+286.0,bawaggroup.com,dns1.a1.net,80.120.17.26,2001:850:3030:31:80:120:17:26,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+287.0,addtech.com,ns2.dnshost.net,185.167.176.1,2a0b:8e00:1::10,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT
+288.0,deliveryhero.com,tom.ns.cloudflare.com,172.64.33.147,2606:4700:58::adf5:3b93,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+289.0,hensoldt.net,ns1.telekom.net,212.185.24.65,2003:180:a:1000::53,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+290.0,gruppotim.it,dns10.interbusiness.it,217.169.119.68,,20746,ASN-IDC T.NO.OM.I.NC,ripencc,IT,FULCOM-MNT-RIPE
+291.0,orionpharma.com,ns-1185.awsdns-20.org,205.251.196.161,2600:9000:5304:a100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+292.0,immobilienscout24.de,ns-24.awsdns-03.com,205.251.192.24,2600:9000:5300:1800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+293.0,lufthansa.com,udns2.cscudns.org,204.74.104.20,2610:a1:3214::53,399155 399158 399161 399167,,arin,US,"Vercara, LLC"
+294.0,inpost.eu,dns-ns4-ext.easypack24.net,52.28.236.63,,16509,AMAZON-02,arin,US,A100 ROW GmbH
+295.0,nibe.com,dns2.nibe.se,212.162.190.2,2001:67c:2c80:3::3,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+296.0,elisa.dtsa.mil,dns-pub-f3-u.pentagon.mil,199.252.47.75,,721,DNIC-ASBLK-00721-00726,arin,US,DoD Network Information Center
+297.0,balder.se,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+298.0,ayvens.com,tigdns01.socgen.com,193.178.155.113,,3296,SOCIETE-GENERALE,ripencc,FR,Societe Generale S.A.
+299.0,imcdgroup.com,ns0.transip.net,195.135.195.195,2a01:7c8:dddd:195::195,20857,TRANSIP-AS Amsterdam,ripencc,NL,TransIP B.V. Admin
+300.0,spie.org,ns14.dnsmadeeasy.com,208.80.127.4,2600:1802:14::1,16552,DIGICERT,arin,US,Tiggee LLC
+301.0,rexelusa.com,alaric.ns.cloudflare.com,162.159.44.31,2a06:98c1:50::ac40:231f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+302.0,opap.gr,a18-64.akam.net,95.101.36.64,2600:1480:4800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+303.0,sagax.se,ns4.ilait.se,188.40.202.3,,24940,HETZNER-AS,ripencc,DE,HOS-GUN
+304.0,cph.dk,ns1-01.azure-dns.com,13.107.236.1,2603:1061:0:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+,avh.be,ns3.cloud.telenet.be,185.35.52.200,2a01:498:8501:4090::6:1,6848,TELENET-AS,ripencc,BE,HOSTBASKET-MNT
+306.0,acciona.com,a1-18.akam.net,193.108.91.18,2600:1401:2::12,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+307.0,a2ahomeland.in,ns57.domaincontrol.com,97.74.108.29,2603:5:21c2::1d,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+308.0,shop.brunellocucinelli.com,ns1.register.it,107.162.197.144,2604:e180:1032::ffff:6ba2:c590,55002,DEFENSE-NET,arin,US,"F5, Inc."
+309.0,neste.com,ns2.nesteoil.com,132.155.58.10,,41701,CAP-FIN-AS,ripencc,FI,CAP-FIN-MNT
+310.0,lpp.com,a1-88.akam.net,193.108.91.88,2600:1401:2::58,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+311.0,trelleborg.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+312.0,camparigroup.com,lindsey.ns.cloudflare.com,172.64.34.5,2606:4700:50::a29f:2605,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+313.0,otegroup.com,ns.otegroup.com,103.20.215.58,,132420,E2E-NETWORKS-IN 282,apnic,IN,IRT-E2E-NETWORKS-IN
+314.0,demant.com,ns3-04.azure-dns.org,204.14.183.4,2a01:111:4000:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+315.0,beijerref.com,apdns1.addpro.se,194.58.192.50,2a01:3f1:50::53,8674,NETNOD-IX Netnod AB,ripencc,SE,Netnod Administrative Contact
+316.0,lotusbakeries.com,ns.nscluster.gr,151.80.125.229,2001:41d0:404:200::33df,16276,OVH,ripencc,FR,OVH BV
+317.0,gecina.fr,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+318.0,storaenso.com,ns1-swe.global.sonera.se,213.64.37.28,2001:2040:c000:63::1,3301,TELIANET-SWEDEN Telia Company,ripencc,SE,TELIANET-LIR
+319.0,nexigroup.com,a2-64.akam.net,95.100.174.64,2600:1480:7000::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+320.0,edenred.com,ns1.safebrands.fr,193.227.117.17,2a04:2b00:14cc::17,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+321.0,autoliv.com,b.gtld-servers.net,192.33.14.30,2001:503:231d::2:30,36617 40647 396654 396686 396690,,arin,US,VeriSign Global Registry Services
+322.0,neoen.com,ns-179-b.gandi.net,213.167.230.180,2001:4b98:aaab::b4,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+323.0,jazzpharma.com,udns1.ultradns.net,204.69.234.1,2001:502:f3ff::d,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+324.0,piraeusholdings.gr,ns2.otenet.gr,195.170.2.1,,6799,OTENET-GR Athens - Greece,ripencc,GR,OTENET IP ADM
+325.0,thyssenkrupp-steel.com,ns.inwx.de,192.174.68.104,2001:67c:1bc::104,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+326.0,randstad.com,ns-1444.awsdns-52.org,205.251.197.164,2600:9000:5305:a400::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+327.0,a1.net,dns1.a1.net,80.120.17.26,2001:850:3030:31:80:120:17:26,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+328.0,molgroup.info,ns1-37.azure-dns.com,150.171.10.37,2603:1061:0:10::25,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+329.0,metlengroup.com,dns2.papaki.gr,107.162.141.240,2604:e180:1032::ffff:6ba2:8df0,55002,DEFENSE-NET,arin,US,"F5, Inc."
+330.0,bancagenerali.com,dns3.interbusiness.it,151.99.125.4,,3269,ASN-IBSNAZ,ripencc,IT,Interbusiness Network Administration Staff
+331.0,hera.com,ns-1774.awsdns-29.co.uk,205.251.198.238,2600:9000:5306:ee00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+332.0,nordnetab.com,dns1.nordnet.se,193.111.104.224,,24819,NORDNET-AS,ripencc,SE,Nordnet NOC
+333.0,kghm.com,ns12.az.pl,46.242.147.5,,12824,HOMEPL-AS,ripencc,PL,home.pl Network Administrators
+334.0,italgas.it,dnsfc2.interbusiness.it,2.113.95.113,,3269,ASN-IBSNAZ,ripencc,IT,Interbusiness Network Administration Staff
+335.0,aak.com,ns4.abedns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+336.0,compagnie-du-cambodge.fr,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+337.0,fdj.fr,dns2.fdjeux.net,194.4.217.10,,208353,LFDJ2-AS,ripencc,FR,MNT-LFDJ
+338.0,gco.com,dnssec.catalanaoccidente.com,194.224.151.33,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+339.0,compagniedelodet.net,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+340.0,swecogroup.com,ns1-01.azure-dns.com,13.107.236.1,2603:1061:0:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+341.0,dhs.gov,keira.ns.cloudflare.com,172.64.34.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+342.0,covivio.eu,dns1.neftis.com,46.105.47.234,,16276,OVH,ripencc,FR,OVH Technical Contact
+343.0,dcc.ie,auth02.ns.eircom.net,159.134.0.15,,5466,EIRCOM Internet House,ripencc,IE,EIRCOM-NGN-FSS-MNT
+344.0,andritz.com,ns05.andritz.com,66.194.149.124,2a05:6744::53,3549,LVLT-3549,arin,US,"Level 3 Parent, LLC"
+345.0,company.rtl.com,ns23.bce-lu.uk,146.220.32.23,,196809,FM,ripencc,LU,BCE-LU-MNT
+346.0,merlinproperties.com,dns35.servidoresdns.net,217.76.128.174,,8560,IONOS-AS This is the joint network for IONOS,ripencc,ES,ARSYS Role Object
+347.0,tp.com,pdns11.domaincontrol.com,97.74.111.55,2603:5:21f2::37,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+348.0,ssab.com,ns3.p201.dns.oraclecloud.net,108.59.170.201,2600:2000:2120::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+349.0,holmenwi.gov,ns2.mcsnetworks.com,64.33.148.201,,11796,AIRSTREAMCOMM-NET,arin,US,MCS Networks
+350.0,fraport-usa.com,ns3.inwx.eu,45.87.158.53,2a02:d500::53,48596,INWX,ripencc,DE,INWX-MNT
+351.0,cdprojekt.com,ns-1730.awsdns-24.co.uk,205.251.198.194,2600:9000:5306:c200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+352.0,leg-wohnen.de,ns.udag.net,185.132.33.253,2607:f1c0:fe:53:185:132:33:253,15418,IONOS-ANYCAST IONOS SE,ripencc,DE,AS8560-MNT
+353.0,pirelli.com,dnsgeo16.tuonomeregistrar.net,51.195.116.189,,16276,OVH,ripencc,FR,OVH GmbH
+354.0,ten.com,ns4.technipenergies.us,8.33.241.53,,54338,-Reserved AS-,arin,US,"TECHNIP ENERGIES USA, INC."
+355.0,financiere-tubize.be,ns101.ovh.net,213.251.128.145,2001:41d0:1:1991::1,16276,OVH,ripencc,FR,OVH Technical Contact
+356.0,int.diasorin.com,ns27.worldnic.com,162.159.26.132,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+357.0,group.vig,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+358.0,acciona-energia.com,a28-65.akam.net,95.100.173.65,2600:1480:d800::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+359.0,gtt.fr,nsz.perf1.com,208.80.124.13,2600:1801:6::1,16552,DIGICERT,arin,US,Tiggee LLC
+360.0,uscis.gov,bruce.ns.cloudflare.com,172.64.33.77,2803:f800:50::6ca2:c14d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+361.0,axfood.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+362.0,zabkagroup.com,lewis.ns.cloudflare.com,108.162.195.159,2803:f800:50::6ca2:c39f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+363.0,castellum.com,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+364.0,stevanatogroup.com,ns1.omitech.it,77.238.20.20,,20746,ASN-IDC T.NO.OM.I.NC,ripencc,IT,FULCOM-MNT-RIPE
+365.0,renk.com,d.ns14.net,74.208.254.231,2607:f1c0:1800:8091:74:208:254:254,8560,IONOS-AS This is the joint network for IONOS,arin,US,InterNetx Network Crew
+366.0,grifols.com,ns1.grifols.com,193.142.217.29,,42722,GRIFOLS-AS,ripencc,ES,Grifols S.A.
+367.0,fuchs.com,ns2.manet.de,212.65.31.241,2a00:1e80:f:5::5,21473,PFALZKOM Pfalzkom GmbH,ripencc,DE,MANET-RIPE-MNT
+368.0,zeiss.com,a7-64.akam.net,23.61.199.64,2600:1406:32::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+369.0,us.ternium.com,dns2.TERNIUM.COM,190.3.15.122,,52415,SIDERAR S.A.I.C.,lacnic,AR,SIDERAR S.A.I.C.
+370.0,arkema.com,spdns3.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+371.0,colruytgroup.com,dns.colruyt.be,195.26.3.11,2a01:89c0:0:800c::100,25428,INFOCO-COLRUYT-AS,ripencc,BE,COLRUYT-BE-MNT
+372.0,lottomaticagroup.com,dns2.p01.nsone.net,198.51.45.1,2a00:edc0:6259:7:1::2,62597,NSONE,arin,US,NSONE Inc
+373.0,alphaholdings.gr,a1-11.akam.net,193.108.91.11,2600:1401:2::b,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+374.0,corporacionalba.es,ns1.es.colt.net,212.74.77.39,,8220,COLT COLT Technology Services Group Limited,ripencc,GB,COLT Hostmaster
+375.0,wdp.eu,albert.ns.cloudflare.com,173.245.59.58,2a06:98c1:50::ac40:213a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+376.0,popso.it,ns-703.awsdns-23.net,205.251.194.191,2600:9000:5302:bf00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+377.0,group.nebius.com,ns3-09.azure-dns.org,204.14.183.9,2a01:111:4000:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+378.0,millicom.com,rihana.ns.cloudflare.com,173.245.58.244,2a06:98c1:50::ac40:20f4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+379.0,gedeonrichter.com,ns1.richter.hu,82.131.210.17,,12301,INVITECH,ripencc,HU,AS12301-MNT
+380.0,publicpowercompany.com,ns3-05.azure-dns.org,204.14.183.5,2a01:111:4000:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+381.0,oberbank.com,dns3.a1.net,176.97.158.105,2001:67c:10b8::105,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+382.0,gamalife.com,ns13.domaincontrol.com,97.74.106.7,2603:5:21a0::7,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+383.0,scor.com,indom80.indomco.hk,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+384.0,fcc.es,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+385.0,valmet.com,ns1.plat.fi,81.22.160.5,,24713,CGI-FINLAND,ripencc,FI,CGI-FINLAND-LIR
+386.0,fortnox.se,bart.ns.cloudflare.com,173.245.59.71,2a06:98c1:50::ac40:2147,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+387.0,indracompany.com,indraesdns2.indra.es,94.126.241.61,,48048,INDRASISTEMAS-AS,ripencc,ES,indra_sistemas
+388.0,kiongroup.com,ns2.lemarit.net,176.97.158.101,2001:67c:10b8::101,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+389.0,bechtle.com,ns01.bechtle.com,178.249.85.7,,21161,ASN-BECHTLE Bechtle AG,ripencc,DE,BECHTLE-MNT
+390.0,romgaz.ro,ns1.orangero.net,62.217.193.1,,8953,ASN-ORANGE-ROMANIA,ripencc,RO,AS8953-MNT
+391.0,auto1.com,ns-1530.awsdns-63.org,205.251.197.250,2600:9000:5305:fa00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+392.0,globant.com,ns-168.awsdns-21.COM,205.251.192.168,2600:9000:5300:a800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+393.0,konecranes.com,dns4.comlaude-dns.eu,198.51.45.75,2a00:edc0:6259:7:11::4,62597,NSONE,arin,US,NSONE Inc
+394.0,getinge.com,dns04.ports.net,158.255.211.116,2a03:f80:ed15:158:255:211:116:1,57169,EDIS-AS-EU,ripencc,AT,EDIS GmbH - Noc Engineer
+395.0,viennaairport.com,dns4.a1.net,80.120.17.50,2001:850:3030:31:80:120:17:50,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+396.0,kbcancora.be,ns2.cedc.hu,193.245.82.6,,15953,AS_KBCGS_CEDC,ripencc,BE,KRAB1-RIPE
+397.0,avanza.se,ns-cloud-a2.googledomains.com,216.239.34.106,2001:4860:4802:34::6a,15169,GOOGLE,arin,US,Google LLC
+398.0,eurazeo.com,hk.iptwins.com,194.50.187.226,2a04:2b00:14dd::226,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+399.0,groupeseb.com,nsa.perf1.fr,81.92.94.100,2a01:c8:100::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+400.0,unicajabanco.com,verde2.unicaja.es,195.76.110.8,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+401.0,volvocars.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+402.0,jyskebank.dk,ben.ns.cloudflare.com,172.64.33.103,2803:f800:50::6ca2:c167,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+403.0,raportzintegrowany2023.gkpge.pl,sec1.gkpge.pl,192.174.68.100,,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+404.0,acea.auto,pdns2.registrar-servers.com,156.154.133.100,2610:a1:1025::100,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+405.0,hyphanet.org,ns.udag.org,185.132.34.253,2607:f1c0:fe:53:185:132:34:253,15418,IONOS-ANYCAST IONOS SE,ripencc,DE,AS8560-MNT
+406.0,alk.net,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+407.0,zealandpharma.com,dns2.comlaude-dns.net,198.51.45.11,2a00:edc0:6259:7:11::2,62597,NSONE,arin,US,NSONE Inc
+408.0,millenniumbank.com,ns26.domaincontrol.com,173.201.70.13,2603:5:2261::d,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+409.0,vopak.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+410.0,alkermes.com,ns59.worldnic.com,162.159.26.165,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+411.0,ambu.com,pdns03.domaincontrol.com,97.74.111.51,2603:5:21f0::33,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+412.0,credem.it,relay1.cedacriovest.it,217.11.0.9,,13180,CEDACRI-SPA-COLLECCHIO Via Conventino,ripencc,IT,MNT-CEDACRI
+413.0,ionos-group.com,ns-ionos.ui-dns.com,185.132.34.218,2607:f1c0:fe:53:185:132:34:218,15418,IONOS-ANYCAST IONOS SE,ripencc,DE,AS8560-MNT
+414.0,landbobanken.dk,blue.foundationdns.net,162.159.60.31,2803:f800:52::a29f:3c1f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+415.0,en.evn.com.vn,dns3.evn.com.vn,103.178.214.100,,149069,EVNICT-AS-VN Information and Communications Technology Company of Vietnam Electricity,apnic,VN,IRT-VNNIC-AP
+416.0,saipem.com,a28-64.akam.net,95.100.173.64,2600:1480:d800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+417.0,delonghi.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+418.0,voestalpine.com,vaigns02.voestalpine.com,164.3.25.51,,8387,T-SYSTEMS-AT Rennweg 97-99,ripencc,AT,at-voestalpine-1-mnt
+419.0,nexans.com,z.dns.gandi.net,162.159.24.51,2400:cb00:2049:1::a29f:1833,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+420.0,nordex-online.com,a.prim-ns.de,194.163.252.5,2a00:74c0:10:203::53:1,61157,PLUSSERVER-ASN1,ripencc,DE,Plusserver Hostmaster
+421.0,krones.com,ns3.krones-group.com,74.87.74.39,,10796,TWC-10796-MIDWEST,arin,US,"KRONES, INC"
+422.0,logista.com,ns2.logista.com,193.16.153.103,,31428,LOGISTA-ES-AS,ripencc,ES,COLT-ESPANA-MNT
+423.0,bandmretail.com,ns1.ukfast.net,185.226.221.128,,61323,UKFAST,ripencc,GB,UKFast Admin
+424.0,corporate.ccc.eu,ara.ns.cloudflare.com,173.245.58.67,2606:4700:50::adf5:3a43,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+425.0,lundbeck.com,dns3.comlaude-dns.co.uk,198.51.44.75,2620:4d:4000:6259:7:11:0:3,62597,NSONE,arin,US,NSONE Inc
+426.0,subsea7.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+427.0,vallourec.com,ns-940.awsdns-53.net,205.251.195.172,2600:9000:5303:ac00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+428.0,budimex.pl,a-dns.pl,192.102.225.53,2001:7f9::53,211655,NASK-DNS-ANYCAST2,ripencc,PL,AS211655-MNT
+429.0,fluidra.com,ns1.a2.impervasecuredns.net,192.230.123.1,2a02:e980:6::1,19551,INCAPSULA,arin,US,Incapsula Inc
+430.0,justeattakeaway.com,erin.ns.cloudflare.com,172.64.32.113,2a06:98c1:50::ac40:2071,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+431.0,corporate.amplifon.com,ns-1074.awsdns-06.org,205.251.196.50,2600:9000:5304:3200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+432.0,nkt.com,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+433.0,royalunibrew.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+434.0,nasa.gov,a1-32.akam.net,193.108.91.32,2600:1401:2::20,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+435.0,ivecogroup.com,ns1.iveco.com,160.220.137.17,,24771,FIAT-AS2,ripencc,IT,npotorino-mnt
+436.0,fincantieri.com,a1-186.akam.net,193.108.91.186,2600:1401:2::ba,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+437.0,arcadis.com,nse3.arcadis.net,20.40.186.244,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+438.0,fielmann-group.com,ns5.xc-ns.de,194.50.187.172,,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+439.0,technoprobe.com,dns.promo.it,142.44.162.254,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+440.0,citibank.pl,ns1.nsroot1.com,156.154.64.172,,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+441.0,corporate.e-jumbo.gr,tim.ns.cloudflare.com,172.64.33.145,2a06:98c1:50::ac40:2191,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+442.0,sol.it,ns3.netteam.it,81.201.125.58,,15830,EQUINIX,ripencc,NL,Equinix (formerly Telecity) Admin-c
+443.0,schott-pharma.com,ns3-05.azure-dns.org,204.14.183.5,2a01:111:4000:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+444.0,wendelgroup.com,dns1.namebay.com,62.141.38.216,2001:4ba0:cafe:532::1,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,ripencc,DE,WIIT AG NOC
+445.0,en.dmgmori-ag.com,ns2.xc-ns.de,194.0.182.167,,1921 207021,,ripencc,DE,CENTRALNIC-MNT
+446.0,shurgard.com,ns2.eurodns.com,104.37.178.107,2610:1c8:b001::107,23393,NUCDN,arin,US,NuCDN LLC
+447.0,schaeffler.com,ns2.lemarit.net,176.97.158.101,2001:67c:10b8::101,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+448.0,solvay.com,ns6.markmonitor.com,176.97.158.3,2001:67c:10b8::3,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+449.0,enagas.es,ns3.ascio.com,64.98.148.145,2604:4000:2800:2000:64:98:148:145,32491,TUCOWS-3,arin,CA,Ting Fiber Inc.
+450.0,inmocolonial.com,esifw2.tsai.es,213.4.194.5,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,ES TIC MANAGEMENT
+451.0,sixt.com,d.ns14.net,74.208.254.231,2607:f1c0:1800:8091:74:208:254:254,8560,IONOS-AS This is the joint network for IONOS,arin,US,InterNetx Network Crew
+452.0,springernature.com,pdns1.ultradns.net,204.74.108.1,2001:502:f3ff::1,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+453.0,getunited.com,ns2.unitedtelcom.net,209.203.168.119,2604:e140:29:1001:209:203:168:119,30174,UTA,arin,US,"United Telephone Association, Inc."
+454.0,wacker.com,ns2.lemarit.net,176.97.158.101,2001:67c:10b8::101,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+455.0,azimut-group.com,dns4.azimut.it,185.95.235.14,,200786,AZIMUT-AS,ripencc,IT,AZIMUT-MNT
+456.0,verallia.com,indom30.indomco.fr,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+457.0,soprasteria.com,ns2.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+458.0,tui.co.uk,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+459.0,covivio.eu,dns1.neftis.com,46.105.47.234,,16276,OVH,ripencc,FR,OVH Technical Contact
+460.0,aurubis.com,auth04.ns.de.uu.net,192.76.144.17,2001:600:1c0:e000::35:9,702,UUNET,ripencc,DE,UUNETDE-I
+461.0,huhtamaki.com,ns-fi.elisa.net,193.229.0.49,,719,ELISA-AS ELISA OYJ,ripencc,FI,ELISA-MNT
+462.0,us.puma.com,dahlia.ns.cloudflare.com,172.64.32.89,2606:4700:50::adf5:3a59,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+463.0,mycronic.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+464.0,wienerberger.com,ns1.lemarit.net,207.158.52.87,,21581,M5HOSTING,arin,US,M5 Computer Security
+465.0,deme-group.com,ns2.clf.proximus.be,198.41.222.171,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+466.0,aliorbank.pl,ns3.alior.pl,171.25.226.65,,47322,ALIOR-AS,ripencc,PL,ALIOR-MNT
+467.0,jcdecaux.com,ns-1594.awsdns-07.co.uk,205.251.198.58,2600:9000:5306:3a00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+468.0,azelis.com,ns4-36.azure-dns.info,13.107.206.36,2620:1ec:bda:10::24,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+469.0,fonciere-lyonnaise.com,ns02.eolas.fr,178.237.108.1,2a00:4280:100:e00:833b:4c9:5cf8:8ea0,15401,EOLAS-AS,ripencc,FR,BDI-EOLAS-MNT
+470.0,aedifica.com,ns1.hover.com,216.40.47.26,2604:4000:0:d:216:40:47:26,15348,TUCOWS,arin,CA,Tucows.com Co.
+471.0,huisbrederode.com,ns2.gethost.nl,185.116.164.51,,50673,SERVERIUS-AS,ripencc,NL,nl-gethost-1-mnt
+472.0,tikehaucapital.com,ns-238-b.gandi.net,213.167.230.239,2001:4b98:aaab::ef,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+473.0,vidrala.com,ns2.sarenet.es,212.81.130.10,,3262,SARENET,ripencc,ES,MAINT-AS3262
+474.0,sparnord.dk,b.ns.netic.dk,77.243.50.205,2a03:dc80:0:f136::205,42697,NETIC-AS,ripencc,DK,NETIC-MNT
+475.0,interpumpgroup.it,ns2.serverlet.com,178.33.142.161,,16276,OVH,ripencc,FR,OVH Srl
+476.0,iren.gov,dns4.civicplus.com,205.251.193.52,,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+477.0,aalberts.com,ns4.combell.net,86.39.202.67,2001:1598:0:101::3,28747,EASYHOST-COLO-AS,ripencc,BE,EASYHOST NOC
+478.0,jungheinrich.com,ns.gopas.de,185.244.56.84,,13157,GOPAS-AS Schellerdamm 16,ripencc,DE,GOPAS-MNT
+479.0,webuildgroup.com,ns01.webuildgroup.com,217.172.4.129,,21176,ASN-DEBIS,ripencc,IT,DITSI-MNT
+480.0,uniqagroup.com,ns0233.secondary.cloudflare.com,162.159.33.108,2606:4700:59::a29f:216c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+481.0,vusion.com,ns-94-c.gandi.net,217.70.187.95,2604:3400:aaac::5f,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+482.0,mandatumam.com,ns-se.elisa.net,62.248.254.2,,719,ELISA-AS ELISA OYJ,ripencc,FI,ELISA-MNT
+483.0,titan-cement.com,ns2.p06.dynect.net,108.59.162.6,2600:2000:2220::6,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+484.0,perrigo.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+485.0,viscofan.com,dns44.servidoresdns.net,82.223.218.179,,8560,IONOS-AS This is the joint network for IONOS,ripencc,ES,ARSYS-RIPE-MNT
+486.0,tecnimont.com,a9-64.akam.net,184.85.248.64,2a02:26f0:117::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+487.0,moneta.cz,ns3.moneta.cz,107.162.176.58,2604:e180:102e::ffff:6ba2:b03a,55002,DEFENSE-NET,arin,US,"F5, Inc."
+488.0,almbrandgroup.com,ns2.eurodns.com,104.37.178.107,2610:1c8:b001::107,23393,NUCDN,arin,US,NuCDN LLC
+489.0,orange.pl,ns3.corpnet.pl,80.50.50.200,2a01:1700:2:3::32c8,5617,TPNET,ripencc,PL,TPNET
+490.0,stroeer.de,maria.ns.cloudflare.com,173.245.58.192,2606:4700:50::adf5:3ac0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+491.0,rubiks.com,ns4.ns.rubiks.com,184.73.194.43,,14618,AMAZON-AES,arin,US,Amazon Data Services NoVa
+492.0,sif-artois.fr,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+493.0,pandox.se,ns4-01.azure-dns.info,208.84.5.1,2620:1ec:bda:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+494.0,aroundtown.de,alice.ns.cloudflare.com,172.64.32.60,2803:f800:50::6ca2:c03c,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+495.0,veon.com,ns3-32.azure-dns.org,13.107.222.32,2a01:111:4000:10::20,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+496.0,sydbank.com,blue.foundationdns.net,162.159.60.31,2803:f800:52::a29f:3c1f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+497.0,hemnetgroup.se,clay.ns.cloudflare.com,172.64.33.88,2803:f800:50::6ca2:c158,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+498.0,synlab.com,d.ns14.net,74.208.254.231,2607:f1c0:1800:8091:74:208:254:254,8560,IONOS-AS This is the joint network for IONOS,arin,US,InterNetx Network Crew
+499.0,caap.aero,ns2.ascio.com,212.123.35.97,2604:4000:8000:d:212:123:35:97,12915,EPAG-AS,ripencc,DE,EPAG-MNT
+500.0,wihlborgs.se,dns3.telia.com,81.228.11.184,2001:2040:c001:104::5,3301,TELIANET-SWEDEN Telia Company,ripencc,SE,TELIANET-LIR
+501.0,bilfinger.com,ns1-06.azure-dns.com,13.107.236.6,2603:1061:0:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+502.0,kemira.com,ns4-02.azure-dns.info,208.84.5.2,2620:1ec:bda:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+503.0,cieautomotive.com,ns3.eurodns.com,199.167.66.108,2610:1c8:b002::108,23393,NUCDN,arin,US,NuCDN LLC
+504.0,nh-hotels.com,a26-67.akam.net,23.74.25.67,2600:1480:b800::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+505.0,pluxeegroup.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+506.0,aia.gr,pam.ns.cloudflare.com,172.64.32.138,2a06:98c1:50::ac40:208a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+507.0,merus.nl,ns3.flexwebhosting.com,185.231.200.133,,48635,CLDIN-NL Your.Online,ripencc,NL,CLDIN-MNT
+508.0,lagardere.com,ns3.nameshield.net,45.63.17.113,2a02:6ea0:e216::1,20473,AS-VULTR,arin,US,"Vultr Holdings, LLC"
+509.0,i94.cbp.dhs.gov,a7-64.akam.net,23.61.199.64,2600:1406:32::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+510.0,cargotec.com,edns1.ultradns.com,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+511.0,m.coface.com,ns-1534.awsdns-63.org,205.251.197.254,2600:9000:5305:fe00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+512.0,dhs.gov,keira.ns.cloudflare.com,172.64.34.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+513.0,ldc.com,pdns07.domaincontrol.com,97.74.111.53,2603:5:21f1::35,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+514.0,ebrofoods.es,ns2.ebrofoods.es,194.224.1.129,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,MAINT-AS3352
+515.0,rovi.es,dns25.servidoresdns.net,217.76.128.178,,8560,IONOS-AS This is the joint network for IONOS,ripencc,ES,ARSYS Role Object
+516.0,hexpol.com,chelsea.ns.cloudflare.com,108.162.194.177,2606:4700:50::a29f:26b1,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+517.0,carmila.com,amy.ns.cloudflare.com,173.245.58.101,2606:4700:50::adf5:3a65,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+518.0,brembo.com,ns8.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+519.0,erg.com,dnsauth2.sys.gtei.net,4.2.49.3,,3356,LEVEL3,arin,US,"Level 3 Parent, LLC"
+520.0,bakkafrost.com,ns-1941.awsdns-50.co.uk,205.251.199.149,2600:9000:5307:9500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+521.0,vivendi.com,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+522.0,lew.de,ns2.lewtelnet.de,212.118.216.2,2a02:f90:0:216::2,12886,LEWTELNET Oskar-von-Miller-Str. 1b,ripencc,DE,LEWTELNET-MNT
+523.0,glanbia.com,ns4.eu.topsec.com,78.46.147.245,,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+524.0,redcare-pharmacy.com,ns3.dnsmadeeasy.org,208.80.125.2,2600:1801:3::1,16552,DIGICERT,arin,US,Tiggee LLC
+525.0,sacyr.com,dns14.servidoresdns.net,82.223.218.138,,8560,IONOS-AS This is the joint network for IONOS,ripencc,ES,ARSYS-RIPE-MNT
+526.0,thulegroup.com,dns3.comlaude-dns.co.uk,198.51.44.75,2620:4d:4000:6259:7:11:0:3,62597,NSONE,arin,US,NSONE Inc
+527.0,cofinimmo.com,ns2.cloud.telenet.be,195.130.154.74,2a01:498:8101:4c0::200,6848,TELENET-AS,ripencc,BE,Technical Internet
+528.0,id-logistics.com,ns2.oleane.net,194.2.0.2,2a01:c910:8005:1c::2,3215,France Telecom - Orange,ripencc,FR,PC80199-MNT
+529.0,za.virbac.com,ns-24.awsdns-03.com,205.251.192.24,2600:9000:5300:1800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+530.0,acerinox.com,artemis.ttd.net,213.0.184.69,2a02:9000::1:3,3352,TELEFONICA_DE_ESPANA,ripencc,ES,Administradores Telefonica de Espana
+531.0,hugoboss.com,b.portsdns.net,94.16.23.1,2a00:11c0:3d::1,42354,ANX-CUSTOMER,ripencc,AT,ANEXIA-MNT
+532.0,kojamo.fi,ns4.yritysnet.org,35.228.29.185,,396982,GOOGLE-CLOUD-PLATFORM,arin,US,Google LLC
+533.0,alten.com,ns-53-b.gandi.net,213.167.230.54,2001:4b98:aaab::36,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+534.0,flatexdegiro.com,ns5.flatex.com,49.13.27.94,2a01:4f8:c010:8584::1,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+535.0,groupe-bel.com,ns3.safebrands.com,194.0.182.19,2a04:2b00:14ee::19,1921 207021,,ripencc,DE,CENTRALNIC-MNT
+536.0,asseco.com,rajeev.ns.cloudflare.com,108.162.193.224,2a06:98c1:50::ac40:21e0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+537.0,imerys.com,ns15.dnsmadeeasy.com,208.94.149.4,2600:1800:15::1,16552,DIGICERT,arin,US,Tiggee LLC
+538.0,loomis.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+539.0,tauron.pl,dns2.tauron.pl,195.245.224.4,,25557,PKE-AS ul. Sudecka 95-97,ripencc,PL,ATMAN NOC
+540.0,catena.se,ns1.zaccodns.com,194.58.193.52,2a01:3f1:452::53,8674,NETNOD-IX Netnod AB,ripencc,SE,Netnod Administrative Contact
+541.0,tag-ag.com,ns1.kcs-netz.de,212.162.56.27,,61157,PLUSSERVER-ASN1,ripencc,GB,LEVEL3-MNT
+542.0,hitta.se,ns-925.awsdns-51.net,205.251.195.157,2600:9000:5303:9d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+543.0,suedzucker.com,ns11.managed-ip.info,89.146.248.17,2a01:130:2000:118:89:146:248:17,8495,INTERNET_AG Frankfurt-Munich-Stuttgart-Amsterdam-London,ripencc,DE,AS8495-MNT
+544.0,embracer.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+545.0,remy-cointreau.com,obs.ns1.fr,81.92.91.46,2a01:c8:200:111::46,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+546.0,thenavigatorcompany.com,gate.soporcel.pt,88.157.210.142,,1897,EUNET,ripencc,PT,IP-MNT
+547.0,cyfrowypolsat.pl,dns02.polsat.net.pl,79.171.5.28,,41476,CYFROWYPOLSAT-AS,ripencc,PL,CYFROWYPOLSAT-MNT
+548.0,en.wikipedia.org,ns0.wikimedia.org,208.80.154.238,,14907,WIKIMEDIA,arin,US,Wikimedia Foundation Inc.
+549.0,moh.gr,ns2.moh.gr,162.159.1.246,2400:cb00:2049:1::a29f:1f6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+550.0,terna-energy.com,ns1.lamdahellix.com,31.177.63.58,,56910,LAMDAHELLIX,ripencc,GR,LamdaHellixNOC-MNT
+551.0,husqvarna.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+552.0,technogym.com,ns-33.awsdns-04.com,205.251.192.33,2600:9000:5300:2100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+553.0,fabege.se,ephemera.nmugroup.se,85.30.129.28,2a02:80:3ffe::28,34244,TELESERVICE,ripencc,SE,TELESERVICE-MNT
+554.0,helleniqenergy.gr,pam.ns.cloudflare.com,172.64.32.138,2a06:98c1:50::ac40:208a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+555.0,fls.com,ns4.brandshelter.net,193.227.117.10,2a04:2b00:14cc::10,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+556.0,lanxess.com,ns-1183.awsdns-19.org,205.251.196.159,2600:9000:5304:9f00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+557.0,caimmo.com,ns1.first-ns.de,213.239.242.238,2a01:4f8:0:a101::a:1,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+558.0,us.bic.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+559.0,billerud.com,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+560.0,usa.gov,dns2.gsa.gov,76.223.24.135,,16509,AMAZON-02,arin,US,"Amazon.com, Inc."
+561.0,btv.at,dns1.a1.net,80.120.17.26,2001:850:3030:31:80:120:17:26,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+562.0,altarea.com,dns102.ovh.net,213.251.188.146,2001:41d0:1:4a92::1,16276,OVH,ripencc,FR,OVH Technical Contact
+563.0,shop.samsonite.com,cbru.br.ns.els-gms.att.net,68.94.156.132,2001:1890:1ff:9f0:68:94:156:132,7018,ATT-INTERNET4,arin,US,"AT&T Enterprises, LLC"
+564.0,signify.com,ns1.ext.lighting.com,57.67.40.21,2a01:ce89:8001:0:57:67:40:21,51964,ORANGE-BUSINESS-SERVICES-IPSN-ASN,ripencc,IE,OBS2016-MNT
+565.0,truecaller.com,ns-cloud-c2.googledomains.com,216.239.34.108,2001:4860:4802:34::6c,15169,GOOGLE,arin,US,Google LLC
+566.0,cementirholding.com,ns4.eurodns.com,104.37.178.108,2610:1c8:b001::108,23393,NUCDN,arin,US,NuCDN LLC
+567.0,vicat.com,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+568.0,xtb.com,ns-542.awsdns-03.net,205.251.194.30,2600:9000:5302:1e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+569.0,vgpparks.eu,beta.ns.active24.cz,185.111.90.94,2a00:4b40:1000:590:185:111:90:94,51013,WEBSUPPORT-SRO-SK-AS,ripencc,HU,hu-gymlcstrhely-1-mnt
+570.0,melexis.com,ns4.eurodns.com,104.37.178.108,2610:1c8:b001::108,23393,NUCDN,arin,US,NuCDN LLC
+571.0,tradegate.de,ns02.wesystems.cloud,77.77.183.151,2a12:90c0:b0:46::70,3257,GTT-BACKBONE GTT,ripencc,US,AS3257-IPAM-MNT
+572.0,valeo.com,ns-616.awsdns-13.net,205.251.194.104,2600:9000:5302:6800::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+573.0,vanlanschotkempen.com,a4-64.akam.net,72.246.46.64,2600:1480:9000::40,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+574.0,hornbach.de,ns-a.eurodns.com,199.167.66.106,2610:1c8:b002::106,23393,NUCDN,arin,US,NuCDN LLC
+575.0,financiere-moncey.fr,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+576.0,sonae.pt,amy.ns.cloudflare.com,173.245.58.101,2606:4700:50::adf5:3a65,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+577.0,bure.se,dns3.oderland.com,46.246.43.220,2a00:1a28:1108:b::4:1,42708,GLESYS glesys.com,ripencc,SE,GLESYS-MNT
+578.0,proximus.com,ns1.skynet.be,195.238.3.17,,5432,PROXIMUS-ISP-AS,ripencc,BE,Belgacom Internet Expertise Center
+579.0,hufvudstaden.se,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+580.0,dhs.gov,keira.ns.cloudflare.com,162.159.38.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+581.0,atoss.com,ns3.dns.space.net,193.149.44.49,2001:608:0:f0f::f,5539,SPACENET SpaceNET AG,ripencc,DE,SPACENET-N
+582.0,almirall.us,ns2-02.azure-dns.net,150.171.21.2,2620:1ec:8ec:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+583.0,dermapharm.com,pri.mordac.de,82.98.82.22,,12306,PLUSLINE,ripencc,DE,Jonas Pasche
+584.0,graftonplc.com,ns4.demysdns.co.uk,198.51.44.19,2620:4d:4000:6259:7:19:0:1,62597,NSONE,arin,US,NSONE Inc
+585.0,peab.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+586.0,teamviewer.com,tv-ns1.teamviewer.com,217.146.18.1,2a00:11c0:aa1::1,42388,ANX-CLOUDDNS powered by ANX,ripencc,AT,ANEXIA-MNT
+587.0,trigano.fr,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+588.0,mfemediaforeurope.com,ns2.register.it,195.7.227.1,2604:e180:1032::ffff:6ba2:a719,8622,ISIONUK Team Blue Internet Services UK Ltd,ripencc,GB,AS8622-MNT
+589.0,post.at,dns1.a1.net,80.120.17.26,2001:850:3030:31:80:120:17:26,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+590.0,kinnevik.com,ns1.p201.dns.oraclecloud.net,108.59.166.201,2600:2000:2100::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+591.0,polestar.com,david.ns.cloudflare.com,108.162.193.152,2803:f800:50::6ca2:c198,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+592.0,umicore.com,ns4-09.azure-dns.info,208.84.5.9,2620:1ec:bda:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+593.0,ardaghmetalpackaging.com,kai.ns.cloudflare.com,108.162.193.188,2a06:98c1:50::ac40:21bc,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+594.0,carel.com,ns1.register.it,107.162.197.144,2604:e180:1032::ffff:6ba2:c590,55002,DEFENSE-NET,arin,US,"F5, Inc."
+595.0,betssonab.com,ns-525.awsdns-01.net,205.251.194.13,2600:9000:5302:d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+596.0,animasgr.it,dns1.animasgr.it,91.226.74.121,2a00:9520:0:10c6::79,56641,ANIMASGR,ripencc,IT,IT-ANIMA-SGR
+597.0,aperam.com,nsz.perf1.com,208.80.124.13,2600:1801:6::1,16552,DIGICERT,arin,US,Tiggee LLC
+598.0,mvv.de,abel-1.mvv.de,212.65.8.34,,21473,PFALZKOM Pfalzkom GmbH,ripencc,DE,MANET-RIPE-MNT
+599.0,storskogen.com,ns2.dnshost.net,185.167.176.1,2a0b:8e00:1::10,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT
+600.0,grupakety.com,dns3.mserwis.pl,185.221.110.3,,50599,Autonomous System for Dataspace P.S.A.,ripencc,PL,Michal Splawski trading as MSERWIS
+601.0,munters.com,dns1.zaccodigitaltrustlabs.com,208.94.148.4,,16552,DIGICERT,arin,US,Tiggee LLC
+602.0,ses.com,ns3-02.azure-dns.org,204.14.183.2,2a01:111:4000:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+603.0,solvac.be,ns104.ovh.net,213.251.128.148,2001:41d0:1:1994::1,16276,OVH,ripencc,FR,OVH Technical Contact
+,danieli.com,ns2a.btitalia.it,213.92.100.3,,3313,INET-AS,ripencc,IT,BTI Staff
+605.0,gerresheimer.com,ns2.nodesecure.de,176.97.158.102,2001:67c:10b8::102,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+606.0,airfranceklm.com,a1-101.akam.net,193.108.91.101,2600:1401:2::65,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+607.0,pmi.com,ha4.markmonitor.zone,162.219.55.170,2620:10a:80ec::6b,394354,CIRA-CLOUD2,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+608.0,ren.pt,ns1.ren.pt,185.165.105.4,,207112,REN,ripencc,PT,pt-ren-1-mnt
+609.0,gn.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+610.0,metroag.de,a7-67.akam.net,23.61.199.67,2600:1406:32::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+611.0,mainova.de,ns.mainova.de,194.127.224.210,,31352,MAINOVA-AS Solmsstrasse 38,ripencc,DE,Mainova AG Network Management
+612.0,tietoevry.com,ns7.tieto.com,131.207.48.22,2a03:9b80:7001:5::14,375,TIETOTIE-AS Keilalahdentie 2-4 02150 Espoo Finland,ripencc,FI,AS375-MNT
+613.0,add.life,ns1.dnshost.net,91.237.67.1,2a0b:8e00::10,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT
+614.0,intercars.com,karina.ns.cloudflare.com,172.64.32.178,2606:4700:50::adf5:3ab2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+615.0,einhell.de,aryanna.ns.cloudflare.com,172.64.34.95,2a06:98c1:50::ac40:225f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+616.0,al.se,ns4.p201.dns.oraclecloud.net,108.59.172.201,2600:2000:2130::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+617.0,dhs.gov,keira.ns.cloudflare.com,162.159.38.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+618.0,cenergyholdings.com,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+619.0,vitrolife.com,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+620.0,gekterna.com,ns1-35.azure-dns.com,150.171.10.35,2603:1061:0:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+621.0,grandcityproperties.com,earl.ns.cloudflare.com,172.64.33.161,2803:f800:50::6ca2:c1a1,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+622.0,pl.kruk.eu,ns1-05.azure-dns.com,13.107.236.5,2603:1061:0:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+623.0,schouw.dk,ns2.curanet.dk,91.197.248.75,2a02:2339:1:10f::123:123,48854,TEAM-BLUE-DENMARK,ripencc,DK,team.blue Denmark Network
+624.0,electrolux.com,a3-67.akam.net,96.7.49.67,2600:1408:1c::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+625.0,emeis.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+626.0,kws.go.ke,ns2.kenet.or.ke,41.89.1.3,,36914,KENET-AS,afrinic,KE,
+627.0,netcompany.com,ns.scannet2.dk,185.25.141.9,2a02:2339:4006:10d::4171:4171,48854,TEAM-BLUE-DENMARK,ripencc,DK,team.blue Denmark Network
+628.0,antin-ip.com,dns1.ddn.fr,5.39.103.89,,16276,OVH,ripencc,FR,Action Giratoire
+629.0,investors.bravida.com,ns3.hyp.net,151.249.126.3,2a01:5b40:ac3::1,208045,GRUNERNETT,ripencc,NO,DOMENESHOP-MNT
+630.0,paradoxinteractive.com,ns-1638.awsdns-12.co.uk,205.251.198.102,2600:9000:5306:6600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+631.0,newamsterdampharma.com,ns4.g02.cfdns.co.uk,192.188.176.2,2620:1f:8006::2,10908,CLOUDFLOORAS,arin,US,CloudfloorDNS
+632.0,peugeot-invest.com,ns1-c.nadns1.com,121.127.42.113,2a02:6ea0:e216:1::1,60068,CDN77 _,ripencc,GB,DATACAMP-MNT
+633.0,alleima.com,ns1.mtrltech.se,45.153.120.120,2a0f:af00:26:696:a11e:16da:0:53,208201,AS_ALLEIMA,ripencc,SE,Alleima
+634.0,soitec.com,ns3.as16101.net,158.69.217.198,2607:5300:201:3000::17c,16276,OVH,arin,CA,"OVH Hosting, Inc."
+635.0,enea.it,dns.casaccia.enea.it,192.107.71.13,,137,ASGARR Consortium GARR,ripencc,IT,GARR-LIR
+636.0,ovhcloud.com,ns104.ovh.net,213.251.128.148,2001:41d0:1:1994::1,16276,OVH,ripencc,FR,OVH Technical Contact
+637.0,vimian.com,ns4-03.azure-dns.info,208.84.5.3,2620:1ec:bda:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+638.0,zegna.com,a10-66.akam.net,96.7.50.66,2600:1480:d000::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+639.0,groupe-tf1.fr,ns1.coltfrance.com,212.74.78.59,,8220,COLT COLT Technology Services Group Limited,ripencc,GB,COLT Hostmaster
+640.0,elekta.com,ns-870.awsdns-44.net,205.251.195.102,2600:9000:5303:6600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+641.0,ipsos.com,iris.ns.cloudflare.com,108.162.192.118,2803:f800:50::6ca2:c076,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+642.0,sinch.com,ns-417.awsdns-52.com,205.251.193.161,2600:9000:5301:a100::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+643.0,groupem6.fr,ns.rtlnet.fr,92.61.160.150,2a03:4600:7112::96,44334,RTLNET-ASN,ripencc,FR,MNT-RTLNET
+644.0,gelsenwasser.de,ns1.rku-it.de,94.125.208.202,,34722,RKU,ripencc,DE,RKU-MNT
+645.0,bekaert.com,ns2-08.azure-dns.net,150.171.21.8,2620:1ec:8ec:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+646.0,metrovacesa.com,dns1.nominalia.com,107.162.136.128,2604:e180:1032::ffff:6ba2:8880,55002,DEFENSE-NET,arin,US,"F5, Inc."
+647.0,exclusive-networks.com,lucy.ns.cloudflare.com,172.64.32.133,2a06:98c1:50::ac40:2085,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+648.0,nccwebsite.org,ns84.worldnic.com,162.159.27.117,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+649.0,rhimagnesita.com,dns3.a1.net,176.97.158.105,2001:67c:10b8::105,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+650.0,vaisala.com,ns1-lou.vaisala.com,199.33.72.3,,14362,VAISALA1,arin,US,Vaisala Inc
+651.0,moltiplygroup.com,ns2.register.it,195.7.227.1,2604:e180:1032::ffff:6ba2:a719,8622,ISIONUK Team Blue Internet Services UK Ltd,ripencc,GB,AS8622-MNT
+652.0,robertet.com,ns3.nameshield.net,45.63.17.113,2001:19f0:5:353:5400:ff:fe37:618f,20473,AS-VULTR,arin,US,"Vultr Holdings, LLC"
+653.0,oem.se,dns03.ports.se,94.237.33.102,2a04:3540:1000:310:287e:f6ff:fe1d:4789,202053,UPCLOUD,ripencc,FI,MNT-UPCLOUD
+654.0,planisware.com,ns-30-a.gandi.net,173.246.100.31,2001:4b98:aaaa::1f,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+655.0,criteo.com,ns1.criteo.com,91.199.242.53,,19750 44788,,ripencc,FR,Criteo Network Operations Center
+656.0,cadeler.com,ns.dandomain.dk,185.25.141.3,2a02:2339:4006:109::dd,48854,TEAM-BLUE-DENMARK,ripencc,DK,team.blue Denmark Network
+657.0,eutelsat.com,maxine.ns.cloudflare.com,172.64.34.179,2803:f800:50::6ca2:c2b3,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+658.0,afry.com,ns2.p201.dns.oraclecloud.net,108.59.168.201,2600:2000:2110::c9,31898,ORACLE-BMC-31898,arin,US,"Dynamic Network Services, Inc."
+659.0,vitecsoftware.com,dns04.ports.net,158.255.211.116,2a03:f80:ed15:158:255:211:116:1,57169,EDIS-AS-EU,ripencc,AT,EDIS GmbH - Noc Engineer
+660.0,bavarian-nordic.com,ns07.sac-it.dk,85.235.243.63,,3308,TELIANET-DENMARK,ripencc,SE,TELIANET-LIR
+661.0,mm.group,ns2.mayr-melnhof.at,91.213.54.145,,51890,MAYR-MELNHOF,ripencc,AT,MAYRMELNHOF-MNT
+662.0,bff.com,wally.ns.cloudflare.com,108.162.192.239,2a06:98c1:50::ac40:20ef,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+663.0,wackerneuson.com,bayan.ns.cloudflare.com,172.64.33.72,2606:4700:58::adf5:3b48,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+664.0,cmb.tech,ns77.domaincontrol.com,97.74.108.49,2603:5:21c4::31,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+665.0,raiway.it,dnsso3.interbusiness.it,2.113.95.134,,3269,ASN-IBSNAZ,ripencc,IT,Interbusiness Network Administration Staff
+666.0,ociservices.gov.in,ns7.nic.in,164.100.4.10,,4758,NICNET-VSNL-BOARDER-AP National Informatics Centre,apnic,IN,NIC - Network Administrator
+667.0,hornbach-holding.de,ns4.eurodns.com,104.37.178.108,2610:1c8:b001::108,23393,NUCDN,arin,US,NuCDN LLC
+668.0,northerndata.de,ns1047.ui-dns.com,217.160.82.47,2001:8d8:fe:53:0:d9a0:522f:100,8560,IONOS-AS This is the joint network for IONOS,ripencc,DE,AS8560-MNT
+669.0,icade.fr,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+670.0,about.clasohlson.com,nordic.excedodns.net,162.219.55.130,2620:10a:80ec::42,394354,CIRA-CLOUD2,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+671.0,tessenderlo.com,ns3.register.be,83.217.73.172,2a00:1c98::53:1,34762,COMBELL-AS,ripencc,BE,COMBELL NOC
+672.0,galapagos.org,ns61.worldnic.com,162.159.26.185,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+673.0,argan.fr,a.dns.gandi.net,173.246.98.1,2604:3400:abca::1,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+674.0,sanoma.com,ns-94.awsdns-11.com,205.251.192.94,2600:9000:5300:5e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+675.0,pfeiffer-vacuum.com,ns.udag.net,185.132.33.253,2607:f1c0:fe:53:185:132:33:253,15418,IONOS-ANYCAST IONOS SE,ripencc,DE,AS8560-MNT
+676.0,elecnor.com,ns4.entorno.com,104.37.178.120,2610:1c8:b001::120,23393,NUCDN,arin,US,NuCDN LLC
+677.0,believe.com,aurora.ns.cloudflare.com,162.159.38.110,2606:4700:50::a29f:266e,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+678.0,terveystalo.com,ns2.edelkey.net,213.138.147.137,,1342,Fujitsu Invia Finland IP-network,ripencc,FI,AS1342-MNT
+679.0,grupoproeduca.com,ns-135-a.gandi.net,173.246.100.136,2001:4b98:aaaa::88,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+680.0,starbulk.com,dns2.papaki.gr,107.162.141.240,2604:e180:1032::ffff:6ba2:8df0,55002,DEFENSE-NET,arin,US,"F5, Inc."
+681.0,group.systemair.com,ns1.nodesecure.com,192.174.68.102,2001:67c:1bc::102,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+682.0,ceconomy.de,a4-65.akam.net,72.246.46.65,2600:1480:9000::41,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+683.0,kalmarglobal.com,edns1.ultradns.biz,204.74.67.1,2610:a1:1015::201,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+684.0,bioarctic.com,vasilii.ns.cloudflare.com,172.64.35.26,2a06:98c1:50::ac40:231a,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+685.0,gestamp.com,ns3-33.azure-dns.org,13.107.222.33,2a01:111:4000:10::21,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+,doco.com,ns2.nameservice.at,84.115.254.100,2a02:8383:d:200a::1,8412,TMA Magenta Telekom,ripencc,AT,AT-INODE-DOM
+687.0,fagron.com,ns1.combell.eu,89.44.166.48,2a00:1c98:50::50,34762,COMBELL-AS,ripencc,BE,COMBELL-MNT
+688.0,yubico.com,ns-cloud-e2.googledomains.com,216.239.34.110,2001:4860:4802:34::6e,15169,GOOGLE,arin,US,Google LLC
+,ksb.com,ns1.brandshelter.com,193.227.117.9,2a04:2b00:14cc::9,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+690.0,hellofresh.com,ns-1782.awsdns-30.co.uk,205.251.198.246,2600:9000:5306:f600::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+691.0,jeudan.dk,ns.dandomain.dk,185.25.141.3,2a02:2339:4006:109::dd,48854,TEAM-BLUE-DENMARK,ripencc,DK,team.blue Denmark Network
+692.0,qt.io,ns-175-a.gandi.net,173.246.100.176,2001:4b98:aaaa::b0,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+693.0,prodea.gr,dns1.papaki.gr,107.162.138.63,2604:e180:1032::ffff:6ba2:8a3f,55002,DEFENSE-NET,arin,US,"F5, Inc."
+694.0,cafmobility.com,ns1.sarenet.es,194.30.0.101,,3262,SARENET,ripencc,ES,MAINT-AS3262
+695.0,montea.com,ns3.combell.net,83.217.73.172,2a00:1c98::53:1,34762,COMBELL-AS,ripencc,BE,COMBELL NOC
+696.0,viohalco.com,ns4-08.azure-dns.info,208.84.5.8,2620:1ec:bda:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+697.0,outokumpu.com,ns2.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+698.0,biotest.com,b.managed-ns.de,176.97.158.102,2001:67c:10b8::102,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+699.0,saras.it,ns2.register.it,195.7.227.1,2604:e180:1032::ffff:6ba2:a719,8622,ISIONUK Team Blue Internet Services UK Ltd,ripencc,GB,AS8622-MNT
+700.0,eramet.com,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+701.0,aristongroup.com,pdns109.ultradns.net,156.154.65.109,2610:a1:1014::91,12008 397215 397220 397224 397235,,arin,US,"Vercara, LLC"
+702.0,durr.com,ns3-02.azure-dns.org,204.14.183.2,2a01:111:4000:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+703.0,deutsche-euroshop.de,b.ns14.net,217.160.113.231,2001:8d8:580:401:217:160:113:32,8560,IONOS-AS This is the joint network for IONOS,ripencc,DE,AS8560-MNT
+704.0,grenergy.eu,ns2.dondominio.com,87.117.96.3,,57910,SCIP-AS Soluciones Corporativas IP SCIP,ripencc,ES,SCIP-MNT
+705.0,gimv.com,ns1.cloud.telenet.be,85.255.200.200,2a01:498:8301:1c0::200,6848,TELENET-AS,ripencc,BE,Telenet BV
+706.0,fluxys.com,ns-245-c.gandi.net,217.70.187.246,2604:3400:aaac::f6,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+707.0,melia.com,a14-66.akam.net,184.26.161.66,2600:1480:1800::42,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+708.0,lindab.com,dns03.ports.se,94.237.33.102,2a04:3540:1000:310:287e:f6ff:fe1d:4789,202053,UPCLOUD,ripencc,FI,MNT-UPCLOUD
+709.0,tkhgroup.com,ns4-35.azure-dns.info,13.107.206.35,2620:1ec:bda:10::23,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+710.0,ubisoft.com,nic7.ubisoft.com,193.108.91.206,,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+711.0,np3fastigheter.se,a.ns14.net,62.116.159.231,,15456,INTERNETX-AS,ripencc,DE,IX1-MNT
+712.0,prosiebensat1.com,ns1.p7s1ns.de,192.174.68.103,2001:67c:1bc::103,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+713.0,opmobility.com,ns5.safebrands.tech,194.50.187.21,2a04:2b00:14dd::21,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+714.0,nwg.se,ns1.dnshost.net,91.237.67.1,2a0b:8e00::10,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT
+715.0,hafen-hamburg.de,ns3.second-ns.de,193.47.99.4,2001:67c:192c::add:b3,12337,NORIS-NETWORK IT Service Provider located in Nuernberg,ripencc,DE,Hetzner Online GmbH - Contact Role
+716.0,ohb.de,ns3.ns-network.org,94.130.121.2,,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+717.0,clariane.com,logan.ns.cloudflare.com,108.162.193.198,2a06:98c1:50::ac40:21c6,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+718.0,eurocommercialproperties.com,auth01.dns.trueserver.nl,213.193.210.2,2001:9a8:0:10::2,15703,TRUESERVER-AS TrueServer BV AS number,ripencc,NL,TRUESERVER-MNT
+719.0,worldline.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+720.0,bufab.com,dns04.ports.net,158.255.211.116,2a03:f80:ed15:158:255:211:116:1,57169,EDIS-AS-EU,ripencc,AT,EDIS GmbH - Noc Engineer
+721.0,hypoport.com,c.ns14.net,89.146.248.231,2a01:130:2000:118:89:146:248:231,8495,INTERNET_AG Frankfurt-Munich-Stuttgart-Amsterdam-London,ripencc,DE,AS8495-MNT
+722.0,diacorporate.com,ns4.entorno.com,104.37.178.120,2610:1c8:b001::120,23393,NUCDN,arin,US,NuCDN LLC
+723.0,evotec.com,ns4.eurodns.com,104.37.178.108,2610:1c8:b001::108,23393,NUCDN,arin,US,NuCDN LLC
+724.0,vossloh.com,ns2.domainkunden.de,20.113.63.118,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+725.0,hud.gov,ns3.hud.gov,170.97.167.45,2620:0:c92::167:45,8076,HUD,arin,US,Department of Housing and Urban Development
+,ww-ag.com,b.ns.ecotel.net,62.26.26.66,2001:4090::53:b,12312,ECOTEL,ripencc,DE,AS12312-MNT
+727.0,danaos.com,ns101.digicertdns.com,208.80.124.63,2600:1801:6::1:1f,16552,DIGICERT,arin,US,Tiggee LLC
+728.0,xior.be,ns4.european-server.com,86.39.202.67,2001:1598:0:101::3,28747,EASYHOST-COLO-AS,ripencc,BE,EASYHOST NOC
+729.0,kontron.com,ns12.dnsmadeeasy.com,208.80.126.4,2600:1802:12::1,16552,DIGICERT,arin,US,Tiggee LLC
+730.0,aarsleff.com,a.portsdns.se,45.54.35.101,2607:f740:e009::1,63911,NETACTUATE-AS-AP NetActuate,arin,US,"NetActuate, Inc"
+731.0,semapa.pt,dns.refertelecom.pt,81.90.54.99,,29003,REFERTELECOM-AS,ripencc,PT,IP Telecom Internet and Data Department
+732.0,faesfarma.com,ns1.sarenet.es,194.30.0.101,,3262,SARENET,ripencc,ES,MAINT-AS3262
+733.0,nolato.com,ns4.web-solutions.eu,194.50.187.226,2a04:2b00:14dd::226,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+734.0,basic-fit.com,a28-65.akam.net,95.100.173.65,2600:1480:d800::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+735.0,forvia.com,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+736.0,aq.com,nora.ns.cloudflare.com,108.162.192.213,2803:f800:50::6ca2:c0d5,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+737.0,dhs.gov,keira.ns.cloudflare.com,162.159.38.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+738.0,secunet.com,ns2.secunet.com,45.67.77.20,,209322,DE-SECUNET,ripencc,DE,mnt-de-secunet-1
+739.0,aixtron.com,a.managed-ns.com,192.174.68.102,2001:67c:1bc::102,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+740.0,engcon.com,ns1.dnshost.net,91.237.67.1,2a0b:8e00::10,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT
+741.0,intercos.com,ns-1852.awsdns-39.co.uk,205.251.199.60,2600:9000:5307:3c00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+742.0,metsagroup.com,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+743.0,prosegur.us,a7-67.akam.net,23.61.199.67,2600:1406:32::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+744.0,lisi-group.com,dns2.fc-net.fr,77.245.129.1,2a00:4fc0::2,39931,ASIPTEL,ripencc,FR,IPTELECOM-MNT
+745.0,pharmamar.com,ns2.pharmamar.com,62.81.208.172,,6739,ONO-AS Cableuropa - ONO,ripencc,ES,AIRTELNET-MNT
+746.0,doleplc.com,ns2-03.azure-dns.net,150.171.21.3,2620:1ec:8ec:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+747.0,cbp.gov,a8-65.akam.net,2.16.40.65,2600:1403:a::41,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+,ezag.com,nsb5.schlundtech.de,217.160.113.55,2001:8d8:580:401:217:160:113:55,8560,IONOS-AS This is the joint network for IONOS,ripencc,DE,AS8560-MNT
+749.0,constellium.com,ns-103-a.gandi.net,173.246.100.104,2001:4b98:aaaa::68,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+750.0,mtg.com,rocky.ns.cloudflare.com,173.245.59.227,2606:4700:58::adf5:3be3,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+751.0,aedashomes.com,ns-983.awsdns-58.net,205.251.195.215,2600:9000:5303:d700::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+752.0,denora.com,ns1a.btitalia.it,217.220.57.131,,8968,BT-ITALIA,ripencc,IT,ALBACOM-MNT
+753.0,friedrich-vorwerk.de,ns1.dts-online.net,84.201.73.35,2a00:1348:0:1:23::1,8879,DTS-SYSTEME DTS Systeme GmbH,ripencc,DE,DTS-ONLINE HOSTMASTER
+754.0,fiskars.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+755.0,salzgitter.de,c.ns14.net,89.146.248.231,2a01:130:2000:118:89:146:248:231,8495,INTERNET_AG Frankfurt-Munich-Stuttgart-Amsterdam-London,ripencc,DE,AS8495-MNT
+756.0,dhs.gov,keira.ns.cloudflare.com,162.159.38.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+757.0,juventus.com,ns2.softlayer.com,67.228.255.5,2607:f0d0:0:f:2::1,36351,SOFTLAYER,arin,US,IBM Cloud
+758.0,polenergia.pl,ns3.nazwa.pl,77.55.127.10,,15967,NETARTGROUP,ripencc,PL,NETART GROUP Administrator
+759.0,pnegroup.com,ns3.second-ns.de,193.47.99.4,2001:67c:192c::add:b3,12337,NORIS-NETWORK IT Service Provider located in Nuernberg,ripencc,DE,Hetzner Online GmbH - Contact Role
+760.0,granges.com,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+761.0,siltronic.com,ns2.lemarit.de,192.174.68.101,2001:67c:1bc::101,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+762.0,dhs.gov,keira.ns.cloudflare.com,162.159.38.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+763.0,optimaholdin.com,dns1.namecheaphosting.com,156.154.132.200,2610:a1:1024::200,12008 397231 397235,,arin,US,"Vercara, LLC"
+764.0,neurones.net,ns20.ovh.net,213.251.128.143,2001:41d0:1:198f::1,16276,OVH,ripencc,FR,OVH Technical Contact
+765.0,bfspa.it,dns2.deltacommerce.com,54.76.52.23,,16509,AMAZON-02,arin,US,Amazon Technologies Inc.
+766.0,thyssenkrupp-nucera.com,ns2.inwx.de,176.97.158.104,2001:67c:10b8::104,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+767.0,sesa.it,connie.ns.cloudflare.com,108.162.192.247,2a06:98c1:50::ac40:20f7,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+768.0,tecnicasreunidas.es,ns2-06.azure-dns.net,150.171.21.6,2620:1ec:8ec:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+769.0,cgm.com,dns2.teliko.net,217.17.28.162,2a01:5580:fffd:30::98,12360,KTK KEVAG Telekom GmbH,ripencc,DE,TELIKO-MNT
+770.0,cibusnordic.com,jaziel.ns.cloudflare.com,108.162.195.55,2803:f800:50::6ca2:c337,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+771.0,douglas.group,pdns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+772.0,neinorhomes.com,koa.ns.cloudflare.com,172.64.35.242,2803:f800:50::6ca2:c3f2,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+773.0,tarketthome.com,ns13.digicertdns.net,208.80.125.159,2600:1801:3::1:1f,16552,DIGICERT,arin,US,Tiggee LLC
+774.0,chemometec.com,ns01.one.com,195.206.121.10,2001:67c:28cc::10,197495,ONECOM-INFRA,ripencc,DK,One.com RIPE Administrators
+775.0,wavestone.com,ns2.eurodns.com,104.37.178.107,2610:1c8:b001::107,23393,NUCDN,arin,US,NuCDN LLC
+776.0,prosegurcash.com,a1-62.akam.net,193.108.91.62,2600:1401:2::3e,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+777.0,bancodesio.it,dns4.fastweb.it,213.140.22.93,2001:b00:4:8:3::,12874,FASTWEB,ripencc,IT,FASTWEB-MNT
+778.0,lenzing.com,ns2.markmonitor.com,176.97.158.1,2001:67c:10b8::1,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+779.0,credit-agricole.fr,a5-66.akam.net,95.100.168.66,2600:1480:b000::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+780.0,alzchem.com,ns6.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+781.0,dalatahotelgroup.com,edna.ns.cloudflare.com,108.162.192.109,2606:4700:50::adf5:3a6d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+782.0,corbion.com,ns2.openprovider.be,162.159.27.96,2400:cb00:2049:1::a29f:1b60,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+783.0,mercialys.com,ns3.safebrands.com,194.0.182.19,2a04:2b00:14ee::19,1921 207021,,ripencc,DE,CENTRALNIC-MNT
+784.0,trustpilot.com,ns-1198.awsdns-21.org,205.251.196.174,2600:9000:5304:ae00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+785.0,rusta.com,ns1-02.azure-dns.com,13.107.236.2,2603:1061:0:700::2,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+786.0,ramsaysante.fr,ns02.ramsaysante.fr,91.213.180.69,,29104,THALESGROUP-AS,ripencc,FR,JAGUAR-MNT
+787.0,inwido.com,unit.nmugroup.com,217.10.116.210,2001:4db8:e004::2,35706,NAO,ripencc,SE,Net at Once NOC
+788.0,barco.com,auth50.ns.be.uu.net,194.7.15.66,2001:600:1c0:e001::35:4,702,UUNET,ripencc,BE,AS2822-MNT
+789.0,en.aegeanair.com,ns4-05.azure-dns.info,208.84.5.5,2620:1ec:bda:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+790.0,adtran.com,ns-670.awsdns-19.net,205.251.194.158,2600:9000:5302:9e00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+791.0,mekongrivercruises.com,ns2kqz.name.com,163.114.216.49,2402:cf80:107::1,62597,NSONE,ripencc,DE,IP Registrar
+792.0,puuilo.fi,ns2-fin.global.sonera.fi,195.156.148.158,2001:2060:ffdd:a02::53,1759,TSF-IP-CORE Telia Finland Oyj,ripencc,FI,DATANET-NOC
+793.0,mildef.com,ns2.dnshost.net,185.167.176.1,2a0b:8e00:1::10,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT
+794.0,ctt.pt,dns2.ctt.pt,62.28.143.223,,15525,MEO-EMPRESAS,ripencc,PT,AS15525-MNT
+795.0,italmobiliare.it,ns2.register.it,195.7.227.1,2604:e180:1032::ffff:6ba2:a719,8622,ISIONUK Team Blue Internet Services UK Ltd,ripencc,GB,AS8622-MNT
+796.0,befesa.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+797.0,biotage.com,ns2.rrpproxy.net,194.50.187.226,2a04:2b00:14dd::226,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+798.0,en.rhoen-klinikum-ag.com,pns.dtag.de,194.25.0.125,2003:40:8000::100,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+799.0,draeger.com,b.ns14.net,217.160.113.231,2001:8d8:580:401:217:160:113:32,8560,IONOS-AS This is the joint network for IONOS,ripencc,DE,AS8560-MNT
+800.0,palfinger.com,adns003.conova.at,213.153.32.230,2a03:c400:11:ffff::230,8445,SALZBURG-AG-AS,ripencc,AT,SALZBURG-MNT
+801.0,bilia.com,dns03.ports.se,94.237.33.102,2a04:3540:1000:310:287e:f6ff:fe1d:4789,202053,UPCLOUD,ripencc,FI,MNT-UPCLOUD
+802.0,gaslogltd.com,auth200.ns.uu.net,195.129.12.82,2001:600:1c0:e000::35:2,702,UUNET,ripencc,NL,UUNET-IP-MNT
+803.0,dometicgroup.com,ns2.domainnetwork.se,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+804.0,amorim.com,ns1.ptempresas.pt,62.28.40.139,,15525,MEO-EMPRESAS,ripencc,PT,AS15525-MNT
+805.0,jenoptik.com,ns1.jenoptik.com,185.116.37.98,2a06:7b80:3641:52::98,204052,JENOPTIK,ripencc,DE,de-jenoptik-1-mnt
+806.0,credit-agricole.fr,a5-66.akam.net,95.100.168.66,2600:1480:b000::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+807.0,st-group.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+808.0,americas.sanlorenzoyacht.com,leah.ns.cloudflare.com,173.245.58.129,2a06:98c1:50::ac40:2081,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+809.0,elmos.com,d.ns14.net,74.208.254.231,2607:f1c0:1800:8091:74:208:254:254,8560,IONOS-AS This is the joint network for IONOS,arin,US,InterNetx Network Crew
+810.0,telia.lt,cash.ns.cloudflare.com,108.162.193.81,2803:f800:50::6ca2:c151,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+811.0,nagarro.com,ns4.dnsmadeeasy.com,208.80.127.2,2600:1802:4::1,16552,DIGICERT,arin,US,Tiggee LLC
+812.0,es.fr,dns2.sdv.fr,212.95.66.58,2001:810:0:2::58,8839,SDV-AS SdV Plurimedia,ripencc,FR,SDV
+813.0,voltalia.com,ns1.amen.fr,107.162.197.147,2604:e180:1032::ffff:6ba2:c593,55002,DEFENSE-NET,arin,US,"F5, Inc."
+814.0,grupapracuj.pl,ernest.ns.cloudflare.com,108.162.193.164,2606:4700:58::adf5:3ba4,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+815.0,nokiantyres.com,ns-fi.elisa.net,193.229.0.49,,719,ELISA-AS ELISA OYJ,ripencc,FI,ELISA-MNT
+816.0,derichebourg.com,nsz.perf1.com,208.80.124.13,2600:1801:6::1,16552,DIGICERT,arin,US,Tiggee LLC
+817.0,adient.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+818.0,zealnetwork.de,sara.ns.cloudflare.com,108.162.192.144,2803:f800:50::6ca2:c090,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+819.0,creades.se,dns9.telia.com,81.228.11.184,2001:2040:c001:104::5,3301,TELIANET-SWEDEN Telia Company,ripencc,SE,TELIANET-LIR
+820.0,investors.mytheresa.com,ns-1248.awsdns-28.org,205.251.196.224,2600:9000:5304:e000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+821.0,en.wikipedia.org,ns2.wikimedia.org,198.35.27.27,,14907,WIKIMEDIA,arin,US,Wikimedia Foundation Inc.
+822.0,mum.de,ns2.manandmachine.de,193.158.24.131,,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+823.0,cimpress.com,ns-cloud-e2.googledomains.com,216.239.34.110,2001:4860:4802:34::6e,15169,GOOGLE,arin,US,Google LLC
+824.0,retailestates.com,ns.online.be,135.125.206.165,,16276,OVH,ripencc,FR,OVH GmbH
+825.0,volati.se,dns3.epm.se,5.150.237.163,2001:9b0:1:3542::10,8473,BAHNHOF,ripencc,SE,BAHNHOF-NCC
+826.0,ferragamo.com,ns6.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+827.0,deutz.com,ns6.dnsmadeeasy.com,208.80.124.13,2600:1801:6::1,16552,DIGICERT,arin,US,Tiggee LLC
+828.0,electricanet.com,ns1.customwebserver.gr,139.177.181.5,,63949,AKAMAI-LINODE-AP Akamai Connected Cloud,arin,US,Linode
+829.0,hartmann.info,dns2.hartmann.info,193.30.138.34,,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+830.0,xvivogroup.com,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+831.0,amrest.eu,ns1-07.azure-dns.com,13.107.236.7,2603:1061:0:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+832.0,frey.fr,ns-169-c.gandi.net,217.70.187.170,2604:3400:aaac::aa,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+833.0,mlp-se.com,ns2.mlp.de,195.170.185.66,,41699,MLP-AS,ripencc,DE,Braintower MLP Team
+834.0,fnacdarty.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+835.0,amag-al4u.com,ns3.domaintechnik.at,213.145.232.70,,25575,DOMAINTECHNIK,ripencc,AT,DOMTECH
+836.0,eurotelesites.com,dns2.a1.net,213.33.99.79,2001:67c:1bc::105,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+837.0,mediaset.es,a1-15.akam.net,193.108.91.15,2600:1401:2::f,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+838.0,ferrettigroup.com,ns2-09.azure-dns.net,150.171.21.9,2620:1ec:8ec:700::9,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+839.0,montepino.net,dns36.servidoresdns.net,82.223.218.150,,8560,IONOS-AS This is the joint network for IONOS,ripencc,ES,ARSYS-RIPE-MNT
+,savencia-fromagedairy.com,c.ns.domainoo.fr,51.195.181.92,2001:41d0:800:219b::,16276,OVH,ripencc,FR,OVH Ltd
+841.0,sedlmayr-ag.de,ns14.domaincontrol.com,173.201.74.7,2603:5:22a0::7,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+842.0,vetoquinolusa.com,ns5.safebrands.tech,194.50.187.21,2a04:2b00:14dd::21,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+843.0,edreamsodigeo.com,ns1.odigeo.com,162.159.8.203,2400:cb00:2049:1::a29f:8cb,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+844.0,karnovgroup.com,hank.ns.cloudflare.com,173.245.59.116,2a06:98c1:50::ac40:2174,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+845.0,corporate.kinepolis.com,a4-67.akam.net,72.246.46.67,2600:1480:9000::43,21342,AKAMAI-ASN2,arin,US,"Akamai Technologies, Inc."
+846.0,lectra.com,ns.lectra.com,217.109.68.120,,3215,France Telecom - Orange,ripencc,FR,OLEANE Hostmaster
+847.0,solariaenergia.com,dns2.efor.es,93.92.232.250,,44585,EFOR AS Efor,ripencc,ES,EFOR MNT
+848.0,altareit.com,ns101.ovh.net,213.251.128.145,2001:41d0:1:1991::1,16276,OVH,ripencc,FR,OVH Technical Contact
+849.0,mbb.com,ns1.dts-online.net,84.201.73.35,2a00:1348:0:1:23::1,8879,DTS-SYSTEME DTS Systeme GmbH,ripencc,DE,DTS-ONLINE HOSTMASTER
+850.0,compagniedesalpes.com,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+,viel.com,ns102.boursedirect.fr,208.80.124.13,,16552,DIGICERT,arin,US,Tiggee LLC
+852.0,mipscorp.com,global.excedodns.com,194.58.198.48,2a01:3f1:3048::53,56908,NETNOD-NDS $Id: aut-num_AS56908,ripencc,SE,Netnod Administrative Contact
+,sto.com,ns5.xc-ns.de,194.50.187.172,,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+854.0,arjo.com,dns-c.buildit.eu,162.219.55.140,2620:10a:80ec::4c,394354,CIRA-CLOUD2,arin,CA,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet
+855.0,spadel.com,ns14.ovh.net,213.251.128.133,2001:41d0:1:1985::1,16276,OVH,ripencc,FR,OVH Technical Contact
+856.0,adecoagro.com,ns1.dnsmadeeasy.com,208.80.124.2,2600:1801:1::1,16552,DIGICERT,arin,US,Tiggee LLC
+857.0,pharvaris.com,ns1.variomedia.de,185.95.96.53,2a00:1c3e:96::53,8561 50611,,ripencc,DE,Knipp Hostmaster
+858.0,comerindustries.com,dns8.interbusiness.it,151.99.125.8,,3269,ASN-IBSNAZ,ripencc,IT,Interbusiness Network Administration Staff
+859.0,cancom.com,ns1-05.azure-dns.com,13.107.236.5,2603:1061:0:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+860.0,dynavoxgroup.com,dns03.ports.se,94.237.33.102,2a04:3540:1000:310:287e:f6ff:fe1d:4789,202053,UPCLOUD,ripencc,FI,MNT-UPCLOUD
+861.0,ir.tokmanni.fi,ns4-37.azure-dns.info,13.107.206.37,2620:1ec:bda:10::25,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+862.0,cembre.com,ns1.register.it,107.162.197.144,2604:e180:1032::ffff:6ba2:c590,55002,DEFENSE-NET,arin,US,"F5, Inc."
+863.0,gvs.com,brynne.ns.cloudflare.com,108.162.194.65,2803:f800:50::6ca2:c241,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+864.0,en.wikipedia.org,ns2.wikimedia.org,198.35.27.27,,14907,WIKIMEDIA,arin,US,Wikimedia Foundation Inc.
+865.0,develia.pl,ns110.ovh.net,213.251.128.154,2001:41d0:1:199a::1,16276,OVH,ripencc,FR,OVH Technical Contact
+866.0,cosmopharma.com,ns-cloud-a1.googledomains.com,216.239.32.106,2001:4860:4802:32::6a,15169,GOOGLE,arin,US,Google LLC
+867.0,ovscorporate.it,ns3.aversus.com,51.79.31.111,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+868.0,exail-technologies.com,a.dns.gandi.net,173.246.98.1,2604:3400:abca::1,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+869.0,neuca.pl,ns3-05.azure-dns.org,204.14.183.5,2a01:111:4000:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+870.0,zignagovetro.com,ns1.register.it,107.162.197.144,2604:e180:1032::ffff:6ba2:c590,55002,DEFENSE-NET,arin,US,"F5, Inc."
+871.0,gag-koeln.de,dns14.netcologne.de,144.76.91.137,2a01:4f8:192:2187::2,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+872.0,manitou-group.com,d.ns.domainoo.fr,51.79.193.166,2402:1f00:8000:344::,16276,OVH,arin,CA,OVH Singapore PTE. LTD
+873.0,elvalhalcor.com,ns3-05.azure-dns.org,204.14.183.5,2a01:111:4000:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+874.0,navigoinvest.com,ns02.one.com,185.10.11.10,2001:67c:3c0::10,51468,ONECOM,ripencc,DK,MNT-LARSEN
+875.0,jost-world.com,ns3167.ispapi.net,193.227.117.167,,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+876.0,harvia.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+877.0,placo.fr,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+878.0,avadel.com,ns1-05.azure-dns.com,13.107.236.5,2603:1061:0:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+879.0,momentum.group,dns3.zaccodigitaltrustlabs.se,208.80.125.4,,16552,DIGICERT,arin,US,Tiggee LLC
+880.0,bks.at,dns2.a1.net,213.33.99.79,2001:67c:1bc::105,8447,A1TELEKOM-AT A1 Telekom Austria AG,ripencc,AT,Abuse Admin Highway
+881.0,ams-osram.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+882.0,us.agrana.com,ens01.drei.host,194.24.129.61,,25255,H3G-AUSTRIA-AS TELE2 AUSTRIA ,ripencc,AT,AS12635-MNT
+883.0,realia.es,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+884.0,pfandbriefbank.com,ns4.edns.de,149.13.77.2,2001:978:90f::1:104,214319,BLACKPOINT,arin,US,"PSINet, Inc."
+885.0,troax.com,dns04.ports.net,158.255.211.116,2a03:f80:ed15:158:255:211:116:1,57169,EDIS-AS-EU,ripencc,AT,EDIS GmbH - Noc Engineer
+886.0,norionbank.se,ns2-01.azure-dns.net,150.171.21.1,2620:1ec:8ec:700::1,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+887.0,see.asseco.com,ns4-04.azure-dns.info,208.84.5.4,2620:1ec:bda:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+888.0,reveniogroup.fi,ns2-04.azure-dns.net,150.171.21.4,2620:1ec:8ec:700::4,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+889.0,cloetta.com,ns2.netnames.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+890.0,aktia.com,ns-fi.elisa.net,193.229.0.49,,719,ELISA-AS ELISA OYJ,ripencc,FI,ELISA-MNT
+,bergmanbeving.com,dns4.zaccodigitaltrustlabs.se,208.80.127.4,,16552,DIGICERT,arin,US,Tiggee LLC
+892.0,ponsse.com,ns2-fin.global.sonera.fi,195.156.148.158,2001:2060:ffdd:a02::53,1759,TSF-IP-CORE Telia Finland Oyj,ripencc,FI,DATANET-NOC
+893.0,ntg.com,ns4.eurodns.com,104.37.178.108,2610:1c8:b001::108,23393,NUCDN,arin,US,NuCDN LLC
+894.0,ence.es,ns2.telefonica-data.com,213.4.194.5,,3352,TELEFONICA_DE_ESPANA,ripencc,ES,ES TIC MANAGEMENT
+895.0,dhs.gov,keira.ns.cloudflare.com,172.64.34.206,2a06:98c1:50::ac40:22ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+896.0,piovan.com,elsa.ns.cloudflare.com,172.64.32.111,2803:f800:50::6ca2:c06f,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+897.0,gruppoascopiave.it,ns3.acantho.net,213.174.162.126,2a03:c380:4010:0:213:174:160:2,21309,CASAWEB-AS Via Molino Rosso 8 IMOLA BO ITALY,ripencc,IT,CASAWEB-MNT
+898.0,cewe-group.com,dns02.cewedigital.de,193.169.76.102,,49494,CEWECOLOR-AS,ripencc,DE,EWETEL-MNT
+899.0,groupe-seche.com,nsc.perf1.com,152.89.172.100,2a09:35c0:102::100,209510,NAMESHIELDGRP,ripencc,FR,MNT-NAMESHIELD
+900.0,curevac.com,ns.second-ns.com,213.239.204.242,2a01:4f8:0:a101::b:1,24940,HETZNER-AS,ripencc,DE,Hetzner Online GmbH - Contact Role
+901.0,groupe-crit.com,ns-80-c.gandi.net,217.70.187.81,2604:3400:aaac::51,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+902.0,nexaresources.com,ns3-08.azure-dns.org,204.14.183.8,2a01:111:4000:700::8,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+903.0,ds-norden.com,ns1.eurodns.com,199.167.66.107,2610:1c8:b002::107,23393,NUCDN,arin,US,NuCDN LLC
+904.0,credit-agricole.fr,a5-66.akam.net,95.100.168.66,2600:1480:b000::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+905.0,synergie.com,nsb.perf1.com,81.92.95.100,2a01:c8:101::100,20756,NAMESHIELD,ripencc,FR,MNT-NAMESHIELD
+,kloeckner.com,a.managed-ns.com,192.174.68.102,2001:67c:1bc::102,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+907.0,elengroup.com,ns2.9netweb.it,31.14.130.20,,31034,ARUBA-ASN,ripencc,IT,ARUBA Network Core
+908.0,group.tfbank.se,udns1.cscdns.net,204.74.66.1,2001:502:f3ff::201,397215 397219 397220 397224 397231 397233,,arin,US,"Vercara, LLC"
+909.0,audaxrenovables.com,ns5.cdmondns-01.com,52.59.146.62,,16509,AMAZON-02,arin,US,A100 ROW GmbH
+910.0,admieholding.gr,dns2.papaki.gr,107.162.141.240,2604:e180:1032::ffff:6ba2:8df0,55002,DEFENSE-NET,arin,US,"F5, Inc."
+911.0,mustigroup.com,ns-272.awsdns-34.com,205.251.193.16,2600:9000:5301:1000::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+912.0,bettercollective.com,june.ns.cloudflare.com,172.64.32.176,2a06:98c1:50::ac40:20b0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+913.0,olvigroup.fi,abby.ns.cloudflare.com,108.162.192.100,2a06:98c1:50::ac40:2064,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+914.0,larespana.com,ns1.dns33delos.net,185.92.245.224,,201446,PROFESIONALHOSTING,ripencc,ES,PROFESIONALHOSTING-MNT
+,kbhome.com,udns2.cscdns.uk,204.74.111.1,2001:502:4612::201,12008 397231 397235,,arin,US,"Vercara, LLC"
+916.0,mutares.com,stanley.ns.cloudflare.com,162.159.44.141,2a06:98c1:50::ac40:238d,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+917.0,jsw.pl,tony.ns.cloudflare.com,173.245.59.240,2a06:98c1:50::ac40:21f0,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+918.0,sipef.com,ns4.combell.net,86.39.202.67,2001:1598:0:101::3,28747,EASYHOST-COLO-AS,ripencc,BE,EASYHOST NOC
+919.0,uniqure.com,dns.resolver.domains,185.109.216.162,2a05:1500:600:0:1c00:1ff:fe00:9e,48635,CLDIN-NL Your.Online,ripencc,NL,CLDIN-MNT
+920.0,exmar.com,ns2.cloud.telenet.be,195.130.154.74,2a01:498:8101:4c0::200,6848,TELENET-AS,ripencc,BE,Technical Internet
+921.0,beneteau.com,indom30.indomco.fr,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+922.0,ontex.com,ns2-07.azure-dns.net,150.171.21.7,2620:1ec:8ec:700::7,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+923.0,pierreetvacances.com,ns-1746.awsdns-26.co.uk,205.251.198.210,2600:9000:5306:d200::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+924.0,verbio-north-america.com,ns1.webmatic.de,185.184.215.4,2a02:238:f031::4,16097,HLKOMM 04107 Leipzig,ripencc,DE,WMT-MNT
+925.0,toureiffel.paris,ns4.safebrands.org,193.227.117.20,2a04:2b00:14cc::20,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+926.0,eliorgroup.com,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+927.0,aramis.group,eric.ns.cloudflare.com,108.162.193.112,2803:f800:50::6ca2:c170,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+928.0,xfab.com,extdns2.thesys.de,195.145.42.5,,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+929.0,adesso.de,ns02.adesso-group.com,85.22.68.67,,15763,ASDOKOM,ripencc,DE,DOKOM21 Hostmaster
+930.0,dfds.com,ns-1679.awsdns-17.co.uk,205.251.198.143,2600:9000:5306:8f00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+931.0,gl-events.co.za,dns1.cscdns.net,156.154.130.100,2610:a1:1022::100,12008 397213 397231 397235,,arin,US,"Vercara, LLC"
+932.0,suss.com,ns21.worldnic.com,162.159.26.132,,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+933.0,ads-tec-energy.com,ns1.telekom.net,212.185.24.65,2003:180:a:1000::53,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+934.0,gft.com,dns2.cscdns.net,156.154.131.100,2610:a1:1023::100,12008 397215 397219 397220 397224,,arin,US,"Vercara, LLC"
+935.0,assecobs.pl,ns1.assecobs.pl,193.138.208.134,,34284,ASSECOBS-CPDL,ripencc,PL,Asseco Business Solutions S.A
+936.0,citycon.com,ns3.dnadns.fi,80.64.12.65,2001:6e8:0:1::5:2,16086,DNA,ripencc,FI,DNA Registry
+937.0,synsamgroup.com,dns03.ports.se,94.237.33.102,2a04:3540:1000:310:287e:f6ff:fe1d:4789,202053,UPCLOUD,ripencc,FI,MNT-UPCLOUD
+938.0,holding.wp.pl,ns1.task.gda.pl,153.19.250.101,2001:4070:1::101,5550,TASK-AS Gdansk University of Technology,ripencc,PL,"Technical University of Gdansk, Academic Computer Center TASK"
+939.0,patrizia.ag,abby.ns.cloudflare.com,108.162.192.100,2a06:98c1:50::ac40:2064,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+940.0,credit-agricole.fr,a5-66.akam.net,95.100.168.66,2600:1480:b000::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+941.0,indus.eu,nsb6.schlundtech.de,217.160.113.56,2001:8d8:580:401:217:160:113:56,8560,IONOS-AS This is the joint network for IONOS,ripencc,DE,AS8560-MNT
+942.0,logistea.se,coleman.ns.cloudflare.com,172.64.35.64,2606:4700:58::a29f:2c40,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+943.0,atal.com,ns3.atal.com.hk,202.131.32.214,,4760,HKTIMS-AP HKT Limited,apnic,HK,PCCW IMS Ltd (PCCW Business Internet Access)
+944.0,marr.it,ns2.register.it,195.7.227.1,2604:e180:1032::ffff:6ba2:a719,8622,ISIONUK Team Blue Internet Services UK Ltd,ripencc,GB,AS8622-MNT
+945.0,muehlbauer.de,pns.dtag.de,194.25.0.125,2003:40:8000::100,3320,DTAG Internet service provider operations,ripencc,DE,DTAG-NIC
+946.0,mgi.group,ns1.domaindiscount24.net,193.227.117.34,2a04:2b00:14cc::34,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,DE,CENTRALNIC-MNT
+947.0,grenke.com,ns3.weblease-europe.com,217.25.131.61,,21234,GRENKE,ripencc,DE,DMAYER-MNT
+948.0,autopartner.com,ns3.nazwa.pl,77.55.127.10,,15967,NETARTGROUP,ripencc,PL,NETART GROUP Administrator
+949.0,piaggio.com,ns3.piaggio.com,193.178.235.27,,21176,ASN-DEBIS,ripencc,IT,ENG-MO-MNT
+950.0,plejd.com,ns-1853.awsdns-39.co.uk,205.251.199.61,2600:9000:5307:3d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+951.0,credit-agricole.fr,a5-66.akam.net,95.100.168.66,2600:1480:b000::42,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+952.0,thermador-groupe.fr,dns15.ovh.net,213.251.188.134,2001:41d0:1:4a86::1,16276,OVH,ripencc,FR,OVH Technical Contact
+953.0,dhs.gov,keira.ns.cloudflare.com,172.64.34.206,2606:4700:50::a29f:26ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+954.0,kempower.com,dns01.dipcon.com,193.14.90.50,2a00:801:fb:253::4,1257,TELE2,ripencc,SE,SWIPNET-LIR-MNT
+955.0,recticel.com,ns1.combell.eu,89.44.166.48,2a00:1c98:50::50,34762,COMBELL-AS,ripencc,BE,COMBELL-MNT
+956.0,sbbnorden.se,janet.ns.cloudflare.com,172.64.32.169,2606:4700:50::adf5:3aa9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+957.0,energiekontor.com,ns.exedra.de,185.195.148.101,,16509,AMAZON-02,ripencc,DE,LV22228-MNT
+958.0,oeneo.com,b.dns.gandi.net,213.167.229.1,2001:4b98:abcb::1,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,ripencc,FR,GANDI-NOC
+959.0,dhs.gov,keira.ns.cloudflare.com,172.64.34.206,2606:4700:50::a29f:26ce,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+960.0,stabilus.com,ns02.c-werke.de,87.238.190.11,2a02:8c0:20::7,39257,INC,ripencc,DE,Interactive Network Communcations GmbH Role Account
+961.0,yitgroup.com,ns-fi.elisa.net,193.229.0.49,,719,ELISA-AS ELISA OYJ,ripencc,FI,ELISA-MNT
+962.0,archicom.pl,jen.ns.cloudflare.com,108.162.194.185,2803:f800:50::6ca2:c2b9,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+963.0,tomtom.com,a1-248.akam.net,193.108.91.248,2600:1401:2::f8,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+964.0,africom.mil,ns02.army.mil,192.82.113.7,,367,DNIC-ASBLK-00306-00371,arin,US,"Headquarters, USAISC"
+,ats.net,dns.t-systems.at,212.31.86.120,2001:9d0:0:1::120,8387,T-SYSTEMS-AT Rennweg 97-99,ripencc,AT,AS8387 NOC
+966.0,scanfil.com,ns2-05.azure-dns.net,150.171.21.5,2620:1ec:8ec:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+967.0,laurent-perrier.com,ns4.hexanet.fr,81.23.32.177,2a00:fc8:0:5:81:23:32:177,34863,HEXANET,ripencc,FR,HEXANET-MNT
+968.0,equasens.com,ns1.pharmagest.com,194.8.150.7,,197485,AS-EQUASENS-PHARMAGEST,ripencc,FR,EQUASENS-DSI
+969.0,filagroup.it,ns1.register.it,107.162.197.144,2604:e180:1032::ffff:6ba2:c590,55002,DEFENSE-NET,arin,US,"F5, Inc."
+970.0,alandsbanken.com,ns-77.awsdns-09.com,205.251.192.77,2600:9000:5300:4d00::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+971.0,washtec.com,ns2.nic53.de,176.97.158.103,2001:67c:10b8::103,207021,RCODEZERO-ANYCAST-SEC2 RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+972.0,salzwerke.de,ns1-03.azure-dns.com,13.107.236.3,2603:1061:0:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+973.0,burelle.fr,ns3.nameshield.net,45.63.17.113,2001:19f0:5:353:5400:ff:fe37:618f,20473,AS-VULTR,arin,US,"Vultr Holdings, LLC"
+974.0,mondadorigroup.com,ns-1733.awsdns-24.co.uk,205.251.198.197,2600:9000:5306:c500::1,16509,AMAZON-02,arin,US,Amazon Data Services NoVa
+975.0,sma-america.com,ns1.eurodns.com,199.167.66.107,2610:1c8:b002::107,23393,NUCDN,arin,US,NuCDN LLC
+976.0,autohellas.gr,ns4-05.azure-dns.info,208.84.5.5,2620:1ec:bda:700::5,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+977.0,gtcgroup.com,ns07.domaincontrol.com,97.74.103.4,2603:5:2170::4,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+978.0,quadient.com,ns4-06.azure-dns.info,208.84.5.6,2620:1ec:bda:700::6,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+979.0,r4.com,dns1.renta4.es,185.48.90.121,,202210,RENTA4_AS,ripencc,ES,Renta4 Admin
+980.0,credit-agricole.fr,a18-64.akam.net,95.101.36.64,2600:1480:4800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+981.0,nederman.com,armando.ns.cloudflare.com,108.162.195.225,2803:f800:50::6ca2:c3e1,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+982.0,attica-group.com,ns2-03.azure-dns.net,150.171.21.3,2620:1ec:8ec:700::3,8075,MICROSOFT-CORP-MSN-AS-BLOCK,arin,US,Microsoft Corporation
+983.0,frequentis.com,ns1.nameservice.at,46.125.235.217,2001:4bc8:2000:702::1,8412,TMA Magenta Telekom,ripencc,AT,AS8412-MNT
+984.0,sligrofoodgroup.nl,paloma.ns.cloudflare.com,162.159.38.168,2606:4700:50::a29f:26a8,13335,CLOUDFLARENET,arin,US,"Cloudflare, Inc."
+985.0,bahnhof.se,ns.bahnhof.net,195.178.160.1,2001:9b0::53:4,8473,BAHNHOF,ripencc,SE,BAHNHOF-NCC
+986.0,envitec-biogas.com,nsa8.schlundtech.de,62.116.159.18,,15456,INTERNETX-AS,ripencc,DE,IX1-MNT
+987.0,immatics.com,shades13.rzone.de,185.132.34.140,2607:f1c0:fe:53:185:132:34:140,15418,IONOS-ANYCAST IONOS SE,ripencc,DE,AS8560-MNT
+988.0,pharming.com,dns2.registrar-servers.com,,,,,,,
+989.0,nuernberger.de,ns2.m-online.net,212.18.3.8,,8767,MNET-AS Germany,ripencc,DE,MNET-MNT
+990.0,credit-agricole.fr,a18-64.akam.net,95.101.36.64,2600:1480:4800::40,21342,AKAMAI-ASN2,ripencc,NL,AKAM1-RIPE-MNT
+991.0,2-g.com,ns1.blserver.de,192.174.68.13,,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,AT,NICAT-MNT
+992.0,nrj.com,a.dns.gandi.net,173.246.98.1,2604:3400:abca::1,209453,GANDI-LIVEDNS AS for LiveDNS Anycast servers,arin,US,Gandi.net
+993.0,rcsmediagroup.it,dnsgeo6.tuonomeregistrar.net,46.37.17.6,,31034,ARUBA-ASN,ripencc,IT,ARUBA Network Core
+994.0,ghres.com,ns05.domaincontrol.com,97.74.102.3,2603:5:2160::3,44273,GODADDY-DNS,arin,US,"GoDaddy.com, LLC"
+995.0,xfinity.com,dns102.comcast.net,68.87.85.132,2001:558:1004:7:68:87:85:132,7922,COMCAST-7922,arin,US,"Comcast Cable Communications, Inc."
+996.0,pharmanutra.it,ns.holonameserver-3.it,158.69.76.105,,16276,OVH,arin,CA,"OVH Hosting, Inc."
+997.0,krikri.gr,dns2.papaki.gr,107.162.141.240,2604:e180:1032::ffff:6ba2:8df0,55002,DEFENSE-NET,arin,US,"F5, Inc."
+,miquelycostas.com,ns4.eurodns.com,104.37.178.108,2610:1c8:b001::108,23393,NUCDN,arin,US,NuCDN LLC
+999.0,hamborner.de,dns.globvill.ruhr,212.20.161.2,2001:40b8::23,13039,GLOBAL-VILLAGE Mehrumer Str. 16,ripencc,DE,AS13039-MNT
+1000.0,hexatronic.com,ns1.dnshost.net,91.237.67.1,2a0b:8e00::10,1921,RCODEZERO-ANYCAST-SEC1-TLD RcodeZero Anycast DNS,ripencc,SE,ANYCAST-MNT

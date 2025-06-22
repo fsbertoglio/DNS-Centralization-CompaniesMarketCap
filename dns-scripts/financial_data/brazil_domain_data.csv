@@ -1,0 +1,1001 @@
+Company,Domain,Domain_Valid
+PETROBRAS,petrobras.com.br,True
+JBS,jbs.com.br,True
+BANCO DO BRASIL,bb.com.br,False
+RAIZEN COMBUSTIVEIS,raizen.com.br,True
+ITAU UNIBANCO HOLDING,itau.com.br,False
+GRUPO RAIZEN,raizen.com.br,True
+BRADESCO,banco.bradesco,True
+VALE,saladeimprensa.vale.com,False
+ITAU UNIBANCO,itau.com.br,False
+CAIXA,caixa.gov.br,True
+VIBRA ENERGIA,vibraenergia.com.br,True
+MARFRIG,marfrig.com.br,True
+CARGILL ALIMENTOS,cargill.com.br,False
+ULTRAPAR,ultra.com.br,False
+CARGILL,cargill.com.br,False
+SANTANDER,santander.com.br,False
+ATACADAO,atacadao.com.br,True
+BUNGE,bunge.com.br,True
+AMBEV,ambev.com.br,False
+RAIZEN,raizen.com.br,True
+BTG PACTUAL,btgpactual.com,True
+BRASKEM,braskem.com.br,False
+ARCELORMITTAL,brasil.arcelormittal.com,True
+GERDAU,www2.gerdau.com.br,False
+ASSAI ATACADISTA,assai.com.br,True
+BRASILPREV,www1.brasilprev.com.br,True
+BRF,brf-global.com,True
+VIVO,vivo.com.br,False
+REDE D'OR,rededorsaoluiz.com.br,True
+CSN,csn.com.br,False
+AMAGGI,amaggi.com.br,True
+SICREDI,sicredi.com.br,True
+NEOENERGIA,neoenergia.com,False
+ENEL BRASIL,enel.com.br,True
+EQUATORIAL ENERGIA,equatorialenergia.com.br,False
+STATE GRID,stategrid.com.br,False
+SUZANO,suzano.com.br,True
+CPFL,cpfl.com.br,True
+COSAN,cosan.com.br,False
+ELETROBRAS,eletrobras.com,True
+CEMIG,cemig.com.br,True
+MAGAZINE LUIZA,magazineluiza.com.br,True
+RAIA DROGASIL,drogasil.com.br,True
+BRADESCO SAUDE,bradescoseguros.com.br,True
+PORTO,portoseguro.com.br,True
+WEG,weg.net,False
+SIMPAR,simpar.com.br,True
+LOCALIZA,localiza.com,True
+VIA,pt.wikipedia.org,True
+COAMO,coamo.com.br,True
+ENERGISA,energisa.com.br,False
+USIMINAS,usiminas.com,True
+HAPVIDA,www2.hapvida.com.br,True
+INFRA,infrasa.gov.br,True
+MINERVA,minervafoods.com,True
+GRUPO MATEUS,grupomateus.com.br,True
+NATURA,natura.com.br,False
+VOTORANTIM CIMENTOS,votorantimcimentos.com.br,False
+EMBRAER,embraer.com,True
+SABESP,sabesp.com.br,True
+SULAMERICA SEGUROS,portal.sulamericaseguros.com.br,True
+TIM,tim.com.br,True
+AMIL,amil.com.br,False
+SICOOB,sicoob.com.br,False
+COPEL,copel.com,True
+BASF,basf.com,True
+SICREDI,sicredi.com.br,True
+BRADESCO SEGUROS,bradescoseguros.com.br,True
+CBD,cbdfx.com.br,True
+CSN MINERACAO,csn.com.br,False
+GOL LINHAS AEREAS,voegol.com.br,True
+YARA BRASIL,yarabrasil.com.br,True
+KLABIN,klabin.com.br,True
+BANCO VOTORANTIM,www4.bancobv.com.br,False
+EDP BRASIL,edp.com.br,False
+COMPASS,compassbr.com,True
+COMEXPORT,comexport.com.br,True
+AZUL LINHAS AEREAS,azulcargoexpress.com.br,False
+CRBS,cbsalimentos.com.br,False
+REDE ENERGIA,enel.com.br,True
+GLOBO,grupoglobo.globo.com,True
+PAGSEGURO,pagbank.com.br,True
+PORTO SEGURO SEGUROS,portoseguro.com.br,True
+BANRISUL,banrisul.com.br,True
+ENGEHART CTP,ectp.com,True
+BANCO PAN,bancopan.com.br,False
+COELBA,coelba.com.br,False
+COMPASS,compassbr.com,True
+COPEL DISTRIBUICAO S/A,copel.com,True
+FURNAS,furnas.com.br,True
+CCR,andradegutierrez.com.br,True
+IOCHPE-MAXION,iochpe.com.br,False
+CITI,corporateportal.brazil.citibank.com,True
+RENAULT,renault.com.br,True
+ANGLO AMERICAN BRASIL,brasil.angloamerican.com,False
+DASA,dasa.com.br,True
+PETROGAL,galp.com,True
+LIGHT,light.com.br,True
+DROGARIAS SAO PAULO PACHECO,grupodpsp.com.br,False
+NOTRE DAME INTERMEDICA,gndi.com.br,True
+LOJAS RENNER,lojasrenner.com.br,False
+COMIGO,comigo.coop.br,True
+WEG ELETRICOS,weg.net,False
+COCAMAR,cocamar.com.br,True
+TOKIO MARINE,tokiomarine.com.br,True
+NOVELIS,pt-br.novelis.com,False
+PRIO,prio3.com.br,False
+WHIRLPOOL,whirlpool.com.br,True
+CBMM,cbmm.com,True
+TUPY,tupy.com.br,False
+CAMIL,camil.com.br,True
+PAGUE MENOS,paguemenos.com.br,True
+TRANSPETRO,transpetro.com.br,True
+CM HOSPITALAR,ri.viveo.com.br,True
+LARCO COMERCIAL,larcopetroleo.com.br,False
+CENTRAIS ELETRICAS DO NORTE,eletronorte.com.br,False
+RUMO,rumolog.com,True
+RANDONCORP,randoncorp.com,True
+M.DIAS BRANCO,mdiasbranco.com.br,True
+BANCO DAYCOVAL,daycoval.com.br,False
+MOVIDA LOCACAO,movida.com.br,False
+ENGIE,engie.com.br,False
+CIELO,cielo.com.br,True
+SALOBO,revistaminerios.com,True
+CELESC DISTRIBUICAO,celesc.com.br,True
+EQUATORIAL PA,pa.equatorialenergia.com.br,True
+MOVIDA,ri.movida.com.br,True
+COPA ENERGIA / COPAGAZ,copaenergia.com.br,True
+BANCO BRADESCO FINANCIAMENTOS,financiamentos.bradesco,True
+BRADESCO VIDA E PREVIDENCIA,bradescoseguros.com.br,True
+ENEVA,eneva.com.br,True
+SERTRADING,sertrading.com,False
+CENCOSUD,cencosud.com.br,False
+ELECTROLUX,electrolux.com,False
+DROGARIA SAO PAULO,drogariasaopaulo.com.br,False
+COPACOL,copacol.com.br,True
+AGROGALAXY PARTICIPACOES,agrogalaxy.com.br,False
+CENTAURO ESPORTE,centauro.com.br,False
+BNDES PAR,bndes.gov.br,True
+BRADESCO AUTO,bradescoseguros.com.br,True
+HAVAN,havan.com.br,False
+MAPFRE SEGUROS,mapfre.com.br,True
+ROYAL FIC,royalfic.com.br,True
+EUROFARMA,eurofarma.com.br,True
+VLI,vli-logistica.com.br,True
+TRANSPORTADORA ASSOCIADA DE GAS,ntag.com.br,False
+3 TENTOS,3tentos.com.br,True
+B3,b3.com.br,True
+ECORODOVIAS,ecorodovias.com.br,False
+GUARARAPES CONFECCOES,ri.riachuelo.com.br,True
+ALLIANZ SEGUROS,allianz.com.br,True
+COOPERALFA,cooperalfa.com.br,True
+ELEKTRO - DISTRIBUIDORA DE ENERGIA,neoenergia.com,False
+RIACHUELO,riachuelo.com.br,True
+PROFARMA,profarma.com.br,True
+IUPAR,itau.com.br,False
+BIANCHINI,bianchinisa.com.br,False
+TIMBRO,timbrotrading.com,True
+AEGEA,aegea.com.br,True
+BNB,bnb.gov.br,True
+COELCE,enel.com.br,True
+PIRACANJUBA,piracanjuba.com.br,True
+MCDONALDS,mcdonalds.com.br,False
+UPL,careers.upl-ltd.com,True
+CELPE,neoenergia.com,False
+INTEGRADA,integrada.coop.br,False
+REPSOL SINOPEC,repsolsinopec.com.br,False
+EMS,ems.com.br,True
+BP BUNGE BIOENERGIA,bp.com,True
+HYPERA,hypera.com.br,True
+LAVORO AGRO,lavoroagro.com,False
+AMPLA ENERGIA,amplaenergias.com,True
+COMPANHIA DE LOCACAO DAS AMERICAS,econodata.com.br,False
+CARAMURU ALIMENTOS,caramuru.com,True
+O BOTICARIO,boticario.com.br,False
+JSL,jsl.com.br,False
+COOPERCITRUS,revistacoopercitrus.com.br,True
+FS FUELING,fs.agr.br,True
+BELAGRICOLA,belagricola.com.br,True
+GAZIN,gazin.com.br,True
+MRV,mrv.com.br,True
+COPASA,copasa.com.br,True
+DURATEX,duratexmadeira.com.br,True
+NTS,ntsbrasil.com,False
+CBA,cba.com.br,False
+PRIO,prio3.com.br,True
+BANCO SAFRA,safra.com.br,True
+SLC AGRICOLA,slcagricola.com.br,True
+BSBIOS,be8energy.com,True
+BANCO BMG,bancobmg.com.br,False
+BAYER,bayer.com.br,False
+GRUPO SBF,gruposbf.com.br,True
+RAIZEN MIME,raizen.com.br,True
+CIBRAFERTIL,cibra.com,True
+C&A,cea.com.br,True
+LIBERTY SEGUROS,yelumseguros.com.br,False
+MARCOPOLO,marcopolo.com.br,False
+SAO MARTINHO,saomartinho.com.br,False
+RODOIL,rodoil.com.br,True
+FLEURY,fleury.com.br,True
+MRS LOGISTICA,mrs.com.br,False
+CASTROLANDA,castrolanda.coop.br,True
+BANCO XP,xpi.com.br,False
+COOXUPE,cooxupe.com.br,False
+COCA-COLA,coca-cola.com,True
+CYRELA,cyrela.com.br,True
+APERAM INOX AMERICA DO SUL,brasil.aperam.com,True
+SANEPAR,site.sanepar.com.br,True
+BANCO VOLKSWAGEN,vwfs.com.br,True
+ISA CTEEP,isaenergiabrasil.com.br,True
+VTRM,venergia.com.br,False
+VAMOS LOCACAO DE CAMINHOES,vamos.com.br,False
+UNIMED BH,unimedbh.com.br,True
+ITAU CONSIGNADO,itau.com.br,False
+UNIMED PARTICIPACOES,unimed.coop.br,True
+CTG BRASIL,ctgbr.com.br,False
+EDP SAO PAULO,edp.com.br,False
+ARTERIS,ri.arteris.com.br,True
+GRUPO ELFA,grupoelfa.com.br,True
+COGNA,cogna.com.br,True
+ALLIED TECNOLOGIA,alliedbrasil.com.br,True
+IRB RESSEGUROS,irbre.com,False
+NORTE ENERGIA,norteenergiasa.com.br,False
+ELDORADO BRASIL,eldoradobrasil.com.br,True
+ITAU SEGUROS,itau.com.br,False
+EQUATORIAL MARANHAO DISTRIBUIDORA DE ENERGIA S.A.,ma.equatorialenergia.com.br,True
+ZURICH MINAS SEGUROS,zurich.com.br,True
+BANCO ABC,abcbrasil.com.br,True
+COMPANHIA DISTRIBUIDORA DE GAS DO RIO DE JANEIRO - CEG/NATURGY,naturgy.com.br,False
+COPASUL,copasul.agr.br,True
+ONCOCLINICAS,grupooncoclinicas.com,True
+UNIDAS LOCADORA,unidas.com.br,True
+BANCO MASTER,bancomaster.com.br,True
+SOCIEDADE BENEFICENTE ISRAELITA BRASILEIRA HOSPITAL ALBERT EINSTEIN,einstein.br,True
+GRUPO SOMA,somagrupo.com.br,True
+FERTILIZANTES HERINGER,heringer.com.br,False
+TEREOS ACUCAR & ENERGIA,br.tereos.com,True
+ZURICH PREVIDENCIA,zurich.com.br,True
+EDP ES,edp.com.br,False
+YDUQS,yduqs.com.br,False
+BANESTES,banestes.com.br,True
+PERNAMBUCANAS,pernambucanas.com.br,False
+COPEL GERACAO E TRANSMISSAO S/A,copel.com,True
+STONE PAGAMENTOS,stone.com.br,True
+CORSAN,corsan.com.br,True
+REDECARD,userede.com.br,True
+COCARI,cocari.com.br,True
+LOJAS CEM,lojascem.com.br,True
+SANOFI MEDLEY,sanofi.com.br,False
+AZUL SEGUROS,azulseguros.com.br,True
+PRUDENTIAL DO BRASIL,prudential.com.br,False
+ACHE,ache.com.br,False
+LIVELO,livelo.com.br,True
+UNIPAR CARBOCLORO,unipar.com,False
+SYLVAMO,sylvamo.com,True
+UNIMED SEGUROS SAUDE,segurosunimed.com.br,True
+AMBIPAR,ambipar.com,True
+AREZZO,arezzo.com.br,True
+BANCO MERCANTIL DO BRASIL,bancomercantil.com.br,False
+DIMED,dimed.com.br,True
+INTER,inter.co,True
+TAMBASA,tambasa.com,True
+BRK AMBIENTAL,brkambiental.com.br,True
+NEXA RECURSOS,nexaresources.com,False
+FRIMESA,frimesa.com.br,True
+ROCHE,roche.com.br,True
+BANCO ORIGINAL,original.com.br,False
+PACHECO,drogariaspacheco.com.br,False
+COMERC ENERGIA LP,comerc.com.br,True
+EMPRESA DE NAVEGACAO ELCANO,econodata.com.br,False
+TOTVS,totvs.com,False
+ELETRONUCLEAR,eletronuclear.gov.br,False
+HDI,hdiseguros.com.br,False
+BANCO CARREFOUR,grupocarrefourbrasil.com.br,False
+MAHLE,br.mahle.com,True
+SONDA SUPERMERCADOS,sondadelivery.com.br,True
+RAIZEN CENTRO-SUL S.A. (ANTERIORMENTE DENOMINADA BIOSEV S.A.),raizen.com.br,True
+PORTO SEGURO - SEGURO SAUDE,portoseguro.com.br,True
+INNOVA,innova.com.br,True
+SMARTFIT,smartfit.com.br,False
+CATENO GESTAO,cateno.com.br,True
+ENERGISA MT,energisa.com.br,False
+BRASOFTWARE INFORMATICA LTDA,brasoftware.com.br,False
+INTELBRAS,intelbras.com,True
+CALCADOS BEIRA RIO,calcadosbeirario.com.br,False
+IHARABRAS,ihara.com.br,True
+COPEL COMERCIALIZACAO S/A,copel.com,True
+GESTAMP,gestamp.com,False
+UNIDAS,empresas.unidas.com.br,True
+UNIAO QUIMICA,uniaoquimica.com.br,False
+VLI MULTIMODAL,vli-logistica.com.br,True
+POSITIVO TECNOLOGIA,positivotecnologia.com.br,True
+BB MAPFRE,mapfre.com.br,True
+BURGUER KING,burgerking.com.br,True
+AGROFEL,agrofel.com.br,True
+RIO PARANA ENERGIA,ri.ctgbr.com.br,True
+SUPERMERCADO BAHAMAS,bahamas.com.br,True
+BB GESTAO DE RECURSOS,bb.com.br,False
+ESHO,br.indeed.com,False
+ALPARGATAS,alpargatas.com.br,False
+Anima Educação,institutoanima.org.br,False
+Atakarejo,atakarejo.com.br,True
+Fundação do ABC Saúde,fuabc.org.br,True
+Rumo Malha Paulista,rumolog.com,True
+CPFL Renováveis,cpfl.com.br,True
+Zaffari,zaffari.com.br,False
+Elétron Energy,eletronenergy.com.br,True
+Icatu,portal.icatuseguros.com.br,True
+Iconic,iconic.com.br,True
+Intercement Brasil,brasil.intercement.com,False
+Multilaser,multilaser.com.br,True
+Ferrovia Centro Atlântica,vli-logistica.com.br,True
+EDP Trading,edp.com.br,False
+Saneago,saneago.com.br,True
+Vix Logística,vix.com.br,False
+Banco CNH Industrial Capital,cnhcapital.com,True
+AES Brasil Energia,brasil-re-staging.aes.com,False
+Neoenergia Brasília,neoenergia.com,False
+Brejeiro Alimentos,brejeiro.com.br,True
+Alubar,alubar.net.br,True
+Facchini,facchini.com.br,True
+ICL América do Sul,bra.icl-group.com,False
+XP Vida,xpi.com.br,False
+Alupar,alupar.com.br,True
+Termomecanica,termomecanica.com.br,False
+Kabum,kabum.com.br,False
+Jacto,jacto.com,True
+J.Macêdo,jmacedo.com.br,True
+Serpro,serpro.gov.br,True
+Athena Saúde Brasil,athenasaude.com.br,True
+Petz,petz.com.br,False
+CEG Rio,naturgy.com.br,False
+Bem Brasil Alimentos,bembrasil.ind.br,True
+Chubb,chubb.com,True
+Unimed Campinas,unimedcampinas.com.br,True
+Frigol,frigol.com.br,True
+Usina Coruripe,usinacoruripe.com.br,False
+Banco Agibank,agibank.com.br,True
+AES Brasil,brasil-re-staging.aes.com,False
+SSA,ssa-br.com,False
+Even,even.com.br,True
+LM Transportes,lmtransportes.com,True
+Refinaria de Petróleo Riograndense,refinariariograndense.com.br,True
+Construtora Tenda,tenda.com,True
+Cury Construtora,cury.net,True
+Afya,afya.com.br,False
+TecBan,tecban.com.br,True
+ArcelorMittal Siderúrgica,brasil.arcelormittal.com,True
+Rabobank,rabobank.com.br,False
+Compesa,servicos.compesa.com.br,True
+Vulcabras,vulcabras.com,True
+PetroReconcavo,petroreconcavo.com.br,True
+GRU - Guarulhos,guarulhostransportes.com.br,False
+Heinz,heinz.com,True
+Fortbras,fortbras.com.br,True
+Algar Telecom,loja.algartelecom.com.br,True
+Allos,allos.co,True
+Mataboi Alimentos,primafoods.com.br,True
+Banco Mercedes-Benz do Brasil,bancomercedes-benz.com.br,False
+Eucatex,eucatex.com.br,True
+Vipal Borrachas,vipal.com,True
+Colombo Agroindústria,colomboagroindustria.com.br,True
+Banco BNP Paribas,brasil.bnpparibas,True
+Unimed Fortaleza,unimed.coop.br,True
+Metal Group,smmetais.com.br,False
+Sompo Seguros,sompo.com.br,True
+G10 Transportes,g10transportes.com.br,True
+Farmácias Nissei,farmaciasnissei.com.br,True
+Arauco do Brasil,arauco.com.br,True
+Coop,portalcoop.com.br,False
+Atento,atento.com,False
+Vicunha Têxtil,vicunha.com,False
+Cerradinho Bioenergia,cerradinhobio.com.br,True
+Distribuidora Rio Branco de Petróleo,riobrancoenergias.com,True
+Santher,santher.com.br,True
+Ferbasa,ferbasa.com.br,True
+Grendene,grendene.com.br,False
+Alelo,alelo.com.br,True
+Kalunga,kalunga.com.br,False
+Lojas Quero-Quero,queroquero.com.br,True
+Belenus,belenus.com.br,True
+Banco Bocom BBM,bocombbm.com.br,False
+Holambra,holambra.com.br,True
+Hering,hering.com.br,True
+Direcional Engenharia,direcional.com.br,True
+Iguá Saneamento,igua.com.br,True
+Log-In,loginlogistica.com.br,False
+Vitória Diesel,vitoriadiesel.com.br,False
+Petronas,br.pli-petronas.com,False
+Austral Resseguradora,australre.com,True
+Metrô,metro.sp.gov.br,True
+Merck,merckgroup.com,False
+Cantu,cantu.com.br,True
+Cruzeiro do Sul,cruzeirodosul.edu.br,False
+Omint,omint.com.br,True
+Banco Pine,pine.com,True
+Flora,flora.com.br,True
+Valid,valid.com,True
+Cimed,cimedremedios.com.br,True
+CPTM,cptm.sp.gov.br,True
+Energisa Sul-Sudeste,energisa.com.br,False
+Banco Itaú BBA,itau.com.br,False
+CI&T Software,ciandt.com,False
+Sofisa,sofisa.com.br,False
+IMC,grupoimc.com.br,False
+Solvi Essencis,solvi.com,True
+Prodesp,prodesp.sp.gov.br,False
+Portobello,portobello.com.br,True
+Hospital Mater Dei,materdei.com.br,True
+Vivara,vivara.com.br,True
+Grupo Sinosserra,gruposinosserra.com.br,True
+Gees,geessa.com,True
+Santos Brasil,santosbrasil.com.br,False
+Odontoprev,odontoprev.com.br,True
+Unimed Goiânia,unimedgoiania.coop.br,True
+Care Plus Medicina Assistencial,careplus.com.br,False
+Agribrasil,agribrasil.net,True
+Josapar,josapar.com.br,True
+Lojas Le Biscuit,lebiscuit.com.br,False
+Metropolitan Life,metlife.com.br,True
+Boa Safra,boasafrasementes.com.br,True
+Banco Bradescard,banco.bradesco,True
+Plano&Plano,planoeplano.com.br,True
+Banco Volvo (Brasil),portal.bancovolvo.com.br,True
+Rumo Malha Sul,rumolog.com,True
+Mongeral,mag.com.br,False
+Banco John Deere,deere.com.br,False
+Esfera,esfera.com.vc,True
+Multiplan,multiplan.com.br,False
+Ferrovia Norte Sul (FNS) - VLI,vli-logistica.com.br,True
+Banco RCI Brasil,portalrci-reorg-qas.bancorci.com.br,False
+Romagnole,romagnole.com,True
+Salta Educação,gruposaltaedu.com,True
+Metalfrio Solutions,metalfrio.com.br,False
+Tramontina Cutelaria,global.tramontina.com,True
+SPIC Brasil Energia Participações,spicbrasil.com.br,False
+Granja Faria,granjafaria.com.br,True
+Bank of America Merrill Lynch - Banco Múltiplo,bankofamerica.com,False
+Deten Química,deten.com.br,False
+Banco Toyota do Brasil,institucional.bancotoyota.com.br,True
+Barra Mansa Alimentos,orangesalimentos.com.br,True
+Camda,camda.com.br,True
+Pamplona,pamplona.com.br,False
+Schulz Compressores,schulz.com.br,False
+Hidrovias do Brasil,hbsa.com.br,True
+Veracel Celulose,veracel.com.br,True
+Colombo,colombo.com.br,True
+CBO Holding,grupocbo.com.br,True
+Dataprev,dataprev.gov.br,False
+AEC,aec.com.br,True
+Pastifício Selmi,pt-br.selmi.com.br,False
+Panatlântica,panatlantica.com.br,False
+Braspress Transportes Urgentes,braspress.com,True
+Alibem,alibem.com.br,False
+Porto Seguro Assistência,portoseguro.com.br,True
+CEEE-T,ceee.equatorialenergia.com.br,False
+Ser Educacional,sereducacional.com,False
+Bamaq,grupobamaq.com.br,False
+Banco GM,chevroletsf.com.br,True
+Rio Paranapanema Participações,ri.paranapanema.com.br,True
+Sandvik,home.sandvik,True
+Taurus,taurusarmas.com.br,True
+Banco Itaucard,itau.com.br,False
+Omni - Crédito,omni.com.br,False
+Qualicorp,qualicorp.com.br,True
+Rede D1000,grupoprofarma.com.br,True
+Dexxos Par,dexxos.com.br,True
+TBG,tbg.com.br,False
+Too Seguros,tooseguros.com.br,True
+Química Anastácio,anastacio.com,False
+Madero,restaurantemadero.com.br,True
+Jalles Machado,jalles.com,True
+Prosegur,prosegur.com.br,True
+Itaú Corretora,itaucorretora.com.br,True
+Paraná Equipamentos,pesa.com.br,True
+Getnet,site.getnet.com.br,True
+Sodexo,br.sodexo.com,True
+Goldman Sachs do Brasil - Banco Múltiplo,goldmansachs.com,False
+Cardif do Brasil,bnpparibascardif.com.br,True
+OceanPact,oceanpact.com,False
+Lojas Marisa,marisa.com.br,False
+Nardini Agroindustrial,nardini.ind.br,True
+Transpanorama Transportes,transpanorama.com.br,False
+Casan,casan.com.br,True
+Paraná Banco,paranabanco.com.br,True
+Companhia Melhoramentos Norte do Paraná,cmnp.com.br,True
+Kingspan Isoeste - Construtivos Isotérmicos,kingspan-isoeste.com.br,True
+Lorenzetti,lorenzetti.com.br,False
+Fairfax,fairfax.com.br,True
+Almaviva Telemarketing,almaviva.it,True
+Irani,irani.com.br,True
+JHSF,jhsf.com.br,True
+Tegma Gestão,tegmatic.com.br,False
+Vulcabras CE,vulcabras.com,True
+BRMalls,statusinvest.com.br,False
+Laboratório Teuto,teuto.com.br,True
+Cirion,ciriontechnologies.com,False
+Kepler Weber,kepler.com.br,False
+Uisa,uisa.com.br,True
+Cocapec,cocapec.com.br,True
+Somos Educação,somoseducacao.com.br,True
+Stefanini,stefanini.com,False
+Lupo,lupo.com.br,False
+Guararapes,guararapes.com.br,True
+Infraero,infraero.gov.br,False
+Swiss,swissre.com,False
+Neoenergia Morro do Chapéu,neoenergia.com,False
+Cremer,cremer.net.br,False
+Austral Seguradora,australseguradora.com,True
+CVC Viagens,cvc.com.br,False
+Sabin,sabin.com.br,True
+NC Energia,neoenergia.com,False
+Hélio Borenstein,helbor.com.br,True
+Nadir Figueiredo,nadir.com.br,True
+Bombril,bombril.com.br,True
+Elekeiroz,elekeiroz.com.br,True
+Porto Alegre Alimentos,laticiniosportoalegre.com.br,True
+São Carlos,scsa.com.br,True
+AIG Seguros,aig.com.br,True
+Copergás,novo.copergas.com.br,False
+Petrocoque,petrocoque.com.br,True
+Rio Paranapanema Energia - CTG,ri.ctgbr.com.br,True
+Hipercard,hipercard.com.br,False
+Grupo Penha,penha.com.br,False
+Cesp,cesp.com.br,False
+Enauta Energia,enauta.com.br,False
+Mapfre Resseguros,mapfre.com.br,True
+Eixo SP,eixosp.com.br,True
+Abimex,totvs.com,False
+Itaú CDB,itau.com.br,False
+Mills Estruturas e Serviços de Engenharia,mills.com.br,True
+Unimed Florianópolis,unimed.coop.br,True
+Blau Farmacêutica,blau.com,False
+Armac,armac.com.br,True
+FTD,ftd.com.br,True
+Iguá Rio,igua.com.br,True
+Construtora Barbosa Mello,cbmsa.com.br,True
+Allpark,totvs.com,False
+Leite Jussara,leitejussara.com.br,True
+Brasilagro,brasilagro.com.br,True
+Suhai Seguradora,suhaiseguradora.com,False
+Viação Piracicabana,piracicabana.com.br,False
+Teleperformance CRM,tp.com,True
+Flamengo,flamengo.com.br,False
+Mineração Morro do Ipê,ipemineracao.com,True
+Hospital Alemão Oswaldo Cruz,hospitaloswaldocruz.org.br,True
+Bemobi Tech,bemobi.com,True
+Grupo Maringá,grupomaringa.com.br,True
+U&M,uem.com.br,True
+Simpress,simpress.com.br,True
+CS Brasil Frotas,csbrasilservicos.com.br,True
+Locaweb,locaweb.com.br,True
+Aliança Energia,aliancaenergia.com.br,False
+Cimento Itambé,cimentoitambe.com.br,True
+Assurant,assurant.com.br,True
+Passaralli Engenharia,passarelli.com.br,False
+Starr,starrcompanies.com.br,True
+Banco de Lage Landen Brasil,dllgroup.com,True
+SLC Centro-Oeste,slcagricola.com.br,True
+Helbor,helbor.com.br,True
+Banco Fidis,bancostellantis.com.br,False
+Tegra,tegraincorporadora.com.br,True
+Sanasa Campinas,sanasa.com.br,False
+Rumo Malha Central,rumolog.com,True
+Concessionária Rota,rotatransportes.com.br,True
+Lunelli,lunelli.com.br,True
+Generali,generali.com.br,False
+RIP Serviços Industriais,ripservicos.gupy.io,True
+Deutsche Bank,country.db.com,True
+Protege,protege.com.br,True
+Café Cacique,cacique.com.br,True
+Fosnor,abmbrasil.com.br,True
+Cassems,cassems.com.br,True
+Romi,romi.com,True
+Construtora Queiroz Galvão,lancamentosrj.com,True
+Estrela,estrelalogtrans.com.br,True
+Cotrisel,cotrisel.com,True
+Terminal de Contingências de Paranaguá,tcp.com.br,False
+Eurobike,eurobike.com.br,False
+Banco Mizuho do Brasil,mizuhogroup.com,True
+HDI Global,hdiglobalbrasil.com.br,False
+Orquídea Alimentos,orquidea.com.br,False
+Soufer Industrial,soufer.com.br,True
+Sura Seguros,segurossura.com.br,True
+Banco Bradesco BBI,banco.bradesco,True
+Melnick Desenvolvimento Imobiliário,melnick.com.br,True
+GPC Química,gpcquimica.com.br,True
+Pacaembu Construtora,pacaembu.com,True
+Rede Sol,redsolenergia.com.br,True
+Portonave,portonave.com.br,True
+Moura Dubeux Engenharia,mouradubeux.com.br,True
+Zurich Seguros,zurich.com.br,True
+Pottencial Seguradora,pottencial.com.br,True
+Laboratórios B. Braun,bbraun.com.br,True
+Eternit,eternit.com.br,True
+Painco Indústria e Comércio,painco.com.br,False
+Wiz,ri.wiz.co,True
+Vesta,vestaoficial.com.br,True
+Gafisa,gafisa.com.br,True
+Tramontina Multi,tramontina.com.br,True
+Eztec,eztec.com.br,True
+Qualicorp,qualicorp.com.br,True
+CCR Metrô Bahia,mobilidade.grupoccr.com.br,True
+Anaconda Farinha de Trigo,anaconda.com.br,False
+Trisul,trisul-sa.com.br,True
+Priner,priner.com.br,True
+Swiss,swissre.com,False
+Iguatemi Shopping,iguatemi.com.br,True
+Multilog,site.multilog.com.br,True
+TPI – Triunfo,triunfotransbrasiliana.com.br,False
+Banco Honda,bancohonda.com.br,False
+Banco HSBC,business.hsbc.com.br,True
+Neomille,cerradinhobio.com.br,True
+Itaú BBA Trading,itau.com.br,False
+Neoenergia Renováveis,neoenergia.com,False
+Banco MUFG,br.bk.mufg.jp,False
+Usina São Manoel,saomanoel.com.br,False
+CCR Viasul,rodovias.grupoccr.com.br,True
+Argo Energia,argoenergia.com.br,False
+Ther Gold Participações e Administração,cnpj.biz,False
+Minasmáquinas,minasmaquinas.com.br,True
+Banco Industrial do Brasil,bib.com.br,False
+Grupo Kallas,grupokallas.com.br,True
+Grupo Bauminas,bauminas.com.br,True
+Omni Banco,omni.com.br,False
+Desktop,desktop.com.br,True
+Montecitrus Participações,montecitrus.com.br,False
+Paranapanema,paranapanema.com.br,False
+Ocyan,ocyan-sa.com,False
+Let’s Rent A Car,lets.com.br,False
+Neon Pagamentos,neon.com.br,True
+Racional Engenharia,racional.com,True
+Compagas,compagas.com.br,True
+Mercadomóveis,grupomercadomoveis.com.br,True
+MetrôRio,metrorio.com.br,True
+Emccamp,emccamp.com.br,True
+Rivelli,rivelli.ind.br,True
+Plascar,plascar.com.br,True
+Editora Globo,educacao.globo.com,False
+Ouro Fino,ourofino.com,True
+Brametal,brametal.com.br,False
+Ultracargo,ultracargo.com.br,True
+Eletromidia,eletromidia.com.br,True
+Mangels,mangels.com.br,True
+Morlan,morlan.com.br,True
+Mitre Realty,mitrerealty.com.br,True
+Ibema,ibema.com.br,True
+Vero,verointernet.com.br,True
+SG,sglogistica.com.br,False
+Banco BS2,bancobs2.com.br,True
+Lavvi,lavvi.com.br,True
+Entrevias Concessionária de Rodovias,entrevias.com.br,False
+Painco,painco.com.br,False
+Banco Hyundai Capital Brasil,hyundaicapitalbrasil.com,True
+Cia Müller,ciamuller.com.br,False
+Sansuy,sansuy.com.br,False
+CCS Tecnologia e Serviços,ccstec.com.br,False
+Açotubo,acotubo.com.br,True
+Sooro,sooro.com.br,False
+Unimed Seguradora,segurosunimed.com.br,True
+Greenbrier Maxion Equipamentos e Serviços Ferroviários,gbmx.com.br,True
+Todeschini,todeschini.com.br,True
+Banco Ourinvest,ouribank.com,True
+Itaú Vida,itau.com.br,False
+Grupo Safira,safiraenergia.com.br,True
+Vidroporto,vidroporto.com.br,True
+Pettenati,pettenati.com.br,True
+Mundial,mundial.com,True
+Senior,senior.com.br,True
+Mapfre Vida,mapfre.com.br,True
+Telmex do Brasil,informecadastral.com.br,True
+Construtora JL,construtorajl.com,True
+Vulcabras BA,vulcabras.com,True
+UBS BB Serviços Financeiros,ubs.com,True
+Granado,granado.com.br,True
+Multilog Brasil,site.multilog.com.br,True
+Orizon VR,orizonvr.com.br,True
+Sequoia Logística e Transportes,sequoialog.com.br,True
+Embraport,dpworld.com,True
+Toledo do Brasil,toledobrasil.com,True
+Gadkin,br.todosnegocios.com,False
+Baldo,baldo.com.br,False
+Bancoseguro,bancoseguro.com.br,True
+Vittia,vittia.com.br,True
+Ocrim Produtos Alimentícios,ocrim.com.br,False
+Eugênio Raulino Koerich,koerich.com.br,False
+SulAmérica Seguradora de Saúde,portal.sulamericaseguros.com.br,True
+Santa Casa de Misericórida BH,santacasabh.org.br,True
+Itaú Capitalização,itau.com.br,False
+Leitesol,leitesol.com.br,True
+Banco Bradesco Berj,banco.bradesco,True
+Autopista Regis,econodata.com.br,False
+Supermercado Guanabara,supermercadosguanabara.com.br,True
+Liderança Serviços,lideranca.com.br,False
+Americanet,americanet.com.br,True
+Transportes Della Volpe,dellavolpe.com.br,False
+Rio Grande Seguros,riograndeseguradora.com.br,False
+Hospital Meridional,meridionalsaude.com.br,True
+Modal,modalmais.com.br,False
+Supermercados Archer,archer.com.br,True
+,nestle.com.br,False
+Tickets For Fun,ticketsforfun.com.br,True
+Alcast,alcast.com.br,True
+CP Kelco,cpkelco.com,False
+UBS Brasil CTVM,ubs.com,True
+Ultrafértil,emis.com,True
+Cart,cartlog.com.br,True
+Tempo Energia,tempoenergia.com.br,True
+Track&Field,tf.com.br,False
+Grazziotin,grazziotin.com.br,False
+Banco Paccar,paccarfinancial.com.br,True
+Energisa,energisa.com.br,False
+Banco Rodobens,rodobens.com.br,True
+Peccin,peccin.com.br,True
+São Paulo Futebol Clube,saopaulofc.net,True
+Karsten,karsten.com.br,True
+Tramontina Eletrik,global.tramontina.com,True
+Junto Seguros,juntoseguros.com,True
+Orizon,orizonvr.com.br,True
+BRQ,brq.com,False
+Banco Rendimento,rendimento.com.br,True
+Cia Canoinhas,canoinhas.com.br,True
+Previ,previ.com.br,True
+Porto Itapoá,portoitapoa.com,False
+Zurich Resseguradora,zurich.com.br,True
+Madem - Bobinas de Madeira,madem.com.br,True
+Hub Pagamentos,reclameaqui.com.br,False
+Katrium Indústrias Químicas,katrium.com.br,False
+Ademicon Consórcio e Investimento,ademicon.com.br,True
+Banco Yamaha Motor do Brasil,yamahaservicosfinanceiros.com.br,False
+Fábrica Carioca de Catalisadores,fccsa.com.br,True
+Rôgga Empreendimentos,rogga.com.br,True
+Tribanco,tribanco.com.br,False
+SulAmérica,portal.sulamericaseguros.com.br,True
+Yakult,yakult.com.br,False
+Vonpar,amanha.com.br,True
+MPD,mpd.com.br,True
+Neugebauer Chocolates,neugebauer.com.br,False
+Corinthians,corinthians.com.br,False
+Portos do Paraná,portosdoparana.pr.gov.br,False
+Moinho Paulista,nita.com.br,True
+Moinho do Nordeste,nordestealimentos.com.br,False
+Calçados Dakota,dakota.com.br,True
+Tramontina Garibaldi,global.tramontina.com,True
+Emae,emae.com.br,True
+Rocha Terminais,rochalog.com.br,True
+SMBC,smbcgroup.com.br,True
+CS Brasil,csbrasilservicos.com.br,True
+Paranaita,energisa.com.br,False
+Viação Águia Branca,aguiabranca.com.br,True
+Cegas,cegas.com.br,False
+Tronox Pigmentos Do Brasil,tronox-al.com.br,True
+QI Participações,qitech.com.br,True
+Metisa,metisa.com.br,True
+Triple Play,g1.globo.com,True
+Banco Voiter,voiter.com,False
+Althaia,althaia.com.br,False
+Goemil,goemil.com.br,True
+Daycoval Leasing,daycoval.com.br,False
+Amstedmaxion - Fundidos Industriais,amstedmaxion.com.br,True
+Borealis Brasil,borealisgroup.com,True
+Mobly,m.mobly.com.br,True
+NG Metalúrgica,ngmetalurgica.com.br,True
+Agrovale,agrovale.com,False
+Mitsubishi Corporation,mitsubishicorp.com,False
+Alfa Seguradora,wwws.alfaseguradora.com.br,True
+SLC-MIT,slcagricola.com.br,True
+CSU Cardsystem,www2.csu.com.br,True
+Banco Topázio,bancotopazio.com.br,False
+Neo BPO,neobpo.com.br,False
+Prudential do Brasil,prudential.com.br,False
+Cattalini,cattaliniterminais.com.br,True
+ClearSale,br.clear.sale,True
+Scotiabank,br.scotiabank.com,False
+Stima Energia,stimaenergia.com.br,True
+Target,targetlogistica.com.br,False
+Tramontina Sudeste,tramontina.com.br,True
+Plenaventura,site.plenaventura.com.br,True
+Piccadilly Company,piccadilly.com.br,False
+Moinho Globo,moinhoglobo.com.br,True
+Agehab,agehab.go.gov.br,True
+Tramontina Farroupilha,cnpj.biz,False
+PBio,pbio.com.br,True
+Ceub,uniceub.br,True
+Afton Chemical,aftonchemical.com,False
+Cras Brasil,crasbrasil.com.br,False
+Marlim Azul,arkeenergia.com,False
+Cedro Têxtil,cedro.com.br,True
+Artex,econodata.com.br,False
+Luizaseg,luizaseg.acioneseuseguro.com.br,True
+Chubb Resseguradora,chubb.com,True
+Novo Banco Continental,nbcbank.com.br,True
+Berkley International do Brasil Seguros,berkley.com.br,True
+Cesp Comercializadora,cesp.com.br,False
+HM Engenharia,eme.maishm.com.br,True
+Rodovias do Tietê,rodoviasdotiete.com.br,True
+American Life Seguros,allsegseguradora.com.br,False
+Allianz Saúde,allianz.com.br,True
+Banco PSA Finance Brasil,stellantisfinanciamentos.com.br,True
+Copapa,copapa.com.br,True
+Algar,loja.algar.com.br,True
+Telebras,telebras.com.br,False
+Timenow,timenow.com.br,True
+Noromix Concreto,noromix.com.br,True
+HTB,htb.eng.br,True
+Porto Seguro Previdência,portoseguro.com.br,True
+EDP SP-MG,edp.com.br,False
+Itaú CTVM,itau.com.br,False
+Ambar,ambarenergia.com.br,True
+Pauta Distribuição,pauta.com.br,True
+Linck Máquinas,linckmaquinas.com.br,True
+Família Salton,salton.com.br,True
+Unimed Sul Capixaba,unimed.coop.br,True
+Itaú Seguros Auto,itau.com.br,False
+Paraná Clínicas Plano de Saúde,paranaclinicas.com.br,True
+Cabelauto,cabelauto.com.br,True
+Salton,salton.com.br,True
+Neoenergia Transmissora 11,neoenergia.com,False
+Banco Crefisa,crefisa.com.br,False
+Fomento Paraná,fomento.pr.gov.br,False
+Valeo Thermal Bus,valeo.com,True
+Diana Bioenergia,dianabioenergia.com.br,True
+Kirton Bank,kirtonadm.site,False
+Grupo Bahema,biomaeducacao.com.br,False
+Metasa,metasa.com.br,True
+WEG-Cestari,ri.weg.net,True
+Padtec,padtec.com.br,False
+Panatlântica Catarinense,panatlanticacatarinense.com.br,True
+Unimed Campina Grande,unimed.coop.br,True
+Agora Telecom,agoradistribuidora.com.br,True
+CTC,ctc.com.br,False
+O Estado de S. Paulo,brazil.mom-gmr.org,True
+Banco Alfa,bancoalfa.com.br,True
+CRS Brands Indústria e Comércio,crsbrands.com.br,False
+Unitapajós,unitapajos.com.br,True
+Instituto Sírio-Libanês,irssl.org.br,True
+EDP Aliança,edp.com.br,False
+CEB,ceb.com.br,False
+Banestes Seguros,banestes.com.br,False
+Gamaro Desenvolvimento Imobiliário,gamaro.com.br,True
+RBS Participações,gruporbs.com.br,True
+Granfino,old.granfino.com.br,False
+Technos,grupotechnos.com.br,False
+Banco Andbank,andbank.com,True
+Tramontina TEEC,global.tramontina.com,True
+EDP Norte,edp.com.br,False
+Méliuz,meliuz.com.br,True
+Bozel,bozel.com,False
+Bluefit Academias,bluefit.com.br,True
+Distribuidora Curitiba,distribuidoracuritiba.com.br,True
+Indústria Brasileira de Filmes,ibf.com.br,False
+Já Saúde,jasaudeanimal.com.br,True
+Top Center,topcentershopping.com.br,True
+Banco Randon,info.bancorandon.com,True
+Grupo ADN,grupoadn.com.br,False
+Metlife Planos Odontológicos,metlife.com.br,True
+Banco Sociéte Générale Brasil,societegeneralebrasil.com.br,True
+Somov,tecnologistica.com.br,True
+Banco Paulista,bancopaulista.com.br,False
+Banco Keb Hana do Brasil,bancokebhana.com.br,True
+Neoenergia Guanabara,neoenergia.com,False
+Desenbahia,desenbahia.ba.gov.br,True
+Banco Genial,bancogenial.com,False
+Itaú DTVM,itau.com.br,False
+Teracom Telemática,datacom.com.br,False
+Banco Semear,bancosemear.com.br,False
+Tramontina Nordeste,global.tramontina.com,True
+Tramontina Sul,tramontina.com.br,True
+Triunfo Transbrasiliana,triunfotransbrasiliana.com.br,False
+Mobitech,mobi.com.br,True
+Banco KDB do Brasil,kdb.co.kr,True
+Moageira Irati,linkedin.com,True
+Banrisul Corretora de Seguros,banrisulseguros.com.br,True
+Oliveira Trust,oliveiratrust.com.br,True
+Suma Brasil,sumabrasil.com.br,False
+BMG Seguros,bancobmg.com.br,False
+Álcool Ferreira,alcoolferreira.com.br,True
+Paramount Têxteis,paramount.com.br,True
+Quality Software,ri.quality.com.br,True
+Banco Guanabara,bancoguanabara.com.br,True
+Grpcom,grpcom.com.br,True
+Alsol Energias Renováveis,energisa.com.br,False
+Tembici,tembici.com.br,True
+Renova Energia,renovaenergia.com.br,False
+Banco ABN Amro,abnamro.com,False
+Primacredi,credisis.com.br,True
+Nortec Química,nortecquimica.com.br,True
+Newsul,newsul.com.br,True
+Zatix,omnilink.com.br,True
+Nutrisul,nutrisulalimentos.com.br,True
+Excelsior Alimentos,excelsior.com.br,False
+Conhaque São João da Barra,amazon.com.br,False
+Log CP,logcp.com.br,True
+Banco Cargill,bancocargill.com.br,True
+Bambuí Bioenergia,bambuibioenergia.com.br,True
+Unicasa Móveis,unicasamoveis.com.br,True
+Empresa Paulista de Televisão,institucional.eptv.com.br,True
+Globo Pharma,globopharma.com.br,True
+Tramontina Planalto,empresas.tramontina.com.br,True
+Paranaíba,pa.equatorialenergia.com.br,True
+Banco Ribeirão Preto,brp.com.br,True
+Bioagri,merieuxnutrisciences.com,False
+Liderança Capitalização,lidercap.com.br,True
+Westwing,westwing.com.br,True
+Mapfre Previdência,mapfre.com.br,True
+Fospar,fertipar.com.br,True
+Banrisul Administradora de Consórcios,banrisulconsorcio.com.br,True
+Itauseg Saúde,itausaude.com.br,True
+Investco,investco.com.br,True
+Enjoei,enjoei.com.br,True
+Focus Tecnologia de Plásticos,focus.ind.br,False
+Ebam,ebam.com.br,False
+Banco BCV,bv.com.br,False
+Itumbiara Transmissora de Energia,casadosdados.com.br,False
+RBS Zero Hora Editora Jornalística,gruporbs.com.br,True
+Celesc Geração,celesc.com.br,True
+Banco Caixa Geral - Brasil,bcgbrasil.com.br,True
+Metalkraft,metalkraft.com.br,True
+Artplan Comunicação,artplan.com.br,True
+Cartonifício Valinhos,cartonificiovalinhos.com.br,False
+Rochester,rochester.com.br,True
+Melhoramentos,melhoramentos.com.br,False
+Neoenergia Itabapoana,neoenergia.com,False
+Unimed Saúde e Odonto,unimedodonto.com.br,True
+Fazenda Santa Maria,fazendasantamaria.com.br,True
+Caberj Integral Saúde,integralsaude.com.br,True
+Geração Céu Azul,neoenergia.com,False
+Neoenergia Jalapão,neoenergia.com,False
+WEG Amazônia,weg.net,False
+Agência Estado,broadcast.com.br,True
+Banco Investcred Unibanco,bancosbrasil.com.br,True
+Elea Digital,eleadatacenters.com,True
+General Shopping,generalshopping.com.br,False
+Brinquedos Estrela,estrela.com.br,True
+Banrisul Seguridade e Participacoes,banrisul.com.br,True
+SulAmérica Odontológico,portal.sulamericaseguros.com.br,True
+Hematologica - Clínica de Hematologia,doctoralia.com.br,True
+MS Bank,brazabank.com.br,True
+Servgas,servgas.com,True
+Alto Vale do Rio Negro Participações,cnpj.biz,False
+Irmãos Davoli,idavoli.com.br,True
+Mills Pesados,mills.com.br,True
+Dotz,dotz.com.br,True
+Pasa,pasaparanagua.com.br,False
+Rede Agro,redeagro.agr.br,True
+Banco B3,bancob3.com.br,True
+Bremil,brmill.com.br,True
+Cereais Vale do Javaés,econodata.com.br,False
+Banco Tricury,bancotricury.com.br,True
+Casa do Pão De Queijo,casadopaodequeijo.com.br,True
+ICBC do Brasil - Banco Múltiplo,icbcbr.com.br,False
+Andriello,andriello.com.br,False
+Orbitall,orbitall.com.br,True
+Biomm,biomm.com,True
+AquaRio,aquario.com.br,True
+Intral,intral.com.br,True
+Crasa Infra,crasainfra.com,True
+UBS Brasil,ubs.com,True
+EDP Litoral Sul,edp.com.br,False
+Bradesco Saúde - Operadora de Plano de Saúde,bradescoseguros.com.br,True
+Brasildental,bbdental.com.br,True
+Incotep,incotep.com.br,True
+SulAmérica Serviços de Saúde,portal.sulamericaseguros.com.br,True
+EDP Smart,edp.com.br,False
+Banco Cifra,bancosbrasil.com.br,True
+AGP Negócios e Participações,agpparticipacoes.com.br,True
+Accesstage Tecnologia,site.accesstage.com.br,True
+Neoenergia Dourados,neoenergia.com,False
+Goiás,gjccorp.com.br,False
+Ferrovia Tereza Cristina,ftc.com.br,True
+Seguros Unimed,segurosunimed.com.br,True
+Lupatech,lupatech.com.br,True
+Banco Vipal,bcb.gov.br,True
+Mediservice,mediservice.com.br,True
+Neoenergia Santa Luzia,neoenergia.com,False
+Ijuí Energia,ijuienergia.com.br,True
+ZX Brasil,guiadocnpj.com.br,False
+Landco,slcagricola.com.br,True
+Rumo Malha Oeste,rumolog.com,True
+Banco Arbi,bancoarbi.com.br,False
+Itaú Consultoria Financeira,itau.com.br,False
+Amha Saúde,amha.com.br,True
+BNY Mellon Banco,bny.com,True
+Goldman Sachs do Brasil Corretora de Valores,goldmansachs.com,False
+Focus Sul Tecnologia de Termoplásticos,focus.ind.br,False
+Austin Powder,austinpowder.com,True
+Afluente T,sistemaswebb3-listados.b3.com.br,False
+Itacel,imprensaoficial.com.br,True
+Agroscrew Participações Societárias,agroscrew.com.br,True
+Mate Couro,matecouro.com.br,False
+Fundação ABC,fundacaoabc.org,True
+Pravaler,pravaler.com.br,True
+Recrusul,recrusul.com.br,True
+Bem Promotora,bemcliente.com.br,True
+Itaú Companhia Securitizadora de Créditos Financeiros,itau.com.br,False
+Alumbra,alumbra.com.br,False
+CNP Consórcio,cnpconsorcio.com.br,True
+Banco XCMG,bancoxcmg.com.br,True
+Eletrobras Par,eletrobras.com,True
+Virgo,virgo.inc,True

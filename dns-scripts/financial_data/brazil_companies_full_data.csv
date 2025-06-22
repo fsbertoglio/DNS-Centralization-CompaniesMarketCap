@@ -1,0 +1,1001 @@
+company_name;country_name;state_name;city_name;sector_primary;revenue;earnings;total_assets;domain
+petrobras;Brazil;RJ;RIO DE JANEIRO;Petróleo e Químico;511944000.0;125166000.0;1050888000.0;petrobras.com.br
+jbs;Brazil;SP;SAO PAULO;Alimentos e Bebidas;363816537.0;-729145.0;206132069.0;jbs.com.br
+banco do brasil;Brazil;DF;BRASILIA;Bancos;269225339.0;33818951.0;2172479983.0;bb.com.br
+raizen combustiveis;Brazil;RJ;RIO DE JANEIRO;Energia;245831790.0;2503326.0;111551463.0;raizen.com.br
+itau unibanco holding;Brazil;SP;SAO PAULO;Bancos;222385000.0;33389000.0;2543100000.0;itau.com.br
+grupo raizen;Brazil;RJ;RIO DE JANEIRO;Energia;220454239.0;614133.0;128183310.0;raizen.com.br
+bradesco;Brazil;SP;OSASCO;Bancos;211458474.0;14502765.0;1927523249.0;banco.bradesco
+vale;Brazil;RJ;RIO DE JANEIRO;Siderurgia Mineração e Metalurgia;208066000.0;40554000.0;455984000.0;saladeimprensa.vale.com
+itau unibanco;Brazil;SP;SAO PAULO;Bancos;200844000.0;28335000.0;2008271000.0;itau.com.br
+caixa;Brazil;DF;BRASILIA;Bancos;190164919.0;11732541.0;1830735297.0;caixa.gov.br
+vibra energia;Brazil;RJ;RIO DE JANEIRO;Energia;162947000.0;4766000.0;43481000.0;vibraenergia.com.br
+marfrig;Brazil;SP;SAO PAULO;Alimentos e Bebidas;132218010.0;-3621246.0;130954636.0;marfrig.com.br
+cargill alimentos;Brazil;SP;ITAPIRA;Alimentos e Bebidas;126395458.0;2500395.0;40524526.0;cargill.com.br
+ultrapar;Brazil;SP;SAO PAULO;Energia;126048701.0;2517753.0;38251974.0;ultra.com.br
+cargill;Brazil;SP;SAO PAULO;Agronegócio;124134416.0;2427943.0;39228537.0;cargill.com.br
+santander;Brazil;SP;SAO PAULO;Bancos;117513391.0;8973657.0;1153196431.0;santander.com.br
+atacadao;Brazil;SP;SAO PAULO;Atacado e Varejo;103912000.0;-639000.0;92766000.0;atacadao.com.br
+bunge;Brazil;SP;SAO PAULO;Agronegócio;81704441.0;2618865.0;24843563.0;bunge.com.br
+ambev;Brazil;SP;SAO PAULO;Alimentos e Bebidas;79736900.0;14960500.0;132644300.0;ambev.com.br
+raizen;Brazil;SP;SAO PAULO;Energia;78449827.0;644795.0;82183546.0;raizen.com.br
+btg pactual;Brazil;RJ;RIO DE JANEIRO;Bancos;72756897.0;9924566.0;493232849.0;btgpactual.com
+braskem;Brazil;SP;SAO PAULO;Petróleo e Químico;70569000.0;-4890000.0;91741000.0;braskem.com.br
+arcelormittal;Brazil;MG;BELO HORIZONTE;Siderurgia Mineração e Metalurgia;69821260.0;4146865.0;77733452.0;brasil.arcelormittal.com
+gerdau;Brazil;SP;SAO PAULO;Siderurgia Mineração e Metalurgia;68916447.0;7536983.0;74885144.0;www2.gerdau.com.br
+assai atacadista;Brazil;SP;SAO PAULO;Atacado e Varejo;66503000.0;710000.0;43177000.0;assai.com.br
+brasilprev;Brazil;SP;SAO PAULO;Seguradoras;57271071.0;1907043.0;400441993.0;www1.brasilprev.com.br
+brf;Brazil;SP;SAO PAULO;Alimentos e Bebidas;53615440.0;-1868852.0;57272090.0;brf-global.com
+vivo;Brazil;SP;SAO PAULO;Tecnologia e Telecomunicações;52100151.0;5039977.0;120737980.0;vivo.com.br
+rede d'or;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;46508558.0;2113701.0;90342356.0;rededorsaoluiz.com.br
+csn;Brazil;RJ;VOLTA REDONDA;Siderurgia Mineração e Metalurgia;45437950.0;402649.0;91529720.0;csn.com.br
+amaggi;Brazil;MT;CUIABA;Agronegócio;44866119.0;1697217.0;36291582.0;amaggi.com.br
+sicredi;Brazil;RS;PORTO ALEGRE;Cooperativas;44588674.0;6884720.0;324543150.0;sicredi.com.br
+neoenergia;Brazil;RJ;RIO DE JANEIRO;Energia;44343000.0;4527000.0;99112000.0;neoenergia.com
+enel brasil;Brazil;SP;SAO PAULO;Energia;41374587.0;2628374.0;106288106.0;enel.com.br
+equatorial energia;Brazil;DF;BRASILIA;Energia;40985077.0;2876284.0;103643452.0;equatorialenergia.com.br
+state grid;Brazil;SP;CAMPINAS;Energia;39763220.0;5517039.0;90044042.0;stategrid.com.br
+suzano;Brazil;BA;SALVADOR;Papel e Celulose;39755575.0;14106381.0;143593025.0;suzano.com.br
+cpfl;Brazil;SP;CAMPINAS;Energia;39743190.0;5537162.0;74971227.0;cpfl.com.br
+cosan;Brazil;SP;SAO PAULO;Energia;39468497.0;4884744.0;139865382.0;cosan.com.br
+eletrobras;Brazil;RJ;RIO DE JANEIRO;Energia;37158908.0;4394861.0;267057654.0;eletrobras.com
+cemig;Brazil;MG;BELO HORIZONTE;Energia;36849769.0;5766835.0;55000080.0;cemig.com.br
+magazine luiza;Brazil;SP;SAO PAULO;Atacado e Varejo;36768149.0;-979104.0;37455067.0;magazineluiza.com.br
+raia drogasil;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;36349446.0;1150801.0;20094412.0;drogasil.com.br
+bradesco saude;Brazil;RJ;RIO DE JANEIRO;Operadoras de Planos de Saúde;34448756.0;1030695.0;28850261.0;bradescoseguros.com.br
+porto;Brazil;SP;SAO PAULO;Seguradoras;32597538.0;2314857.0;44239599.0;portoseguro.com.br
+weg;Brazil;SC;JARAGUA DO SUL;Bens de Capital e Eletroeletronicos;32503601.0;5867615.0;31496270.0;weg.net
+simpar;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;31843613.0;-651850.0;70140840.0;simpar.com.br
+localiza;Brazil;MG;BELO HORIZONTE;Transporte Logística e Serviços Logísticos;28902284.0;1803090.0;80947084.0;localiza.com
+via;Brazil;SP;SAO PAULO;Atacado e Varejo;28847000.0;-2625000.0;31996000.0;pt.wikipedia.org
+coamo;Brazil;PR;CAMPO MOURAO;Cooperativas;28724535.0;2323694.0;17369608.0;coamo.com.br
+energisa;Brazil;MG;CATAGUASES;Energia;28531858.0;2583534.0;68068471.0;energisa.com.br
+usiminas;Brazil;MG;BELO HORIZONTE;Siderurgia Mineração e Metalurgia;27638348.0;1640368.0;40161751.0;usiminas.com
+hapvida;Brazil;CE;FORTALEZA;Operadoras de Planos de Saúde;27383408.0;-739247.0;75155841.0;www2.hapvida.com.br
+infra;Brazil;DF;BRASILIA;Transporte Logística e Serviços Logísticos;27170134.0;-69947332.0;6155218.0;infrasa.gov.br
+minerva;Brazil;SP;BARRETOS;Alimentos e Bebidas;26891609.0;395533.0;28594154.0;minervafoods.com
+grupo mateus;Brazil;MA;SAO LUIS;Atacado e Varejo;26773586.0;1234638.0;16357296.0;grupomateus.com.br
+natura;Brazil;SP;SAO PAULO;Farmacêutico e Beleza;26737277.0;2974510.0;42747015.0;natura.com.br
+votorantim cimentos;Brazil;SP;SAO PAULO;Imobiliário e Construção Civil;26682125.0;2617880.0;43119487.0;votorantimcimentos.com.br
+embraer;Brazil;SP;BOTUCATU;Bens de Capital e Eletroeletronicos;26110517.0;784355.0;52201228.0;embraer.com
+sabesp;Brazil;SP;SAO PAULO;Saneamento e Meio Ambiente;25568712.0;3523531.0;61397861.0;sabesp.com.br
+sulamerica seguros;Brazil;RJ;RIO DE JANEIRO;Seguradoras;24221800.0;786532.0;18034783.0;portal.sulamericaseguros.com.br
+tim;Brazil;RJ;RIO DE JANEIRO;Tecnologia e Telecomunicações;23833893.0;2837422.0;55631215.0;tim.com.br
+amil;Brazil;SP;SAO PAULO;Operadoras de Planos de Saúde;21548523.0;-4033529.0;23664140.0;amil.com.br
+sicoob;Brazil;DF;BRASILIA;Cooperativas;21505465.0;8348707.0;298402586.0;sicoob.com.br
+copel;Brazil;PR;CURITIBA;Energia;21479468.0;2135667.0;55819074.0;copel.com
+basf;Brazil;SP;SAO PAULO;Petróleo e Químico;20562335.0;835558.0;18009272.0;basf.com
+sicredi;Brazil;RS;PORTO ALEGRE;Bancos;19745982.0;217199.0;164392443.0;sicredi.com.br
+bradesco seguros;Brazil;SP;BARUERI;Seguradoras;19424787.0;6479450.0;364103348.0;bradescoseguros.com.br
+cbd;Brazil;SP;SAO PAULO;Atacado e Varejo;19250000.0;2134000.0;22050000.0;cbdfx.com.br
+csn mineracao;Brazil;MG;CONGONHAS;Siderurgia Mineração e Metalurgia;18880426.0;3568737.0;29690605.0;csn.com.br
+gol linhas aereas;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;18774024.0;-1222259.0;16726194.0;voegol.com.br
+yara brasil;Brazil;RS;PORTO ALEGRE;Agronegócio;18163029.0;-853166.0;11599914.0;yarabrasil.com.br
+klabin;Brazil;SP;SAO PAULO;Papel e Celulose;18023749.0;2847388.0;55434690.0;klabin.com.br
+banco votorantim;Brazil;SP;SAO PAULO;Bancos;18004860.0;1334116.0;142657081.0;www4.bancobv.com.br
+edp brasil;Brazil;SP;SAO PAULO;Energia;17792629.0;1385107.0;37425463.0;edp.com.br
+compass;Brazil;SP;SAO PAULO;Energia;17767327.0;1800241.0;28836503.0;compassbr.com
+comexport;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;17707758.0;625074.0;10035129.0;comexport.com.br
+azul linhas aereas;Brazil;SP;BARUERI;Transporte Logística e Serviços Logísticos;17227728.0;-2380456.0;20532909.0;azulcargoexpress.com.br
+crbs;Brazil;SP;JAGUARUINA;Atacado e Varejo;16346982.0;1197766.0;8311437.0;cbsalimentos.com.br
+rede energia;Brazil;MG;CATAGUASES;Energia;16131441.0;2297216.0;27652729.0;enel.com.br
+globo;Brazil;RJ;RIO DE JANEIRO;Participações e Mídia;16047523.0;821294.0;28072666.0;grupoglobo.globo.com
+pagseguro;Brazil;SP;SAO PAULO;Serviços Financeiros;15948339.0;1653643.0;55108093.0;pagbank.com.br
+porto seguro seguros;Brazil;SP;SAO PAULO;Seguradoras;15828220.0;1711672.0;21175829.0;portoseguro.com.br
+banrisul;Brazil;RS;PORTO ALEGRE;Bancos;15734051.0;871084.0;125063684.0;banrisul.com.br
+engehart ctp;Brazil;SP;SAO PAULO;Participações e Mídia;15602531.0;127176.0;17053915.0;ectp.com
+banco pan;Brazil;SP;SAO PAULO;Bancos;15593046.0;694959.0;57803118.0;bancopan.com.br
+coelba;Brazil;BA;SALVADOR;Energia;15159000.0;1839000.0;27883000.0;coelba.com.br
+compass;Brazil;SP;SAO PAULO;Energia;15158674.0;1408787.0;13738834.0;compassbr.com
+copel distribuicao s/a;Brazil;PR;CURITIBA;Energia;15085707.0;569121.0;21831126.0;copel.com
+furnas;Brazil;RJ;RIO DE JANEIRO;Energia;15066795.0;5897341.0;97790754.0;furnas.com.br
+ccr;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;14984500.0;1704800.0;54643132.0;andradegutierrez.com.br
+iochpe-maxion;Brazil;SP;CRUZEIRO;Bens de Capital e Eletroeletronicos;14955220.0;105891.0;14534116.0;iochpe.com.br
+citi;Brazil;SP;SAO PAULO;Bancos;14950702.0;1723641.0;174689780.0;corporateportal.brazil.citibank.com
+renault;Brazil;SP;SAO PAULO;Bens de Capital e Eletroeletronicos;14700605.0;953690.0;8909051.0;renault.com.br
+anglo american brasil;Brazil;MG;BELO HORIZONTE;Siderurgia Mineração e Metalurgia;14687485.0;1318433.0;42676217.0;brasil.angloamerican.com
+dasa;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;14252235.0;-1157999.0;26213200.0;dasa.com.br
+petrogal;Brazil;RJ;RIO DE JANEIRO;Petróleo e Químico;14163368.0;3574005.0;27112901.0;galp.com
+light;Brazil;RJ;RIO DE JANEIRO;Energia;14116325.0;255162.0;23716936.0;light.com.br
+drogarias sao paulo pacheco;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;13989538.0;75874.0;7967296.0;grupodpsp.com.br
+notre dame intermedica;Brazil;SP;SAO PAULO;Operadoras de Planos de Saúde;13748809.0;437018.0;14872548.0;gndi.com.br
+lojas renner;Brazil;RS;PORTO ALEGRE;Moda e Vestuário;13647849.0;976259.0;20490638.0;lojasrenner.com.br
+comigo;Brazil;GO;PARAUNA;Cooperativas;13074721.0;859656.0;7634162.0;comigo.coop.br
+weg eletricos;Brazil;SC;JAGUARA DO SUL;Bens de Capital e Eletroeletronicos;12464584.0;4869351.0;20320881.0;weg.net
+cocamar;Brazil;PR;MARINGA;Cooperativas;12200064.0;602937.0;9645058.0;cocamar.com.br
+tokio marine;Brazil;SP;SAO PAULO;Seguradoras;12146736.0;1359600.0;20123243.0;tokiomarine.com.br
+novelis;Brazil;SP;SAO PAULO;Siderurgia Mineração e Metalurgia;12081802.0;0.0;0.0;pt-br.novelis.com
+prio;Brazil;RJ;RIO DE JANEIRO;Petróleo e Químico;11905041.0;5179905.0;28310932.0;prio3.com.br
+whirlpool;Brazil;SP;SAO PAULO;Bens de Capital e Eletroeletronicos;11487988.0;254064.0;9021134.0;whirlpool.com.br
+cbmm;Brazil;SP;SAO PAULO;Siderurgia Mineração e Metalurgia;11425342.0;4949826.0;14486795.0;cbmm.com
+tupy;Brazil;SC;JOINVILLE;Bens de Capital e Eletroeletronicos;11368190.0;517013.0;10284745.0;tupy.com.br
+camil;Brazil;SP;SAO PAULO;Agronegócio;11249647.0;360461.0;10621358.0;camil.com.br
+pague menos;Brazil;CE;FORTALEZA;Saúde e Serviços de Saúde;11202122.0;2516.0;8988598.0;paguemenos.com.br
+transpetro;Brazil;RJ;RIO DE JANEIRO;Transporte Logística e Serviços Logísticos;11103169.0;497939.0;30064611.0;transpetro.com.br
+cm hospitalar;Brazil;SP;RIBEIRAO PRETO;Saúde e Serviços de Saúde;11083830.0;359916.0;10186693.0;ri.viveo.com.br
+larco comercial;Brazil;BA;SALVADOR;Petróleo e Químico;11016462.0;257686.0;924886.0;larcopetroleo.com.br
+centrais eletricas do norte;Brazil;DF;BRASILIA;Energia;10967942.0;656075.0;54490572.0;eletronorte.com.br
+rumo;Brazil;PR;CURITIBA;Transporte Logística e Serviços Logísticos;10937716.0;721917.0;49238436.0;rumolog.com
+randoncorp;Brazil;RS;CAXIAS DO SUL;Bens de Capital e Eletroeletronicos;10887843.0;663225.0;12820143.0;randoncorp.com
+m.dias branco;Brazil;CE;EUSEBIO;Alimentos e Bebidas;10840780.0;888654.0;12340992.0;mdiasbranco.com.br
+banco daycoval;Brazil;SP;SAO PAULO;Bancos;10793063.0;1101929.0;77097630.0;daycoval.com.br
+movida locacao;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;10788561.0;-465083.0;20197378.0;movida.com.br
+engie;Brazil;SC;FLORIANOPOLIS;Energia;10747784.0;3429060.0;42224473.0;engie.com.br
+cielo;Brazil;SP;BARUERI;Serviços Financeiros;10601105.0;2468163.0;108272400.0;cielo.com.br
+salobo;Brazil;PA;MARABA;Siderurgia Mineração e Metalurgia;10411814.0;3085743.0;28490086.0;revistaminerios.com
+celesc distribuicao;Brazil;SC;TUBARAO;Energia;10402608.0;557034.0;12302261.0;celesc.com.br
+equatorial pa;Brazil;PA;BELEM;Energia;10378384.0;2225811.0;14273319.0;pa.equatorialenergia.com.br
+movida;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;10342015.0;-650851.0;25119493.0;ri.movida.com.br
+copa energia / copagaz;Brazil;SP;SAO PAULO;Energia;10274626.0;523274.0;5419774.0;copaenergia.com.br
+banco bradesco financiamentos;Brazil;RJ;RIO DE JANEIRO;Bancos;10155799.0;-60333.0;61578222.0;financiamentos.bradesco
+bradesco vida e previdencia;Brazil;SP;BARUERI;Seguradoras;10093115.0;5282119.0;336981153.0;bradescoseguros.com.br
+eneva;Brazil;RJ;RIO DE JANEIRO;Energia;10090895.0;303432.0;43565879.0;eneva.com.br
+sertrading;Brazil;ES;VITORIA;Transporte Logística e Serviços Logísticos;10025449.0;205034.0;3069968.0;sertrading.com
+cencosud;Brazil;SE;NOSSA SENHORA DO SOCORRO;Atacado e Varejo;9981865.0;-602801.0;7275127.0;cencosud.com.br
+electrolux;Brazil;PR;CURITIBA;Bens de Capital e Eletroeletronicos;9806746.0;313548.0;7554567.0;electrolux.com
+drogaria sao paulo;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;9631782.0;99855.0;5053155.0;drogariasaopaulo.com.br
+copacol;Brazil;PR;CAFELANDIA;Cooperativas;9424815.0;535541.0;8786550.0;copacol.com.br
+agrogalaxy participacoes;Brazil;SP;SAO PAULO;Agronegócio;9399096.0;334500.0;7714016.0;agrogalaxy.com.br
+centauro esporte;Brazil;SP;SAO PAULO;Moda e Vestuário;9377358.0;126060.0;8832574.0;centauro.com.br
+bndes par;Brazil;RJ;RIO DE JANEIRO;Participações e Mídia;9350547.0;6860057.0;82554742.0;bndes.gov.br
+bradesco auto;Brazil;SP;SAO PAULO;Seguradoras;9328699.0;764181.0;9789352.0;bradescoseguros.com.br
+havan;Brazil;SC;BRUSQUE;Atacado e Varejo;9319170.0;600454.0;8741588.0;havan.com.br
+mapfre seguros;Brazil;SP;SAO PAULO;Seguradoras;9198823.0;202601.0;15600712.0;mapfre.com.br
+royal fic;Brazil;SP;CAMPINAS;Energia;9125395.0;322341.0;1086511.0;royalfic.com.br
+eurofarma;Brazil;SP;ITAPEVI;Farmacêutico e Beleza;9120676.0;649698.0;15313148.0;eurofarma.com.br
+vli;Brazil;MG;BELO HORIZONTE;Transporte Logística e Serviços Logísticos;9112151.0;131279.0;20918708.0;vli-logistica.com.br
+transportadora associada de gas;Brazil;RJ;RIO DE JANEIRO;Transporte Logística e Serviços Logísticos;9029000.0;3056000.0;33013000.0;ntag.com.br
+3 tentos;Brazil;RS;SANTA BARBARA DO SUL;Agronegócio;8998985.0;573802.0;6883789.0;3tentos.com.br
+b3;Brazil;SP;SAO PAULO;Serviços Financeiros;8930025.0;4132512.0;49421622.0;b3.com.br
+ecorodovias;Brazil;SP;VILA OLIMPIA;Transporte Logística e Serviços Logísticos;8845179.0;596632.0;25956260.0;ecorodovias.com.br
+guararapes confeccoes;Brazil;RN;NATAL;Moda e Vestuário;8795386.0;-34260.0;14272668.0;ri.riachuelo.com.br
+allianz seguros;Brazil;SP;SAO PAULO;Seguradoras;8761883.0;120672.0;16157338.0;allianz.com.br
+cooperalfa;Brazil;SC;CHAPECO;Cooperativas;8720000.0;326400.0;5433186.0;cooperalfa.com.br
+elektro - distribuidora de energia;Brazil;SP;CAMPINAS;Energia;8703000.0;971000.0;10862000.0;neoenergia.com
+riachuelo;Brazil;SP;SAO PAULO;Atacado e Varejo;8691595.0;-121453.0;12731338.0;riachuelo.com.br
+profarma;Brazil;RJ;RIO DE JANEIRO;Farmacêutico e Beleza;8661744.0;77858.0;4937926.0;profarma.com.br
+iupar;Brazil;SP;SAO PAULO;Serviços Financeiros;8659979.0;8374534.0;51044525.0;itau.com.br
+bianchini;Brazil;RS;PORTO ALEGRE;Agronegócio;8646957.0;443264.0;3442054.0;bianchinisa.com.br
+timbro;Brazil;ES;VITORIA;Agronegócio;8597314.0;98534.0;681451.0;timbrotrading.com
+aegea;Brazil;SP;SAO PAULO;Saneamento e Meio Ambiente;8562966.0;1351290.0;34169453.0;aegea.com.br
+bnb;Brazil;CE;FORTALEZA;Bancos;8558105.0;2098299.0;65731260.0;bnb.gov.br
+coelce;Brazil;CE;FORTALEZA;Energia;8523294.0;315475.0;13097413.0;enel.com.br
+piracanjuba;Brazil;GO;GOIANIA;Agronegócio;8483995.0;446377.0;3962865.0;piracanjuba.com.br
+mcdonalds;Brazil;SP;BARUERI;Alimentos e Bebidas;8480478.0;573674.0;7185273.0;mcdonalds.com.br
+upl;Brazil;SP;ITUVERAVA;Agronegócio;8478887.0;-214361.0;7984012.0;careers.upl-ltd.com
+celpe;Brazil;PE;RECIFE;Energia;8473000.0;6000.0;13745000.0;neoenergia.com
+integrada;Brazil;PR;LONDRINA;Cooperativas;8414974.0;87115.0;4968996.0;integrada.coop.br
+repsol sinopec;Brazil;RJ;RIO DE JANEIRO;Petróleo e Químico;7954164.0;2465998.0;23537026.0;repsolsinopec.com.br
+ems;Brazil;SP;HORTOLANDIA;Farmacêutico e Beleza;7944867.0;2142457.0;2099934.0;ems.com.br
+bp bunge bioenergia;Brazil;SP;SAO PAULO;Energia;7939433.0;646086.0;14360948.0;bp.com
+hypera;Brazil;SP;VILA OLIMPIA;Farmacêutico e Beleza;7914658.0;1650550.0;24508751.0;hypera.com.br
+lavoro agro;Brazil;SP;SAO PAULO;Agronegócio;7829306.0;65513.0;5995560.0;lavoroagro.com
+ampla energia;Brazil;RJ;RIO DE JANEIRO;Energia;7796488.0;-191679.0;17656687.0;amplaenergias.com
+companhia de locacao das americas;Brazil;MG;BELO HORIZONTE;Transporte Logística e Serviços Logísticos;7748094.0;720920.0;20275263.0;econodata.com.br
+caramuru alimentos;Brazil;GO;ITUMBIARA;Agronegócio;7592518.0;239857.0;6278512.0;caramuru.com
+o boticario;Brazil;PR;CURITIBA;Farmacêutico e Beleza;7580868.0;539899.0;11862280.0;boticario.com.br
+jsl;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;7574644.0;351783.0;11888867.0;jsl.com.br
+coopercitrus;Brazil;SP;BEBEDOURO;Cooperativas;7563413.0;42863.0;7633606.0;revistacoopercitrus.com.br
+fs fueling;Brazil;MT;LUCAS DO RIO VERDE;Energia;7550506.0;877411.0;14442635.0;fs.agr.br
+belagricola;Brazil;PR;LONDRINA;Agronegócio;7502846.0;-39032.0;5171331.0;belagricola.com.br
+gazin;Brazil;PR;DOURADINA;Atacado e Varejo;7468479.0;760421.0;8609190.0;gazin.com.br
+mrv;Brazil;MG;BELO HORIZONTE;Imobiliário e Construção Civil;7429915.0;-18439.0;25071702.0;mrv.com.br
+copasa;Brazil;MG;BELO HORIZONTE;Saneamento e Meio Ambiente;7404379.0;1379346.0;14189863.0;copasa.com.br
+duratex;Brazil;SP;SAO PAULO;Imobiliário e Construção Civil;7383409.0;811270.0;17920591.0;duratexmadeira.com.br
+nts;Brazil;RJ;RIO DE JANEIRO;Energia;7353022.0;3252056.0;11345912.0;ntsbrasil.com
+cba;Brazil;SP;SAO PAULO;Siderurgia Mineração e Metalurgia;7348067.0;-809529.0;13561932.0;cba.com.br
+prio;Brazil;RJ;RIO DE JANEIRO;Petróleo e Químico;7343082.0;2363265.0;20713592.0;prio3.com.br
+banco safra;Brazil;SP;SAO PAULO;Bancos;7243174.0;3244181.0;286579643.0;safra.com.br
+slc agricola;Brazil;RS;PORTO ALEGRE;Agronegócio;7230583.0;937980.0;15856318.0;slcagricola.com.br
+bsbios;Brazil;RS;PASSO FUNDO;Energia;7199318.0;16239.0;3109780.0;be8energy.com
+banco bmg;Brazil;SP;SAO PAULO;Bancos;7147611.0;204662.0;46665133.0;bancobmg.com.br
+bayer;Brazil;RJ;BELFORD ROXO;Farmacêutico e Beleza;7142084.0;1389666.0;11948507.0;bayer.com.br
+grupo sbf;Brazil;SP;LAPA;Atacado e Varejo;6988671.0;168812.0;8614447.0;gruposbf.com.br
+raizen mime;Brazil;SC;IRANI;Energia;6796511.0;136197.0;704469.0;raizen.com.br
+cibrafertil;Brazil;BA;CAMACARI;Agronegócio;6764521.0;-137326.0;3611345.0;cibra.com
+c&a;Brazil;SP;BARUERI;Moda e Vestuário;6719317.0;2337.0;9417656.0;cea.com.br
+liberty seguros;Brazil;SP;SAO PAULO;Seguradoras;6699568.0;584113.0;8828732.0;yelumseguros.com.br
+marcopolo;Brazil;RS;CAXIAS DO SUL;Bens de Capital e Eletroeletronicos;6683218.0;810159.0;7959303.0;marcopolo.com.br
+sao martinho;Brazil;SP;PRADOPOLIS;Agronegócio;6627566.0;1015744.0;18823785.0;saomartinho.com.br
+rodoil;Brazil;RS;CAXIAS DO SUL;Transporte Logística e Serviços Logísticos;6482341.0;94558.0;905709.0;rodoil.com.br
+fleury;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;6470850.0;420823.0;11579968.0;fleury.com.br
+mrs logistica;Brazil;RJ;RIO DE JANEIRO;Transporte Logística e Serviços Logísticos;6449125.0;1200149.0;18065072.0;mrs.com.br
+castrolanda;Brazil;PR;CASTRO;Cooperativas;6445532.0;50412.0;4401722.0;castrolanda.coop.br
+banco xp;Brazil;RJ;RIO DE JANEIRO;Bancos;6432526.0;-94980.0;114905890.0;xpi.com.br
+cooxupe;Brazil;MG;GUAXUPE;Cooperativas;6429656.0;235786.0;8349232.0;cooxupe.com.br
+coca-cola;Brazil;CE;FORTALEZA;Alimentos e Bebidas;6401104.0;805047.0;8645952.0;coca-cola.com
+cyrela;Brazil;SP;SAO PAULO;Imobiliário e Construção Civil;6373445.0;1105700.0;17371200.0;cyrela.com.br
+aperam inox america do sul;Brazil;MG;BELO HORIZONTE;Siderurgia Mineração e Metalurgia;6313310.0;394405.0;7867439.0;brasil.aperam.com
+sanepar;Brazil;PR;CURITIBA;Saneamento e Meio Ambiente;6292736.0;1503363.0;18803905.0;site.sanepar.com.br
+banco volkswagen;Brazil;SP;SAO PAULO;Bancos;6247217.0;121489.0;43153295.0;vwfs.com.br
+isa cteep;Brazil;SP;SAO PAULO;Energia;6215521.0;2892362.0;35911156.0;isaenergiabrasil.com.br
+vtrm;Brazil;SP;SAO PAULO;Energia;6181890.0;-317689.0;28994557.0;venergia.com.br
+vamos locacao de caminhoes;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;6085482.0;586959.0;20808826.0;vamos.com.br
+unimed bh;Brazil;MG;BELO HORIZONTE;Operadoras de Planos de Saúde;6057213.0;333826.0;5156793.0;unimedbh.com.br
+itau consignado;Brazil;SP;SAO PAULO;Bancos;6056219.0;-179918.0;36268912.0;itau.com.br
+unimed participacoes;Brazil;SP;SAO PAULO;Operadoras de Planos de Saúde;6047832.0;336279.0;5901632.0;unimed.coop.br
+ctg brasil;Brazil;SP;SAO PAULO;Energia;6042497.0;2657292.0;30113427.0;ctgbr.com.br
+edp sao paulo;Brazil;SP;SAO PAULO;Energia;6026203.0;476302.0;7358605.0;edp.com.br
+arteris;Brazil;SP;SAO PAULO;Transporte Logística e Serviços Logísticos;5992749.0;-442173.0;18956873.0;ri.arteris.com.br
+grupo elfa;Brazil;PR;CABEDELO;Farmacêutico e Beleza;5911466.0;-42865.0;6898636.0;grupoelfa.com.br
+cogna;Brazil;MG;BELO HORIZONTE;Educação;5895488.0;-492878.0;25135863.0;cogna.com.br
+allied tecnologia;Brazil;SP;SAO PAULO;Tecnologia e Telecomunicações;5854915.0;122444.0;3395751.0;alliedbrasil.com.br
+irb resseguros;Brazil;RJ;RIO DE JANEIRO;Seguradoras;5794710.0;-123853.0;15486432.0;irbre.com
+norte energia;Brazil;DF;BRASILIA;Energia;5764413.0;-850814.0;43103483.0;norteenergiasa.com.br
+eldorado brasil;Brazil;SP;SAO PAULO;Papel e Celulose;5756145.0;2347195.0;16109485.0;eldoradobrasil.com.br
+itau seguros;Brazil;SP;SAO PAULO;Seguradoras;5745588.0;1533583.0;10809575.0;itau.com.br
+equatorial maranhao distribuidora de energia s.a.;Brazil;MA;SAO LUIS;Energia;5669353.0;777391.0;9350413.0;ma.equatorialenergia.com.br
+zurich minas seguros;Brazil;MG;BELO HORIZONTE;Seguradoras;5660288.0;312195.0;11141088.0;zurich.com.br
+banco abc;Brazil;RJ;RIO DE JANEIRO;Bancos;5616433.0;851582.0;60632612.0;abcbrasil.com.br
+companhia distribuidora de gas do rio de janeiro - ceg/naturgy;Brazil;RJ;RIO DE JANEIRO;Energia;5602206.0;596943.0;4533192.0;naturgy.com.br
+copasul;Brazil;MS;NAVIRAI;Cooperativas;5509102.0;127740.0;3370943.0;copasul.agr.br
+oncoclinicas;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;5488776.0;312562.0;9181154.0;grupooncoclinicas.com
+unidas locadora;Brazil;MG;BELO HORIZONTE;Transporte Logística e Serviços Logísticos;5464000.0;130000.0;14925000.0;unidas.com.br
+banco master;Brazil;RJ;RIO DE JANEIRO;Bancos;5452337.0;531788.0;39141586.0;bancomaster.com.br
+sociedade beneficente israelita brasileira hospital albert einstein;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;5377190.0;349433.0;7845809.0;einstein.br
+grupo soma;Brazil;RJ;RIO DE JANEIRO;Moda e Vestuário;5360547.0;-1617129.0;9374458.0;somagrupo.com.br
+fertilizantes heringer;Brazil;ES;VIANA;Agronegócio;5335669.0;-361003.0;3003463.0;heringer.com.br
+tereos acucar & energia;Brazil;SP;OLIMPIA;Agronegócio;5204000.0;-516000.0;8549000.0;br.tereos.com
+zurich previdencia;Brazil;SP;SAO PAULO;Seguradoras;5183651.0;1357845.0;98827375.0;zurich.com.br
+edp es;Brazil;ES;VITORIA;Energia;5170845.0;376627.0;7019621.0;edp.com.br
+yduqs;Brazil;RJ;RIO DE JANEIRO;Educação;5147562.0;152344.0;9287596.0;yduqs.com.br
+banestes;Brazil;ES;VITORIA;Bancos;5131566.0;323803.0;41413000.0;banestes.com.br
+pernambucanas;Brazil;SP;SAO PAULO;Moda e Vestuário;5127708.0;-274524.0;10499232.0;pernambucanas.com.br
+copel geracao e transmissao s/a;Brazil;PR;CURITIBA;Energia;5117723.0;1634345.0;27416748.0;copel.com
+stone pagamentos;Brazil;SP;SAO PAULO;Serviços Financeiros;5116331.0;372706.0;44349924.0;stone.com.br
+corsan;Brazil;RS;PORTO ALEGRE;Saneamento e Meio Ambiente;5106437.0;631136.0;9987298.0;corsan.com.br
+redecard;Brazil;SP;SAO PAULO;Serviços Financeiros;5067852.0;3996450.0;127263373.0;userede.com.br
+cocari;Brazil;PR;MANDAGUARI;Cooperativas;5000337.0;86550.0;3567913.0;cocari.com.br
+lojas cem;Brazil;SP;SALTO;Atacado e Varejo;4971212.0;855496.0;7498506.0;lojascem.com.br
+sanofi medley;Brazil;SP;CAMPINAS;Farmacêutico e Beleza;4958396.0;576369.0;4626924.0;sanofi.com.br
+azul seguros;Brazil;RJ;RIO DE JANEIRO;Seguradoras;4953208.0;424726.0;4821378.0;azulseguros.com.br
+prudential do brasil;Brazil;RJ;RIO DE JANEIRO;Seguradoras;4934423.0;888902.0;21077302.0;prudential.com.br
+ache;Brazil;SP;SAO PAULO;Farmacêutico e Beleza;4912451.0;612424.0;6045443.0;ache.com.br
+livelo;Brazil;SP;BARUERI;Serviços Financeiros;4911831.0;1062668.0;5387453.0;livelo.com.br
+unipar carbocloro;Brazil;SP;SAO PAULO;Petróleo e Químico;4897288.0;791273.0;6396491.0;unipar.com
+sylvamo;Brazil;SP;MOGI GUACU;Papel e Celulose;4892761.0;1112183.0;8260557.0;sylvamo.com
+unimed seguros saude;Brazil;SP;SAO PAULO;Operadoras de Planos de Saúde;4884074.0;264123.0;2523524.0;segurosunimed.com.br
+ambipar;Brazil;SP;SAO PAULO;Saneamento e Meio Ambiente;4872707.0;56649.0;11642697.0;ambipar.com
+arezzo;Brazil;SP;SAO PAULO;Moda e Vestuário;4846768.0;398673.0;5975904.0;arezzo.com.br
+banco mercantil do brasil;Brazil;MG;BELO HORIZONTE;Bancos;4823494.0;420896.0;19282882.0;bancomercantil.com.br
+dimed;Brazil;RS;PORTO ALEGRE;Farmacêutico e Beleza;4803912.0;92905.0;3077470.0;dimed.com.br
+inter;Brazil;MG;BELO HORIZONTE;Bancos;4751928.0;395565.0;60425560.0;inter.co
+tambasa;Brazil;MG;CONTAGEM;Moda e Vestuário;4729161.0;331590.0;2623280.0;tambasa.com
+brk ambiental;Brazil;SP;SAO PAULO;Saneamento e Meio Ambiente;4654038.0;-138093.0;18140741.0;brkambiental.com.br
+nexa recursos;Brazil;MG;JUIZ DE FORA;;4650872.0;-1257294.0;11976453.0;nexaresources.com
+frimesa;Brazil;PR;MEDIANEIRA;Cooperativas;4639632.0;36304.0;3934298.0;frimesa.com.br
+roche;Brazil;SP;SAO PAULO;Farmacêutico e Beleza;4546303.0;502826.0;2957024.0;roche.com.br
+banco original;Brazil;SP;SAO PAULO;Bancos;4525956.0;-1500111.0;26592718.0;original.com.br
+pacheco;Brazil;RJ;RIO DE JANEIRO;Saúde e Serviços de Saúde;4515840.0;-17607.0;2944031.0;drogariaspacheco.com.br
+comerc energia lp;Brazil;SP;SAO PAULO;Energia;4511437.0;45381.0;15626206.0;comerc.com.br
+empresa de navegacao elcano;Brazil;RJ;RIO DE JANEIRO;Transporte Logística e Serviços Logísticos;4499658.0;112490.0;2431886.0;econodata.com.br
+totvs;Brazil;SP;SAO PAULO;Tecnologia e Telecomunicações;4497028.0;764435.0;8828860.0;totvs.com
+eletronuclear;Brazil;RJ;PARATY;Energia;4480504.0;318199.0;23117320.0;eletronuclear.gov.br
+hdi;Brazil;SP;SAO PAULO;Seguradoras;4466495.0;356661.0;11911410.0;hdiseguros.com.br
+banco carrefour;Brazil;SP;SAO PAULO;Bancos;4425661.0;183408.0;18912165.0;grupocarrefourbrasil.com.br
+mahle;Brazil;RJ;QUEIMADOS;Bens de Capital e Eletroeletronicos;4338825.0;747778.0;2800925.0;br.mahle.com
+sonda supermercados;Brazil;SP;SAO BERNARDO DO CAMPO;Atacado e Varejo;4337674.0;427828.0;2549360.0;sondadelivery.com.br
+raizen centro-sul s.a. (anteriormente denominada biosev s.a.);Brazil;RN;BREJINHO;Energia;4323645.0;325047.0;10088117.0;raizen.com.br
+porto seguro - seguro saude;Brazil;SP;SAO PAULO;Operadoras de Planos de Saúde;4310110.0;117337.0;2465103.0;portoseguro.com.br
+innova;Brazil;SP;BARUERI;Petróleo e Químico;4282660.0;530541.0;4515202.0;innova.com.br
+smartfit;Brazil;SP;SAO PAULO;Saúde e Serviços de Saúde;4244743.0;1044176.0;14230177.0;smartfit.com.br
+cateno gestao;Brazil;SP;BARUERI;Tecnologia e Telecomunicações;4182399.0;1271101.0;9701363.0;cateno.com.br
+energisa mt;Brazil;MS;CAMPO GRANDE;Energia;4140567.0;609044.0;6219972.0;energisa.com.br
+brasoftware informatica ltda;Brazil;SP;SAO PAULO;Tecnologia e Telecomunicações;4133051.0;183165.0;1164513.0;brasoftware.com.br
+intelbras;Brazil;SC;SAO JOSE;Tecnologia e Telecomunicações;4103676.0;545558.0;4718598.0;intelbras.com
+calcados beira rio;Brazil;RJ;RIO DE JANEIRO;Moda e Vestuário;4094469.0;554440.0;3711304.0;calcadosbeirario.com.br
+iharabras;Brazil;SP;SOROCABA;Agronegócio;4060635.0;880891.0;7250371.0;ihara.com.br
+copel comercializacao s/a;Brazil;PR;CURITIBA;Energia;4056904.0;105550.0;1824991.0;copel.com
+gestamp;Brazil;PR;SAO JOSE DOS PINHAIS;Bens de Capital e Eletroeletronicos;3967927.0;219537.0;3110583.0;gestamp.com
+unidas;Brazil;MG;BELO HORIZONTE;Transporte Logística e Serviços Logísticos;3960512.0;101685.0;14925238.0;empresas.unidas.com.br
+uniao quimica;Brazil;SP;SAO PAULO;Farmacêutico e Beleza;3960030.0;316213.0;4885715.0;uniaoquimica.com.br
+vli multimodal;Brazil;MG;BELO HORIZONTE;Transporte Logística e Serviços Logísticos;3948731.0;95674.0;14312600.0;vli-logistica.com.br
+positivo tecnologia;Brazil;PR;CURITIBA;Tecnologia e Telecomunicações;3926631.0;250882.0;4581833.0;positivotecnologia.com.br
+bb mapfre;Brazil;SP;SAO PAULO;Seguradoras;3887621.0;3887689.0;3358956.0;mapfre.com.br
+burguer king;Brazil;SP;BARUERI;Alimentos e Bebidas;3841961.0;-97826.0;4117466.0;burgerking.com.br
+agrofel;Brazil;RS;PORTO ALEGRE;Agronegócio;3829926.0;68370.0;1810939.0;agrofel.com.br
+rio parana energia;Brazil;SP;SAO PAULO;Energia;3828341.0;2251422.0;20017761.0;ri.ctgbr.com.br
+supermercado bahamas;Brazil;MG;JUIZ DE FORA;Atacado e Varejo;3796944.0;47875.0;2010780.0;bahamas.com.br
+bb gestao de recursos;Brazil;RJ;RIO DE JANEIRO;Serviços Financeiros;3755020.0;1880782.0;3716268.0;bb.com.br
+esho;Brazil;RJ;RIO DE JANEIRO;Saúde e Serviços de Saúde;3746129.0;-359738.0;5620059.0;br.indeed.com
+alpargatas;Brazil;SP;SAO PAULO;Moda e Vestuário;3734146.0;-1867484.0;6327389.0;alpargatas.com.br
+anima educação;Brazil;SP;São Paulo;;3732940.0;-213172.0;9655477.0;institutoanima.org.br
+atakarejo;Brazil;BA;Salvador;Atacado e Varejo;3723056.0;168892.0;2596225.0;atakarejo.com.br
+fundação do abc saúde;Brazil;SP;Santo André;Saúde e Serviços de Saúde;3671201.0;130192.0;583188.0;fuabc.org.br
+rumo malha paulista;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;3657583.0;-9923.0;16999464.0;rumolog.com
+cpfl renováveis;Brazil;SP;Campinas;Energia;3639600.0;1382380.0;11451115.0;cpfl.com.br
+zaffari;Brazil;RS;Passo Fundo;Atacado e Varejo;3605664.0;;;zaffari.com.br
+elétron energy;Brazil;PE;Recife;Energia;3560902.0;25530.0;1294129.0;eletronenergy.com.br
+icatu;Brazil;RJ;Rio de Janeiro;Seguradoras;3538487.0;350696.0;54057480.0;portal.icatuseguros.com.br
+iconic;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;3517910.0;170161.0;1852174.0;iconic.com.br
+intercement brasil;Brazil;SP;São Paulo;Imobiliário e Construção Civil;3507397.0;-393902.0;5008231.0;brasil.intercement.com
+multilaser;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;3499079.0;-836178.0;5459038.0;multilaser.com.br
+ferrovia centro atlântica;Brazil;MG;Belo Horizonte;Transporte Logística e Serviços Logísticos;3490776.0;-906654.0;5581230.0;vli-logistica.com.br
+edp trading;Brazil;SP;São Paulo;Energia;3485457.0;148960.0;3415830.0;edp.com.br
+saneago;Brazil;GO;Goiânia;Saneamento e Meio Ambiente;3481286.0;583856.0;8036981.0;saneago.com.br
+vix logística;Brazil;ES;Vitória;Transporte Logística e Serviços Logísticos;3456636.0;124796.0;5152642.0;vix.com.br
+banco cnh industrial capital;Brazil;PR;Curitiba;Bancos;3434105.0;143180.0;26625693.0;cnhcapital.com
+aes brasil energia;Brazil;SP;São Paulo;Energia;3431516.0;333287.0;19479920.0;brasil-re-staging.aes.com
+neoenergia brasília;Brazil;DF;Brasília;Energia;3401000.0;-70000.0;5779000.0;neoenergia.com
+brejeiro alimentos;Brazil;SP;Orlândia;Alimentos e Bebidas;3379019.0;138872.0;1885732.0;brejeiro.com.br
+alubar;Brazil;PA;Barcarena;;3373380.0;125573.0;2526454.0;alubar.net.br
+facchini;Brazil;SP;Guarulhos;Bens de Capital e Eletroeletronicos;3342231.0;468256.0;3235553.0;facchini.com.br
+icl américa do sul;Brazil;SP;São Paulo;Agronegócio;3340852.0;41094.0;5450275.0;bra.icl-group.com
+xp vida;Brazil;SP;São Paulo;Seguradoras;3333361.0;93059.0;56829838.0;xpi.com.br
+alupar;Brazil;SP;São Paulo;Energia;3311381.0;1150986.0;28436081.0;alupar.com.br
+termomecanica;Brazil;SP;São Paulo;;3302142.0;212329.0;3089927.0;termomecanica.com.br
+kabum;Brazil;SP;Limeira;Atacado e Varejo;3266979.0;87749.0;1942232.0;kabum.com.br
+jacto;Brazil;SP;Pompeia;;3245757.0;431089.0;3417094.0;jacto.com
+j.macêdo;Brazil;CE;Fortaleza;Alimentos e Bebidas;3220533.0;423568.0;2046088.0;jmacedo.com.br
+serpro;Brazil;DF;Brasília;Tecnologia e Telecomunicações;3215018.0;450774.0;4797197.0;serpro.gov.br
+athena saúde brasil;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;3196424.0;-16168.0;4238980.0;athenasaude.com.br
+petz;Brazil;RJ;Rio de Janeiro;Atacado e Varejo;3173241.0;16349.0;3995411.0;petz.com.br
+ceg rio;Brazil;RJ;Rio de Janeiro;Energia;3170148.0;224966.0;1577182.0;naturgy.com.br
+bem brasil alimentos;Brazil;MG;Araxá;Alimentos e Bebidas;3135233.0;441361.0;3239234.0;bembrasil.ind.br
+chubb;Brazil;SP;São Paulo;Seguradoras;3125722.0;160449.0;9432459.0;chubb.com
+unimed campinas;Brazil;SP;Campinas;Operadoras de Planos de Saúde;3114578.0;76569.0;1612324.0;unimedcampinas.com.br
+frigol;Brazil;SP;Lençóis Paulista;Agronegócio;3086919.0;54488.0;1233238.0;frigol.com.br
+usina coruripe;Brazil;AL;Coruripe;Agronegócio;3075471.0;140419.0;10400403.0;usinacoruripe.com.br
+banco agibank;Brazil;SP;Campinas;Bancos;3029389.0;429069.0;19188222.0;agibank.com.br
+aes brasil;Brazil;SP;São Paulo;Energia;3018802.0;334090.0;10984130.0;brasil-re-staging.aes.com
+ssa;Brazil;GO;Itaberaí;Alimentos e Bebidas;2987687.0;172492.0;2734509.0;ssa-br.com
+even;Brazil;RJ;Rio de Janeiro;;2973650.0;341294.0;7298629.0;even.com.br
+lm transportes;Brazil;BA;Salvador;Transporte Logística e Serviços Logísticos;2963057.0;160371.0;12199698.0;lmtransportes.com
+refinaria de petróleo riograndense;Brazil;RS;Rio Grande;Petróleo e Químico;2954931.0;20899.0;815484.0;refinariariograndense.com.br
+construtora tenda;Brazil;SP;São Paulo;;2903087.0;-102510.0;4545338.0;tenda.com
+cury construtora;Brazil;RJ;Rio de Janeiro;;2886172.0;495611.0;3092023.0;cury.net
+afya;Brazil;MG;Nova Lima;Educacao;2876000.0;405000.0;7584000.0;afya.com.br
+tecban;Brazil;SP;São Paulo;Serviços Financeiros;2875219.0;37792.0;3231725.0;tecban.com.br
+arcelormittal siderúrgica;Brazil;PR;Araucária;Siderurgia Mineração e Metalurgia;2872915.0;84695.0;984002.0;brasil.arcelormittal.com
+rabobank;Brazil;SP;São Paulo;Bancos;2824930.0;812710.0;46745663.0;rabobank.com.br
+compesa;Brazil;PE;Recife;Saneamento e Meio Ambiente;2822431.0;90708.0;11423999.0;servicos.compesa.com.br
+vulcabras;Brazil;SP;São Paulo;Moda e Vestuário;2817679.0;494883.0;2775153.0;vulcabras.com
+petroreconcavo;Brazil;RN;Mossoró;Petróleo e Químico;2814361.0;708938.0;6829184.0;petroreconcavo.com.br
+gru - guarulhos;Brazil;SP;Guarulhos;Transporte Logística e Serviços Logísticos;2808682.0;-193407.0;14796335.0;guarulhostransportes.com.br
+heinz;Brazil;SP;São Paulo;Alimentos e Bebidas;2793732.0;-38675.0;4747525.0;heinz.com
+fortbras;Brazil;SP;São Paulo;Atacado e Varejo;2749760.0;19072.0;2564775.0;fortbras.com.br
+algar telecom;Brazil;MG;Uberlândia;Tecnologia e Telecomunicações;2746728.0;-152759.0;7456274.0;loja.algartelecom.com.br
+allos;Brazil;RJ;Rio de Janeiro;;2712274.0;3493910.0;27659095.0;allos.co
+mataboi alimentos;Brazil;MG;Araguari;Alimentos e Bebidas;2697591.0;93285.0;1264559.0;primafoods.com.br
+banco mercedes-benz do brasil;Brazil;SP;São Bernardo do Campo;Bancos;2691558.0;130141.0;20579327.0;bancomercedes-benz.com.br
+eucatex;Brazil;SP;São Paulo;;2677586.0;422213.0;4108415.0;eucatex.com.br
+vipal borrachas;Brazil;RS;Nova Prata;Petróleo e Químico;2669083.0;310635.0;2547531.0;vipal.com
+colombo agroindústria;Brazil;SP;Ariranha;Agronegócio;2669066.0;254133.0;5789807.0;colomboagroindustria.com.br
+banco bnp paribas;Brazil;RJ;Rio de Janeiro;Bancos;2667708.0;58830.0;94632174.0;brasil.bnpparibas
+unimed fortaleza;Brazil;CE;Fortaleza;Operadoras de Planos de Saúde;2597132.0;34287.0;1439891.0;unimed.coop.br
+metal group;Brazil;SC;Joinville;Siderurgia Mineração e Metalurgia;2563949.0;94995.0;564427.0;smmetais.com.br
+sompo seguros;Brazil;SP;São Paulo;Seguradoras;2563898.0;660617.0;5030036.0;sompo.com.br
+g10 transportes;Brazil;PR;Maringá;Transporte Logística e Serviços Logísticos;2557853.0;16901.0;571998.0;g10transportes.com.br
+farmácias nissei;Brazil;PR;Curitiba;Saúde e Serviços de Saúde;2549996.0;8658.0;1668841.0;farmaciasnissei.com.br
+arauco do brasil;Brazil;PR;Curitiba;;2544078.0;133069.0;2766935.0;arauco.com.br
+coop;Brazil;SP;Santo André;Cooperativas;2511712.0;75866.0;1387399.0;portalcoop.com.br
+atento;Brazil;RJ;Rio de Janeiro;Participações e Mídia;2501153.0;-298061.0;1667781.0;atento.com
+vicunha têxtil;Brazil;CE;Maracanaú;Moda e Vestuário;2489384.0;5032.0;3222562.0;vicunha.com
+cerradinho bioenergia;Brazil;SP;São Paulo;Energia;2476559.0;242803.0;5308580.0;cerradinhobio.com.br
+distribuidora rio branco de petróleo;Brazil;MG;Uberaba;Energia;2459530.0;32856.0;181305.0;riobrancoenergias.com
+santher;Brazil;SP;Bragança Paulista;Papel e Celulose;2438535.0;157654.0;2110544.0;santher.com.br
+ferbasa;Brazil;BA;Pojuca;Siderurgia Mineração e Metalurgia;2435135.0;382649.0;4110697.0;ferbasa.com.br
+grendene;Brazil;CE;Sobral;Moda e Vestuário;2433607.0;557671.0;4075361.0;grendene.com.br
+alelo;Brazil;SP;Barueri;Serviços Financeiros;2431590.0;391603.0;8063362.0;alelo.com.br
+kalunga;Brazil;SP;São Paulo;Atacado e Varejo;2425230.0;104777.0;3194502.0;kalunga.com.br
+lojas quero-quero;Brazil;RS;Cachoeirinha;Atacado e Varejo;2398127.0;19679.0;3305723.0;queroquero.com.br
+belenus;Brazil;SP;Vinhedo;Atacado e Varejo;2380470.0;21947.0;1974411.0;belenus.com.br
+banco bocom bbm;Brazil;RJ;Rio de Janeiro;Bancos;2368037.0;274201.0;27765856.0;bocombbm.com.br
+holambra;Brazil;SP;Paranapanema;Cooperativas;2361167.0;32751.0;1449888.0;holambra.com.br
+hering;Brazil;SC;Blumenau;Moda e Vestuário;2358252.0;54260.0;2777354.0;hering.com.br
+direcional engenharia;Brazil;MG;Belo Horizonte;Imobiliário e Construção Civil;2355183.0;386877.0;7571598.0;direcional.com.br
+iguá saneamento;Brazil;SP;São Paulo;Saneamento e Meio Ambiente;2343954.0;-381658.0;12115071.0;igua.com.br
+log-in;Brazil;RJ;Rio de Janeiro;Transporte Logística e Serviços Logísticos;2338625.0;60172.0;2787052.0;loginlogistica.com.br
+vitória diesel;Brazil;RJ;Paraty;Bens de Capital e Eletroeletronicos;2337820.0;76894.0;1499549.0;vitoriadiesel.com.br
+petronas;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;2323678.0;64070.0;1246912.0;br.pli-petronas.com
+austral resseguradora;Brazil;RJ;Rio de Janeiro;Seguradoras;2322038.0;29427.0;4152186.0;australre.com
+metrô;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;2319588.0;-900176.0;41088941.0;metro.sp.gov.br
+merck;Brazil;RJ;Rio de Janeiro;Farmacêutico e Beleza;2312195.0;355747.0;1876915.0;merckgroup.com
+cantu;Brazil;SP;São Paulo;Atacado e Varejo;2300000.0;91000.0;2600000.0;cantu.com.br
+cruzeiro do sul;Brazil;SP;São Paulo;Educacao;2297787.0;100455.0;4515809.0;cruzeirodosul.edu.br
+omint;Brazil;RJ;Rio de Janeiro;Operadoras de Planos de Saúde;2297726.0;118468.0;871409.0;omint.com.br
+banco pine;Brazil;SP;São Paulo;Bancos;2289174.0;180878.0;20892707.0;pine.com
+flora;Brazil;SP;São Paulo;Farmacêutico e Beleza;2279791.0;152997.0;2499389.0;flora.com.br
+valid;Brazil;RJ;Rio de Janeiro;Tecnologia e Telecomunicações;2255510.0;210621.0;2545626.0;valid.com
+cimed;Brazil;SP;São Paulo;Farmacêutico e Beleza;2252000.0;291400.0;2600000.0;cimedremedios.com.br
+cptm;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;2250553.0;-851709.0;12410317.0;cptm.sp.gov.br
+energisa sul-sudeste;Brazil;SP;Presidente Prudente;Energia;2242323.0;138628.0;2927738.0;energisa.com.br
+banco itaú bba;Brazil;SP;São Paulo;Bancos;2237497.0;1320818.0;4836098.0;itau.com.br
+ci&t software;Brazil;SP;Campinas;Tecnologia e Telecomunicações;2233466.0;132573.0;2716891.0;ciandt.com
+sofisa;Brazil;SP;São Paulo;Bancos;2229560.0;131088.0;15417857.0;sofisa.com.br
+imc;Brazil;SP;São Paulo;Alimentos e Bebidas;2226345.0;-81997.0;2740000.0;grupoimc.com.br
+solvi essencis;Brazil;SP;São Paulo;Saneamento e Meio Ambiente;2224155.0;34153.0;3867351.0;solvi.com
+prodesp;Brazil;SP;Taboão da Serra;Tecnologia e Telecomunicações;2207046.0;81848.0;2086478.0;prodesp.sp.gov.br
+portobello;Brazil;SC;Tijucas;Imobiliário e Construção Civil;2190834.0;-35103.0;3296008.0;portobello.com.br
+hospital mater dei;Brazil;MG;Belo Horizonte;Saúde e Serviços de Saúde;2187665.0;141247.0;5171451.0;materdei.com.br
+vivara;Brazil;SP;São Paulo;Moda e Vestuário;2186975.0;369245.0;3241590.0;vivara.com.br
+grupo sinosserra;Brazil;RS;Novo Hamburgo;Atacado e Varejo;2167971.0;32377.0;732479.0;gruposinosserra.com.br
+gees;Brazil;PI;Baixa Grande do Ribeiro;Agronegócio;2146615.0;274843.0;1781358.0;geessa.com
+santos brasil;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;2134925.0;504304.0;4707845.0;santosbrasil.com.br
+odontoprev;Brazil;SP;Barueri;Operadoras de Planos de Saúde;2118667.0;511590.0;2163973.0;odontoprev.com.br
+unimed goiânia;Brazil;GO;Goiânia;Operadoras de Planos de Saúde;2107898.0;14790.0;1106575.0;unimedgoiania.coop.br
+care plus medicina assistencial;Brazil;SP;Barueri;Operadoras de Planos de Saúde;2105860.0;135817.0;1662897.0;careplus.com.br
+agribrasil;Brazil;SP;São Paulo;Agronegócio;2092686.0;1206.0;805059.0;agribrasil.net
+josapar;Brazil;RS;Porto Alegre;Agronegócio;2090481.0;22258.0;2388031.0;josapar.com.br
+lojas le biscuit;Brazil;BA;Feira de Santana;Atacado e Varejo;2087226.0;-135693.0;2779922.0;lebiscuit.com.br
+metropolitan life;Brazil;SP;São Paulo;Seguradoras;2085310.0;135306.0;4765290.0;metlife.com.br
+boa safra;Brazil;GO;Formosa;Agronegócio;2078749.0;344952.0;2358531.0;boasafrasementes.com.br
+banco bradescard;Brazil;SP;Barueri;Bancos;2074873.0;-235096.0;14779416.0;banco.bradesco
+plano&plano;Brazil;SP;São Paulo;Imobiliário e Construção Civil;2072023.0;276915.0;2039019.0;planoeplano.com.br
+banco volvo (brasil);Brazil;PR;Curitiba;Bancos;2055104.0;322045.0;16498599.0;portal.bancovolvo.com.br
+rumo malha sul;Brazil;SP;Bauru;Transporte Logística e Serviços Logísticos;2048328.0;-55100.0;5396378.0;rumolog.com
+mongeral;Brazil;RJ;Rio de Janeiro;Seguradoras;2045873.0;266296.0;4139090.0;mag.com.br
+banco john deere;Brazil;SP;Indaiatuba;Bancos;2039434.0;322303.0;18504509.0;deere.com.br
+esfera;Brazil;SP;São Paulo;Serviços Financeiros;2038564.0;775605.0;3021309.0;esfera.com.vc
+multiplan;Brazil;RJ;Rio de Janeiro;Imobiliário e Construção Civil;2029569.0;1020554.0;11536924.0;multiplan.com.br
+ferrovia norte sul (fns) - vli;Brazil;MA;São Luís;Transporte Logística e Serviços Logísticos;1986373.0;879664.0;4565983.0;vli-logistica.com.br
+banco rci brasil;Brazil;PR;Curitiba;Bancos;1971647.0;166025.0;11445856.0;portalrci-reorg-qas.bancorci.com.br
+romagnole;Brazil;PR;Mandaguari;Energia;1970028.0;235719.0;1426556.0;romagnole.com
+salta educação;Brazil;RJ;Rio de Janeiro;Educacao;1969000.0;-64000.0;3616000.0;gruposaltaedu.com
+metalfrio solutions;Brazil;SP;São Paulo;Bens de Capital e Eletroeletronicos;1966737.0;8277.0;1790891.0;metalfrio.com.br
+tramontina cutelaria;Brazil;RS;Carlos Barbosa;Siderurgia Mineração e Metalurgia;1962019.0;100757.0;2425537.0;global.tramontina.com
+spic brasil energia participações;Brazil;SP;São Paulo;Energia;1952454.0;255335.0;14799521.0;spicbrasil.com.br
+granja faria;Brazil;SC;Lauro Müller;Alimentos e Bebidas;1947446.0;271219.0;2229776.0;granjafaria.com.br
+bank of america merrill lynch - banco múltiplo;Brazil;SP;São Paulo;Bancos;1945380.0;904900.0;33241546.0;bankofamerica.com
+deten química;Brazil;BA;Camaçari;Petróleo e Químico;1943876.0;257903.0;1367679.0;deten.com.br
+banco toyota do brasil;Brazil;SP;São Paulo;Bancos;1936810.0;55789.0;11831912.0;institucional.bancotoyota.com.br
+barra mansa alimentos;Brazil;SP;São Paulo;Alimentos e Bebidas;1932259.0;135164.0;745171.0;orangesalimentos.com.br
+camda;Brazil;SP;Adamantina;Cooperativas;1926125.0;-75331.0;1530605.0;camda.com.br
+pamplona;Brazil;SC;Rio do Sul;Alimentos e Bebidas;1925983.0;1091.0;1382975.0;pamplona.com.br
+schulz compressores;Brazil;SC;Joinville;Bens de Capital e Eletroeletronicos;1925762.0;277892.0;2380110.0;schulz.com.br
+hidrovias do brasil;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;1925700.0;17600.0;6249047.0;hbsa.com.br
+veracel celulose;Brazil;BA;Eunápolis;Papel e Celulose;1925360.0;12975.0;4153250.0;veracel.com.br
+colombo;Brazil;RS;Caxias do Sul;Atacado e Varejo;1925119.0;56181.0;2187829.0;colombo.com.br
+cbo holding;Brazil;RJ;Macaé;Transporte Logística e Serviços Logísticos;1918605.0;66779.0;6059803.0;grupocbo.com.br
+dataprev;Brazil;DF;Brasília;Tecnologia e Telecomunicações;1909923.0;598561.0;2777083.0;dataprev.gov.br
+aec;Brazil;MG;Belo Horizonte;Participações e Mídia;1891220.0;125065.0;1027338.0;aec.com.br
+pastifício selmi;Brazil;SP;Sumaré;Alimentos e Bebidas;1886533.0;173477.0;1271675.0;pt-br.selmi.com.br
+panatlântica;Brazil;RS;Gravataí;Siderurgia Mineração e Metalurgia;1879266.0;13417.0;1564781.0;panatlantica.com.br
+braspress transportes urgentes;Brazil;SP;Guarulhos;Transporte Logística e Serviços Logísticos;1856730.0;182226.0;1168792.0;braspress.com
+alibem;Brazil;RS;Santa Rosa;Alimentos e Bebidas;1844759.0;-81547.0;2030486.0;alibem.com.br
+porto seguro assistência;Brazil;SP;Barueri;Seguradoras;1843684.0;265146.0;485910.0;portoseguro.com.br
+ceee-t;Brazil;RS;Porto Alegre;Energia;1832616.0;608820.0;5790536.0;ceee.equatorialenergia.com.br
+ser educacional;Brazil;PE;Recife;Educacao;1830934.0;-28044.0;3488933.0;sereducacional.com
+bamaq;Brazil;MG;Contagem;Transporte Logística e Serviços Logísticos;1821458.0;100518.0;708713.0;grupobamaq.com.br
+banco gm;Brazil;SP;São Paulo;Bancos;1820769.0;332705.0;13762415.0;chevroletsf.com.br
+rio paranapanema participações;Brazil;SP;São Paulo;Energia;1801522.0;245828.0;3993343.0;ri.paranapanema.com.br
+sandvik;Brazil;SP;São Paulo;Siderurgia Mineração e Metalurgia;1799527.0;106031.0;1385845.0;home.sandvik
+taurus;Brazil;RS;São Borja;Bens de Capital e Eletroeletronicos;1781887.0;152790.0;2153861.0;taurusarmas.com.br
+banco itaucard;Brazil;SP;São Paulo;Bancos;1771937.0;297015.0;15881914.0;itau.com.br
+omni - crédito;Brazil;SP;São Paulo;Serviços Financeiros;1757479.0;-156746.0;5869588.0;omni.com.br
+qualicorp;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;1749906.0;-75375.0;4509325.0;qualicorp.com.br
+rede d1000;Brazil;RJ;Rio de Janeiro;Saúde e Serviços de Saúde;1748909.0;21362.0;1548519.0;grupoprofarma.com.br
+dexxos par;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;1745275.0;211286.0;1462436.0;dexxos.com.br
+tbg;Brazil;SP;Hortolândia;Transporte Logística e Serviços Logísticos;1745000.0;762000.0;2797000.0;tbg.com.br
+too seguros;Brazil;SP;São Paulo;Seguradoras;1735543.0;345759.0;3622150.0;tooseguros.com.br
+química anastácio;Brazil;SP;São Paulo;Petróleo e Químico;1724365.0;90972.0;814861.0;anastacio.com
+madero;Brazil;PR;Curitiba;Alimentos e Bebidas;1708098.0;-65175.0;2405945.0;restaurantemadero.com.br
+jalles machado;Brazil;GO;Goianésia;Agronegócio;1707488.0;692329.0;6119077.0;jalles.com
+prosegur;Brazil;MG;Belo Horizonte;Transporte Logística e Serviços Logísticos;1704468.0;-22475.0;2445496.0;prosegur.com.br
+itaú corretora;Brazil;SP;São Paulo;Seguradoras;1702967.0;698735.0;2115649.0;itaucorretora.com.br
+paraná equipamentos;Brazil;PR;Curitiba;Bens de Capital e Eletroeletronicos;1680785.0;73476.0;1016190.0;pesa.com.br
+getnet;Brazil;SP;São Paulo;Serviços Financeiros;1666807.0;838640.0;69669294.0;site.getnet.com.br
+sodexo;Brazil;SP;Barueri;Serviços Financeiros;1666721.0;457923.0;5901369.0;br.sodexo.com
+goldman sachs do brasil - banco múltiplo;Brazil;SP;São Paulo;Bancos;1662499.0;317531.0;26068338.0;goldmansachs.com
+cardif do brasil;Brazil;SP;São Paulo;Serviços Financeiros;1658427.0;63395.0;2869494.0;bnpparibascardif.com.br
+oceanpact;Brazil;RJ;Rio de Janeiro;Transporte Logística e Serviços Logísticos;1648883.0;73315.0;2383270.0;oceanpact.com
+lojas marisa;Brazil;SP;São Paulo;Atacado e Varejo;1646097.0;-520752.0;2453892.0;marisa.com.br
+nardini agroindustrial;Brazil;SP;Vista Alegre do Alto;Agronegócio;1644071.0;170648.0;3150043.0;nardini.ind.br
+transpanorama transportes;Brazil;PR;Maringá;Transporte Logística e Serviços Logísticos;1635523.0;94365.0;955964.0;transpanorama.com.br
+casan;Brazil;SC;Florianópolis;Saneamento e Meio Ambiente;1634101.0;50743.0;5015791.0;casan.com.br
+paraná banco;Brazil;PR;Curitiba;Bancos;1621830.0;96645.0;10157174.0;paranabanco.com.br
+companhia melhoramentos norte do paraná;Brazil;PR;Jussara;Energia;1618907.0;206614.0;4432622.0;cmnp.com.br
+kingspan isoeste - construtivos isotérmicos;Brazil;GO;Anápolis;Siderurgia Mineração e Metalurgia;1615075.0;135624.0;1186399.0;kingspan-isoeste.com.br
+lorenzetti;Brazil;SP;São Paulo;Bens de Capital e Eletroeletronicos;1614080.0;317551.0;1617930.0;lorenzetti.com.br
+fairfax;Brazil;SP;São Paulo;Seguradoras;1603318.0;137175.0;5142018.0;fairfax.com.br
+almaviva telemarketing;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;1602481.0;152469.0;1375467.0;almaviva.it
+irani;Brazil;RS;Porto Alegre;Papel e Celulose;1594245.0;383434.0;3467066.0;irani.com.br
+jhsf;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1593474.0;497865.0;11078069.0;jhsf.com.br
+tegma gestão;Brazil;SP;São Bernardo do Campo;Transporte Logística e Serviços Logísticos;1583468.0;181912.0;1199711.0;tegmatic.com.br
+vulcabras ce;Brazil;CE;Horizonte;Moda e Vestuário;1560156.0;492837.0;2529621.0;vulcabras.com
+brmalls;Brazil;RJ;Rio de Janeiro;Imobiliário e Construção Civil;1555695.0;2485570.0;20821338.0;statusinvest.com.br
+laboratório teuto;Brazil;GO;Anápolis;Farmacêutico e Beleza;1541694.0;252714.0;1707541.0;teuto.com.br
+cirion;Brazil;SP;Cotia;Tecnologia e Telecomunicações;1537522.0;83195.0;2302993.0;ciriontechnologies.com
+kepler weber;Brazil;SP;São Paulo;Agronegócio;1512134.0;245214.0;1471280.0;kepler.com.br
+uisa;Brazil;SP;São Paulo;Agronegócio;1494787.0;569857.0;3146360.0;uisa.com.br
+cocapec;Brazil;SP;Franca;Cooperativas;1491919.0;34413.0;1087406.0;cocapec.com.br
+somos educação;Brazil;SP;São José dos Campos;Educacao;1486273.0;-82978.0;7402880.0;somoseducacao.com.br
+stefanini;Brazil;SP;Barueri;Tecnologia e Telecomunicações;1471420.0;150304.0;475033.0;stefanini.com
+lupo;Brazil;SP;Araraquara;Moda e Vestuário;1466478.0;171362.0;1550488.0;lupo.com.br
+guararapes;Brazil;SC;Caçador;Imobiliário e Construção Civil;1462408.0;39618.0;3245106.0;guararapes.com.br
+infraero;Brazil;DF;Brasília;Transporte Logística e Serviços Logísticos;1457221.0;490075.0;3689181.0;infraero.gov.br
+swiss;Brazil;SP;São Paulo;Seguradoras;1455602.0;147061.0;4956030.0;swissre.com
+neoenergia morro do chapéu;Brazil;ES;João Neiva;Energia;1440863.0;124248.0;2498824.0;neoenergia.com
+cremer;Brazil;SC;Blumenau;Farmacêutico e Beleza;1440832.0;120105.0;1479476.0;cremer.net.br
+austral seguradora;Brazil;RJ;Rio de Janeiro;Seguradoras;1433480.0;42423.0;2442410.0;australseguradora.com
+cvc viagens;Brazil;SP;Santo André;Transporte Logística e Serviços Logísticos;1432690.0;-456880.0;4030884.0;cvc.com.br
+sabin;Brazil;DF;Brasília;Saúde e Serviços de Saúde;1428140.0;44737.0;1215429.0;sabin.com.br
+nc energia;Brazil;RJ;Rio de Janeiro;Energia;1427440.0;48310.0;742197.0;neoenergia.com
+hélio borenstein;Brazil;SP;Mogi das Cruzes;Imobiliário e Construção Civil;1425007.0;395395.0;10755023.0;helbor.com.br
+nadir figueiredo;Brazil;SP;Suzano;Bens de Capital e Eletroeletronicos;1423416.0;159859.0;1942124.0;nadir.com.br
+bombril;Brazil;SP;São Bernardo do Campo;Bens de Capital e Eletroeletronicos;1420683.0;100166.0;826455.0;bombril.com.br
+elekeiroz;Brazil;SP;Várzea Paulista;Petróleo e Químico;1408647.0;-106216.0;1177737.0;elekeiroz.com.br
+porto alegre alimentos;Brazil;MG;Ponte Nova;Alimentos e Bebidas;1406020.0;148883.0;1205482.0;laticiniosportoalegre.com.br
+são carlos;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1400006.0;303685.0;3564533.0;scsa.com.br
+aig seguros;Brazil;SP;São Paulo;Seguradoras;1399557.0;120179.0;3183025.0;aig.com.br
+copergás;Brazil;PE;Recife;Energia;1397739.0;95623.0;999524.0;novo.copergas.com.br
+petrocoque;Brazil;SP;Cubatão;Petróleo e Químico;1395097.0;113593.0;859437.0;petrocoque.com.br
+rio paranapanema energia - ctg;Brazil;SP;São Paulo;Energia;1391868.0;341617.0;3689053.0;ri.ctgbr.com.br
+hipercard;Brazil;PE;Recife;Bancos;1390910.0;246204.0;15133548.0;hipercard.com.br
+grupo penha;Brazil;SP;São Paulo;Papel e Celulose;1390815.0;166595.0;1084902.0;penha.com.br
+cesp;Brazil;SP;São Paulo;Energia;1389769.0;-449370.0;13568181.0;cesp.com.br
+enauta energia;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;1388562.0;-75107.0;8055257.0;enauta.com.br
+mapfre resseguros;Brazil;SP;São Paulo;Seguradoras;1386762.0;77762.0;2841299.0;mapfre.com.br
+eixo sp;Brazil;SP;Itirapina;Transporte Logística e Serviços Logísticos;1382099.0;83041.0;3809278.0;eixosp.com.br
+abimex;Brazil;SC;Jaraguá do Sul;Transporte Logística e Serviços Logísticos;1378938.0;108732.0;1311747.0;totvs.com
+itaú cdb;Brazil;SP;São Paulo;Serviços Financeiros;1378749.0;212497.0;9532793.0;itau.com.br
+mills estruturas e serviços de engenharia;Brazil;RJ;Rio de Janeiro;Transporte Logística e Serviços Logísticos;1377756.0;278212.0;2740405.0;mills.com.br
+unimed florianópolis;Brazil;SC;Florianópolis;Operadoras de Planos de Saúde;1376528.0;3902.0;948990.0;unimed.coop.br
+blau farmacêutica;Brazil;SP;Cotia;Farmacêutico e Beleza;1372633.0;247491.0;3053528.0;blau.com
+armac;Brazil;SP;Barueri;Transporte Logística e Serviços Logísticos;1360967.0;163283.0;3982727.0;armac.com.br
+ftd;Brazil;SP;São Paulo;Educacao;1360828.0;93216.0;1363171.0;ftd.com.br
+iguá rio;Brazil;RJ;Rio de Janeiro;Saneamento e Meio Ambiente;1359027.0;-380398.0;8551041.0;igua.com.br
+construtora barbosa mello;Brazil;MG;Belo Horizonte;Imobiliário e Construção Civil;1357371.0;101498.0;819381.0;cbmsa.com.br
+allpark;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;1356341.0;-68080.0;2515092.0;totvs.com
+leite jussara;Brazil;SP;Patrocínio Paulista;Alimentos e Bebidas;1351705.0;31075.0;729776.0;leitejussara.com.br
+brasilagro;Brazil;SP;São Paulo;Agronegócio;1348801.0;268536.0;3508075.0;brasilagro.com.br
+suhai seguradora;Brazil;SP;São Paulo;Seguradoras;1328618.0;108805.0;1631140.0;suhaiseguradora.com
+viação piracicabana;Brazil;SP;Piracicaba;Transporte Logística e Serviços Logísticos;1322837.0;69962.0;1822821.0;piracicabana.com.br
+teleperformance crm;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;1319046.0;37758.0;856933.0;tp.com
+flamengo;Brazil;RJ;Rio de Janeiro;Participações e Mídia;1315873.0;319545.0;1389902.0;flamengo.com.br
+mineração morro do ipê;Brazil;MG;Santa Luzia;Siderurgia Mineração e Metalurgia;1311580.0;-93221.0;1915742.0;ipemineracao.com
+hospital alemão oswaldo cruz;Brazil;SP;São Paulo;Saúde e Serviços de Saúde;1308053.0;-50331.0;1319657.0;hospitaloswaldocruz.org.br
+bemobi tech;Brazil;RJ;Rio de Janeiro;Tecnologia e Telecomunicações;1307844.0;86889.0;1443377.0;bemobi.com
+grupo maringá;Brazil;SP;São Paulo;Siderurgia Mineração e Metalurgia;1303944.0;170308.0;2315295.0;grupomaringa.com.br
+u&m;Brazil;RJ;Rio de Janeiro;Imobiliário e Construção Civil;1298071.0;148950.0;1887287.0;uem.com.br
+simpress;Brazil;SP;Santana de Parnaíba;Tecnologia e Telecomunicações;1297332.0;130971.0;1308410.0;simpress.com.br
+cs brasil frotas;Brazil;SP;Mogi das Cruzes;Transporte Logística e Serviços Logísticos;1293053.0;302007.0;5482976.0;csbrasilservicos.com.br
+locaweb;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;1292756.0;-73735.0;4604388.0;locaweb.com.br
+aliança energia;Brazil;MG;Belo Horizonte;Energia;1289545.0;356459.0;4501680.0;aliancaenergia.com.br
+cimento itambé;Brazil;PR;Curitiba;Imobiliário e Construção Civil;1285869.0;218355.0;1495897.0;cimentoitambe.com.br
+assurant;Brazil;SP;Barueri;Seguradoras;1284227.0;54195.0;2144975.0;assurant.com.br
+passaralli engenharia;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1283375.0;43305.0;467239.0;passarelli.com.br
+starr;Brazil;SP;São Paulo;Seguradoras;1282725.0;48429.0;2088444.0;starrcompanies.com.br
+banco de lage landen brasil;Brazil;RS;Porto Alegre;Bancos;1277651.0;104681.0;15405429.0;dllgroup.com
+slc centro-oeste;Brazil;BA;Sento Sé;Agronegócio;1276098.0;75424.0;3140874.0;slcagricola.com.br
+helbor;Brazil;SP;Mogi das Cruzes;Imobiliário e Construção Civil;1276089.0;172841.0;6080884.0;helbor.com.br
+banco fidis;Brazil;MG;Nova Lima;Bancos;1275861.0;256793.0;9295429.0;bancostellantis.com.br
+tegra;Brazil;RJ;Rio de Janeiro;Imobiliário e Construção Civil;1269463.0;112580.0;4525540.0;tegraincorporadora.com.br
+sanasa campinas;Brazil;SP;Campinas;Saneamento e Meio Ambiente;1266709.0;111798.0;2414301.0;sanasa.com.br
+rumo malha central;Brazil;GO;Anápolis;Transporte Logística e Serviços Logísticos;1262540.0;28616.0;6580560.0;rumolog.com
+concessionária rota;Brazil;SP;Itatiba;Transporte Logística e Serviços Logísticos;1262232.0;218208.0;4429544.0;rotatransportes.com.br
+lunelli;Brazil;SC;Corupá;Moda e Vestuário;1258758.0;104371.0;1572682.0;lunelli.com.br
+generali;Brazil;RJ;Rio de Janeiro;Seguradoras;1245852.0;75879.0;2113821.0;generali.com.br
+rip serviços industriais;Brazil;SP;Indaiatuba;Imobiliário e Construção Civil;1239728.0;107012.0;675960.0;ripservicos.gupy.io
+deutsche bank;Brazil;SP;São Paulo;Bancos;1234586.0;193090.0;16795587.0;country.db.com
+protege;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;1231531.0;9468.0;812701.0;protege.com.br
+café cacique;Brazil;PR;Londrina;Alimentos e Bebidas;1230198.0;82859.0;1308241.0;cacique.com.br
+fosnor;Brazil;SP;São Paulo;Siderurgia Mineração e Metalurgia;1230029.0;102917.0;1794342.0;abmbrasil.com.br
+cassems;Brazil;MS;Campo Grande;Operadoras de Planos de Saúde;1229742.0;18394.0;688040.0;cassems.com.br
+romi;Brazil;SP;São Paulo;Bens de Capital e Eletroeletronicos;1227247.0;164587.0;2282042.0;romi.com
+construtora queiroz galvão;Brazil;RJ;Rio de Janeiro;Imobiliário e Construção Civil;1227134.0;-38568.0;2772467.0;lancamentosrj.com
+estrela;Brazil;MG;Belo Horizonte;Transporte Logística e Serviços Logísticos;1226512.0;34277.0;1108330.0;estrelalogtrans.com.br
+cotrisel;Brazil;RS;São Sepé;Cooperativas;1224335.0;9951.0;638688.0;cotrisel.com
+terminal de contingências de paranaguá;Brazil;PR;Paranaguá;Transporte Logística e Serviços Logísticos;1223642.0;367214.0;3380736.0;tcp.com.br
+eurobike;Brazil;SP;Ribeirão Preto;Transporte Logística e Serviços Logísticos;1223072.0;39522.0;255169.0;eurobike.com.br
+banco mizuho do brasil;Brazil;SP;São Paulo;Bancos;1221799.0;150934.0;26643549.0;mizuhogroup.com
+hdi global;Brazil;SP;São Paulo;Seguradoras;1216606.0;38541.0;1786444.0;hdiglobalbrasil.com.br
+orquídea alimentos;Brazil;RS;Caxias do Sul;Alimentos e Bebidas;1213981.0;126551.0;736143.0;orquidea.com.br
+soufer industrial;Brazil;SP;São João da Boa Vista;Siderurgia Mineração e Metalurgia;1198762.0;15965.0;754437.0;soufer.com.br
+sura seguros;Brazil;SP;Campinas;Seguradoras;1190208.0;22447.0;1882190.0;segurossura.com.br
+banco bradesco bbi;Brazil;SP;São Paulo;Bancos;1184313.0;1213184.0;14882026.0;banco.bradesco
+melnick desenvolvimento imobiliário;Brazil;RS;Porto Alegre;Imobiliário e Construção Civil;1183709.0;151949.0;2421737.0;melnick.com.br
+gpc química;Brazil;PR;Araucária;Petróleo e Químico;1177290.0;170464.0;799548.0;gpcquimica.com.br
+pacaembu construtora;Brazil;SP;Bauru;Imobiliário e Construção Civil;1175245.0;106020.0;944992.0;pacaembu.com
+rede sol;Brazil;SP;Ribeirão Preto;Energia;1155112.0;14837.0;215265.0;redsolenergia.com.br
+portonave;Brazil;SC;Navegantes;Transporte Logística e Serviços Logísticos;1154906.0;461188.0;3916488.0;portonave.com.br
+moura dubeux engenharia;Brazil;PE;Recife;Imobiliário e Construção Civil;1151243.0;155617.0;3438225.0;mouradubeux.com.br
+zurich seguros;Brazil;SP;São Paulo;Seguradoras;1150765.0;298048.0;1531221.0;zurich.com.br
+pottencial seguradora;Brazil;MG;Belo Horizonte;Seguradoras;1135681.0;150092.0;2867309.0;pottencial.com.br
+laboratórios b. braun;Brazil;RJ;Niterói;Saúde e Serviços de Saúde;1131624.0;60409.0;1154390.0;bbraun.com.br
+eternit;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1129213.0;127221.0;1300366.0;eternit.com.br
+painco indústria e comércio;Brazil;SP;Barueri;Bens de Capital e Eletroeletronicos;1125279.0;55678.0;618729.0;painco.com.br
+wiz;Brazil;DF;Brasília;Seguradoras;1121480.0;235903.0;2543864.0;ri.wiz.co
+vesta;Brazil;SP;São Paulo;Moda e Vestuário;1109824.0;22779.0;1652876.0;vestaoficial.com.br
+gafisa;Brazil;RJ;Rio de Janeiro;Imobiliário e Construção Civil;1103532.0;-195310.0;5126365.0;gafisa.com.br
+tramontina multi;Brazil;RS;Carlos Barbosa;Siderurgia Mineração e Metalurgia;1086527.0;27358.0;671519.0;tramontina.com.br
+eztec;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1083172.0;246096.0;5879316.0;eztec.com.br
+qualicorp;Brazil;SP;São Paulo;Saúde e Serviços de Saúde;1081902.0;107327.0;1840797.0;qualicorp.com.br
+ccr metrô bahia;Brazil;BA;Salvador;Transporte Logística e Serviços Logísticos;1080218.0;138009.0;5407392.0;mobilidade.grupoccr.com.br
+anaconda farinha de trigo;Brazil;SP;São Paulo;Alimentos e Bebidas;1073667.0;203375.0;716493.0;anaconda.com.br
+trisul;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1046690.0;123880.0;2757738.0;trisul-sa.com.br
+priner;Brazil;RJ;Rio de Janeiro;Bens de Capital e Eletroeletronicos;1046411.0;25080.0;837004.0;priner.com.br
+swiss;Brazil;SP;São Paulo;Seguradoras;1040394.0;21617.0;2399027.0;swissre.com
+iguatemi shopping;Brazil;SP;São Paulo;Imobiliário e Construção Civil;1039215.0;310946.0;6144507.0;iguatemi.com.br
+multilog;Brazil;SC;Itajaí;Transporte Logística e Serviços Logísticos;1035731.0;82311.0;1059234.0;site.multilog.com.br
+tpi – triunfo;Brazil;SP;São Paulo;Serviços Financeiros;1031011.0;-10519.0;2823549.0;triunfotransbrasiliana.com.br
+banco honda;Brazil;SP;São Paulo;Bancos;1023347.0;73688.0;5923016.0;bancohonda.com.br
+banco hsbc;Brazil;SP;São Paulo;Bancos;1022810.0;130128.0;26402778.0;business.hsbc.com.br
+neomille;Brazil;GO;Chapadão do Céu;Agronegócio;1020390.0;83752.0;2540124.0;cerradinhobio.com.br
+itaú bba trading;Brazil;MS;Campo Grande;Serviços Financeiros;1014279.0;765961.0;10553090.0;itau.com.br
+neoenergia renováveis;Brazil;RJ;Rio de Janeiro;Energia;1013268.0;146981.0;7850658.0;neoenergia.com
+banco mufg;Brazil;SP;São Paulo;Bancos;1012838.0;85497.0;30236009.0;br.bk.mufg.jp
+usina são manoel;Brazil;SP;São Manuel;Agronegócio;1012467.0;96137.0;3272930.0;saomanoel.com.br
+ccr viasul;Brazil;RJ;São Gonçalo;Transporte Logística e Serviços Logísticos;1003021.0;179247.0;2755306.0;rodovias.grupoccr.com.br
+argo energia;Brazil;SP;São Paulo;Energia;998391.0;598846.0;11078373.0;argoenergia.com.br
+ther gold participações e administração;Brazil;SP;São Paulo;Participações e Mídia;997714.0;93970.0;2005390.0;cnpj.biz
+minasmáquinas;Brazil;MG;Contagem;Bens de Capital e Eletroeletronicos;996776.0;28092.0;527609.0;minasmaquinas.com.br
+banco industrial do brasil;Brazil;SP;São Paulo;Bancos;996589.0;106112.0;6649901.0;bib.com.br
+grupo kallas;Brazil;SP;São Paulo;Imobiliário e Construção Civil;994981.0;77989.0;1990895.0;grupokallas.com.br
+grupo bauminas;Brazil;RJ;Rio de Janeiro;Saneamento e Meio Ambiente;991524.0;161309.0;1003836.0;bauminas.com.br
+omni banco;Brazil;SP;São Paulo;Bancos;989931.0;27420.0;4865771.0;omni.com.br
+desktop;Brazil;SP;Sumaré;Tecnologia e Telecomunicações;986391.0;116978.0;3258890.0;desktop.com.br
+montecitrus participações;Brazil;SP;Monte Azul Paulista;Agronegócio;981193.0;17574.0;379839.0;montecitrus.com.br
+paranapanema;Brazil;SP;Santo André;Siderurgia Mineração e Metalurgia;972820.0;-1389934.0;1784257.0;paranapanema.com.br
+ocyan;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;971693.0;530843.0;3317546.0;ocyan-sa.com
+let’s rent a car;Brazil;SP;Araraquara;Transporte Logística e Serviços Logísticos;969501.0;63754.0;2402336.0;lets.com.br
+neon pagamentos;Brazil;SP;São Paulo;Bancos;967634.0;-880583.0;7879902.0;neon.com.br
+racional engenharia;Brazil;SP;São Paulo;Imobiliário e Construção Civil;965743.0;-4838.0;271800.0;racional.com
+compagas;Brazil;PR;Curitiba;Energia;961567.0;97329.0;1017348.0;compagas.com.br
+mercadomóveis;Brazil;SP;São Paulo;Atacado e Varejo;958354.0;42879.0;818918.0;grupomercadomoveis.com.br
+metrôrio;Brazil;RJ;Rio de Janeiro;Transporte Logística e Serviços Logísticos;958300.0;60800.0;3137300.0;metrorio.com.br
+emccamp;Brazil;MG;Belo Horizonte;Imobiliário e Construção Civil;957923.0;-31595.0;757229.0;emccamp.com.br
+rivelli;Brazil;MG;Barbacena;Agronegócio;948030.0;-38235.0;672419.0;rivelli.ind.br
+plascar;Brazil;SP;Jundiaí;Bens de Capital e Eletroeletronicos;947129.0;-714.0;679089.0;plascar.com.br
+editora globo;Brazil;RJ;Rio de Janeiro;Educacao;945085.0;66317.0;923021.0;educacao.globo.com
+ouro fino;Brazil;SP;Cravinhos;Farmacêutico e Beleza;943281.0;-49976.0;1279009.0;ourofino.com
+brametal;Brazil;ES;Linhares;Siderurgia Mineração e Metalurgia;943078.0;142981.0;976372.0;brametal.com.br
+ultracargo;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;938892.0;308914.0;2663670.0;ultracargo.com.br
+eletromidia;Brazil;SP;São Paulo;Participações e Mídia;938662.0;92694.0;2533500.0;eletromidia.com.br
+mangels;Brazil;MG;Três Corações;Bens de Capital e Eletroeletronicos;927871.0;34047.0;741833.0;mangels.com.br
+morlan;Brazil;SP;Orlândia;Bens de Capital e Eletroeletronicos;926567.0;56745.0;848679.0;morlan.com.br
+mitre realty;Brazil;SP;São Paulo;Imobiliário e Construção Civil;926392.0;94896.0;2165237.0;mitrerealty.com.br
+ibema;Brazil;PR;Curitiba;Papel e Celulose;920276.0;103399.0;665163.0;ibema.com.br
+vero;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;917112.0;4352.0;6553747.0;verointernet.com.br
+sg;Brazil;MG;Belo Horizonte;Transporte Logística e Serviços Logísticos;915768.0;7241.0;125382.0;sglogistica.com.br
+banco bs2;Brazil;MG;Belo Horizonte;Bancos;905462.0;85083.0;7260781.0;bancobs2.com.br
+lavvi;Brazil;SP;São Paulo;Imobiliário e Construção Civil;903333.0;246619.0;2218279.0;lavvi.com.br
+entrevias concessionária de rodovias;Brazil;SP;Sertãozinho;Transporte Logística e Serviços Logísticos;899744.0;-5722.0;3250735.0;entrevias.com.br
+painco;Brazil;SP;Rio das Pedras;Siderurgia Mineração e Metalurgia;893425.0;55678.0;618729.0;painco.com.br
+banco hyundai capital brasil;Brazil;SP;São Paulo;Bancos;889279.0;90466.0;5549494.0;hyundaicapitalbrasil.com
+cia müller;Brazil;SP;São Paulo;Alimentos e Bebidas;887238.0;89011.0;1220089.0;ciamuller.com.br
+sansuy;Brazil;SP;Embu das Artes;Petróleo e Químico;886754.0;-137582.0;504147.0;sansuy.com.br
+ccs tecnologia e serviços;Brazil;SP;Limeira;Siderurgia Mineração e Metalurgia;874339.0;24182.0;521932.0;ccstec.com.br
+açotubo;Brazil;RJ;Duque de Caxias;Siderurgia Mineração e Metalurgia;872505.0;16137.0;685780.0;acotubo.com.br
+sooro;Brazil;PR;Marechal Cândido Rondon;Agronegócio;866574.0;160312.0;654941.0;sooro.com.br
+unimed seguradora;Brazil;SP;São Paulo;Seguradoras;854737.0;349377.0;4535588.0;segurosunimed.com.br
+greenbrier maxion equipamentos e serviços ferroviários;Brazil;SP;Hortolândia;Transporte Logística e Serviços Logísticos;854095.0;32758.0;658239.0;gbmx.com.br
+todeschini;Brazil;RS;Bento Gonçalves;Imobiliário e Construção Civil;848491.0;117431.0;1930045.0;todeschini.com.br
+banco ourinvest;Brazil;SP;São Paulo;Bancos;846863.0;113713.0;3462279.0;ouribank.com
+itaú vida;Brazil;SP;São Paulo;Seguradoras;846397.0;617520.0;272255622.0;itau.com.br
+grupo safira;Brazil;SP;Barueri;Energia;845831.0;23063.0;515618.0;safiraenergia.com.br
+vidroporto;Brazil;SP;Porto Ferreira;Imobiliário e Construção Civil;842052.0;120943.0;1855701.0;vidroporto.com.br
+pettenati;Brazil;RS;Caxias do Sul;Moda e Vestuário;841157.0;68607.0;792478.0;pettenati.com.br
+mundial;Brazil;SP;São Paulo;Bens de Capital e Eletroeletronicos;836065.0;-6827.0;1349974.0;mundial.com
+senior;Brazil;SC;Blumenau;Tecnologia e Telecomunicações;835430.0;176179.0;683189.0;senior.com.br
+mapfre vida;Brazil;SP;São Paulo;Seguradoras;827919.0;62694.0;1135654.0;mapfre.com.br
+telmex do brasil;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;814539.0;123504.0;2701548.0;informecadastral.com.br
+construtora jl;Brazil;ES;Serra;Imobiliário e Construção Civil;813368.0;107216.0;1904716.0;construtorajl.com
+vulcabras ba;Brazil;BA;Itapetinga;Moda e Vestuário;801696.0;188623.0;619861.0;vulcabras.com
+ubs bb serviços financeiros;Brazil;SP;São Paulo;Bancos;796737.0;67658.0;2207073.0;ubs.com
+granado;Brazil;RJ;Rio de Janeiro;Farmacêutico e Beleza;789810.0;36727.0;663124.0;granado.com.br
+multilog brasil;Brazil;SP;Barueri;Transporte Logística e Serviços Logísticos;782253.0;67952.0;839906.0;site.multilog.com.br
+orizon vr;Brazil;SP;São Paulo;Saneamento e Meio Ambiente;776276.0;50167.0;2262344.0;orizonvr.com.br
+sequoia logística e transportes;Brazil;SP;Embu das Artes;Transporte Logística e Serviços Logísticos;774741.0;-822222.0;1561132.0;sequoialog.com.br
+embraport;Brazil;SP;Santos;Transporte Logística e Serviços Logísticos;773306.0;121155.0;1528011.0;dpworld.com
+toledo do brasil;Brazil;SP;São Bernardo do Campo;Siderurgia Mineração e Metalurgia;771638.0;94137.0;520063.0;toledobrasil.com
+gadkin;Brazil;SP;Barueri;Alimentos e Bebidas;770055.0;108952.0;373401.0;br.todosnegocios.com
+baldo;Brazil;RS;Encantado;Agronegócio;768089.0;179530.0;1319164.0;baldo.com.br
+bancoseguro;Brazil;SP;São Paulo;Bancos;760487.0;46491.0;30846466.0;bancoseguro.com.br
+vittia;Brazil;SP;São Joaquim da Barra;Agronegócio;756109.0;97303.0;925757.0;vittia.com.br
+ocrim produtos alimentícios;Brazil;SP;São Paulo;Alimentos e Bebidas;745162.0;17858.0;340711.0;ocrim.com.br
+eugênio raulino koerich;Brazil;SC;Florianópolis;Atacado e Varejo;740585.0;39535.0;651058.0;koerich.com.br
+sulamérica seguradora de saúde;Brazil;RJ;Rio de Janeiro;Operadoras de Planos de Saúde;739160.0;238120.0;1012321.0;portal.sulamericaseguros.com.br
+santa casa de misericórida bh;Brazil;MG;Belo Horizonte;Saúde e Serviços de Saúde;738806.0;58355.0;797220.0;santacasabh.org.br
+itaú capitalização;Brazil;SP;São Paulo;Serviços Financeiros;737727.0;392448.0;4885813.0;itau.com.br
+leitesol;Brazil;SP;Bragança Paulista;Agronegócio;737525.0;56275.0;271520.0;leitesol.com.br
+banco bradesco berj;Brazil;RJ;Rio de Janeiro;Bancos;736710.0;33383.0;5707482.0;banco.bradesco
+autopista regis;Brazil;SP;Registro;Transporte Logística e Serviços Logísticos;735725.0;-70769.0;2642674.0;econodata.com.br
+supermercado guanabara;Brazil;RS;Rio Grande;Atacado e Varejo;734972.0;31820.0;253435.0;supermercadosguanabara.com.br
+liderança serviços;Brazil;SC;São José;Transporte Logística e Serviços Logísticos;730888.0;8985.0;186688.0;lideranca.com.br
+americanet;Brazil;SP;Barueri;Tecnologia e Telecomunicações;730636.0;-242817.0;2005020.0;americanet.com.br
+transportes della volpe;Brazil;MA;São Luís;Transporte Logística e Serviços Logísticos;722079.0;42973.0;576819.0;dellavolpe.com.br
+rio grande seguros;Brazil;RS;Porto Alegre;Seguradoras;711323.0;122332.0;6012223.0;riograndeseguradora.com.br
+hospital meridional;Brazil;ES;Cariacica;Saúde e Serviços de Saúde;710125.0;33569.0;1058385.0;meridionalsaude.com.br
+modal;Brazil;RJ;Rio de Janeiro;Bancos;709129.0;-661071.0;6762570.0;modalmais.com.br
+supermercados archer;Brazil;SC;Brusque;Atacado e Varejo;706864.0;65284.0;498948.0;archer.com.br
+;Brazil;;;;;;;nestle.com.br
+tickets for fun;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;700768.0;58198.0;503259.0;ticketsforfun.com.br
+alcast;Brazil;PR;Francisco Beltrão;Siderurgia Mineração e Metalurgia;698410.0;76233.0;565733.0;alcast.com.br
+cp kelco;Brazil;SP;Limeira;Petróleo e Químico;696893.0;62984.0;1523235.0;cpkelco.com
+ubs brasil ctvm;Brazil;SP;São Paulo;Serviços Financeiros;695942.0;90135.0;1135739.0;ubs.com
+ultrafértil;Brazil;SP;Cubatão;Transporte Logística e Serviços Logísticos;692457.0;117794.0;3750135.0;emis.com
+cart;Brazil;SP;Bauru;Transporte Logística e Serviços Logísticos;692271.0;10044.0;3130585.0;cartlog.com.br
+tempo energia;Brazil;SP;São Paulo;Energia;684848.0;3547.0;334626.0;tempoenergia.com.br
+track&field;Brazil;SP;Osasco;Moda e Vestuário;683690.0;114410.0;682102.0;tf.com.br
+grazziotin;Brazil;RS;Passo Fundo;Moda e Vestuário;676829.0;95652.0;1274618.0;grazziotin.com.br
+banco paccar;Brazil;PR;Ponta Grossa;Bancos;673980.0;81474.0;5688405.0;paccarfinancial.com.br
+energisa;Brazil;RJ;Rio de Janeiro;Energia;671914.0;33997.0;396100.0;energisa.com.br
+banco rodobens;Brazil;SP;São Paulo;Bancos;670986.0;108014.0;4289693.0;rodobens.com.br
+peccin;Brazil;RS;Cristal;Alimentos e Bebidas;670100.0;80502.0;491324.0;peccin.com.br
+são paulo futebol clube;Brazil;SP;São Paulo;Participações e Mídia;668963.0;-62258.0;1009099.0;saopaulofc.net
+karsten;Brazil;SC;Blumenau;Moda e Vestuário;667929.0;42160.0;645471.0;karsten.com.br
+tramontina eletrik;Brazil;RS;Carlos Barbosa;Siderurgia Mineração e Metalurgia;664301.0;47173.0;689564.0;global.tramontina.com
+junto seguros;Brazil;PR;Curitiba;Seguradoras;659635.0;40233.0;2437694.0;juntoseguros.com
+orizon;Brazil;SP;São Paulo;Saneamento e Meio Ambiente;658813.0;-9935.0;2603312.0;orizonvr.com.br
+brq;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;658339.0;69717.0;381260.0;brq.com
+banco rendimento;Brazil;SP;São Paulo;Bancos;657430.0;95188.0;4063789.0;rendimento.com.br
+cia canoinhas;Brazil;SC;Canoinhas;Papel e Celulose;656916.0;80256.0;417988.0;canoinhas.com.br
+previ;Brazil;RJ;Rio de Janeiro;Serviços Financeiros;653777.0;173768.0;287150521.0;previ.com.br
+porto itapoá;Brazil;SC;Itapoá;Transporte Logística e Serviços Logísticos;650301.0;252044.0;1624780.0;portoitapoa.com
+zurich resseguradora;Brazil;SP;São Paulo;Seguradoras;649753.0;70343.0;2028117.0;zurich.com.br
+madem - bobinas de madeira;Brazil;RS;Garibaldi;Imobiliário e Construção Civil;649628.0;100999.0;742825.0;madem.com.br
+hub pagamentos;Brazil;SP;Barueri;Bancos;649441.0;77273.0;2838686.0;reclameaqui.com.br
+katrium indústrias químicas;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;646718.0;-73639.0;956711.0;katrium.com.br
+ademicon consórcio e investimento;Brazil;PR;Curitiba;Serviços Financeiros;646700.0;244900.0;980900.0;ademicon.com.br
+banco yamaha motor do brasil;Brazil;SP;Guarulhos;Bancos;643886.0;-28962.0;3501971.0;yamahaservicosfinanceiros.com.br
+fábrica carioca de catalisadores;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;639825.0;103094.0;496301.0;fccsa.com.br
+rôgga empreendimentos;Brazil;SC;Joinville;Imobiliário e Construção Civil;637975.0;89274.0;922319.0;rogga.com.br
+tribanco;Brazil;MG;Uberlândia;Bancos;630006.0;-50450.0;4288707.0;tribanco.com.br
+sulamérica;Brazil;RJ;Rio de Janeiro;Seguradoras;629703.0;79919.0;12454198.0;portal.sulamericaseguros.com.br
+yakult;Brazil;SP;São Paulo;Alimentos e Bebidas;626878.0;26565.0;612309.0;yakult.com.br
+vonpar;Brazil;RS;Porto Alegre;Participações e Mídia;626484.0;63651.0;796932.0;amanha.com.br
+mpd;Brazil;SP;Barueri;Imobiliário e Construção Civil;625234.0;39123.0;1375643.0;mpd.com.br
+neugebauer chocolates;Brazil;RS;Arroio do Meio;Alimentos e Bebidas;624879.0;42317.0;728454.0;neugebauer.com.br
+corinthians;Brazil;SP;São Paulo;Participações e Mídia;621406.0;1175.0;1524400.0;corinthians.com.br
+portos do paraná;Brazil;PR;Paranaguá;Transporte Logística e Serviços Logísticos;620960.0;188679.0;1538120.0;portosdoparana.pr.gov.br
+moinho paulista;Brazil;SP;Santos;Alimentos e Bebidas;620614.0;22272.0;288416.0;nita.com.br
+moinho do nordeste;Brazil;RS;Antônio Prado;Alimentos e Bebidas;619084.0;31123.0;254319.0;nordestealimentos.com.br
+calçados dakota;Brazil;CE;Russas;Moda e Vestuário;615066.0;108759.0;1014871.0;dakota.com.br
+tramontina garibaldi;Brazil;RS;Garibaldi;Siderurgia Mineração e Metalurgia;609814.0;35822.0;519204.0;global.tramontina.com
+emae;Brazil;SP;São Paulo;Energia;603326.0;150480.0;2087290.0;emae.com.br
+rocha terminais;Brazil;SC;São Francisco do Sul;Transporte Logística e Serviços Logísticos;594526.0;176846.0;1957222.0;rochalog.com.br
+smbc;Brazil;SP;São Paulo;Bancos;587228.0;236447.0;9533238.0;smbcgroup.com.br
+cs brasil;Brazil;RJ;Rio de Janeiro;Transporte Logística e Serviços Logísticos;583774.0;36106.0;1268737.0;csbrasilservicos.com.br
+paranaita;Brazil;RJ;Rio de Janeiro;Energia;578633.0;438353.0;4183880.0;energisa.com.br
+viação águia branca;Brazil;ES;Cariacica;Transporte Logística e Serviços Logísticos;577950.0;19474.0;1070387.0;aguiabranca.com.br
+cegas;Brazil;CE;Fortaleza;Energia;576589.0;90125.0;433757.0;cegas.com.br
+tronox pigmentos do brasil;Brazil;BA;Camaçari;Petróleo e Químico;575420.0;35992.0;972582.0;tronox-al.com.br
+qi participações;Brazil;SP;São Paulo;Serviços Financeiros;574803.0;82510.0;774858.0;qitech.com.br
+metisa;Brazil;SC;Timbó;Siderurgia Mineração e Metalurgia;572837.0;87278.0;550294.0;metisa.com.br
+triple play;Brazil;SP;São Paulo;Participações e Mídia;567852.0;-157366.0;2135917.0;g1.globo.com
+banco voiter;Brazil;SP;São Paulo;Bancos;565312.0;-32413.0;4571759.0;voiter.com
+althaia;Brazil;SP;Atibaia;Farmacêutico e Beleza;557088.0;112678.0;509421.0;althaia.com.br
+goemil;Brazil;GO;Palmeiras de Goiás;Alimentos e Bebidas;554472.0;37540.0;382574.0;goemil.com.br
+daycoval leasing;Brazil;SP;Barueri;Bancos;553560.0;161993.0;3293757.0;daycoval.com.br
+amstedmaxion - fundidos industriais;Brazil;SP;Cruzeiro;Bens de Capital e Eletroeletronicos;548208.0;42051.0;522827.0;amstedmaxion.com.br
+borealis brasil;Brazil;SP;Alfredo Relo;Petróleo e Químico;546710.0;70487.0;385075.0;borealisgroup.com
+mobly;Brazil;SP;São Paulo;Atacado e Varejo;541944.0;-85145.0;798795.0;m.mobly.com.br
+ng metalúrgica;Brazil;SP;Piracicaba;Siderurgia Mineração e Metalurgia;538469.0;77980.0;581167.0;ngmetalurgica.com.br
+agrovale;Brazil;BA;Juazeiro;Agronegócio;533701.0;125842.0;1124443.0;agrovale.com
+mitsubishi corporation;Brazil;SP;São Paulo;Bens de Capital e Eletroeletronicos;533175.0;13880.0;282145.0;mitsubishicorp.com
+alfa seguradora;Brazil;SP;São Paulo;Seguradoras;533174.0;9880.0;655837.0;wwws.alfaseguradora.com.br
+slc-mit;Brazil;BA;São Desidério;Agronegócio;532778.0;33831.0;1209362.0;slcagricola.com.br
+csu cardsystem;Brazil;SP;Barueri;Tecnologia e Telecomunicações;530233.0;88423.0;606534.0;www2.csu.com.br
+banco topázio;Brazil;RS;Porto Alegre;Bancos;518046.0;71236.0;2534738.0;bancotopazio.com.br
+neo bpo;Brazil;SP;Mogi das Cruzes;Tecnologia e Telecomunicações;517436.0;-5289.0;303223.0;neobpo.com.br
+prudential do brasil;Brazil;SP;São Paulo;Serviços Financeiros;513174.0;49656.0;713177.0;prudential.com.br
+cattalini;Brazil;PR;Paranaguá;Transporte Logística e Serviços Logísticos;509165.0;217235.0;633059.0;cattaliniterminais.com.br
+clearsale;Brazil;SP;São Paulo;Serviços Financeiros;504093.0;-28005.0;881170.0;br.clear.sale
+scotiabank;Brazil;SP;São Paulo;Bancos;498169.0;325916.0;16991444.0;br.scotiabank.com
+stima energia;Brazil;SP;São Paulo;Energia;495466.0;33405.0;344659.0;stimaenergia.com.br
+target;Brazil;ES;Vitória;Transporte Logística e Serviços Logísticos;495235.0;28135.0;332350.0;targetlogistica.com.br
+tramontina sudeste;Brazil;SP;Barueri;Siderurgia Mineração e Metalurgia;494863.0;11579.0;322110.0;tramontina.com.br
+plenaventura;Brazil;PR;Curitiba;Participações e Mídia;494768.0;107715.0;1146423.0;site.plenaventura.com.br
+piccadilly company;Brazil;RS;Igrejinha;Moda e Vestuário;494044.0;57781.0;472283.0;piccadilly.com.br
+moinho globo;Brazil;RJ;Rio de Janeiro;Alimentos e Bebidas;491381.0;51283.0;299375.0;moinhoglobo.com.br
+agehab;Brazil;GO;Goiânia;Imobiliário e Construção Civil;488399.0;244352.0;685467.0;agehab.go.gov.br
+tramontina farroupilha;Brazil;RS;Farroupilha;Siderurgia Mineração e Metalurgia;486413.0;7660.0;642104.0;cnpj.biz
+pbio;Brazil;RJ;Rio de Janeiro;Energia;480356.0;-90999.0;1049326.0;pbio.com.br
+ceub;Brazil;DF;Brasília;Educacao;479693.0;-26559.0;145533.0;uniceub.br
+afton chemical;Brazil;RJ;Rio de Janeiro;Petróleo e Químico;476015.0;47314.0;255147.0;aftonchemical.com
+cras brasil;Brazil;RJ;Petrópolis;Agronegócio;475651.0;54055.0;774202.0;crasbrasil.com.br
+marlim azul;Brazil;SP;São Paulo;Energia;475548.0;442379.0;;arkeenergia.com
+cedro têxtil;Brazil;MG;Belo Horizonte;Moda e Vestuário;460470.0;-11313.0;354489.0;cedro.com.br
+artex;Brazil;SP;Guarulhos;Siderurgia Mineração e Metalurgia;458455.0;-35695.0;495339.0;econodata.com.br
+luizaseg;Brazil;SP;São Paulo;Seguradoras;450919.0;101386.0;1265407.0;luizaseg.acioneseuseguro.com.br
+chubb resseguradora;Brazil;SP;São Paulo;Seguradoras;446515.0;37680.0;1504128.0;chubb.com
+novo banco continental;Brazil;RS;Porto Alegre;Bancos;444309.0;-6187.0;2838560.0;nbcbank.com.br
+berkley international do brasil seguros;Brazil;SP;São Paulo;Seguradoras;443927.0;50768.0;1238301.0;berkley.com.br
+cesp comercializadora;Brazil;SP;São Paulo;Energia;441306.0;13335.0;132298.0;cesp.com.br
+hm engenharia;Brazil;SP;Campinas;Imobiliário e Construção Civil;436026.0;-197990.0;1010377.0;eme.maishm.com.br
+rodovias do tietê;Brazil;SP;Salto;Transporte Logística e Serviços Logísticos;432387.0;-221791.0;2388973.0;rodoviasdotiete.com.br
+american life seguros;Brazil;SP;São Paulo;Seguradoras;427572.0;18342.0;623304.0;allsegseguradora.com.br
+allianz saúde;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;427060.0;-55078.0;269159.0;allianz.com.br
+banco psa finance brasil;Brazil;SP;São Paulo;Bancos;426508.0;40812.0;3067687.0;stellantisfinanciamentos.com.br
+copapa;Brazil;RJ;Santo Antônio de Pádua;Papel e Celulose;422554.0;20572.0;354391.0;copapa.com.br
+algar;Brazil;RJ;Rio de Janeiro;Tecnologia e Telecomunicações;422478.0;24292.0;293842.0;loja.algar.com.br
+telebras;Brazil;RJ;Rio de Janeiro;Tecnologia e Telecomunicações;416840.0;-127357.0;4003587.0;telebras.com.br
+timenow;Brazil;ES;Vitória;Imobiliário e Construção Civil;415408.0;15074.0;157455.0;timenow.com.br
+noromix concreto;Brazil;SP;Barretos;Imobiliário e Construção Civil;415023.0;127825.0;424761.0;noromix.com.br
+htb;Brazil;SP;São Paulo;Imobiliário e Construção Civil;412719.0;2812.0;339480.0;htb.eng.br
+porto seguro previdência;Brazil;SP;São Paulo;Seguradoras;412008.0;31898.0;6010897.0;portoseguro.com.br
+edp sp-mg;Brazil;SP;São Paulo;Energia;411939.0;88666.0;2848855.0;edp.com.br
+itaú ctvm;Brazil;SP;São Paulo;Serviços Financeiros;409508.0;447451.0;8458903.0;itau.com.br
+ambar;Brazil;SP;São Paulo;Energia;408836.0;-723987.0;3560491.0;ambarenergia.com.br
+pauta distribuição;Brazil;SC;São José;Tecnologia e Telecomunicações;408377.0;10507.0;171975.0;pauta.com.br
+linck máquinas;Brazil;RS;Eldorado do Sul;Bens de Capital e Eletroeletronicos;403716.0;20576.0;233196.0;linckmaquinas.com.br
+família salton;Brazil;RS;Bento Gonçalves;Alimentos e Bebidas;400242.0;27687.0;553796.0;salton.com.br
+unimed sul capixaba;Brazil;ES;Cachoeiro de Itapemirim;Operadoras de Planos de Saúde;399633.0;1569.0;360732.0;unimed.coop.br
+itaú seguros auto;Brazil;SP;São Paulo;Seguradoras;399458.0;62279.0;460958.0;itau.com.br
+paraná clínicas plano de saúde;Brazil;PR;Curitiba;Saúde e Serviços de Saúde;398969.0;-16851.0;297256.0;paranaclinicas.com.br
+cabelauto;Brazil;MG;Itajubá;Bens de Capital e Eletroeletronicos;398719.0;16209.0;226776.0;cabelauto.com.br
+salton;Brazil;RS;Bento Gonçalves;Alimentos e Bebidas;395916.0;31152.0;485753.0;salton.com.br
+neoenergia transmissora 11;Brazil;SP;Campinas;Energia;394208.0;41223.0;587416.0;neoenergia.com
+banco crefisa;Brazil;SP;São Paulo;Bancos;388921.0;22009.0;2501804.0;crefisa.com.br
+fomento paraná;Brazil;PR;Curitiba;Participações e Mídia;387781.0;193433.0;3044961.0;fomento.pr.gov.br
+valeo thermal bus;Brazil;RS;Caxias do Sul;Bens de Capital e Eletroeletrônicos;387336.0;41260.0;227717.0;valeo.com
+diana bioenergia;Brazil;SP;Avanhandava;Agronegócio;386465.0;20871.0;663678.0;dianabioenergia.com.br
+kirton bank;Brazil;SP;Osasco;Bancos;379807.0;1461161.0;14485794.0;kirtonadm.site
+grupo bahema;Brazil;SP;São Paulo;Educacao;377697.0;-6692.0;595360.0;biomaeducacao.com.br
+metasa;Brazil;RS;Porto Alegre;Siderurgia Mineração e Metalurgia;374624.0;7596.0;334893.0;metasa.com.br
+weg-cestari;Brazil;SP;Monte Alto;Bens de Capital e Eletroeletrônicos;372746.0;34634.0;300990.0;ri.weg.net
+padtec;Brazil;SP;Campinas;Tecnologia e Telecomunicações;368687.0;17130.0;528572.0;padtec.com.br
+panatlântica catarinense;Brazil;SC;Joinville;Siderurgia Mineração e Metalurgia;368659.0;29767.0;312918.0;panatlanticacatarinense.com.br
+unimed campina grande;Brazil;PB;Campina Grande;Operadoras de Planos de Saúde;368441.0;1285.0;194259.0;unimed.coop.br
+agora telecom;Brazil;SP;Barueri;Tecnologia e Telecomunicações;368303.0;-20465.0;368500.0;agoradistribuidora.com.br
+ctc;Brazil;SP;Piracicaba;Agronegócio;367142.0;91437.0;983509.0;ctc.com.br
+o estado de s. paulo;Brazil;SP;São Paulo;Participações e Mídia;365925.0;1430.0;206820.0;brazil.mom-gmr.org
+banco alfa;Brazil;SP;São Paulo;Bancos;363375.0;22786.0;3982406.0;bancoalfa.com.br
+crs brands indústria e comércio;Brazil;SP;Jundiaí;Alimentos e Bebidas;363166.0;18136.0;392550.0;crsbrands.com.br
+unitapajós;Brazil;PA;Barcarena;Transporte Logística e Serviços Logísticos;361510.0;75172.0;1244816.0;unitapajos.com.br
+instituto sírio-libanês;Brazil;SP;São Paulo;Saúde e Serviços de Saúde;355834.0;23095.0;149505.0;irssl.org.br
+edp aliança;Brazil;SP;São Paulo;Energia;354012.0;67211.0;2550327.0;edp.com.br
+ceb;Brazil;DF;Brasília;Energia;352571.0;235023.0;1415858.0;ceb.com.br
+banestes seguros;Brazil;ES;Vitória;Seguradoras;348319.0;34190.0;432908.0;banestes.com.br
+gamaro desenvolvimento imobiliário;Brazil;SP;São Paulo;Imobiliário e Construção Civil;346785.0;97943.0;932784.0;gamaro.com.br
+rbs participações;Brazil;RS;Porto Alegre;Participações e Mídia;345155.0;27485.0;629680.0;gruporbs.com.br
+granfino;Brazil;RJ;Nova Iguaçu;Alimentos e Bebidas;344143.0;21026.0;127693.0;old.granfino.com.br
+technos;Brazil;RJ;Rio de Janeiro;Bens de Capital e Eletroeletrônicos;342347.0;56213.0;665615.0;grupotechnos.com.br
+banco andbank;Brazil;SP;São Paulo;Bancos;341267.0;-43359.0;2339725.0;andbank.com
+tramontina teec;Brazil;RS;Carlos Barbosa;Siderurgia Mineração e Metalurgia;336948.0;21296.0;412571.0;global.tramontina.com
+edp norte;Brazil;ES;Linhares;Energia;332033.0;8302.0;501713.0;edp.com.br
+méliuz;Brazil;MG;Belo Horizonte;Serviços Financeiros;326589.0;-25552.0;978995.0;meliuz.com.br
+bozel;Brazil;MG;São João del-Rei;Siderurgia Mineração e Metalurgia;325583.0;48001.0;295364.0;bozel.com
+bluefit academias;Brazil;SP;Guarulhos;Saúde e Serviços de Saúde;320256.0;7011.0;886975.0;bluefit.com.br
+distribuidora curitiba;Brazil;PR;Curitiba;Educacao;318991.0;8838.0;201920.0;distribuidoracuritiba.com.br
+indústria brasileira de filmes;Brazil;RJ;Duque de Caxias;Tecnologia e Telecomunicações;316945.0;8379.0;265792.0;ibf.com.br
+já saúde;Brazil;SP;Patrocínio Paulista;Farmacêutico e Beleza;312451.0;21828.0;382937.0;jasaudeanimal.com.br
+top center;Brazil;SP;São Paulo;Imobiliário e Construção Civil;311945.0;149123.0;308088.0;topcentershopping.com.br
+banco randon;Brazil;RS;Caxias do Sul;Bancos;310264.0;17614.0;2152700.0;info.bancorandon.com
+grupo adn;Brazil;SP;São Carlos;Imobiliário e Construção Civil;308553.0;401.0;577238.0;grupoadn.com.br
+metlife planos odontológicos;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;306888.0;24367.0;136778.0;metlife.com.br
+banco sociéte générale brasil;Brazil;SP;São Paulo;Bancos;298296.0;43721.0;19614287.0;societegeneralebrasil.com.br
+somov;Brazil;SP;São Paulo;Bens de Capital e Eletroeletrônicos;298149.0;-20325.0;388433.0;tecnologistica.com.br
+banco paulista;Brazil;SP;São Paulo;Bancos;289107.0;-17228.0;1643960.0;bancopaulista.com.br
+banco keb hana do brasil;Brazil;SP;São Paulo;Bancos;288934.0;12769.0;1236171.0;bancokebhana.com.br
+neoenergia guanabara;Brazil;SP;Campinas;Energia;286181.0;-50412.0;1783596.0;neoenergia.com
+desenbahia;Brazil;BA;Salvador;Participações e Mídia;284891.0;67423.0;1191556.0;desenbahia.ba.gov.br
+banco genial;Brazil;RJ;Rio de Janeiro;Bancos;284765.0;-11210.0;2698703.0;bancogenial.com
+itaú dtvm;Brazil;SP;São Paulo;Serviços Financeiros;281371.0;195413.0;2493242.0;itau.com.br
+teracom telemática;Brazil;RS;Eldorado do Sul;Tecnologia e Telecomunicações;272482.0;43073.0;321619.0;datacom.com.br
+banco semear;Brazil;MG;Belo Horizonte;Bancos;265989.0;1010.0;1139494.0;bancosemear.com.br
+tramontina nordeste;Brazil;BA;Simões Filho;Siderurgia Mineração e Metalurgia;265515.0;1017.0;158797.0;global.tramontina.com
+tramontina sul;Brazil;RS;Carlos Barbosa;Siderurgia Mineração e Metalurgia;264058.0;1143.0;236938.0;tramontina.com.br
+triunfo transbrasiliana;Brazil;SP;Onda Verde;Transporte Logística e Serviços Logísticos;262077.0;1564.0;723749.0;triunfotransbrasiliana.com.br
+mobitech;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;261901.0;-163591.0;946966.0;mobi.com.br
+banco kdb do brasil;Brazil;SP;São Paulo;Bancos;260870.0;55012.0;2399647.0;kdb.co.kr
+moageira irati;Brazil;PR;Irati;Alimentos e Bebidas;255202.0;1481.0;112109.0;linkedin.com
+banrisul corretora de seguros;Brazil;RS;Porto Alegre;Serviços Financeiros;252658.0;157453.0;419147.0;banrisulseguros.com.br
+oliveira trust;Brazil;RJ;Rio de Janeiro;Serviços Financeiros;248929.0;81014.0;284005.0;oliveiratrust.com.br
+suma brasil;Brazil;MG;Belo Horizonte;Saneamento e Meio Ambiente;247625.0;9180.0;244879.0;sumabrasil.com.br
+bmg seguros;Brazil;SP;São Paulo;Seguradoras;244909.0;-4213.0;1127773.0;bancobmg.com.br
+álcool ferreira;Brazil;SP;Barueri;Agronegócio;242749.0;16456.0;137581.0;alcoolferreira.com.br
+paramount têxteis;Brazil;SP;São Paulo;Moda e Vestuário;238826.0;8568.0;273127.0;paramount.com.br
+quality software;Brazil;RJ;Rio de Janeiro;Tecnologia e Telecomunicações;237688.0;19768.0;228060.0;ri.quality.com.br
+banco guanabara;Brazil;RJ;Rio de Janeiro;Bancos;234998.0;40745.0;1701537.0;bancoguanabara.com.br
+grpcom;Brazil;PR;Curitiba;Participações e Mídia;232919.0;51813.0;103606.0;grpcom.com.br
+alsol energias renováveis;Brazil;MG;Uberlândia;Bens de Capital e Eletroeletrônicos;229007.0;-32868.0;2595245.0;energisa.com.br
+tembici;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;228035.0;-89215.0;1107427.0;tembici.com.br
+renova energia;Brazil;SP;São Paulo;Energia;227838.0;-9238.0;3076138.0;renovaenergia.com.br
+banco abn amro;Brazil;SP;São Paulo;Bancos;227273.0;56285.0;3099276.0;abnamro.com
+primacredi;Brazil;MT;Primavera do Leste;Cooperativas;225921.0;25393.0;1468321.0;credisis.com.br
+nortec química;Brazil;RJ;Duque de Caxias;Petróleo e Químico;224730.0;34037.0;331376.0;nortecquimica.com.br
+newsul;Brazil;RS;Bento Gonçalves;Petróleo e Químico;222847.0;41370.0;188689.0;newsul.com.br
+zatix;Brazil;SP;Barueri;Tecnologia e Telecomunicações;222628.0;40047.0;317610.0;omnilink.com.br
+nutrisul;Brazil;SC;São Lourenço do Oeste;Alimentos e Bebidas;222390.0;23334.0;99210.0;nutrisulalimentos.com.br
+excelsior alimentos;Brazil;RS;Santa Cruz do Sul;Alimentos e Bebidas;222380.0;17675.0;166014.0;excelsior.com.br
+conhaque são joão da barra;Brazil;RJ;Sao João da Barra;Alimentos e Bebidas;222224.0;-931.0;125648.0;amazon.com.br
+log cp;Brazil;MG;Belo Horizonte;Imobiliário e Construção Civil;220156.0;194960.0;6254445.0;logcp.com.br
+banco cargill;Brazil;SP;São Paulo;Bancos;219360.0;68914.0;3136265.0;bancocargill.com.br
+bambuí bioenergia;Brazil;MG;Bambuí;Agronegócio;218925.0;29081.0;657186.0;bambuibioenergia.com.br
+unicasa móveis;Brazil;RS;Bento Gonçalves;Imobiliário e Construção Civil;217397.0;15167.0;349181.0;unicasamoveis.com.br
+empresa paulista de televisão;Brazil;SP;Piracicaba;Participações e Mídia;213627.0;46932.0;385558.0;institucional.eptv.com.br
+globo pharma;Brazil;MG;São José da Lapa;Farmacêutico e Beleza;213038.0;-25368.0;354619.0;globopharma.com.br
+tramontina planalto;Brazil;GO;Goiânia;Siderurgia Mineração e Metalurgia;212233.0;659.0;126064.0;empresas.tramontina.com.br
+paranaíba;Brazil;MG;Pirapora;Energia;206413.0;143679.0;1950047.0;pa.equatorialenergia.com.br
+banco ribeirão preto;Brazil;SP;Ribeirão Preto;Bancos;200537.0;22623.0;1677013.0;brp.com.br
+bioagri;Brazil;SP;Piracicaba;Farmacêutico e Beleza;199719.0;8932.0;143302.0;merieuxnutrisciences.com
+liderança capitalização;Brazil;SP;São Paulo;Serviços Financeiros;198607.0;31482.0;894371.0;lidercap.com.br
+westwing;Brazil;SP;São Paulo;Atacado e Varejo;198152.0;-53738.0;351210.0;westwing.com.br
+mapfre previdência;Brazil;SP;São Paulo;Serviços Financeiros;196862.0;15874.0;3314195.0;mapfre.com.br
+fospar;Brazil;PR;Paranaguá;Petróleo e Químico;196685.0;-29748.0;477482.0;fertipar.com.br
+banrisul administradora de consórcios;Brazil;RS;Porto Alegre;Serviços Financeiros;196604.0;83017.0;536541.0;banrisulconsorcio.com.br
+itauseg saúde;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;195327.0;-13815.0;1960056.0;itausaude.com.br
+investco;Brazil;TO;Miracema do Tocantins;Energia;195280.0;91211.0;1257578.0;investco.com.br
+enjoei;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;194555.0;-52971.0;412862.0;enjoei.com.br
+focus tecnologia de plásticos;Brazil;PR;São José dos Pinhais;Petróleo e Químico;191868.0;23239.0;72997.0;focus.ind.br
+ebam;Brazil;RJ;Rio de Janeiro;Siderurgia Mineração e Metalurgia;189505.0;36396.0;260066.0;ebam.com.br
+banco bcv;Brazil;SP;São Paulo;Bancos;188404.0;96884.0;1525313.0;bv.com.br
+itumbiara transmissora de energia;Brazil;RJ;Rio de Janeiro;Energia;185912.0;123066.0;822968.0;casadosdados.com.br
+rbs zero hora editora jornalística;Brazil;RS;Porto Alegre;Participações e Mídia;183843.0;1651.0;305446.0;gruporbs.com.br
+celesc geração;Brazil;SC;Florianópolis;Energia;183051.0;95654.0;988457.0;celesc.com.br
+banco caixa geral - brasil;Brazil;SP;São Paulo;Bancos;182513.0;6469.0;1929981.0;bcgbrasil.com.br
+metalkraft;Brazil;PR;Quatro Barras;Bens de Capital e Eletroeletrônicos;180689.0;14543.0;139475.0;metalkraft.com.br
+artplan comunicação;Brazil;RJ;Rio de Janeiro;Participações e Mídia;178141.0;1994.0;232575.0;artplan.com.br
+cartonifício valinhos;Brazil;SP;Valinhos;Papel e Celulose;177779.0;38352.0;196031.0;cartonificiovalinhos.com.br
+rochester;Brazil;SP;São Paulo;Atacado e Varejo;177735.0;15398.0;75509.0;rochester.com.br
+melhoramentos;Brazil;SP;São Paulo;Papel e Celulose;176279.0;7878.0;1416676.0;melhoramentos.com.br
+neoenergia itabapoana;Brazil;ES;Alegre;Energia;175966.0;-76218.0;1214484.0;neoenergia.com
+unimed saúde e odonto;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;175117.0;29437.0;178112.0;unimedodonto.com.br
+fazenda santa maria;Brazil;SP;Presidente Bernardes;Agronegócio;171674.0;11343.0;106604.0;fazendasantamaria.com.br
+caberj integral saúde;Brazil;RJ;Rio de Janeiro;Operadoras de Planos de Saúde;171043.0;409.0;66716.0;integralsaude.com.br
+geração céu azul;Brazil;RJ;Rio de Janeiro;Energia;170444.0;37844.0;1903966.0;neoenergia.com
+neoenergia jalapão;Brazil;MA;Alta Parnaíba;Energia;169876.0;65863.0;2121105.0;neoenergia.com
+weg amazônia;Brazil;AM;Manaus;Bens de Capital e Eletroeletrônicos;168056.0;28163.0;154573.0;weg.net
+agência estado;Brazil;SP;São Paulo;Participações e Mídia;167860.0;23852.0;112524.0;broadcast.com.br
+banco investcred unibanco;Brazil;SP;São Paulo;Bancos;165073.0;12455.0;967421.0;bancosbrasil.com.br
+elea digital;Brazil;RJ;Rio de Janeiro;Tecnologia e Telecomunicações;161021.0;26928.0;825218.0;eleadatacenters.com
+general shopping;Brazil;SP;São Paulo;Imobiliário e Construção Civil;160707.0;93165.0;1527137.0;generalshopping.com.br
+brinquedos estrela;Brazil;SP;São Paulo;Bens de Capital e Eletroeletrônicos;160572.0;-21811.0;300327.0;estrela.com.br
+banrisul seguridade e participacoes;Brazil;RS;Porto Alegre;Seguradoras;157453.0;157871.0;425428.0;banrisul.com.br
+sulamérica odontológico;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;154476.0;20108.0;293995.0;portal.sulamericaseguros.com.br
+hematologica - clínica de hematologia;Brazil;MG;Belo Horizonte;Saúde e Serviços de Saúde;152278.0;11540.0;163601.0;doctoralia.com.br
+ms bank;Brazil;PR;Curitiba;Bancos;150563.0;-21227.0;1363103.0;brazabank.com.br
+servgas;Brazil;SP;Guarulhos;Energia;147995.0;483.0;74044.0;servgas.com
+alto vale do rio negro participações;Brazil;SP;São Paulo;Participações e Mídia;147388.0;13967.0;76669.0;cnpj.biz
+irmãos davoli;Brazil;SP;Mogi Mirim;Bens de Capital e Eletroeletrônicos;147043.0;7816.0;69946.0;idavoli.com.br
+mills pesados;Brazil;SP;São Paulo;Transporte Logística e Serviços Logísticos;145485.0;13834.0;669727.0;mills.com.br
+dotz;Brazil;SP;São Paulo;Serviços Financeiros;138661.0;-60503.0;282312.0;dotz.com.br
+pasa;Brazil;PR;Paranaguá;Transporte Logística e Serviços Logísticos;138193.0;41251.0;381629.0;pasaparanagua.com.br
+rede agro;Brazil;SP;São Paulo;Agronegócio;135078.0;58894.0;1130046.0;redeagro.agr.br
+banco b3;Brazil;SP;São Paulo;Bancos;134455.0;50877.0;1257259.0;bancob3.com.br
+bremil;Brazil;RS;Arroio do Meio;Alimentos e Bebidas;133434.0;-6609.0;143989.0;brmill.com.br
+cereais vale do javaés;Brazil;TO;Formoso do Araguaia;Agronegócio;128223.0;9490.0;96794.0;econodata.com.br
+banco tricury;Brazil;SP;São Paulo;Bancos;126901.0;37789.0;770268.0;bancotricury.com.br
+casa do pão de queijo;Brazil;SP;São Paulo;Alimentos e Bebidas;122067.0;12450.0;90294.0;casadopaodequeijo.com.br
+icbc do brasil - banco múltiplo;Brazil;SP;São Paulo;Bancos;121130.0;-4494.0;1853630.0;icbcbr.com.br
+andriello;Brazil;SP;São Paulo;Moda e Vestuário;120489.0;18950.0;71713.0;andriello.com.br
+orbitall;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;119006.0;1830.0;55153.0;orbitall.com.br
+biomm;Brazil;MG;Nova Lima;Farmacêutico e Beleza;118194.0;-81141.0;344698.0;biomm.com
+aquario;Brazil;RJ;Rio de Janeiro;Participações e Mídia;114957.0;33900.0;118635.0;aquario.com.br
+intral;Brazil;RS;Caxias do Sul;Bens de Capital e Eletroeletrônicos;114662.0;-1205.0;228619.0;intral.com.br
+crasa infra;Brazil;PR;Curitiba;Imobiliário e Construção Civil;107096.0;19441.0;105998.0;crasainfra.com
+ubs brasil;Brazil;SP;São Paulo;Serviços Financeiros;106644.0;-133583.0;364350.0;ubs.com
+edp litoral sul;Brazil;SP;São Paulo;Energia;106515.0;92688.0;443199.0;edp.com.br
+bradesco saúde - operadora de plano de saúde;Brazil;RJ;Rio de Janeiro;Operadoras de Planos de Saúde;101997.0;78552.0;1249221.0;bradescoseguros.com.br
+brasildental;Brazil;SP;Barueri;Operadoras de Planos de Saúde;100799.0;22909.0;36606.0;bbdental.com.br
+incotep;Brazil;SP;Guarulhos;Siderurgia Mineração e Metalurgia;100773.0;38513.0;216477.0;incotep.com.br
+sulamérica serviços de saúde;Brazil;SP;São Paulo;Operadoras de Planos de Saúde;99751.0;32513.0;1728222.0;portal.sulamericaseguros.com.br
+edp smart;Brazil;ES;Serra;Energia;99567.0;-23371.0;1446804.0;edp.com.br
+banco cifra;Brazil;SP;São Paulo;Bancos;99189.0;79956.0;933208.0;bancosbrasil.com.br
+agp negócios e participações;Brazil;RS;Farroupilha;Participações e Mídia;99052.0;99041.0;339474.0;agpparticipacoes.com.br
+accesstage tecnologia;Brazil;SP;São Paulo;Tecnologia e Telecomunicações;96844.0;6372.0;64765.0;site.accesstage.com.br
+neoenergia dourados;Brazil;MS;Dourados;Energia;90590.0;33805.0;1175210.0;neoenergia.com
+goiás;Brazil;GO;Itumbiara;Participações e Mídia;89972.0;124434.0;197992.0;gjccorp.com.br
+ferrovia tereza cristina;Brazil;RJ;Rio de Janeiro;Transporte Logística e Serviços Logísticos;88297.0;-6826.0;273344.0;ftc.com.br
+seguros unimed;Brazil;RJ;Rio de Janeiro;Operadoras de Planos de Saúde;86826.0;15417.0;273837.0;segurosunimed.com.br
+lupatech;Brazil;SP;Nova Odessa;Petróleo e Químico;86269.0;52649.0;482769.0;lupatech.com.br
+banco vipal;Brazil;SP;São Paulo;Bancos;84976.0;-22296.0;3128017.0;bcb.gov.br
+mediservice;Brazil;SP;Barueri;Operadoras de Planos de Saúde;79160.0;73450.0;804801.0;mediservice.com.br
+neoenergia santa luzia;Brazil;PB;Santa Luzia;Energia;78875.0;28063.0;1013976.0;neoenergia.com
+ijuí energia;Brazil;SP;São Paulo;Energia;76106.0;26524.0;391177.0;ijuienergia.com.br
+zx brasil;Brazil;SP;Jaguariúna;Alimentos e Bebidas;75232.0;-43660.0;243512.0;guiadocnpj.com.br
+landco;Brazil;RS;Porto Alegre;Agronegócio;74798.0;64316.0;627816.0;slcagricola.com.br
+rumo malha oeste;Brazil;SP;Bauru;Transporte Logística e Serviços Logísticos;74415.0;-333563.0;111643.0;rumolog.com
+banco arbi;Brazil;RJ;Rio de Janeiro;Bancos;74394.0;4040.0;649106.0;bancoarbi.com.br
+itaú consultoria financeira;Brazil;SP;São Paulo;Serviços Financeiros;73401.0;76923.0;1278221.0;itau.com.br
+amha saúde;Brazil;SP;Atibaia;Operadoras de Planos de Saúde;71149.0;634.0;40234.0;amha.com.br
+bny mellon banco;Brazil;RJ;Rio de Janeiro;Bancos;71124.0;24349.0;796205.0;bny.com
+goldman sachs do brasil corretora de valores;Brazil;SP;São Paulo;Serviços Financeiros;70173.0;87635.0;1042018.0;goldmansachs.com
+focus sul tecnologia de termoplásticos;Brazil;SC;Joinville;Petróleo e Químico;67983.0;8065.0;35589.0;focus.ind.br
+austin powder;Brazil;MG;Pouso Alegre;Siderurgia Mineração e Metalurgia;67674.0;1223.0;39149.0;austinpowder.com
+afluente t;Brazil;RJ;Rio de Janeiro;Energia;67307.0;28712.0;289786.0;sistemaswebb3-listados.b3.com.br
+itacel;Brazil;MA;São Luís;Papel e Celulose;67018.0;5766.0;397576.0;imprensaoficial.com.br
+agroscrew participações societárias;Brazil;RS;Cachoeira do Sul;Participações e Mídia;66803.0;66777.0;306531.0;agroscrew.com.br
+mate couro;Brazil;MG;Belo Horizonte;Agronegócio;62133.0;11639.0;46352.0;matecouro.com.br
+fundação abc;Brazil;PR;Castro;Agronegócio;57827.0;6772.0;74489.0;fundacaoabc.org
+pravaler;Brazil;SP;Pinheiros;Serviços Financeiros;56973.0;-46666.0;1877093.0;pravaler.com.br
+recrusul;Brazil;RS;Sapucaia do Sul;Petróleo e Químico;56747.0;-5174.0;60626.0;recrusul.com.br
+bem promotora;Brazil;RS;Porto Alegre;Serviços Financeiros;56278.0;34234.0;109280.0;bemcliente.com.br
+itaú companhia securitizadora de créditos financeiros;Brazil;SP;São Paulo;Serviços Financeiros;52159.0;47218.0;416458.0;itau.com.br
+alumbra;Brazil;SC;Itajaí;Imobiliário e Construção Civil;51461.0;22719.0;94795.0;alumbra.com.br
+cnp consórcio;Brazil;DF;Brasília;Serviços Financeiros;48294.0;49509.0;653491.0;cnpconsorcio.com.br
+banco xcmg;Brazil;MG;Pouso Alegre;Bancos;31221.0;7229.0;460695.0;bancoxcmg.com.br
+eletrobras par;Brazil;RJ;Rio de Janeiro;Energia;26239.0;19130.0;229047.0;eletrobras.com
+virgo;Brazil;SP;São Paulo;Serviços Financeiros;19407.0;23521.0;83547.0;virgo.inc

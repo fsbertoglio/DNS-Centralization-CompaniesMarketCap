@@ -1,0 +1,2601 @@
+Company,Domain,Domain_Valid
+Volkswagen,vw.com,True
+Shell,shell.com,True
+Glencore,glencore.com,False
+Exor,exor.com,True
+TotalEnergies,totalenergies.com,True
+BP,bp.com,True
+Deutsche Telekom,telekom.com,True
+Mercedes-Benz,mbusa.com,True
+BMW,bmwusa.com,False
+AXA,axa.com,True
+Allianz SE,allianz.com,False
+Prudential,prudential.com,False
+Equinor,equinor.com,True
+Nestlé,nestle.com,False
+Stellantis,stellantis.com,True
+Ahold Delhaize,aholddelhaize.com,True
+ENI,eni.com,True
+DHL Group (Deutsche Post),group.dhl.com,True
+Carrefour,carrefour.com,True
+Schweizerische Nationalbank,snb.ch,True
+E.ON,eon.com,False
+LVMH,lvmh.com,True
+Dior,dior.com,True
+Tesco,tesco.com,False
+Generali,generali.com,True
+Siemens,siemens.com,True
+BNP Paribas,group.bnpparibas,False
+Enel,enel.com,True
+Uniper,uniper.energy,False
+ENGIE,engie.com,True
+Vinci,vincileather.com,True
+Airbus,airbus.com,True
+Repsol,repsol.com,True
+PKN Orlen,orlen.pl,True
+HSBC,us.hsbc.com,True
+BASF,basf.com,True
+Vodafone,vodafone.com,True
+Société Générale,particuliers.sg.fr,True
+Roche,roche.com,True
+Zurich Insurance Group,zurich.com,True
+Accenture,accenture.com,True
+Santander,santanderbank.com,True
+Koç Holding,koc.com.tr,True
+Bouygues,bouygues.com,True
+ArcelorMittal,corporate.arcelormittal.com,True
+Grupo ACS,grupoacs.com,False
+Iberdrola,iberdrola.com,False
+Anheuser-Busch Inbev,ab-inbev.com,True
+Renault,renaultgroup.com,True
+Unilever,unilever.com,True
+Daimler Truck,daimlertruck.com,True
+Chubb,chubb.com,True
+Maersk,maersk.com,False
+AstraZeneca,astrazeneca.com,False
+Rio Tinto,riotinto.com,False
+Novartis,novartis.com,True
+Bayer,bayer.com,False
+Traton,traton.com,True
+Volvo Group,volvogroup.com,True
+Compagnie de Saint-Gobain,saint-gobain.com,False
+Sanofi,sanofi.com,True
+Veolia,veolia.com,True
+UBS,ubs.com,True
+L'Oréal,loreal.com,True
+Orange,orange.com,True
+Munich RE (Münchener Rück),munichre.com,True
+Novo Nordisk,novocare.com,True
+Swiss Re,swissre.com,False
+Telefónica,telefonica.com,True
+Imperial Brands,imperialbrandsplc.com,True
+Porsche,porsche.com,True
+Compass Group,compass-usa.com,False
+Lufthansa,lufthansa.com,False
+Sainsbury's,sainsburys.co.uk,False
+Inditex,inditex.com,False
+Banco Bilbao Vizcaya Argentaria,bbva.com,True
+GlaxoSmithKline,us.gsk.com,True
+Siemens Energy,siemens-energy.com,True
+Aviva,aviva.com,True
+Schneider Electric,se.com,True
+Hochtief,hochtief.com,True
+SAP,sap.com,False
+Continental,continental.com,False
+Thyssenkrupp,thyssenkrupp.com,True
+Volvo Car,volvocars.com,False
+EnBW Energie,enbw.com,True
+Jerónimo Martins,jeronimomartins.com,False
+Cement Roadstone Holding,crh.com,True
+Barclays,barclaycardus.com,True
+International Consolidated Airlines,iairgroup.com,True
+OMV,expresslane.dps.louisiana.gov,False
+Air France-KLM,airfranceklm.com,False
+Deutsche Bank,db.com,True
+Medtronic,medtronic.com,True
+ASML,asml.com,True
+BAE Systems,baesystems.com,False
+Linde,linde.com,True
+ABB,global.abb,True
+St. James's Place,sjp.co.uk,False
+Diageo,diageo.com,False
+BT Group,bt.com,True
+Heineken,heineken.com,True
+Intesa Sanpaolo,intesasanpaolo.com,True
+Ferguson Enterprises,ferguson.com,True
+Kühne + Nagel,home.kuehne-nagel.com,True
+Safran,safran-group.com,False
+Is Yatirim Menkul Degerler Anonim Sirketi,isyatirim.com.tr,True
+Michelin,michelinman.com,True
+Air Liquide,airliquide.com,False
+Forvia SE,forvia.com,True
+Talanx,talanx.com,True
+EssilorLuxottica,essilorluxottica.com,True
+Anglo American,angloamerican.com,False
+UniCredit,unicreditgroup.eu,False
+Crédit Agricole,credit-agricole.com,True
+Holcim Group,holcim.com,True
+Associated British Foods,abf.co.uk,True
+Adidas,adidas.com,False
+Legal &amp; General,lgamerica.com,False
+Poste Italiane,poste.it,True
+TUI,tui.co.uk,False
+RWE,rwe.com,False
+Randstad,randstadusa.com,True
+Eaton,eaton.com,False
+DCC plc,dcc.ie,False
+Eiffage,eiffage.com,True
+Centrica,centrica.com,False
+Siemens Healthineers,siemens-healthineers.com,True
+Adecco Group,adeccogroup.com,True
+MOL Group,molgroup.info,True
+Ceconomy,ceconomy.de,True
+DSV,dsv.com,True
+ING,ing.com,True
+Lloyds Banking Group,lloydsbank.com,True
+BayWa,baywa.com,True
+Ericsson,ericsson.com,False
+Fresenius,freseniusmedicalcare.com,True
+Rolls-Royce Holdings,rolls-royce.com,False
+Endesa,endesa.com,True
+Compagnie Financière Richemont,richemont.com,True
+Capgemini,capgemini.com,True
+Merck KGaA,merckgroup.com,False
+National Grid,nationalgridus.com,True
+Smurfit Westrock,smurfitwestrock.com,True
+Galp Energia,galp.com,True
+Mapfre,mapfreinsurance.com,True
+Henkel,henkel.com,True
+Neste,neste.com,True
+NN Group,nn-group.com,True
+Valeo,valeo.com,True
+H&amp;M,www2.hm.com,False
+HeidelbergCement,heidelbergmaterials.com,False
+Türkiye Petrol Rafinerileri,tupras.com.tr,True
+British American Tobacco,bat.com,True
+Schaeffler,schaeffler.com,False
+Hapag-Lloyd,hapag-lloyd.com,False
+Thales,thalesgroup.com,True
+Johnson Controls,johnsoncontrols.com,True
+Fresenius Medical Care,freseniusmedicalcare.com,True
+Nokia,nokia.com,False
+Trane Technologies,tranetechnologies.com,True
+Standard Chartered,sc.com,True
+Norsk Hydro,hydro.com,True
+Aptiv,aptiv.com,True
+Leonardo,leonardo.com,True
+Prysmian Group,prysmian.com,True
+NatWest Group,natwestgroup.com,True
+Vestas Wind Systems,vestas.com,True
+Philips,usa.philips.com,False
+CNH Industrial,cnh.com,True
+Ayvens,ayvens.com,True
+Aurubis,aurubis.com,True
+Naturgy,naturgy.com,False
+A2A,a2aprotocol.org,True
+PGE Polska,gkpge.pl,True
+Edison,sce.com,True
+Phoenix Group,wearephoenix.com,True
+Phoenix Group,phoenixgroup.eu,True
+Phoenix Group,phoenixgroup.eu,True
+Phoenix Group,phoenixgroup.eu,True
+CaixaBank,caixabank.com,True
+Unipol Assicurazioni,unipol.it,True
+Kering,kering.com,False
+Strabag,strabag.com,True
+Skanska,skanska.com,True
+Brenntag,brenntag.com,True
+Spotify,open.spotify.com,True
+Voestalpine,voestalpine.com,True
+Sodexo,us.sodexo.com,True
+Ford Otosan,fordotosan.com.tr,True
+Alstom,alstom.com,True
+Atlas Copco,atlascopco.com,True
+Ternium,us.ternium.com,True
+Danone,danone.com,True
+EDP Group,edp.com,True
+Marks &amp; Spencer,marksandspencer.com,True
+Iveco Group,ivecogroup.com,False
+Aon,aon.com,True
+Evonik Industries,evonik.com,True
+Johnson Matthey,matthey.com,True
+TE Connectivity,te.com,False
+International Distributions Services (Royal Mail),internationaldistributionservices.com,True
+Swiss Life,swisslife.com,False
+Kingfisher,kingfisherboats.com,False
+Infineon,infineon.com,True
+Hermès,hermes.com,False
+Rexel,rexelusa.com,False
+Securitas AB,securitas.com,True
+Telecom Italia,tim.it,False
+Umicore,umicore.com,True
+ČEZ Group,cez.cz,True
+Covestro,covestro.com,True
+BİM Birleşik Mağazalar,bim.com.tr,True
+Hera Group,hera.com,True
+Ryanair,ryanair.com,True
+Reckitt Benckiser,reckitt.com,True
+ageas,ageasfederal.com,False
+Bunzl,bunzl.com,False
+Assa Abloy,assaabloy.com,True
+Adient,adient.com,True
+Haleon,haleon.com,True
+Vivendi,vivendi.com,True
+Flutter Entertainment,flutter.com,True
+Logista (Compañía de Distribución Integral Logista),logista.com,False
+Yara International,yara.com,True
+M&G plc,mandg.com,False
+Powszechny Zakład Ubezpieczeń,pzu.pl,True
+Essity,essity.com,True
+HELLENiQ ENERGY,helleniqenergy.gr,True
+Swisscom,swisscom.ch,True
+Commerzbank,commerzbank.de,True
+Coca-Cola European Partners,cocacolaep.com,True
+Amcor,amcor.com,True
+JD Sports Fashion,jdsports.com,False
+DSM-Firmenich,dsm-firmenich.com,True
+SSE,sse.com,True
+Electrolux,electrolux.com,False
+WPP,wpp.com,False
+Motor Oil (Hellas) Corinth Refineries,moh.gr,False
+Sika,sika.com,True
+Kesko,kesco-energy.com,False
+Gestamp Automoción,gestamp.com,False
+Nordea Bank,nordea.com,False
+Schindler Group,schindler.com,True
+Arçelik,arcelikglobal.com,True
+easyJet,easyjet.com,True
+Pernod Ricard,pernod-ricard.com,True
+Helvetia Holding,helvetia.com,True
+Aker BP,akerbp.com,True
+NXP Semiconductors,nxp.com,True
+STMicroelectronics,st.com,False
+Universal Music Group,universalmusic.com,True
+KION Group,kiongroup.com,True
+DKSH Holding,dksh.com,True
+KBC,kbc.co.ke,True
+Barry Callebaut,barry-callebaut.com,True
+KONE,kone.com,True
+AEGON,aegon.com,True
+Tenaris,tenaris.com,True
+Vienna Insurance Group,group.vig,False
+Erste Group Bank,erstegroup.com,True
+RELX,relxnow.com,True
+Sandvik,home.sandvik,True
+Atos,atos.net,True
+Colruyt,colruytgroup.com,True
+Inchcape,inchcape.com,False
+ISS A/S,nasa.gov,True
+Zalando,zalando.com,True
+AkzoNobel,akzonobel.com,True
+Rheinmetall,rheinmetall.com,True
+UPM-Kymmene,upm.com,True
+Burelle,burelle.fr,True
+OPmobility,opmobility.com,False
+Ashtead,ashtead-group.com,True
+Südzucker,suedzuckergroup.com,True
+Sonae,sonae.pt,True
+Teleperformance,tp.com,True
+Salzgitter,salzgitter.de,True
+Sandoz Group,sandoz.com,True
+Sampo,sampo.com,True
+Autoliv,autoliv.com,False
+Balfour Beatty,balfourbeatty.com,True
+Arkema,arkema.com,True
+Sabancı Holding,sabanci.com,True
+Stora Enso,storaenso.com,False
+Alcon,alcon.com,True
+Scor,scor.com,True
+Willis Towers Watson,wtwco.com,True
+SSAB,ssab.com,True
+Carlsberg,carlsberg.com,True
+Investor AB,investorab.com,False
+Legrand,legrand.us,True
+Raiffeisen Bank International,rbinternational.com,True
+Ferrovial,ferrovial.com,True
+ABN AMRO,abnamro.com,False
+PUMA,us.puma.com,True
+SKF (Svenska Kullagerfabriken),skf.com,True
+Groupe Lagardère,lagardere.com,True
+TechnipFMC,technipfmc.com,False
+Verbund AG,verbund.com,True
+KGHM Polska Miedź,kghm.com,True
+Avolta AG,avoltaworld.com,True
+GarantiBank,garantibbva.com.tr,True
+Kingspan Group,kingspangroup.com,True
+Casino Guichard-Perrachon,groupe-casino.fr,False
+Ørsted,orsted.com,False
+Nexans,nexans.com,True
+Tauron Polska,tauron.pl,True
+Andritz,andritz.com,True
+Boliden,boliden.com,True
+ALSO Holding,also.com,True
+Hays plc,haysplc.com,False
+ASR Nederland,asrnederland.nl,True
+Computacenter,computacenter.com,False
+Saipem,saipem.com,False
+Enea,enea.it,False
+HELLA,hella.com,True
+Groupe SEB,groupeseb.com,True
+Fnac Darty,fnacdarty.com,True
+Seagate Technology,seagate.com,False
+Coca-Cola HBC,coca-colahellenic.com,True
+Pearson,pearson.com,True
+D'Ieteren Group,dieterengroup.com,True
+Knorr-Bremse,knorr-bremse.com,False
+Telia Company,teliacompany.com,True
+Dole PLC,dole.com,True
+Wendel,wendelgroup.com,True
+Türkiye Is Bankasi,isbank.com.tr,True
+Migros Ticaret A.S.,migroskurumsal.com,True
+Givaudan,givaudan.com,True
+ICON plc,iconplc.com,True
+Eurocash,eurocash.pl,True
+Danske Bank,danskebank.com,True
+Axfood,axfood.com,True
+HelloFresh,hellofresh.com,False
+DNB,dnb.com,False
+AerCap,aercap.com,True
+Aena,aena.es,False
+Grifols,grifols.com,True
+Fincantieri,fincantieri.com,False
+Jet2,jet2.com,False
+(DIA) Distribuidora Internacional de Alimentación,diacorporate.com,True
+Acciona,acciona.com,True
+Skandinaviska Enskilda Banken,sebgroup.com,True
+Fomento de Construcciones y Contratas,fcc.es,True
+Drax Group,drax.com,False
+Deutsche Börse,deutsche-boerse.com,True
+Mondi,mondigroup.com,True
+Nordex,nordex-online.com,True
+Constellium,constellium.com,True
+RTL Group,company.rtl.com,True
+OTP Bank,otpbank.hu,True
+Next plc,next.co.uk,True
+Dino Polska,grupadino.pl,False
+SGS,sgs.com,False
+PKO Bank Polski,pkobp.pl,True
+Telenor,telenor.com,False
+Swatch,swatch.com,True
+Savencia Fromage &amp; Dairy,savencia-fromagedairy.com,False
+Ferrari,ferrari.com,True
+Beiersdorf,beiersdorf.com,True
+Pirelli,pirelli.com,True
+JDE Peet's,jdepeets.com,True
+Syensqo,syensqo.com,True
+Ingersoll Rand,ingersollrand.com,True
+Lonza,lonza.com,False
+Vår Energi,varenergi.no,True
+Kerry Group,kerry.com,True
+Wärtsilä,wartsila.com,True
+Acerinox,acerinox.com,True
+Experian,experian.com,True
+Klöckner &amp; Co,kloeckner.com,True
+Bâloise,baloise.com,True
+Proximus,proximus.be,False
+Technip Energies,ten.com,True
+Subsea 7,subsea7.com,True
+Swedbank,swedbank.com,True
+Frasers Group,frasers.group,True
+Iren,iren.com,True
+B&M European Value Retail,bandmretail.com,False
+Rubis,rubiks.com,True
+United Internet,getunited.com,True
+Lanxess,lanxess.com,False
+Banco Sabadell,bancsabadell.com,True
+Rentokil Initial,rentokil-initial.com,False
+Quilter,handiquilter.com,False
+Maire Tecnimont,groupmaire.com,True
+Bank of Ireland Group,bankofireland.com,True
+Amadeus IT Group,amadeus.com,True
+Dassault Systèmes,3ds.com,True
+AUTO1,auto1.com,True
+Aperam,aperam.com,False
+Bechtle,bechtle.com,True
+L.D.C. S.A.,ldc.com,False
+Hornbach Holding,hornbach-holding.de,True
+PORR,porr-group.com,True
+Wüstenrot &amp; Württembergische,ww-ag.com,True
+Antofagasta,antofagasta.co.uk,True
+Signify,signify.com,True
+Orkla,orkla.com,True
+Alfa Laval,alfalaval.com,True
+GBL,granbluefantasy.jp,True
+Uniqa Insurance Group,uniqagroup.com,True
+Bureau Veritas,group.bureauveritas.com,True
+Dassault Aviation,dassault-aviation.com,True
+Vonovia,vonovia.com,True
+Outokumpu,outokumpu.com,True
+Elior Group,eliorgroup.com,True
+Garmin,garmin.com,True
+Nexi,nexigroup.com,True
+Amundi,amundi.com,True
+SPIE,spie.org,True
+Hornbach Baumarkt,hornbach.de,False
+Aéroports de Paris,parisaeroport.fr,True
+UCB,berkeley.edu,False
+Entain,entaingroup.com,True
+AIB Group (Allied Irish Banks),aib.ie,True
+Indra Sistemas,indracompany.com,False
+Public Power Corporation,publicpowercompany.com,True
+BPER Banca,bper.it,True
+Efes Beverage Group,anadoluefes.com,False
+Ackermans &amp; Van Haaren,avh.be,False
+MVV Energie,mvv.de,True
+SAAB AB,saab.com,True
+Epiroc,epiroc.com,False
+Direct Line Group,directlinegroup.co.uk,True
+Harbour Energy,harbourenergy.com,True
+Wolters Kluwer,wolterskluwer.com,True
+Sacyr,sacyr.com,True
+Admiral Group,admiralgroup.co.uk,True
+Construcciones y Auxiliar de Ferrocarriles,cafmobility.com,True
+Mowi,mowi.com,False
+Chocoladefabriken Lindt &amp; Sprüngli,lindt-spruengli.com,False
+Clariant,clariant.com,False
+Sopra Steria Group,soprasteria.com,False
+Serco Group,serco.com,False
+Vertu Motors,vertumotors.com,True
+Nationwide Building Society,nationwide.co.uk,False
+Svenska Handelsbanken,handelsbanken.se,True
+Publicis Groupe,publicisgroupe.com,True
+Erdemir,erdemir.com.tr,False
+John Wood Group,woodplc.com,True
+Tryg,tryg.com,True
+Krones,krones.com,False
+GEA Group,gea.com,False
+Hexagon AB,hexagon.com,True
+Fortum,fortum.com,True
+Accor,all.accor.com,True
+NCC,nccwebsite.org,True
+KPN,kpn.com,True
+Peab,peab.com,False
+Zabka Group,zabkagroup.com,False
+Travis Perkins,travisperkins.co.uk,True
+A1 Telekom Austria,a1.net,True
+EMEIS,emeis.com,True
+Valmet,valmet.com,True
+Millicom,millicom.com,False
+Banco BPM,bancobpm.it,True
+Mitie Group PLC,mitie.com,False
+Nürnberger Versicherung,nuernberger.de,True
+Greenyard,greenyard.group,True
+Babcock International Group,babcockinternational.com,False
+Wacker Chemie,wacker.com,True
+Clariane,clariane.com,True
+Enerjisa Enerji,enerjisa.com.tr,False
+Solvay,solvay.com,True
+Dowlais Group,dowlais.com,True
+Mutares,mutares.com,True
+Cellnex Telecom,cellnex.com,True
+Bilfinger,bilfinger.com,False
+Aker ASA,akerasa.com,True
+FirstGroup,firstgroupplc.com,False
+Wallenius Wilhelmsen,walleniuswilhelmsen.com,True
+Prosegur,prosegur.us,True
+Barratt Redrow,barrattdevelopments.co.uk,False
+Bell Food Group,bellfoodgroup.com,True
+Novozymes,novozymes.com,False
+Metso,metso.com,True
+Amer Sports,amersports.com,True
+Şişecam,sisecam.com,True
+Jungheinrich,jungheinrich.com,False
+VakıfBank,vakifbank.com.tr,True
+Steris,steris.com,True
+Webuild S.p.A.,webuildgroup.com,True
+Prada,prada.com,True
+MTU Aero Engines,mtu.de,True
+LPP SA,lpp.com,True
+BKW AG,bkw.com,True
+Ardagh Metal Packaging,ardaghmetalpackaging.com,True
+3i Group,3i.com,False
+Aktieselskabet Schouw & Co.,schouw.dk,True
+STEF SA,stef.com,True
+Puig Brands,puig.com,False
+Turkcell,m.turkcell.com.tr,False
+Kier Group,kier.co.uk,True
+Obrascón Huarte Lain,ohla-group.com,False
+Türk Telekom,turktelekom.com.tr,True
+Wienerberger,wienerberger.com,True
+Douglas Group,douglas.group,True
+Inter Cars,intercars.com,False
+Worldline,worldline.com,True
+Emmi AG,group.emmi.com,True
+Técnicas Reunidas,tecnicasreunidas.es,True
+Bpost,bpost.be,True
+Fraport,fraport.com,True
+Akbank,akbank.com,True
+Elis,statueofliberty.org,True
+Airtel Africa,airtel.africa,True
+Kongsberg Gruppen,kongsberg.com,True
+Vistry Group,vistrygroup.co.uk,False
+Husqvarna,husqvarna.com,True
+Yapı Kredi,yapikredi.com.tr,True
+HUGO BOSS,hugoboss.com,False
+Capri Holdings,capriholdings.com,False
+Konecranes,konecranes.com,True
+Pandora,us.pandora.net,False
+Smith & Nephew,smith-nephew.com,True
+SSP Group,sspgroup.com,False
+Logitech,logitech.com,True
+Dürr,durr.com,True
+Pepco Group,pepcogroup.eu,True
+Taylor Wimpey,taylorwimpey.co.uk,False
+Informa plc,informa.com,True
+Esprinet,esprinet.com,True
+Huhtamäki,huhtamaki.com,True
+Galderma Group,galderma.com,True
+Aselsan,aselsan.com,True
+MM Group (Mayr-Melnhof AG),mm.group,True
+Azelis Group,azelis.com,True
+Sixt,sixt.com,True
+ACEA,acea.auto,True
+Santander Polska,santander.pl,True
+AAK,aak.com,True
+Sonova,sonova.com,True
+DFDS A/S,dfds.com,True
+Pinewood Technologies Group,pinewood.ai,True
+ITV plc,itvplc.com,False
+1&1,ionos.com,True
+Melrose Industries,melroseplc.net,False
+Vallourec,vallourec.com,False
+Galenica,galenica.com,True
+Trigano,trigano.fr,True
+Perrigo,perrigo.com,True
+Julius Bär,juliusbaer.com,False
+ALTEN,alten.com,False
+Banca Monte dei Paschi di Siena,mps.it,False
+Georg Fischer,georgfischer.com,True
+Asseco,asseco.com,False
+Mobico Group,mobicogroup.com,False
+DEME Group,deme-group.com,False
+Intertek,intertek.com,True
+BillerudKorsnäs,billerud.com,True
+Rockwool,rockwool.com,True
+ProSiebenSat.1 Media,prosiebensat1.com,True
+Bank Pekao (Bank Polska Kasa Opieki),pekao.com.pl,True
+Brembo,brembo.com,False
+bioMérieux,biomerieux.com,True
+CIE Automotive,cieautomotive.com,False
+NV Bekaert,bekaert.com,False
+Pentair,pentair.com,True
+Jazz Pharmaceuticals,jazzpharma.com,True
+Vicat S.A.,vicat.com,True
+Derichebourg,derichebourg.com,False
+Unibel S.A.,groupe-bel.com,False
+Storebrand,storebrand.no,True
+Smiths Group,smiths.com,True
+Coloplast,coloplast.us,False
+Persimmon,persimmontech.com,False
+VEON,veon.com,False
+Coca-Cola İçecek,cci.com.tr,False
+Terna,ternaengg.ac.in,True
+Implenia AG,implenia.com,True
+D/S Norden (Dampskibsselskabet Norden),ds-norden.com,True
+Elia Group,eliagroup.eu,False
+Gjensidige Forsikring,gjensidige.no,True
+K+S,kpluss.com,True
+James Hardie Industries,jameshardie.com,True
+Sulzer,sulzer.com,True
+NIBE Industrier,nibe.com,True
+Snam,snam.it,False
+Aker Solutions ASA,akersolutions.com,True
+OTE Group,otegroup.com,True
+Imerys,imerys.com,False
+Fuchs Petrolub,fuchs.com,True
+De' Longhi,delonghi.com,False
+Glanbia plc,glanbia.com,False
+Agrana,us.agrana.com,False
+Viohalco,viohalco.com,True
+Allegion,,False
+ASOS,asos.com,False
+Bilia AB,bilia.com,True
+Veidekke,veidekke.com,True
+JCDecaux,jcdecaux.com,True
+EDP Renováveis,edpr-investors.com,True
+Keller Group,keller.com,True
+Burberry,us.burberry.com,True
+Schroders,schroders.com,True
+Banco Comercial Português (Millennium bcp),millenniumbcp.pt,True
+Ipsen,ipsen.com,True
+RS Group,rsgroup.com,False
+Marex Group,marex.com,True
+Just Eat Takeaway,just-eat.co.uk,False
+Sartorius,sartorius.com,False
+Arm Holdings,arm.com,True
+Danieli &amp; C. Officine Meccaniche,danieli.com,True
+Whitbread,whitbread.co.uk,False
+Audax Renovables,audaxrenovables.com,False
+AMS-Osram,ams-osram.com,True
+Transocean,deepwater.com,True
+NKT A/S,nkt.com,True
+RHI Magnesita,rhimagnesita.com,True
+Drägerwerk,draeger.com,False
+Stadler Rail,stadlerrail.com,True
+Verallia,verallia.com,True
+DWS Group,dws.com,True
+Cyfrowy Polsat,cyfrowypolsat.pl,False
+Liberty Global,libertyglobal.com,False
+Beijer Ref,beijerref.com,True
+Samsonite International,shop.samsonite.com,True
+PostNL,postnl.nl,False
+Bucher Industries,bucherindustries.com,True
+Mitchells &amp; Butlers plc,mbplc.com,False
+Vantiva,technicolor.com,False
+Nexity,nexity.group,False
+Tarkett,tarketthome.com,True
+Eurobank Ergasias Services and Holdings,eurobankholdings.gr,False
+Garrett Motion,garrettmotion.com,True
+Austevoll Seafood,auss.no,True
+ID Logistics Group,id-logistics.com,False
+SeSa S.p.A.,sesa.it,True
+Getinge,getinge.com,True
+EVN Group,en.evn.com.vn,True
+Pegasus Airlines,flypgs.com,True
+Unibail-Rodamco-Westfield,unibail-rodamco-westfield.de,True
+SFS Group,sfs.com,True
+ASM International,asminternational.org,True
+Österreichische Post,post.at,False
+Cimpress,cimpress.com,False
+Unimot,unimot.pl,True
+Trelleborg AB,trelleborg.com,True
+Arcadis,arcadis.com,True
+Norwegian Air Shuttle,norwegian.com,False
+QNB Finansbank,qnb.com.tr,True
+Symrise,symrise.com,True
+Nomad Foods,nomadfoods.com,False
+Synergie SE,synergie.com,True
+Davide Campari-Milano,camparigroup.com,True
+Finnair,finnair.com,True
+Atea ASA,atea.com,True
+Noble Corporation,noblecorp.com,False
+Bankinter,bankinter.com,False
+Cranswick,cranswick.plc.uk,True
+SIG plc,sigplc.com,False
+Aalberts,aalberts.com,True
+Ebro Foods,ebrofoods.es,True
+Mediobanca,mediobanca.com,True
+Bolloré,bollore.com,True
+Compagnie de l'Odet,compagniedelodet.net,False
+Groupe CRIT,groupe-crit.com,True
+Endeavour Mining,endeavourmining.com,True
+Orange Polska,orange.pl,False
+Storskogen Group,storskogen.com,True
+nVent Electric,nvent.com,True
+Swiss Steel,swisssteel-group.com,True
+MFE-Mediaforeurope,mfemediaforeurope.com,True
+İsdemir,isdemir.com.tr,True
+Tofaş Türk Otomobil Fabrikası,tofas.com.tr,True
+Française des Jeux,fdj.fr,True
+Per Aarsleff Holding A/S B,aarsleff.com,True
+Lundbeck,lundbeck.com,True
+Indutrade,indutrade.com,True
+dormakaba,dormakaba.com,False
+The Weir Group,global.weir,True
+mBank,mbank.pl,True
+NEUCA,neuca.pl,True
+Demant,demant.com,True
+Hikma Pharmaceuticals,hikma.com,True
+Sage Group,sage.com,False
+Kemira,kemira.com,True
+Jastrzebska Spólka Weglowa,jsw.pl,True
+Embracer Group,embracer.com,False
+The Berkeley Group,tbgpm.com,True
+Piraeus Financial Holdings,piraeusholdings.gr,True
+Hannover Rück,hannover-re.com,True
+KSB SE &amp; Co. KGaA,ksb.com,True
+Semapa,semapa.pt,True
+Gelsenwasser,gelsenwasser.de,True
+Bellway,getbellway.com,True
+Eramet,eramet.com,True
+ASBISc Enterprises,asbis.com,False
+CTS Eventim,corporate.eventim.de,True
+Savills,savills.com,False
+Sligro Food,sligrofoodgroup.nl,True
+Halkbank,halkbank.com.tr,True
+Sweco,sweco.com,True
+Leroy Seafood,leroyseafood.com,True
+Edenred,edenred.com,True
+BioNTech,biontech.com,True
+Loomis AB,loomis.com,True
+Severn Trent,severntrent.com,True
+Buzzi Unicem,buzziunicemusa.com,False
+FLSmidth,fls.com,True
+Howden Joinery,howdens.com,True
+Lenzing,lenzing.com,False
+InPost,indiapost.gov.in,True
+ING Bank Slaski,ing.pl,True
+On Holding,on.com,True
+Bakkavor Group,bakkavor.com,False
+National Bank of Greece,nbg.gr,True
+International Game Technology,igt.com,True
+Grafton Group,graftonplc.com,False
+Econocom Group,econocom.com,True
+AF Gruppen,afgruppen.com,True
+Tele2,tele2.com,True
+SYNLAB,synlab.com,True
+Altarea,altarea.com,True
+Nexa Resources,nexaresources.com,False
+Bravida Holding,investors.bravida.com,False
+Italmobiliare,italmobiliare.it,True
+Ariston Holding,aristongroup.com,True
+AmRest,amcrest.com,True
+Sinch,sinch.com,False
+IMI plc,imiplc.com,False
+Straumann,straumann.com,True
+Lundbergföretagen,lundbergforetagen.se,False
+Manitou Group,manitou.com,True
+EQT,eqt.com,True
+TietoEVRY,tietoevry.com,True
+Allegro.eu,about.allegro.eu,True
+Titan Cement International,titan-cement.com,True
+Freenet,hyphanet.org,True
+Elecnor,elecnor.com,True
+Prosus,prosus.com,False
+OC Oerlikon,oerlikon.com,True
+Italgas,italgas.it,True
+J D Wetherspoon,jdwetherspoon.com,False
+Genmab,genmab.com,True
+Amplifon,amplifonusa.com,True
+Recordati,recordati.com,True
+Deliveroo,deliveroo.co.uk,False
+Lifco,lifco.se,True
+Afry AB,afry.com,False
+Autoneum Holding,autoneum.com,True
+Argenx,argenx.com,True
+Telecom Plus PLC,telecomplus.co.uk,False
+OCI,ociservices.gov.in,False
+CCC S.A.,corporate.ccc.eu,False
+Halma,halma.com,False
+Investment AB Latour,latour.se,False
+Redcare Pharmacy,redcare-pharmacy.com,True
+GN Store Nord,gn.com,True
+Janus Henderson,janushenderson.com,True
+Bonduelle,bonduelle.com,True
+Altareit,altareit.com,True
+Ipsos,ipsos.com,False
+TF1,tf1.fr,False
+Clarivate,clarivate.com,True
+Greggs,greggs.com,False
+Reply,reply.com,True
+Swedish Orphan Biovitrum,sobi.com,False
+WH Smith,whsmith.co.uk,False
+Investec,investec.com,False
+Paul Hartmann,hartmann.info,True
+Aramis Group,aramis.group,False
+DMG Mori Aktiengesellschaft,en.dmgmori-ag.com,True
+Synthomer,synthomer.com,False
+Ubisoft,ubisoft.com,True
+Palfinger,palfinger.com,True
+United Utilities,unitedutilities.com,True
+Valaris,valaris.com,False
+Globant,globant.com,False
+Fielmann,fielmann-group.com,True
+Gränges,granges.com,True
+SalMar ASA,salmar.no,True
+Jacquet Metals,jacquetmetals.com,True
+QinetiQ,qinetiq.com,True
+Wacker Neuson,wackerneuson.com,True
+DO &amp; CO Aktiengesellschaft,doco.com,True
+Hensoldt,hensoldt.net,True
+Elisa,elisa.dtsa.mil,False
+Sasa Polyester,sasa.com.tr,True
+Alpha Services and Holdings,alphaholdings.gr,False
+Tessenderlo Group,tessenderlo.com,True
+Carl Zeiss Meditec,zeiss.com,True
+Banca Mediolanum,bancamediolanum.it,False
+Richter Gedeon,gedeonrichter.com,False
+Eurowag,m.eurowag.com,True
+Credito Emiliano,credem.it,True
+Grupo Catalana Occidente,gco.com,False
+Budimex,m.budimex.pl,False
+Zigup,zigup.com,True
+Dometic Group,dometicgroup.com,True
+Prosegur Cash,prosegurcash.com,True
+Elkem,elkem.com,True
+Ems-Chemie,ems-group.com,True
+Convatec Group,convatec.com,True
+ARYZTA AG,aryzta.com,False
+Royalty Pharma,royaltypharma.com,True
+The Navigator Company,thenavigatorcompany.com,True
+Ramsay Générale de Santé,ramsaysante.fr,True
+Evolution Gaming,evolution.com,True
+Galliford Try,gallifordtry.co.uk,True
+Gerresheimer,gerresheimer.com,True
+Partners Group,partnersgroup.com,False
+Meliá Hotels International,melia.com,False
+Interpump Group,interpumpgroup.it,True
+Holmen,holmen.com,False
+MARR S.p.A.,marr.it,True
+Banca Transilvania,bancatransilvania.ro,False
+Ströer,stroeer.de,False
+THG (The Hut Group),thg.com,True
+Unicaja Banco,unicajabanco.com,True
+PageGroup,page.com,False
+Gek Terna,gekterna.com,False
+Royal Unibrew,royalunibrew.com,True
+Acciona Energías Renovables,acciona-energia.com,True
+Dunelm Group,dunelm.com,False
+SES S.A.,ses.com,False
+Halfords Group,halfords.com,True
+About You,m.aboutyou.com,True
+Birkenstock,birkenstock.com,False
+Mainova,mainova.de,True
+Addtech AB,addtech.com,True
+Chesnara plc,chesnara.co.uk,False
+Spirax-Sarco Engineering,spiraxsarco.com,True
+Groupe SAMSE,groupe-samse.fr,True
+Metsä Board,metsagroup.com,True
+BIC,us.bic.com,True
+Grupo Empresarial San José,grupo-sanjose.com,True
+Tate &amp; Lyle,tateandlyle.com,True
+Grammer AG,grammer.com,True
+Polestar,polestar.com,True
+Vidrala,vidrala.com,False
+Costamare,costamare.com,False
+Croda International,croda.com,False
+Lottomatica Group,lottomaticagroup.com,False
+Jyske Bank,jyskebank.dk,False
+Pierre et Vacances,pierreetvacances.com,True
+Medios AG,medios.group,True
+Geberit,geberitnorthamerica.com,True
+Ermenegildo Zegna,zegna.com,False
+Electrica,electrica.it,True
+Qiagen,qiagen.com,False
+Svenska Cellulosa Aktiebolaget (SCA),sca.com,True
+DEUTZ,deutz.com,True
+Ithaca Energy,ithacaenergy.com,True
+Breedon Group,breedongroup.com,True
+HEXPOL AB,hexpol.com,False
+Springer Nature AG,springernature.com,True
+Landis+Gyr,landisgyr.com,False
+London Stock Exchange,londonstockexchange.com,True
+Dustin Group,dustingroup.com,False
+Wise PLC,wise.com,True
+Mallinckrodt Pharmaceuticals,mallinckrodt.com,True
+Criteo,criteo.com,False
+Watches of Switzerland Group,watchesofswitzerland.com,True
+YIT,yitgroup.com,True
+Wickes Group,wickes.co.uk,True
+Alleima AB,alleima.com,True
+abrdn,aberdeeninvestments.com,True
+Banca Popolare di Sondrio,popso.it,True
+Sto SE &amp; Co. KGaA,sto.com,True
+ElringKlinger,elringklinger.de,True
+Spire Healthcare Group,spirehealthcare.com,True
+SThree,sthree.com,False
+Oriola,oriola.com,True
+Alm. Brand,almproducts.com,True
+Cancom,cancom.com,True
+Cenergy Holdings,cenergyholdings.com,True
+Lisi S.A.,lisi-group.com,True
+SIG Combibloc,sig.biz,True
+Pets at Home,petsathome.com,True
+TAV Airports Holding,tavairports.com,True
+Boohoo Group,boohooplc.com,True
+Indus Holding,indus.eu,True
+NOS,drinknos.com,False
+Kontron AG,kontron.com,True
+Kalmar Oyj,kalmarglobal.com,True
+InterContinental Hotels Group,ihgplc.com,False
+BAUER AG,bauer.de,True
+Diploma plc,diplomaplc.com,True
+Renewi,renewi.com,False
+Cementir,cementirholding.com,True
+Électricite de Strasbourg,es.fr,True
+Tokmanni,ir.tokmanni.fi,False
+Euronext,euronext.com,True
+KWS,kws.go.ke,True
+Corporación América Airports,caap.aero,True
+TKH Group,tkhgroup.com,True
+naturenergie holding,naturenergie-holding.ch,True
+Coface,coface.com,True
+Piaggio,piaggio.com,False
+Solar A/S,solar.eu,True
+AMAG Austria Metall,amag-al4u.com,True
+Romgaz,romgaz.ro,False
+IMCD,imcdgroup.com,True
+Rhön-Klinikum,en.rhoen-klinikum-ag.com,True
+CPI Property Group,cpipg.com,True
+Viaplay Group,viaplaygroup.com,False
+Hamburger Hafen,hafen-hamburg.de,True
+Orion Corporation,orionpharma.com,True
+IHS Towers,ihstowers.com,True
+Komerční banka,kb.cz,True
+OPAP (Organization of Football Prognostics),opap.gr,False
+Nebelhornbahn-Aktiengesellschaft,ok-bergbahnen.com,True
+IONOS Group,ionos.com,True
+Getlink,getlinkgroup.com,True
+ENKA,enka.network,True
+Bank Millennium,millenniumbank.com,True
+Red Eléctrica,ree.es,True
+AT&amp;S Austria Technologie &amp; Systemtechnik,ats.net,False
+TGS ASA,tgs.com,True
+EFG International,efginternational.com,False
+Midwich Group,midwichgroupplc.com,True
+Montana Aerospace,montana-aerospace.com,True
+Elekta AB,elekta.com,True
+Spectris,spectris.com,True
+Victoria PLC,victoriaplc.com,True
+SMA Solar Technology,sma.de,True
+Verbio,verbio.de,True
+FinecoBank,finecobank.com,True
+Icelandair,icelandair.com,True
+OVS S.p.A.,ovs.it,True
+Vontobel,vontobel.com,False
+Costain Group,costain.com,False
+GL Events SA,gl-events.co.za,True
+Alior Bank S.A.,aliorbank.pl,True
+Klépierre,klepierre.com,True
+Ferroglobe,ferroglobe.com,False
+Aston Martin,astonmartin.com,True
+SOL S.p.A.,solgroup.com,False
+Ocado,ocado.com,True
+Tullow Oil,tullowoil.com,False
+Aurelius Group,aurelius-group.com,True
+Villeroy &amp; Boch,villeroy-boch.com,False
+Mytilineos,metlengroup.com,True
+Siltronic,siltronic.com,True
+Adecoagro,adecoagro.com,True
+Alkermes,alkermes.com,True
+Icade,icade.fr,True
+Global Fashion Group,global-fashion-group.com,False
+Coats Group,coats.com,False
+Munters Group AB,munters.com,True
+MT Højgaard Holding,mthh.dk,True
+PIERER Mobility,pierermobility.com,True
+Sofina,sofinagroup.com,True
+DOF Group,dof.com,True
+Aroundtown,townofbabylonny.gov,True
+Zurich Airport,flughafen-zuerich.ch,True
+Tomra,tomra.com,False
+B.F. S.p.A.,bfspa.it,True
+Sanoma,williams-sonoma.com,False
+Virbac SA,us.virbac.com,True
+Bank of Georgia Group,bankofgeorgia.ge,True
+Smiths News,smithsnews.co.uk,True
+TORM,torm.com,False
+Terveystalo,terveystalo.com,True
+Azimut Holding,azimut-group.com,True
+Premier Foods,premierfoods.co.uk,False
+BAWAG Group,bawaggroup.com,True
+Siegfried Holding,siegfried.ch,True
+HMS Bergbau,hms-ag.com,True
+Stabilus,stabilus.com,True
+NTG Nordic Transport Group A/S,ntg.com,False
+Nokian Tyres,nokiantyres.com,True
+Mears Group plc,mearsgroup.co.uk,True
+Brunel International,brunel.net,True
+Safilo Group,safilogroup.com,True
+LEG Immobilien,leg-wohnen.de,False
+Rosenbauer International,rosenbauer.com,False
+BASSAC,residencebassac.com,True
+Anima Holding,animasgr.it,True
+Compagnie des Alpes,compagniedesalpes.com,True
+Morgan Advanced Materials,morganadvancedmaterials.com,True
+Burkhalter Holding,burkhalter.ch,True
+Motorpoint Group,motorpoint.co.uk,False
+Höegh Autoliners,hoeghautoliners.com,True
+Vopak,vopak.com,True
+4imprint Group,4imprint.com,True
+Koenig &amp; Bauer,koenig-bauer.com,True
+Métropole Télévision (Groupe M6),groupem6.fr,True
+Elvalhalcor Hellenic Copper and Aluminium Industry,elvalhalcor.com,True
+GÜBRETAŞ,gubretas.com.tr,False
+Corbion,corbion.com,False
+Pluxee,pluxeegroup.com,True
+Archer Limited,archer.com,True
+Navios Maritime Partners,navios-mlp.com,False
+Befesa,befesa.com,False
+Grupa Kety,grupakety.com,True
+Scandinavian Tobacco Group,st-group.com,True
+Covivio,covivio.eu,True
+NH Hotel Group,nh-hotels.com,False
+Adyen,adyen.com,True
+Salvatore Ferragamo,ferragamo.com,False
+Viscofan,viscofan.com,False
+Energean,energean.com,False
+Close Brothers Group,closebrothers.com,True
+AO World,ao-world.com,False
+Hagar hf.,hagar.is,True
+DiaSorin,us.diasorin.com,True
+Eutelsat,eutelsat.com,True
+Bonheur ASA,en.wikipedia.org,True
+Rational AG,rational-online.com,True
+Mersen,us.mersen.com,True
+Ferretti,ferretti-yachts.com,True
+Rémy Cointreau,remy-cointreau.com,True
+Lindab International,lindab.com,False
+Vossloh AG,vossloh.com,True
+Lotus Bakeries,lotusbakeries.com,True
+Dermapharm,dermapharm.com,True
+LEW (Lechwerke),lew.de,False
+LivaNova,livanova.com,True
+Western Bulk,westernbulk.com,True
+Europris,europris.org,False
+Elopak ASA,elopak.com,True
+OYAK Çimento,oyakcimento.com,True
+Star Bulk Carriers,starbulk.com,True
+Fastighets AB Balder,balder.se,True
+SMCP S.A.,smcp.com,False
+adesso SE,adesso.de,True
+Fiskars,fiskars.com,False
+DFS Furniture,dfs.co.uk,False
+CompuGroup Medical,cgm.com,True
+Forbo Holding,forbo.com,True
+Betsson AB,betssonab.com,False
+Sportradar,sportradar.com,False
+Softcat,softcat.com,True
+JOST Werke SE,jost-world.com,True
+Bertrandt,bertrandt.com,True
+Compagnie d'Entreprises CFE,cfe.be,True
+Dätwyler,datwyler.com,True
+Senior plc,seniorplc.com,False
+RENK Group,renk.com,False
+Mandatum,mandatumam.com,True
+Viridien,viridiengroup.com,True
+Norma Group,normagroup.com,True
+Agfa-Gevaert,agfa.com,True
+VIEL &amp; Cie,viel.com,False
+Stevanato Group,stevanatogroup.com,True
+NWF Group plc,nwf.co.uk,True
+Banca Generali,bancagenerali.com,False
+SigmaRoc plc,sigmaroc.com,True
+Protector Forsikring,protectorforsikring.no,True
+Marston's,marstonspubs.co.uk,True
+REN (Redes Energéticas Nacionais),ren.pt,True
+Global Dominion Access,dominion-global.com,True
+Zumtobel Group,zumtobel.com,False
+Enagás,enagas.es,True
+Pkp Cargo,pkpcargo.com,True
+Jenoptik,jenoptik.com,True
+Auna,auna-multimedia.co.uk,False
+McBride,mcbride.house.gov,False
+EnQuest,enquest.com,True
+Festi hf.,festi.is,True
+Akwel SA,akwel-automotive.com,True
+Cairo Communication,cairocommunication.it,True
+CTT - Correios De Portugal,ctt.pt,True
+Intermediate Capital Group (ICG),icgam.com,False
+Wilh. Wilhelmsen Holding,wilhelmsen.com,True
+Knaus Tabbert AG,knaustabbert.de,True
+Compagnie Financière Tradition,tradition.com,True
+Kaufman &amp; Broad,corporate.kaufmanbroad.fr,True
+HOMAG Group,homag.com,True
+Polenergia,polenergia.pl,True
+Einhell Germany,einhell.com,True
+MBB SE,mbb.com,True
+Pennon Group,pennon-group.co.uk,False
+MLP SE,mlp-se.com,True
+Systemair AB,systemair.com,True
+Bank Handlowy w Warszawie,citibank.pl,True
+Eurofins Scientific,eurofins.com,False
+Quadient,quadient.com,True
+Flughafen Wien (Vienna Airport),viennaairport.com,True
+Nemetschek,nemetschek.com,True
+Sanlorenzo,sanlorenzoyacht.com,True
+INWIT,inwit.it,False
+DocMorris,corporate.docmorris.com,True
+TAG Immobilien,tag-ag.com,False
+Rathbones Group,rathbones.com,True
+SoftwareONE,softwareone.com,True
+Schweiter Technologies,schweiter.ch,True
+Robert Walters,robertwalters.us,False
+Aevis Victoria,aevis.com,False
+TAKKT AG,takkt.de,True
+mobilezone Holding,mobilezoneholding.ch,True
+Nilfisk Holding,nilfisk.com,True
+Romande Energie,romande-energie.ch,True
+Ontex Group,ontex.com,False
+OVH Groupe,ovhcloud.com,True
+Arjo AB,arjo.com,True
+Aegean Airlines,en.aegeanair.com,False
+Intercos,intercos.com,False
+Freelance.com SA,freelancer.com,True
+Bossard Holding,bossard.com,False
+Burckhardt Compression,burckhardtcompression.com,True
+IG Group,ig.com,True
+Kamux,kamux.com,False
+Bénéteau,beneteau.com,True
+OHB SE,ohb.de,True
+Fluidra,fluidrausa.com,True
+Hill &amp; Smith PLC,hsgroup.com,True
+Maisons du Monde,maisonsdumonde.com,False
+Mavi Giyim Sanayi ve Ticaret,mavicompany.com,True
+Laboratorios Farmaceuticos Rovi,rovi.es,True
+Scorpio Tankers,scorpiotankers.com,True
+Sydbank A/S,sydbank.com,False
+ENAV,enav.it,True
+S4 Capital,s4capital.com,True
+Rusta AB,investors.rusta.com,False
+Almirall,almirall.com,True
+Nagarro,nagarro.com,True
+Soitec,soitec.com,True
+Future plc,futureplc.com,True
+Clas Ohlson AB,clasohlson.com,False
+Hunting PLC,huntingplc.com,True
+Banque Cantonale Vaudoise,bcv.ch,True
+Temenos,temenos.com,False
+BELIMO Holding,belimo.com,False
+Séché Environnement,groupe-seche.com,True
+VAT Group,vatgroup.com,False
+TX Group,tx.group,False
+Land Securities Group,landsec.com,True
+Bakkafrost,bakkafrost.com,True
+Pfeiffer Vacuum,pfeiffer-vacuum.com,True
+Tecan,tecan.com,False
+Believe S.A.,believe.com,False
+SCHOTT Pharma,schott-pharma.com,True
+Auto Partner,autopartner.com,True
+Accelleron Industries,accelleron.com,True
+Danaos,danaos.com,False
+Beazley,beazley.com,True
+Corticeira Amorim,amorim.com,False
+Arnoldo Mondadori Editore,mondadorigroup.com,True
+Endava,endava.com,True
+Lindex Group,lindex-group.com,True
+AddLife AB,add.life,False
+Nobia AB,nobia.com,True
+Norconsult,norconsult.com,True
+Huber+Suhner,hubersuhner.com,False
+thyssenkrupp nucera,thyssenkrupp-nucera.com,True
+FACC AG,facc.com,True
+Comer Industries,comerindustries.com,False
+BEWi ASA,bewi.com,True
+Lubelski Wegiel Bogdanka,lw.com.pl,True
+Teract S.A.,teract.com,True
+BHG Group AB,wearebhg.com,True
+Moncler,moncler.com,False
+Oberbank,oberbank.at,True
+Netcompany Group,netcompany.com,True
+GEOX,geox.com,True
+Stalprodukt,stalprodukt.com.pl,True
+RWS Holdings,rws.com,True
+Melexis NV,melexis.com,True
+Aksa Energy,aksaenerji.com.tr,True
+LuxExperience,investors.luxexperience.com,False
+Euroapi,euroapi.com,True
+Rieter Holding,rieter.com,True
+Bodycote,bodycote.com,False
+Rotork,rotork.com,True
+Thule Group AB,thulegroup.com,False
+CMB.TECH,cmb.tech,True
+Surteco Group,surteco.com,True
+Industrie De Nora,denora.com,True
+GFT Technologies,gft.com,True
+Technogym,technogym.com,False
+CTP N.V.,ctp.eu,True
+Gobarto,gobarto.pl,True
+Castellum,castellum.com,True
+Castellum,castellum.com,True
+Castellum,castellum.com,True
+Castellum,castellumus.com,True
+Vetropack,vetropack.com,True
+New Wave Group,nwg.se,True
+Nolato AB,nolato.com,True
+The Rank Group,rank.com,True
+Mirbud S.A.,mirbud.pl,True
+CEWE,cewe-group.com,True
+Volex plc,volex.com,True
+Eimskipafélag Íslands,eimskip.com,True
+EuroGroup Laminations,eglagroup.com,True
+ENCE Energía y Celulosa,ence.es,True
+Fagron,fagron.com,True
+Altri,altria.com,False
+Groupe Guillin,groupeguillin.fr,False
+Bavarian Nordic,bavarian-nordic.com,True
+Solocal Group,solocal.com,False
+Barco NV,barco.com,False
+Philip Morris ČR,pmi.com,True
+Gecina,gecina.fr,True
+VusionGroup,vusion.com,False
+Playtech,playtech.com,True
+RCS MediaGroup,rcsmediagroup.it,False
+Grenke,grenke.com,True
+Guerbet,guerbet.com,False
+Arctic Paper,arcticpaper.com,True
+Frauenthal Holding,frauenthal.at,False
+Renishaw,renishaw.com,True
+Inwido AB,inwido.com,False
+Exacompta Clairefontaine,exaclair.com,True
+Schibsted,schibsted.com,True
+Deceuninck,deceuninck.com,True
+Kitwave Group,kitwave.co.uk,False
+Embla Medical,emblamedical.com,True
+Phoenix Mecano,phoenixmecano.com,False
+Kongsberg Automotive ASA,kongsbergautomotive.com,False
+Evotec,evotec.com,True
+Kapsch TrafficCom,kapsch.net,True
+SEGRO,segro.com,True
+Genus,genusplc.com,False
+Neurones,neurones.net,True
+Ambu,ambu.com,True
+Robertet,robertet.com,True
+Fleury Michon,fleurymichon.fr,True
+LNA Santé,lna-sante.com,True
+Attica Holdings,attica-group.com,True
+OSB Group Plc,osb.co.uk,True
+Scanfil,scanfil.com,True
+Clarkson PLC,clarksons.com,True
+AQ Group,aqgroup.com,False
+ALK-Abelló,alk.net,True
+Ponsse,ponsse.com,True
+Tallink Grupp,tallink.com,True
+Kardex Holding,kardex.com,True
+Benefit Systems,ssa.gov,False
+Oatly,oatly.com,True
+Cloetta,cloetta.com,False
+CVS Group,cvs.com,False
+Brødrene A &amp; O Johansen,ao.dk,True
+Neinor Homes,neinorhomes.com,True
+X-FAB,xfab.com,True
+Biesse,biesse.com,True
+Yü Group,yugroupplc.com,True
+Mediclin,medline.com,False
+Dom Development,domd.pl,True
+Tsakos Energy Navigation,tenn.gr,False
+Ellaktor,ellaktor.com,False
+IG Design Group,thedesigngroup.com,True
+Luzerner Kantonalbank,lukb.ch,True
+Wynnstay Group,wynnstay.co.uk,True
+ERG,phmsa.dot.gov,False
+Manchester United,manutd.com,False
+Spar Nord Bank A/S,sparnord.com,True
+Immofinanz,cpi-europe.com,True
+Boozt,boozt.com,True
+GasLog,gaslogltd.com,True
+Caisse Régionale de Crédit Agricole Mutuel Nord de France,credit-agricole.fr,True
+Volati AB,volati.se,True
+Marshalls plc,marshalls.co.uk,True
+Hochschild Mining,hochschildmining.com,False
+Bufab AB,bufab.com,False
+Erbud,erbud.pl,True
+Voyageurs du Monde,voyageursdumonde.fr,True
+Groupe SFPI,sfpi-group.com,True
+Chargeurs,chargers.com,True
+Hexaom,hexaom.fr,True
+Wavestone SA,wavestone.com,True
+Brickability Group,brickabilitygroupplc.com,True
+Deutsche Wohnen,deutsche-wohnen.com,True
+SRP Groupe (Showroomprive.com),showroomprivegroup.com,True
+TeamViewer,teamviewer.com,True
+Enter Air,enterair.pl,True
+Copenhagen Airport,cph.dk,True
+Duni AB,dunigroup.com,True
+Hexatronic Group AB,hexatronic.com,True
+Elementis,elementis.com,True
+Anora Group,anora.com,True
+Zehnder Group,zehndergroup.com,True
+Fenix Outdoor,fenixoutdoor.com,True
+Saga,sagagen.com,True
+Swiss Prime Site,sps.swiss,True
+Basler Kantonalbank,bkb.ch,True
+Polytec Holding,polytec-group.com,True
+Semperit,semperit.com,True
+Gamma Communications,gammagroup.co,False
+Mycronic,mycronic.com,True
+Auto Trader Group,autotrader.com,False
+Ercros,ercros.com,True
+Bystronic AG,bystronic.com,True
+Borregaard,borregaard.com,True
+Orascom Development,orascomdh.com,True
+Banque Cantonale de Genève,bcge.ch,False
+Olvi plc,olvigroup.fi,True
+ORIOR AG,orior.ch,True
+eDreams ODIGEO,edreamsodigeo.com,True
+Adtran Networks,adtran.com,True
+Global Ship Lease,globalshiplease.com,True
+BlueNord ASA,bluenord.com,True
+Genuit Group,genuitgroup.com,False
+Delticom AG,delti.com,True
+Teixeira Duarte,teixeiraduarte.pt,False
+Sparebanken Vest,spv.no,True
+Prodware,prodwaregroup.com,True
+Fluxys Belgium,fluxys.com,True
+Komax Holding,komaxgroup.com,True
+Grieg Seafood,griegseafood.com,True
+Latécoère S.A.,latecoere.aero,False
+Modern Times Group (MTG),mtg.com,True
+Hawesko,hawesko.de,False
+Pandox AB,pandox.se,True
+Biotest,biotest.com,True
+Tritax Big Box REIT,tritaxbigbox.co.uk,True
+XXL ASA,xxlasa.com,True
+Jumbo S.A.,corporate.e-jumbo.gr,True
+Avax S.A.,avax.gr,False
+Reach plc,reachplc.com,True
+Card Factory plc,cardfactoryinvestors.com,True
+Aixtron,aixtron.com,True
+Dalata Hotel Group,dalatahotelgroup.com,True
+DNO ASA,dno.no,False
+Bachem,bachem.com,True
+Games Workshop Group,warhammer.com,True
+Gaztransport & Technigaz,gtt.fr,True
+F.I.L.A. - Fabbrica Italiana Lapis ed Affini,filagroup.it,True
+Haulotte Group,haulotte.com,False
+Autohellas,autohellas.gr,True
+Placoplatre,placo.fr,False
+LACROIX Group SA,lacroix-group.com,True
+Aspo Oyj,aspo.com,True
+Hypoport,hypoport.com,False
+V-ZUG Holding,vzug.com,True
+BE Semiconductor,besi.com,True
+Turkish Airlines,turkishairlines.com,False
+TT Electronics,ttelectronics.com,True
+LINK Mobility Group,linkmobility.com,True
+Crayon Group,crayon.com,True
+Paragon Banking Group,paragonbank.co.uk,True
+Emak S.p.A.,emakgroup.com,False
+Caisse Régionale de Crédit Agricole Mutuel du Languedoc,credit-agricole.fr,True
+Carel Industries,carel.com,True
+NRC Group ASA,nrcgroup.com,True
+Synsam,synsamgroup.com,False
+Recticel,recticel.com,True
+Vaisala,vaisala.com,True
+Stillfront Group,stillfront.com,True
+VZ Holding,vermoegenszentrum.ch,True
+Schoeller-Bleckmann Oilfield Equipment,sbot.co.at,True
+Valiant Holding,valienteholdings.com,True
+Talgo S.A.,talgo.com,False
+Berner Kantonalbank,bekb.ch,True
+St. Galler Kantonalbank,sgkb.ch,True
+Aquafil,aquafil.com,True
+TomTom,tomtom.com,True
+Groupe LDLC,groupe-ldlc.com,True
+Banco di Desio e della Brianza,bancodesio.it,True
+Elmos Semiconductor,elmos.com,True
+Arbonia,arbonia.com,True
+Unibep,unibep.pl,True
+Medacta Group,medacta.com,True
+Cembra Money Bank,cembra.ch,True
+Covivio Hotels,covivio.eu,True
+Ypsomed,ypsomed.com,True
+ZE PAK SA,zepak.com.pl,True
+Multiconsult,multiconsultgroup.com,True
+Acinque,acinque.it,False
+Rosetti Marino,rosetti.it,False
+Simona,simonahalep.com,True
+Van Lanschot Kempen,vanlanschotkempen.com,True
+Kinepolis Group,corporate.kinepolis.com,False
+Wielton,wieltongroup.com,True
+Knowit,knowit.eu,True
+EL.En. S.p.A. (Elen Group),elengroup.com,True
+PWO AG,marketscreener.com,False
+Curevac,curevac.com,True
+Ringkjøbing Landbobank,landbobanken.dk,False
+SpareBank 1,sparebank1.no,True
+Oxford Instruments,oxinst.com,True
+Green Landscaping Group,greenlandscaping.com,True
+Nordic Semiconductor,nordicsemi.com,True
+AlzChem Group,alzchem.com,True
+DATAGROUP SE,datagroup.de,True
+Norse Atlantic ASA,flynorse.com,False
+Athens International Airport,aia.gr,True
+Alvotech,alvotech.com,True
+Severfield,severfield.com,True
+Navigator Holdings,investors.navigatorgas.com,False
+KRUK Spólka Akcyjna,en.kruk.eu,True
+Interroll,interroll.com,True
+Byggmax Group,om.byggmax.se,False
+Tikehau Capital,tikehaucapital.com,False
+Vanquis Banking Group,vanquis.co.uk,True
+Lectra SA,lectra.com,True
+Voltalia,voltalia.com,False
+Bastide Le Confort Médical,bastideleconfortmedical.com,True
+WASGAU Produktions &amp; Handels AG,wasgau.com,True
+MONETA Money Bank,moneta.cz,True
+Nederman Holding,nederman.com,True
+Azerion Group,azerion.com,True
+Technoprobe,technoprobe.com,True
+Graubündner Kantonalbank,gkb.ch,True
+Deezer,deezer.com,True
+Aubay,aubay.com,True
+Borussia Dortmund,bvb.de,True
+Vetoquinol,vetoquinolusa.com,True
+Deutsche Pfandbriefbank,pfandbriefbank.com,True
+ACTIA Group,actia.com,False
+Reworld Media,reworldmedia.com,False
+ADM Hamburg,adm.com,True
+discoverIE Group plc,discoverieplc.com,False
+Faes Farma,faesfarma.com,False
+All for One Group,all-for-one.com,True
+Grand City Properties,grandcityproperties.com,True
+Meier Tobler Group,meiertobler.ch,True
+James Fisher and Sons,james-fisher.com,True
+AutoStore Holdings,autostoresystem.com,True
+Bulten AB,bulten.com,True
+StarragTornos Group,starragtornos.com,True
+Bank für Tirol und Vorarlberg,btv.at,True
+The Platform Group,the-platform-group.com,True
+MPC Container Ships,mpc-container.com,True
+Lang &amp; Schwarz,ls-tc.de,True
+Friedrich Vorwerk Group,friedrich-vorwerk.de,False
+Metro Bank Holdings,metrobank.com.ph,True
+Medmix,medmix.swiss,True
+Genius Sports,geniussports.com,True
+Merlin Properties,merlinproperties.com,False
+EPC Groupe,epc-groupe.com,True
+Inmobiliaria Colonial,inmocolonial.com,False
+Speedy Hire,speedyservices.com,False
+Datalogic S.p.A.,datalogic.com,True
+Telia Lietuva,telia.lt,False
+Carmila,carmila.com,True
+Basellandschaftliche Kantonalbank,blkb.ch,True
+Arion banki,arionbanki.is,True
+British Land,britishland.com,True
+Thermador Groupe,thermador.com,False
+Global Blue Group,globalblue.com,False
+trivago,trivago.com,False
+Thurgauer Kantonalbank,tkb.ch,True
+Opera,opera.com,True
+Ion Beam Applications,iba-worldwide.com,True
+Core Laboratories,corelab.com,False
+Moltiply Group (Gruppo Mutuionline),moltiplygroup.com,True
+WashTec AG,washtec.com,True
+Viking Line Abp,vikingline.com,True
+Scout24 (ImmoScout24),immobilienscout24.de,True
+Nordnet AB,nordnetab.com,True
+Alfen,alfen.com,True
+Boiron,boironusa.com,True
+Tinexta,tinexta.com,True
+OEM International,oem.se,True
+GAG Immobilien,gag-koeln.de,True
+PCC Rokita,en.pcc.rokita.pl,True
+Verkkokauppa.com,verkkokauppa.com,True
+Jupiter Fund Management,jupiteram.com,True
+Cicor Technologies,cicor.com,True
+centrotherm international,centrotherm.de,True
+Trainline,thetrainline.com,True
+Suominen,suominen.fi,True
+Frequentis,frequentis.com,True
+Sagax,sagax.se,False
+M&amp;C Saatchi,mcsaatchi.com,True
+CPH Group AG,cph.ch,True
+Uzin Utz,us.uzin-utz.com,True
+Norcros,norcros.com,True
+Comet Holding,comet.tech,True
+ProCredit,procredit.com,True
+Rightmove,rightmove.co.uk,True
+Kojamo,kojamo.fi,True
+Grenevia,grenevia.com,True
+Bridgepoint Group plc,bridgepointgroup.com,True
+Cegedim SA,cegedim.com,True
+Fasadgruppen Group,fasadgruppen.se,True
+Zignago Vetro,zignagovetro.com,True
+Elica S.p.A.,corporate.elica.com,True
+Kainos Group,kainos.com,True
+flatexDEGIRO AG,flatexdegiro.com,True
+Schloss Wachenheim,schloss-wachenheim.com,True
+Musti Group,mustigroup.com,True
+SÜSS MicroTec,suss.com,True
+Gurit Holding,gurit.com,True
+Bergman &amp; Beving,bergmanbeving.com,True
+Iceland Seafood International,icelandseafood.com,True
+Westwing Group,westwing.com,True
+XTB S.A.,xtb.com,True
+Develia,develia.pl,True
+Hanza AB,hanza.com,True
+Solstad Offshore,solstad.com,False
+Warehouses De Pauw,wdp.eu,True
+Jensen-Group,jensen-group.com,True
+Amadeus Fire,group.amadeus-fire.de,False
+Caisse Régionale de Crédit Agricole Mutuel Alpes Provence,credit-agricole.fr,True
+GVS S.p.A.,gvs.com,True
+NoHo Partners,noho.fi,True
+Vp plc,vpplc.com,True
+Allreal Holding,allreal.ch,True
+ABO Energy,aboenergy.com,True
+MCH Group,mch-group.com,False
+Fever-Tree Drinks,fever-tree.com,True
+Metrovacesa,metrovacesa.com,True
+Spirent,spirent.com,True
+Ibstock plc,ibstock.co.uk,True
+SHW AG,shw.de,True
+Brunello Cucinelli,shop.brunellocucinelli.com,False
+Tele Columbus,telecolumbus.com,True
+Olav Thon,thon.no,True
+Industrivarden,industrivarden.se,False
+Nordic Paper,nordic-paper.com,True
+Íslandsbanki,islandsbanki.is,True
+Nexters,nexters.com,True
+Groupe Partouche,groupe.partouche.com,True
+LEM Holding,lem.com,False
+Feintool International,feintool.com,True
+Eurocell,eurocell.co,True
+Hexagon Composites,hexagongroup.com,True
+Laboratorio Reig Jofre,reigjofre.com,True
+Volution Group,volutiongroupplc.com,False
+Réalités,play.google.com,True
+Sipef,sipef.com,True
+Instone Real Estate Group,ir.en.instone.de,True
+Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée,credit-agricole.fr,True
+Delfingen Industry,delfingen.com,True
+Catering International &amp; Services,cis-integratedservices.com,False
+OVB Holding,ovb.eu,True
+MJ Gleeson plc,mjgleesonplc.com,False
+Arendals Fossekompani,arendalsfossekompani.no,True
+Soltec Power Holdings,soltecpowerholdings.com,True
+Allgeier,allgeier.com,False
+ALBA SE,alba.info,False
+Bloomsbury Publishing,bloomsbury.com,False
+Juventus Turin,juventus.com,True
+Caisse Régionale de Crédit Agricole Mutuel Sud Rhône Alpes,credit-agricole.fr,True
+Forterra plc,forterra.co.uk,False
+Roche Bobois,roche-bobois.com,True
+NRJ Group,nrj.com,True
+YouGov plc,corporate.yougov.com,True
+BFF Bank,bff.com,False
+Brederode,brederode.eu,True
+Moonpig Group,moonpig.group,True
+Delivery Hero,deliveryhero.com,False
+Cofinimmo,cofinimmo.com,True
+KAP AG,kap.de,True
+Shurgard Self Storage,shurgard.com,False
+SP Group A/S,sp-group.com,True
+Vimian Group,vimian.com,True
+Aluflexpack AG,aluflexpack.com,True
+Adler Group,adler-group.com,True
+Brim hf.,brim.is,True
+Italian Wine Brands,italianwinebrands.it,True
+The Italian Sea Group,theitalianseagroup.com,True
+Intracom Holdings,intracom.com,False
+Delta Plus Group,deltaplus.eu,True
+NCC Group plc,nccgroupplc.com,True
+PSP Swiss Property,psp.info,True
+Mikron Holding,mikron.com,True
+Procaps Group,procapsgroup.com,False
+Belships ASA,belships.com,True
+Asseco South Eastern Europe,see.asseco.com,True
+Caisse Régionale de Crédit Agricole Mutuel Loire Haute-Loire,credit-agricole.fr,True
+Aedas Homes,aedashomes.com,True
+Pekabex,pekabex.com,False
+Austriacard Holdings,austriacard.com,False
+Gascogne Groupe,groupe-gascogne.com,True
+Epwin Group,epwin.co.uk,True
+STEICO SE,steico.com,True
+Wihlborgs Fastigheter AB,wihlborgs.se,True
+SKAN Group,skan.com,True
+Avanza Bank,avanza.se,True
+Better Collective A/S,bettercollective.com,False
+Luxfer,luxfer.com,True
+ME Group International,me-group.com,True
+KBC Ancora,kbcancora.be,True
+Somec S.p.A.,somecgruppo.com,True
+Victrex,victrex.com,False
+Victorian Plumbing Group,victorianplumbing.co.uk,True
+Spadel,spadel.com,True
+Helios Towers,heliostowers.com,True
+MAX Automation,maxautomation.com,False
+Ascendis Pharma,ascendispharma.com,False
+De La Rue,delarue.com,False
+2G Energy AG,2g-energy.com,True
+Alan Allman Associates,alan-allman.com,False
+Wirtualna Polska (WP Holding),wp.pl,True
+Newag,newegg.com,False
+Exail Technologies,exail.com,False
+Fountaine Pajot,fountaine-pajot.com,True
+Aedifica,aedifica.com,True
+PayPoint,paypoint.com,True
+Etteplan,etteplan.com,True
+Scatec ASA,scatec.com,False
+Grainger plc,grainger.com,True
+Poujoulat,poujoulat.com,True
+Proeduca Altus,grupoproeduca.com,True
+Campine,campine.com,True
+Eurazeo,eurazeo.com,True
+Unite Group (Unite Students),unitegroup.com,True
+H&amp;K AG (Heckler &amp; Koch),heckler-koch.com,True
+R. Stahl AG,r-stahl.com,False
+Keyrus,keyrus.com,True
+Vocento,en.vocento.com,False
+Naked Wines,nakedwines.com,False
+Entra,entra.microsoft.com,True
+Stelrad Group,stelradplc.com,True
+Sanok Rubber Company,sanokrubber.com,False
+Bijou Brigitte,bijou-brigitte.com,True
+Bang &amp; Olufsen A/S,bang-olufsen.com,True
+CALIDA Holding,calidagroup.com,True
+APG|SGA,apgsga.ch,True
+Bouvet,bouvet.com,True
+Dottikon ES,dottikon.com,True
+AJ Bell,ajbell.co.uk,False
+Norion Bank,norionbank.se,True
+GlobalData,globaldata.com,False
+Answear.com,about.answear.com,False
+Zuger Kantonalbank,zugerkb.ch,True
+TXT e-solutions,txtgroup.com,False
+"Amper, S.A.",grupoamper.com,True
+Kid ASA,investor.kid.no,True
+M.P. Evans Group PLC,mpevans.co.uk,True
+Mensch und Maschine,mum.de,False
+PolyPeptide Group,polypeptide.com,False
+CA Immo,caimmo.com,True
+Südwestdeutsche Salzwerke,salzwerke.de,True
+Corem Property Group AB,markets.ft.com,True
+GB Group (GBG),gbg.com,True
+M1 Kliniken AG,m1-kliniken.de,True
+Sparebanken Sør,sor.no,True
+Dexelance,dexelance.com,True
+Exmar,exmar.com,True
+Miquel y Costas &amp; Miquel,miquelycostas.com,True
+Derwent London,derwentlondon.com,False
+Capital Limited,capdrill.com,False
+Relais Group Oyj,relais.fi,True
+Nyab AB,nyabgroup.com,True
+Vitrolife AB,vitrolife.com,True
+Atal S.A.,atal.pl,True
+Archicom,archicom-acm.com,True
+Citycon,citycon.com,True
+Natuzzi,natuzzi.com,False
+Hampiðjan,hampidjan.com,True
+Alma Media,almamedia.fi,False
+Infotel SA,infotel.com,True
+Macfarlane Group,macfarlanegroup.com,False
+Fabege AB,fabege.se,True
+Springfield Properties,springfieldpropertiesllc.com,True
+STS Group,sts.group,True
+Laurent-Perrier,laurent-perrier.com,False
+Norva24 Group AB,norva24.com,True
+Topps Tiles,toppstiles.co.uk,False
+SergeFerrari Group,sergeferrari.com,False
+Vitec Software Group,vitecsoftware.com,True
+Corporación Financiera Alba,corporacionalba.es,True
+Mortgage Advice Bureau (Holdings),mortgageadvicebureau.com,True
+Addiko Bank,addiko.com,True
+Immunocore,immunocore.com,True
+Roularta Media Group,roularta.be,True
+H&amp;T Group plc,handt.co.uk,True
+Aumann AG,aumann.com,False
+Atrium Ljungberg,al.se,True
+Netel Holding,netelgroup.com,True
+Ölgerðin Egill Skallagrímsson,olgerdin.is,True
+Samhällsbyggnadsbolaget i Norden,sbbnorden.se,True
+Oeneo,oeneo.com,True
+Camellia Plc,camellia.plc.uk,True
+Aktia Bank,aktia.com,False
+Koskisen Oyj,koskisen.fi,True
+Kendrion,kendrion.com,True
+Klingelnberg AG,klingelnberg.com,True
+Türkiye Kalkınma,kalkinma.com.tr,True
+Sea1 Offshore,sea1offshore.com,True
+Bourrelier Group,bourrelier-group.com,True
+Admie Holding,admieholding.gr,True
+Avio S.p.A.,avio.com,True
+XANO Industri,xano.se,True
+Sildarvinnslan,svn.is,False
+Pharming Group,pharming.com,True
+KNOT Offshore Partners,knotoffshorepartners.com,False
+Eckert &amp; Ziegler,isotopeproducts.com,True
+Ascom Holding,ascom.com,False
+Vranken-Pommery Monopole,vrankenpommery.com,True
+BigBen Interactive,bigben-interactive.co.uk,True
+FD Technologies,fdtechnologies.com,False
+Metall Zug AG,metallzug.ch,True
+BKS Bank,bks.at,True
+R&S Group,rsgroup.com,False
+Antin Infrastructure Partners,antin-ip.com,True
+Sabaf S.p.A.,sabaf.it,True
+Galapagos NV,glpg.com,False
+Miko Group,shopmiko.com,True
+Gimv NV,gimv.com,True
+Hufvudstaden AB,hufvudstaden.se,True
+Crédit Agricole Mutuel de la Touraine et du Poitou,credit-agricole.fr,True
+Hollywood Bowl Group,hollywoodbowlgroup.com,True
+Puuilo,puuilo.fi,True
+Rapala VMC Corporation,rapalavmc.com,True
+Safe Bulkers,safebulkers.com,True
+Walliser Kantonalbank,bcvs.ch,True
+Visiativ SA,visiativ.com,True
+Sensirion Holding,sensirion.com,True
+Renold,renold.com,False
+Kulmbacher Brauerei,kulmbacher.de,True
+Josef Manner &amp; Comp,josef.manner.com,True
+Rai Way,indianrailways.gov.in,False
+ALM Equity,almequity.se,True
+Troax Group AB,troax.com,True
+Peugeot Invest Société anonyme,peugeot-invest.com,True
+Sectra AB,sectra.com,True
+Materialise NV,materialise.com,True
+Nordwest Handel,nordwest.com,True
+Trifast,trfastenings.com,True
+Groupe Pizzorno Environnement,pizzorno.com,False
+Deutsche EuroShop,deutsche-euroshop.de,True
+Kri-Kri Milk Industry,krikri.gr,False
+Jungfraubahn Holding AG,jungfrau.ch,True
+Mr.Bricolage,mr-bricolage.com,True
+u-blox,u-blox.com,True
+Safestore,store.sentrysafe.com,True
+Edel SE &amp; Co. KGaA,edel.com,True
+Arbuthnot Banking Group,arbuthnotlatham.co.uk,True
+CM.com,cm.com,True
+init innovation in traffic systems,initse.com,True
+Shaftesbury Capital,shaftesburycapital.com,True
+Mühlbauer Holding,muehlbauer.de,True
+Plastika Kritis,plastikakritis.com,False
+Murapol S.A.,murapol.pl,True
+Fly Play,flyplay.com,True
+The Gym Group,thegymgroup.com,True
+CD Projekt,cdprojekt.com,True
+Castings P.L.C.,castings.plc.uk,True
+Fiera Milano,fieramilano.it,True
+Eurocommercial Properties,eurocommercialproperties.com,True
+Eagle Football Group,eaglefootball.com,True
+Momentum Group AB,momentum.group,False
+Nexus AG,nexusag.net,True
+Hydratec Industries,hydratec.nl,False
+PSI Software,home.psiexams.com,True
+Leifheit,leifheit.com,True
+Tubos Reunidos,tubosreunidosgroup.com,True
+SQLI SA,sqli.com,True
+Cosmo Pharmaceuticals,cosmopharma.com,True
+Patrizia Immobilien,patrizia.ag,True
+Caisse régionale de Crédit Agricole Mutuel d'Ille-et-Vilaine,credit-agricole.fr,True
+Credit Agricole Mutuel Toulouse 31,credit-agricole.fr,True
+Oma Säästöpankki,omasp.fi,False
+Avon Protection,avon-protection.com,True
+SNP Schneider-Neureither &amp; Partner,snpgroup.com,True
+Forafric Global PLC,forafric.com,True
+Mobimo Holding,mobimo.ch,True
+STRATEC,stratec.com,True
+EuroTeleSites,eurotelesites.com,True
+Helios Underwriting,huwplc.com,True
+Branicks Group,branicks.com,True
+Hargreaves Services,hl.co.uk,True
+Cadeler A/S,cadeler.com,False
+Bank Ochrony Srodowiska,bosbank.pl,True
+Sjóvá-Almennar tryggingar,sjova.is,True
+Bytes Technology,bytesplc.com,True
+Raspberry Pi,raspberrypi.com,False
+Société Foncière Lyonnaise,fonciere-lyonnaise.com,True
+Müller - Die lila Logistik,lila-logistik.com,True
+Klaveness Combination Carriers,combinationcarriers.com,True
+Rottneros,rottneros.com,True
+Iberpapel Gestión,iberpapel.es,True
+technotrans,technotrans.com,False
+Westag AG,westag.de,False
+A.L.A. società per azioni,alacorporation.com,True
+Deutsche Rohstoff,rohstoff.de,True
+Catana Group,catanagroup.com,True
+Orapi SA,orapiasia.com,True
+Karnov Group,karnovgroup.com,True
+Cliq Digital AG,cliqdigital.com,False
+Big Yellow Group,bigyellow.co.uk,True
+XPS Pensions Group,xpsgroup.com,True
+Novabase,novabase.com,True
+HBM Healthcare Investments,hbmhealthcare.com,True
+Cembre S.p.A.,cembre.com,True
+Medartis Holding,medartis.com,True
+Argan SA,argan.fr,True
+Grupa Kapitałowa Immobile,immobile.com.pl,True
+Muehlhan AG,muehlhan.com,False
+Raisio plc,raisio.com,True
+Jeudan,jeudan.dk,True
+Polar Capital Holdings,polarcapitalfunds.com,True
+Basic-Fit,basic-fit.com,True
+TF Bank AB,tfbank.se,True
+Bike24 Holding,corporate.bike24.com,True
+Equasens,equasens.com,False
+Incap Oyj,incapcorp.com,True
+Caisse Régionale de Crédit Agricole du Morbihan,credit-agricole.fr,True
+Kempower,kempower.com,True
+Koza Gold,kozaaltin.com.tr,True
+eVISO S.p.A.,eviso.it,True
+Dar Global,darglobal.co.uk,True
+Brockhaus Technologies,brockhaus-technologies.com,False
+Ashmore Group,ashmoregroup.com,False
+PCC Exol,pcc-exol.eu,True
+Leonteq,leonteq.com,True
+secunet,secunet.com,True
+Yubico,yubico.com,True
+Ålandsbanken,alandsbanken.com,True
+DATA MODUL,data-modul.com,True
+MS Industrie,ms-industrie.com,False
+Eleving Group,eleving.com,True
+Pricer AB,pricer.com,True
+Basilea Pharmaceutica,basilea.com,True
+Mercialys,mercialys.com,False
+Vátryggingafélag Íslands,vis.is,True
+Aker BioMarine,akerbiomarine.com,True
+Ascopiave,gruppoascopiave.it,False
+VTEX,vtex.com,True
+Diana Shipping,dianashippinginc.com,True
+EnviTec Biogas,envitec-biogas.com,True
+Harworth Group,harworthgroup.com,False
+Magnachip,magnachip.com,True
+Mister Spex,corporate.misterspex.com,True
+KHD Humboldt Wedag International,khd.com,True
+Qt Group,qt.io,True
+ADLPartner (Dékuple),dekuple.com,True
+Catena AB,catena.se,True
+LondonMetric Property,londonmetric.com,False
+Ambra,access.ambrahealth.com,True
+Alliance Pharma,alliancepharmaceuticals.com,True
+Aker Horizons,akerhorizons.com,True
+Tessellis,tessellis.it,True
+VIA optronics AG,via-optronics.com,True
+Digia Oyj,digia.com,True
+Nabaltec,nabaltec.de,True
+Sparebanken Møre,sbm.no,True
+FW Thorpe Plc,fwthorpe.co.uk,True
+Kistos Holdings,kistosplc.com,False
+Atrys Health,atryshealth.com,False
+PNE AG,pnegroup.com,True
+Lumibird,lumibird.com,True
+Zeal Network,zealnetwork.de,True
+Martifer SGPS,martifer.com,True
+Nichols plc,nicholsplc.co.uk,False
+Schwälbchen Molkerei,schwaelbchen-molkerei.de,True
+Touax SCA,touax.com,True
+Shoe Zone,shoezone.com,True
+Francotyp-Postalia Holding AG,fp-francotyp.com,True
+TOYA S.A.,toya.group,False
+Van de Velde,vandevelde.eu,True
+Marie Brizard Wine &amp; Spirits,mariebrizard.com,False
+Central Asia Metals,centralasiametals.com,True
+Xior Student Housing,xior.be,True
+Amarin Corporation,amarincorp.com,True
+Netfonds AG,netfonds.de,True
+Euroseas,euroseas.gr,False
+Ashtead Technology,ashtead-technology.com,True
+Trustpilot Group,trustpilot.com,True
+Unifiedpost Group,unifiedpostgroup.com,True
+Northern Data AG,northerndata.de,True
+Focusrite,focusrite.com,True
+q.beyond,qbeyond.de,True
+Atland SAS,sasshoes.com,True
+Paradox Interactive,paradoxinteractive.com,True
+Parken Sport (F.C. Copenhagen),fck.dk,True
+Solid State Group,solidstatelogic.com,True
+Fortnox AB,fortnox.se,True
+Foxtons Group,foxtons.co.uk,True
+Jubilee Metals Group,jubileemetalsgroup.com,True
+Dialight plc,dialight.com,False
+Manz AG,manz.com,True
+Síminn hf.,siminn.is,True
+Dynavox Group,dynavoxgroup.com,True
+Pullup Entertainment,pullupent.com,True
+Funding Circle,fundingcircle.com,False
+Linedata Services,linedata.com,True
+Globe Trade Centre,gtcgroup.com,False
+Valneva SE,valneva.com,True
+Ultimate Products,upplc.com,True
+Vente-Unique.com,vente-unique.com,True
+Assura Plc,assuraplc.com,False
+Frey SA,frey.com,True
+Basler Aktiengesellschaft,baslerweb.com,True
+Harvia Oyj,harvia.com,True
+Marimekko,marimekko.com,False
+Seco S.p.A.,seco.com,True
+2CRSI,2crsi.com,True
+Sloman Neptun,sloman-neptun.com,True
+Bahnhof AB,bahnhof.se,True
+Acast AB,acast.com,True
+Prodea Real Estate Investment Company,stockanalysis.com,True
+Gofore Oyj,gofore.com,True
+NP3 Fastigheter AB,np3fastigheter.se,False
+Lalique Group,lalique-group.com,True
+illimity Bank,illimity.com,True
+Avadel Pharmaceuticals,avadel.com,True
+IntegraFin,integrafin.co.uk,False
+Grupa Pracuj,grupapracuj.pl,True
+Braemar,braemar.com,False
+OEX S.A.,oexgroup.com,True
+"Prim, S.A.",prim.es,False
+Metals Exploration,metalsexploration.com,False
+Solaria Energía,solariaenergia.com,True
+Carlo Gavazzi Holding,carlogavazzi.com,True
+CLS Holdings plc,clsholdings.com,True
+BICO Group,bico.com,False
+Pharma Mar,pharmamar.com,True
+Berentzen-Gruppe,berentzen-gruppe.de,True
+Forsee Power,forseepower.com,True
+Craneware,thecranewaregroup.com,True
+Cabka,cabka.com,True
+Icape Holding,icape-group.com,False
+Knights Group,kofc.org,True
+INFICON,inficon.com,True
+Biotage AB,biotage.com,True
+BVZ Holding,gb.bvzholding.ch,True
+Realia Business,realia.es,True
+Enad Global 7,enadglobal7.com,True
+Ernst Russ,ernst-russ.de,True
+Truecaller,truecaller.com,True
+Zotefoams,zotefoams.com,True
+Cavotec,cavotec.com,False
+RVRC Holding,corporate.revolutionrace.com,True
+U10 Corp,u10.com,True
+Idorsia,idorsia.com,True
+Ringmetall,ringmetall.de,True
+Gooch &amp; Housego,gandh.com,True
+Selvaag Bolig,selvaagbolig.no,True
+Nacon,nacongaming.com,True
+Hoftex Group AG,hoftexgroup.com,True
+Wiit S.p.A.,wiit.cloud,True
+Afentra,afentraplc.com,True
+Apetit Oyj,apetit.com,True
+Scana ASA,scana.no,True
+Aeroporto G. Marconi Bologna,bologna-airport.it,True
+Adaptimmune Therapeutics,adaptimmune.com,True
+Foresight Group,foresight.group,True
+Wawel,wawel.krakow.pl,True
+Capricorn Energy,capricornenergy.com,True
+Meyer Burger Technology,meyerburger.com,True
+MedCap,medicap.com,True
+IVF Hartmann,hartmann.info,True
+Precia S.A.,precia.co,False
+Franchise Brands plc,franchisebrands.co.uk,False
+Auction Technology Group,auctiontechnologygroup.com,True
+Avingtrans,avingtrans.plc.uk,True
+Norbit ASA,norbit.com,True
+Planisware,planisware.com,True
+Immobel,immobel.com,True
+Begbies Traynor Group,,False
+On the Beach Group,onthebeachgroupplc.com,False
+Inmobiliaria del Sur,inmobiliaria-delsur.com,False
+Wallbox,wallbox.com,True
+Alpha Group International,alphagroup.com,False
+edding AG,edding.com,True
+Bredband2 i Skandinavien AB,bredband2.com,True
+Investis Holding,investisgroup.com,True
+Judges Scientific plc,judges.uk.com,True
+Seanergy Maritime,seanergymaritime.com,True
+Société Industrielle et Financière de l'Artois,sif-artois.fr,True
+StealthGas,stealthgas.com,True
+Retail Estates NV,retailestates.com,True
+Equals Group,equalsplc.com,True
+Cibus Nordic Real Estate,cibusnordic.com,True
+Renta 4 Banco,r4.com,True
+Altisource Portfolio,,False
+engcon AB,engcon.com,True
+Sogeclair,,False
+Aktor,aktor.ph,True
+Enento Group,enento.com,True
+KPS AG,,False
+Caltagirone Editore,caltagironeeditore.com,True
+Oxford Biomedica,oxb.com,False
+JDC Group AG,,False
+Eurobio Scientific,eurobio-scientific.com,False
+FRP Advisory Group,frpadvisory.com,True
+Pattern S.p.A.,patterngroup.it,True
+Advanced Medical Solutions Group,admedsol.com,False
+iomart Group,iomart.com,True
+QNB Finans Finansal Kiralama (QNB Finansleasing),qnbleasing.com.tr,False
+Sýn hf.,syn.is,True
+Alantra Partners,alantra.com,True
+Duro Felguera,durofelguera.com,True
+F-Secure,f-secure.com,True
+Compagnie Du Mont-Blanc,compagniedumontblanc.fr,True
+Celtic,celticfc.com,True
+The Pebble Group plc,thepebblegroup.com,True
+Wolford,wolford.com,True
+BB Biotech,bbbiotech.ch,True
+Real Good Food plc,ir.realgoodfoods.com,True
+Gaumont SA,gaumont.com,True
+SFC Energy AG,sfc.com,True
+Malteries Franco-Belges,malteriesfrancobelges.fr,False
+Immatics,immatics.com,True
+Jumia,jumia.com.ng,False
+Axactor ASA,axactor.com,True
+Alcadon Group AB,alcadongroup.se,True
+Prevas AB,prevas.com,True
+Sedlmayr Grund und Immobilien AG,sedlmayr-ag.de,True
+Mpac Group,mpac-group.com,False
+Montea Comm,montea.com,True
+High Co.,high-everydaycouture.com,False
+accesso Technology Group,accesso.com,True
+Hektaş,hektas.com.tr,True
+Graines Voltz,graines-voltz.com,True
+Squirrel Media,squirrelmedia.biz,True
+Creades AB,creades.se,True
+Imperial Petroleum,imperialpetro.com,False
+Accsys Technologies,accsysplc.com,True
+LEWAG Holding,lewag.de,False
+AB Dynamics,abdynamics.com,True
+IVU Traffic Technologies,ivu.com,False
+Gefran,gefran.com,True
+Marks Electrical Group,group.markselectrical.co.uk,True
+Hunyvers,hunyvers.com,False
+Gévelot SA,gevelot-sa.fr,False
+Immobiliare Grande Distribuzione SIIQ,gruppoigd.it,True
+Vista Alegre Atlantis,vistaalegre.com,False
+WithSecure Oyj,withsecure.com,True
+Cimbeton,cimbeton.com.tr,True
+Atoss,atoss.com,True
+Hemnet Group AB,hemnetgroup.se,True
+Prosafe SE,prosafe.com,True
+Tradegate Exchange,tradegate.de,True
+Nextensa,nextensa.eu,True
+Synektik Spólka Akcyjna,synektik.com.pl,True
+Science Group,sciencegroup.com,False
+Prothena,prothena.com,False
+Alfa Financial Software,alfasystems.com,True
+Talenom,talenom.com,True
+MS INTERNATIONAL plc,msiplc.com,True
+ORBIS AG,orbis.de,True
+Lubawa,lubawa.com.pl,True
+CAB Payments,cabpayments.com,True
+Pharos Energy,pharos.energy,False
+Swissquote,swissquote.com,True
+S.S. Lazio,sslazio.it,True
+Merkur PrivatBank,merkur-privatbank.de,True
+Balco Group,balcogroup.se,True
+Toscana Aeroporti,toscana-aeroporti.com,False
+RATH Aktiengesellschaft,rath-group.com,True
+Mercor,mercor.com,True
+GAN,gancube.com,True
+Cherry SE,cherry.de,True
+HIAG Immobilien,hiag.com,True
+LPKF Laser &amp; Electronics,lpkf.com,True
+Guillemot Corporation,guillemot.com,True
+Energiekontor,energiekontor.com,True
+Brouwerij Handelsmaatschappij,haacht.com,True
+Gateway Real Estate,gatewayre.com,False
+VGP NV,vgpparks.eu,True
+Poulaillon,poulaillon.fr,True
+Kvika banki,kvika.is,True
+Parrot S.A.,parrot.com,True
+Pharmanutra,pharmanutra.it,True
+Evli,evli.com,True
+Linz Textil,linz-textil.at,True
+Pollen Street Group,pollenstreetgroup.com,True
+Piscines Desjoyaux,desjoyaux.fr,True
+Funkwerk AG,funkwerk.com,True
+Bastei Lübbe,bastei-luebbe.de,True
+MilDef Group,mildef.com,True
+ecotel communication,ecotel.de,True
+PharmaSGP,pharmasgp.com,True
+Wilmington plc,wilmingtonplc.com,True
+Estoril Sol,estorilsolcasinos.pt,False
+Reitir fasteignafélag,reitir.is,True
+Detection Technology,deetee.com,True
+REC Silicon,recsilicon.com,False
+Digital Bros,digitalbros.com,True
+Ekinops,ekinops.com,True
+Hypothekarbank Lenzburg,hbl.ch,True
+Keystone Law Group,keystone-law.com,False
+İşbir Holding,isbir.com.tr,True
+Great Portland Estates,gpe.co.uk,True
+A.S. Création Tapeten,as-creation.com,True
+Pareto Bank,paretobank.no,True
+Gielda Papierów Wartosciowych w Warszawie,gpw.pl,False
+Baader Bank,baaderbank.de,True
+Verona Pharma,veronapharma.com,True
+Primary Health Properties,phpgroup.co.uk,True
+VIB Vermögen,vib-ag.de,True
+Nel ASA,nelhydrogen.com,True
+Intershop Holding,intershop.com,True
+Wittchen,wittchen.com,False
+ADS-TEC Energy,ads-tec-energy.com,True
+bet-at-home.com,bet-at-home.com,False
+Revenio,reveniogroup.fi,True
+Frontier Developments,frontier.co.uk,True
+UBM Development,ubm-development.com,True
+Serviceware,serviceware-se.com,True
+Agile Content,agiletv.com,False
+Hamborner REIT,hamborner.de,True
+Ebusco Holding,ebusco.com,False
+Tribal Group,tribalgroup.com,False
+Llorente &amp; Cuenca,llyc.global,True
+SNGULAR,sngular.com,True
+Grenergy Renovables,grenergy.eu,True
+Pexip,pexip.com,True
+Varia US Properties,variausproperties.com,True
+Heimar,heimar.is,True
+Garo Aktiebolag,garogroup.se,False
+NSE SA,nseindia.com,False
+Compleo Charging Solutions,compleo-charging.com,True
+Ice Fish Farm,icefishfarm.is,True
+Nebius Group (Yandex),group.nebius.com,True
+Masterflex,masterflex.de,True
+Empiric Student Property Plc,empiric.co.uk,True
+Dr. Hönle AG,hoenle.com,True
+Arnarlax (Icelandic Salmon),arnarlax.is,True
+G5 Entertainment,g5.com,True
+Biosynex,biosynex.com,True
+Hutter &amp; Schrantz Stahlbau AG,hs-stahlbau.at,True
+Asseco Business Solutions,assecobs.pl,True
+Tracsis,tracsis.com,True
+Optima bank,optimabank.gr,False
+Ten Square Games,tensquaregames.com,True
+Moulinvest,moulinvest.com,True
+Bellevue Group,bellevue.ch,True
+Softing AG,company.softing.com,True
+SCHMID Group,schmid-group.com,True
+Microlise,microlise.com,True
+hGears AG,hgears.com,True
+Carr's Group,carrsgroup.com,True
+Techstep ASA,techstep.io,True
+Bittium,bittium.com,True
+Nova Klúbburinn,nova.is,True
+Churchill China,churchill1795.com,False
+Zug Estates Holding,zugestates.ch,True
+Equita Group,theequitagroup.com,True
+Björn Borg,bjornborg.com,True
+Roivant Sciences,roivant.com,True
+DEMIRE Deutsche Mittelstand Real Estate,demire.ag,True
+Ateme SA,ateme.com,True
+FRIWO,friwo.com,True
+Aker Carbon Capture,akercarboncaptureasa.com,False
+Fonix Mobile,fonix.com,False
+Wolftank-Adisa Holding,wolftankgroup.com,True
+AURES Technologies,advantech-aures.com,True
+SW Umwelttechnik Stoiser &amp; Wolschner AG,sw-umwelttechnik.com,True
+Andrews Sykes Group,andrews-sykes.com,False
+ad pepper media International,adpeppergroup.com,True
+HWA AG,hwaag.com,True
+Animalcare Group,animalcaregroup.com,False
+MDxHealth,mdxhealth.com,True
+Sport Lisboa e Benfica,slbenfica.pt,False
+NFON AG,nfon.com,False
+Glarner Kantonalbank,glkb.ch,True
+Dolphin Drilling,dolphindrilling.com,True
+Generalfinance,gmfinancial.com,True
+Nilörngruppen,nilorn.com,False
+Fabasoft,fabasoft.com,True
+Brüder Mannesmann AG,br-mannesmann.com,True
+Fastned,fastnedcharging.com,True
+FORTEC Elektronik AG,fortecag.de,True
+CTEK AB,ctek.com,True
+VITA 34,vita34.de,True
+IT Link SA,itlinksa.com,False
+Aptitude Software Group,aptitudesoftware.com,False
+CombinedX,combinedx.com,True
+Text (LiveChat),text.com,True
+Neobo Fastigheter,neobo.se,True
+Performance Shipping,pshipping.com,True
+Quirin Privatbank,quirinprivatbank.de,True
+audius SE,audius.de,True
+Fernheizwerk Neukölln,fhw-neukoelln.de,True
+Selvita,selvita.com,False
+Maximum Entertainment,maximument.com,False
+OT Logistics,otlogisticsinc.com,True
+Varengold Bank AG,varengold.de,True
+Ecoener,ecoener.es,True
+Söktas Tekstil,soktas.com.tr,True
+The Property Franchise Group,thepropertyfranchisegroup.co.uk,True
+Pyramid AG,pyramid-ag.com,True
+Banca Profilo,bancaprofilo.it,True
+Benchmark Holdings,benchmarkplc.com,False
+FC Porto,fcporto.pt,True
+Franchi Umberto Marmi,fum.it,True
+Columbus Energy,columbus.gov,True
+Fiducial Real Estate,fred-inc.com,False
+SDI Group,sdigroup.com,True
+OMER S.p.A.,omerspa.com,False
+Prodways Group,prodways-group.com,False
+Société de la Tour Eiffel,toureiffel.paris,False
+Xvivo Perfusion AB,xvivogroup.com,True
+Bergbahnen Engelberg-Trübsee-Titlis,titlis.ch,True
+Logistea AB,logistea.se,True
+Fonciere Inea,fonciere-inea.com,True
+Sporting Clube de Portugal,sporting.pt,False
+Deutsche Konsum REIT-AG,deutsche-konsum.de,True
+Eik fasteignafélag,eik.is,True
+Itera ASA,itera.com,True
+InfraCom Group AB,infracomgroup.se,True
+LUDWIG BECK am Rathauseck - Textilhaus Feldmeier,ludwigbeck.de,True
+Pulsar Group,pulsargroup.com,False
+hVIVO,hvivo.com,False
+Sandnes Sparebank,sandnes-sparebank.no,True
+BEST S.A.,bestbuy.com,False
+Piquadro,piquadro.com,True
+Cogelec SA,cogelec.fr,True
+HiPay Group,hipay.com,True
+Nicolás Correa,nicolascorrea.com,True
+Xaar,xaar.com,True
+PlayWay,playway.com,True
+Fastighets AB Trianon,trianon.se,True
+Care Property Invest NV,carepropertyinvest.be,False
+ADC Therapeutics,adctherapeutics.com,False
+CR Energy,cr-energy.de,True
+Wild Bunch,warnerbros.com,False
+Powersoft,powersoft.com,False
+Capital &amp; Regional,crmuamphitheater.com,True
+Genel Energy,genelenergy.com,True
+Navitas Semiconductor,navitassemi.com,True
+EPIC Suisse,epic.ch,True
+Asetek,asetek.com,True
+OSE Immunotherapeutics,ose-immuno.com,True
+Eidesvik Offshore,eidesvik.no,True
+Formycon AG,formycon.com,True
+Gigas Hosting,gigas.com,True
+Passat SA,vw.co.za,False
+Dadelo,dadelo.pl,False
+DATRON AG,datron.com,True
+MGI Digital Technology,mgi-fr.com,True
+Fractal Gaming Group,group.fractal-design.com,True
+Sygnity,sygnity.pl,False
+ÖKOWORLD,oekoworld.com,True
+eQ Oyj,eq.fi,True
+Allergy Therapeutics,allergytherapeutics.com,True
+Plejd AB,plejd.com,True
+CBo Territoria,cboterritoria.com,True
+Infas Holding AG,infas-holding.de,True
+Mo-BRUK S.A.,mobruk.pl,True
+Patrimoine et Commerce SA,patrimoine-commerce.com,False
+Delignit AG,delignit-ag.de,True
+Sporttotal AG,sporttotal.com,True
+EDAP TMS,focalone.com,True
+Nueva Expresión Textil,nextil.com,True
+SOPHiA GENETICS,sophiagenetics.com,False
+Bilendi SA,bilendi.us,True
+B.P. Marsh &amp; Partners,bpmarsh.co.uk,False
+Easy Software,easy-software.com,True
+Ceres Power,ceres.tech,True
+CI Games,cigames.com,True
+Arctic Fish Holding,arcticfish.is,True
+Naturhouse Health,naturhouseusa.com,False
+Almawave,almawave.com,False
+EKF Diagnostics,ekfdiagnostics.com,True
+Bourse Direct,boursedirect.fr,False
+John Mattson Fastighetsföretagen,johnmattson.se,True
+KlaraBo Sverige,klarabo.se,True
+Trinity Biotech,trinitybiotech.com,False
+3U Holding,3u.net,True
+Navigo Invest,navigoinvest.com,True
+Eagle Eye Solutions Group,eagleeye.com,True
+Railcare Group AB,railcare.se,True
+Vitura SA,vitura.fr,True
+Integrated Wind Solutions,integratedwind.com,True
+Sidetrade,sidetrade.com,True
+Groupe Berkem,groupeberkem.com,False
+Groupe OKwind,okwind.com,True
+BRAIN Biotech,brain-biotech.com,True
+Ascencio,asencio.com.sg,False
+DocCheck,doccheck.com,True
+Thunderful Group,thunderfulgroup.com,True
+ChemoMetec,chemometec.com,True
+M2i Formation,m2iformation.fr,True
+BoomBit,boombit.com,True
+UmweltBank,umweltbank.de,True
+Waga Energy,waga-energy.com,True
+Ekopak,ekopakwater.com,True
+United Bankers Oyj,unitedbankers.com,True
+Intred,intrepidtravel.com,False
+Record Financial Group,recordfg.com,True
+Verimatrix,verimatrix.com,True
+Smartoptics Group,smartoptics.com,True
+Hellenic Exchanges (Athens Stock Exchange),athexgroup.gr,True
+Medistim,medistim.com,True
+SF Urban Properties (SFP),sfurban.ch,True
+FCR Immobilien,fcr-immobilien.de,True
+Argeo AS,argeo.no,True
+Dierig Holding AG,dierig.de,True
+Lafinca Global Assets,lafincaglobalassets.com,True
+Deep Value Driller,deepvaluedriller.no,True
+Merus,merus.nl,False
+Daldrup &amp; Söhne,daldrup.eu,True
+Stille AB,stille.se,True
+Newron Pharmaceuticals,newron.com,False
+Smartbroker Holding,smartbroker-holding.de,True
+IBU-tec advanced materials AG,ibu-tec.com,True
+Warimpex Finanz- und Beteiligungs AG,warimpex.com,True
+Brinova Fastigheter,brinova.se,True
+WCM Beteiligungs- und Grundbesitz,ir.wcm.de,False
+Tristel,tristel.com,False
+Otovo ASA,otovo.com,True
+Groupe Airwell,groupe-airwell.com,True
+NIOX Group,investors.niox.com,True
+Ecora Resources,ecora-resources.com,True
+Pyxis Tankers,pyxistankers.com,False
+Nekkar ASA,nekkar.com,True
+Concurrent Technologies,ctc.com,False
+Argo Blockchain,argoblockchain.com,True
+Netcall,netcall.com,False
+Remedy Entertainment,remedygames.com,True
+Mips AB,mipsprotection.com,True
+SBF AG,sbf-ag.com,True
+Entech SA,entech.com.sa,True
+IDI,idiinventory.com,True
+Warteck Invest,warteck-invest.ch,True
+Cake Box Holdings,cakebox.com,True
+Cellectis,cellectis.com,True
+Instabank ASA,instabank.no,True
+Lokum Deweloper,lokum-deweloper.pl,True
+NewAmsterdam Pharma Company,newamsterdampharma.com,False
+TINC NV,tincinvest.com,True
+Tatton Asset Management,tattonassetmanagement.com,True
+Bango,bango.com,True
+Shoper,shop.shoppersdrugmart.ca,False
+clearvise AG,clearvise.de,True
+Celon Pharma,celonpharma.com,True
+Steyr Motors AG,steyr-motors.com,True
+The NAGA Group,group.naga.com,True
+Civitanavi Systems,civitanavi.com,False
+People Can Fly,peoplecanfly.com,True
+Edda Wind,eddawind.com,False
+Gentili Mosconi,gentilimosconi.it,True
+KMC Properties,kmcgov.in,False
+Arise AB,arise.se,False
+Eurofins-Cerep,eurofins.com,False
+MotorK,motork.io,False
+INTERSHOP Communications,intershop.com,True
+PensionBee Group,pensionbee.com,True
+Paref SA,paref.com,True
+Celebrus Technologies,celebrus.com,True
+Vistin Pharma,vistin.com,True
+1Spatial,1spatial.com,True
+CDON AB,investors.cdon.com,True
+Quartix Technologies,quartix.com,True
+Quercus TFI,quercustfi.pl,False
+Eleco,eleco.com,True
+Dala Energi,dalaenergi.se,True
+Montepino Logística,montepino.net,True
+Town Centre Securities,tcs-plc.co.uk,True
+Selectirente,selectirente.com,True
+Home Invest Belgium,homeinvestbelgium.be,True
+Novavest Real Estate AG,novavest.ch,False
+Møns Bank,moensbank.dk,True
+Creo Medical Group,creomedical.com,True
+Micro Systemation,msab.com,True
+Gabriel Holding A/S,gabriel.dk,True
+Sequans Communications,sequans.com,True
+Exasol AG,exasol.com,True
+Dominion Hosting,godaddy.com,False
+24SevenOffice,24sevenoffice.com,True
+Mercia Asset Management,mercia.co.uk,False
+Murano Global Investments,muranoconnect.com,False
+System1 Group,system1group.com,False
+kneat.com,kneat.com,False
+YOC AG,yoc.com,True
+cBrain,cbrain.com,True
+Admicom Oyj,admicom.com,True
+Plazza AG,plazza.ch,True
+Helical,stanleyengineeredfastening.com,True
+Caspian Sunrise,caspiansunrise.com,False
+Beeks Financial Cloud Group,beeksgroup.com,True
+Gaming Realms,gamingrealms.com,True
+WALLIX Group,wallix.com,True
+Netgem,netgem.com,True
+CRISPR Therapeutics,crisprtx.com,False
+Enapter AG,enapter.com,True
+Fortinova Fastigheter AB,fortinova.se,True
+IQE plc,iqep.com,True
+La Française de l'Energie,francaisedelenergie.fr,True
+Texaf,texas.gov,True
+AC Immune,acimmune.com,False
+Akastor ASA,akastor.com,True
+Kaldalón,westfjords.is,False
+Compagnie du Cambodge,compagnie-du-cambodge.fr,True
+Filtronic,filtronic.com,True
+Cavatina Holding Spólka Akcyjna,cavatina.pl,True
+11 bit studios,11bitstudios.com,True
+Abitare In S.p.A.,cms.abitareinspa.com,False
+Lemonsoft,investors.lemonsoft.fi,True
+Annehem Fastigheter,annehem.se,False
+Genfit,genfit.com,True
+STINAG Stuttgart Invest,stinag-ag.de,True
+Avacta Group,avacta.com,True
+Beta Systems Software,betasystems.com,True
+Prime Office A/S,primeoffice.dk,True
+Geratherm Medical,geratherm.com,True
+Kalray,kalrayinc.com,True
+Mentice AB,mentice.com,True
+Santhera Pharmaceuticals,santhera.com,True
+Adriatic Metals,adriaticmetals.com,False
+Silence Therapeutics,silence-therapeutics.com,False
+Artifex Mundi,artifexmundi.com,False
+Umbrella Solar Investment,umbrella-e.com,True
+Hydrogen-Refueling-Solutions,hydrogen-refueling-solutions.fr,True
+Artnet AG,artnet.com,False
+Olimpo Real Estate,olimporealty.es,True
+Cantourage Group SE,cantourage.com,True
+Bicycle Therapeutics,bicycletherapeutics.com,False
+OceanPal,oceanpal.com,True
+MAG Interactive,maginteractive.com,True
+Urbas Grupo Financiero,grupourbas.com,True
+MCI Capital Alternatywna Spólka Inwestycyjna,mci.pl,True
+Corero Network Security,corero.com,False
+LumenRadio,lumenradio.com,True
+Orrön Energy,orron.com,True
+BioArctic AB,bioarctic.com,False
+Bure Equity AB,bure.se,True
+Witbe S.A.,witbe.net,True
+Toro Corp.,toro.com,True
+genOway,genoway.com,True
+Atlantic Sapphire,atlanticsapphire.com,True
+Titanium Oyj,titanium.fi,True
+ATARI,atari.com,True
+Chapel Down Group,chapeldown.com,True
+Streamwide,streamwide.com,True
+Perfect Moment,perfectmoment.com,True
+ITM Power,itm-power.com,True
+Bloober Team,blooberteam.com,True
+Leclanché,leclanche.com,False
+ProQR,proqr.com,True
+uniQure,uniqure.com,True
+Marti Technologies,ir.marti.tech,True
+Fragbite Group,fragbitegroup.com,True
+Hvidbjerg Bank,hvidbjergbank.dk,True
+VIGO Photonics,vigophotonics.com,True
+Private Equity Holding,peh.ch,True
+Sporting Clube de Braga,store.scbraga.pt,True
+CeoTronics,ceotronics.com,False
+Starbreeze,starbreeze.com,True
+Veganz Group,veganz.com,True
+HydrogenPro ASA,hydrogenpro.com,True
+Laiqon AG,laiqon.ag,True
+Wiener Privatbank,wienerprivatbank.com,True
+McPhy Energy,mcphy.com,True
+Bioventix,bioventix.com,True
+Optomed,optomed.com,True
+MRM,mrmnutrition.com,True
+Qrf,qrf.org,True
+Inclusio,inclusio.io,True
+Coheris SA,corporate.coheris.com,True
+Synthaverse,synthaverse.com,True
+mwb fairtrade AG,mwbfairtrade.com,True
+Wedia SA,wedia-group.com,True
+Serica Energy,serica-energy.com,True
+AHT Syngas Technology,aht-cleantec.com,True
+Centessa Pharmaceuticals,centessa.com,False
+Barinthus Biotherapeutics,barinthusbio.com,True
+Gentian Diagnostics ASA,gentian.com,True
+Bien Sparebank,bien.no,True
+Scherzer &amp; Co. AG,scherzer-ag.de,True
+DF Deutsche Forfait AG,dfag.de,True
+Hoffmann Green Cement Technologies,ciments-hoffmann.com,True
+Smart Good Things Holding,smartgoodthings.com,True
+VivoPower,vivopower.com,False
+Burgenland Holding,burgenlandholding.at,True
+Innate Pharma,innate-pharma.com,False
+AGROB Immobilien,agrob-ag.de,True
+Energys Group,energysgroup.com,True
+Nitro Games,nitrogames.com,True
+Fermentalg,fermentalg.com,True
+WISeKey International,wisekey.com,True
+Scandinavian Enviro Systems,envirosystems.se,True
+Hydrogène de France,hdf-energy.com,False
+SEALSQ,sealsq.com,True
+Züblin Immobilien,reports.zueblin.ch,True
+Turbo Energy,turboenergy.com,False
+Esports Entertainment,esportsentertainmentgroup.com,True
+Vitruvio Real Estate,vitruviosocimi.com,True
+Sino AG,sinoagchem.com,False
+Nexstim,nexstim.com,True
+Artmarket.com,artmarket.com,True
+Autolus Therapeutics,autolus.com,False
+Athos Immobilien,athos.at,True
+Nykode Therapeutics,nykode.com,True
+LL Lucky Games,ladyluckgames.io,True
+Bitcoin Group,bitcoingroup.com,True
+Medigene AG,medigene.com,True
+Zealand Pharma,zealandpharma.com,False
+MPH Health Care AG,mph-ag.de,True
+Mauna Kea Technologies,maunakeatech.com,False
+Creepy Jar,creepyjar.com,True
+Moolec Science,moolecscience.com,True
+Trophy Games,trophy-games.com,True
+cyan AG,cyansecurity.com,True
+Heidelberg Pharma,heidelberg-pharma.com,True
+Games Operators,gameops.pl,False
+Árima Real Estate,arimainmo.com,True
+Forever Entertainment,forever-entertainment.com,True
+Senzime AB,senzime.com,False
+Creotech Instruments,creotech.pl,True
+Mynaric,mynaric.com,True
+Ultimate Games,ea.com,True
+ADVFN,advfn.com,False
+Aquaporin,aquaporin.com,True
+AFC Energy,afcenergy.com,True
+Lava Therapeutics,lavatherapeutics.com,True
+BioPorto,bioporto.com,False
+Captor Therapeutics,captortherapeutics.com,True
+Nyxoah,nyxoah.com,True
+Nightingale Health,nightingalehealth.com,True
+Neon Equity AG,neon-equity.com,True
+Alligator Bioscience AB,alligatorbioscience.se,True
+Transgene SA,transgene.fr,False
+Pantaflix AG,pantaflixgroup.com,True
+Acanthe Développement,acanthedeveloppement.fr,True
+Futura Medical,futuramedical.com,True
+Heliad AG,heliad.de,True
+Vivid Games,vividgames.com,True
+Don't Nod Entertainment,dont-nod.com,True
+Neonode,neonode.com,True
+Gaming Corps,gamingcorps.com,True
+Brera Holdings,breraholdings.com,True
+Nanoform Finland,nanoform.com,False
+AFYREN,afyren.com,True
+Aiforia Technologies Oyj,aiforia.com,True
+Big Cheese Studio,bigcheesestudio.com,True
+Molecular Partners,molecularpartners.com,True
+Top Ships,topships.org,True
+Renalytix,renalytix.com,False
+Financière Moncey Société anonyme,financiere-moncey.fr,True
+Qiiwi Games,qiiwi.com,True
+Nanexa AB,nanexa.com,True
+atai Life Sciences,atai.com,True
+5th Planet Games,5thplanetgames.com,False
+Sozap,sozap.com,True
+GenSight Biologics,gensight-biologics.com,True
+T-Bull,t-bull.com,True
+Lhyfe SA,lhyfe.com,True
+GBK Beteiligungen AG,gbk-ag.de,True
+Sequana Medical,sequanamedical.com,True
+Doxa AB,doxawatches.com,True
+Kuros Biosciences,kurosbio.com,True
+Lifezone Metals,lifezonemetals.com,True
+Affimed,affimed.com,False
+Xlife Sciences,xlifesciences.ch,True
+Mainz Biomed,mainzbiomed.com,True
+Akanda,akandacorp.com,True
+Solid Clouds,solidclouds.com,True
+Gaming Factory,store.steampowered.com,True
+4basebio,4basebio.com,True
+Fintech Scion (FintechCashier),fintechcashier.com,True
+Clere AG,clere.de,False
+All in! Games,allingames.com,True
+Kostad AG,kostadag.at,False
+Addex Therapeutics,addextherapeutics.com,True
+Flat Capital AB,flatcapital.com,True
+SM Wirtschaftsberatungs AG,smw-ag.de,True
+Magnora ASA,magnoraasa.com,True
+Global Bioenergies,global-bioenergies.com,True
+Predilife,predilife.com,True
+Inventiva,inventivapharma.com,True
+Arqit Quantum,arqit.uk,True
+Oncodesign Precision Medicine,oncodesign.com,True
+Eisen- und Hüttenwerke,ehw.ag,False
+Virax Biolabs,viraxbiolabs.com,True
+InflaRx,inflarx.de,True
+Carbios SAS,carbios.com,False
+CGRE AG,cgre.ag,True
+Proximar Seafood,proximarseafood.com,True
+Pantheon Resources,pantheonresources.com,True
+PunkPirates,youtube.com,True
+Byggmästare Anders J Ahlström,byggmastaren.com,True
+ManyDev Studio,manydevstudio.pl,True
+Affluent Medical SA,affluentmedical.com,True
+X5 Retail Group,x5.com,True
+Oryzon Genomics,oryzon.com,True
+Abivax,abivax.com,True
+Zegona Communications,zegona.com,False
+Sensorion,sensorion.com,False
+Oculis Holding AG,oculis.com,False
+Pharvaris,pharvaris.com,True
+OKYO Pharma,okyopharma.com,True
+Greatland Gold,greatland.com.au,True
+IO Biotech,iobiotech.com,False
+Halloren Schokoladenfabrik,halloren.de,True
+Portage Biotech,portagebiotech.com,False
+GamaLife,gamalife.com,True
+GORE German Office Real Estate,gore-ag.de,True
+DBV Technologies,dbv-technologies.com,True
+Crossject,crossject.com,True
+Qiwi,qiwi.com,True
+Genenta Science,genenta.com,True
+Rockhopper Exploration,rockhopperexploration.co.uk,True
+Nordic Mining ASA,nordicmining.com,True
+Infant Bacterial Therapeutics AB,ibtherapeutics.com,True
+SPEEH Hidroelectrica,client.hidroelectrica.ro,False
+Mural Oncology,muraloncology.com,False
+Biotalys,biotalys.com,True
+NuCana,nucana.com,False
+Stolt-Nielsen Limited,stolt-nielsen.com,False
+Bever Holding,beverholding.nl,True
+Bertelsmann SE & Co. KGaA,bertelsmann.com,True
+Summit Therapeutics,smmttx.com,True
+Lilium,lilium.com,False
+Cereno Scientific,cerenoscientific.com,True
+Iterum Therapeutics,iterumtx.com,True
+GH Research,ghres.com,True
+Tiziana Life Sciences,tizianalifesciences.com,True
+Financière de Tubize,financiere-tubize.be,True
+Sláturfélags Suðurlands,ss.is,True
+COMPASS Pathways,compasspathways.com,True
+CS Diagnostics,group-csd.com,True
+029 Group,029-group.com,True
+Mereo BioPharma Group,mereobiopharma.com,True
+Vertical Aerospace,vertical-aerospace.com,True
+Solvac,solvac.be,False
+Skel fjárfestingafélag,skel.is,True
+MoonLake Immunotherapeutics,moonlaketx.com,True
+SGT German Private Equity,sgt-capital.com,True
+Elbstein AG,elbstein.com,True
+Nanobiotix,nanobiotix.com,True
+Greencoat UK Wind,greencoat-ukwind.com,True
+IP Group,ipgroupplc.com,False
+Kinnevik,kinnevik.com,True
+Banque nationale de Belgique,nbb.be,False
+Porsche SE,porsche-se.com,True
