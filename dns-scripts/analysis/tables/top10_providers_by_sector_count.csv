@@ -1,0 +1,152 @@
+Sector;Provider;Count
+Agribusiness;Cloudflare;19
+Agribusiness;Microsoft;14
+Agribusiness;Others;13
+Agribusiness;Amazon;8
+Agribusiness;NIC.br;6
+Agribusiness;Locaweb;4
+Agribusiness;Azion;4
+Agribusiness;GoDaddy;3
+Agribusiness;Vercara, LLC;2
+Agribusiness;Oracle;2
+Agribusiness;Claro;1
+Capital Goods and Industrial Equipment;Cloudflare;14
+Capital Goods and Industrial Equipment;Microsoft;12
+Capital Goods and Industrial Equipment;Others;10
+Capital Goods and Industrial Equipment;Akamai;7
+Capital Goods and Industrial Equipment;Amazon;4
+Capital Goods and Industrial Equipment;Network Solutions;3
+Capital Goods and Industrial Equipment;Locaweb;2
+Capital Goods and Industrial Equipment;NIC.br;2
+Capital Goods and Industrial Equipment;Algar Telecom;1
+Capital Goods and Industrial Equipment;Bia Pádua;1
+Capital Goods and Industrial Equipment;GoDaddy;1
+Education;Cloudflare;4
+Education;Amazon;2
+Education;Akamai;1
+Education;CEUB;1
+Education;Globo;1
+Education;Google;1
+Education;Hotlink;1
+Education;Microsoft;1
+Energy;Microsoft;20
+Energy;Others;20
+Energy;Cloudflare;16
+Energy;Claro;15
+Energy;Iberdrola;15
+Energy;Amazon;6
+Energy;GoDaddy;5
+Energy;Akamai;4
+Energy;COPEL;4
+Energy;ENEL;3
+Energy;Locaweb;3
+Financial Sector;Akamai;59
+Financial Sector;Amazon;36
+Financial Sector;Others;35
+Financial Sector;Cloudflare;30
+Financial Sector;Microsoft;12
+Financial Sector;Claro;8
+Financial Sector;Incapsula;8
+Financial Sector;MAPFRE;5
+Financial Sector;Oracle;4
+Financial Sector;Banrisul;4
+Financial Sector;Google;4
+Food and Beverages;Microsoft;16
+Food and Beverages;Cloudflare;13
+Food and Beverages;Amazon;5
+Food and Beverages;NIC.br;4
+Food and Beverages;Vercara, LLC;3
+Food and Beverages;Locaweb;2
+Food and Beverages;Others;2
+Food and Beverages;3L Cloud;1
+Food and Beverages;Akamai;1
+Food and Beverages;Claro;1
+Food and Beverages;DC Matrix;1
+Health and Healthcare Services;Cloudflare;21
+Health and Healthcare Services;Amazon;20
+Health and Healthcare Services;Akamai;16
+Health and Healthcare Services;Others;10
+Health and Healthcare Services;Microsoft;7
+Health and Healthcare Services;NIC.br;3
+Health and Healthcare Services;Claro;3
+Health and Healthcare Services;V.tal;2
+Health and Healthcare Services;Algar Telecom;1
+Health and Healthcare Services;Azion;1
+Health and Healthcare Services;Google;1
+Oil and Chemical;Amazon;10
+Oil and Chemical;Microsoft;7
+Oil and Chemical;Others;5
+Oil and Chemical;NIC.br;4
+Oil and Chemical;Cloudflare;3
+Oil and Chemical;Locaweb;2
+Oil and Chemical;Akamai;1
+Oil and Chemical;AT&T;1
+Oil and Chemical;GoDaddy;1
+Oil and Chemical;Cyberweb;1
+Oil and Chemical;CIRA Cloud;1
+Real Estate and Construction;Cloudflare;20
+Real Estate and Construction;Microsoft;10
+Real Estate and Construction;Amazon;5
+Real Estate and Construction;Others;5
+Real Estate and Construction;Locaweb;3
+Real Estate and Construction;Network Solutions;3
+Real Estate and Construction;NIC.br;2
+Real Estate and Construction;Dimenoc;2
+Real Estate and Construction;Oracle;2
+Real Estate and Construction;Eveo;1
+Real Estate and Construction;Azion;1
+Sanitation and Environment;Cloudflare;4
+Sanitation and Environment;Microsoft;4
+Sanitation and Environment;Amazon;2
+Sanitation and Environment;Algar Telecom;1
+Sanitation and Environment;Akamai;1
+Sanitation and Environment;Itabirana Telecom;1
+Sanitation and Environment;Google;1
+Sanitation and Environment;Level 3 (L3);1
+Sanitation and Environment;NIC.br;1
+Sanitation and Environment;Prodesp;1
+Sanitation and Environment;Others;1
+Steel Mining and Metallurgy;Cloudflare;16
+Steel Mining and Metallurgy;Microsoft;7
+Steel Mining and Metallurgy;Others;6
+Steel Mining and Metallurgy;GoDaddy;4
+Steel Mining and Metallurgy;Amazon;3
+Steel Mining and Metallurgy;DefenseNet;2
+Steel Mining and Metallurgy;Google;2
+Steel Mining and Metallurgy;Locaweb;2
+Steel Mining and Metallurgy;Claro;2
+Steel Mining and Metallurgy;NIC.br;2
+Steel Mining and Metallurgy;Nameshield;2
+Technology and Telecommunications;Others;19
+Technology and Telecommunications;Amazon;16
+Technology and Telecommunications;Cloudflare;12
+Technology and Telecommunications;Microsoft;9
+Technology and Telecommunications;Google;6
+Technology and Telecommunications;Akamai;2
+Technology and Telecommunications;GoDaddy;2
+Technology and Telecommunications;Incapsula;2
+Technology and Telecommunications;BS2 Sistemas;1
+Technology and Telecommunications;Celepar;1
+Technology and Telecommunications;America Net;1
+Transport Logistics and Logistic Services;Microsoft;29
+Transport Logistics and Logistic Services;Amazon;17
+Transport Logistics and Logistic Services;Others;15
+Transport Logistics and Logistic Services;Cloudflare;11
+Transport Logistics and Logistic Services;Google;7
+Transport Logistics and Logistic Services;Akamai;5
+Transport Logistics and Logistic Services;Locaweb;4
+Transport Logistics and Logistic Services;NIC.br;2
+Transport Logistics and Logistic Services;Oracle;2
+Transport Logistics and Logistic Services;SAMM;2
+Transport Logistics and Logistic Services;Contato Internet;1
+Wholesale and Retail;Amazon;15
+Wholesale and Retail;Microsoft;12
+Wholesale and Retail;Others;11
+Wholesale and Retail;Cloudflare;10
+Wholesale and Retail;Akamai;5
+Wholesale and Retail;Google;4
+Wholesale and Retail;Locaweb;2
+Wholesale and Retail;GoDaddy;2
+Wholesale and Retail;ANX;1
+Wholesale and Retail;Azion;1
+Wholesale and Retail;BiznessHosting;1

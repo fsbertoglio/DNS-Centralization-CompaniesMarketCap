@@ -1,0 +1,139 @@
+Sector;Provider;Revenue
+Agribusiness;Deutsche Telekom;24243849325
+Agribusiness;DNS Made Easy;1518907000
+Capital Goods and Industrial Equipment;Others;589482439678
+Capital Goods and Industrial Equipment;Vercara;468013803890
+Capital Goods and Industrial Equipment;Volkswagen Group;351872611960
+Capital Goods and Industrial Equipment;Mercedes-Benz Group;153928068631
+Capital Goods and Industrial Equipment;Akamai;111680701152
+Capital Goods and Industrial Equipment;NS1;111074445572
+Capital Goods and Industrial Equipment;Gandi;110220429382
+Capital Goods and Industrial Equipment;Nameshield;94043989607
+Capital Goods and Industrial Equipment;Amazon;63509908193
+Capital Goods and Industrial Equipment;FR-DNS;58515874585
+Capital Goods and Industrial Equipment;NIC.AT;56615985634
+Energy;Others;162799386814
+Energy;Cloudflare;107174501872
+Energy;Enel;102911010081
+Energy;Amazon;80477468011
+Energy;Netnod;78459475973
+Energy;IBSIS;59305755801
+Energy;Akamai;45032734560
+Energy;EnBW;36921048078
+Energy;Vercara;32755451586
+Energy;NIC.AT;27418675138
+Energy;RWE Supply;25739460166
+Financial Sector;Akamai;440506920951
+Financial Sector;Others;272389461493
+Financial Sector;Colt;223206888765
+Financial Sector;AXA;133958291575
+Financial Sector;Deutsche Telekom;130203508438
+Financial Sector;Telecom Italia;87531266773
+Financial Sector;Vercara;79430395443
+Financial Sector;Société Générale;69654592231
+Financial Sector;Cloudflare;65201828708
+Financial Sector;NuCDN;33786921462
+Financial Sector;TLC;30524883706
+Food and Beverages;Vercara;151620505717
+Food and Beverages;Others;20284801556
+Food and Beverages;Amazon;15525791834
+Food and Beverages;Cloudflare;13693136473
+Food and Beverages;NIC.AT;10794551083
+Food and Beverages;CIRA;9301761191
+Food and Beverages;Cloud;7429611746
+Food and Beverages;OVH;7372499971
+Food and Beverages;GoDaddy;6718330606
+Food and Beverages;Anexia;5211563941
+Food and Beverages;CentralNic;4029073624
+Health and Healthcare Services;Others;87884841294
+Health and Healthcare Services;Vercara;75632729567
+Health and Healthcare Services;Cloudflare;65567027682
+Health and Healthcare Services;Amazon;57998067697
+Health and Healthcare Services;Rackspace;43763905560
+Health and Healthcare Services;Medtronic;33199000000
+Health and Healthcare Services;Akamai;30289996925
+Health and Healthcare Services;Colt;27584628032
+Health and Healthcare Services;CentralNic;23533457914
+Health and Healthcare Services;Orange Business Services;19355640915
+Health and Healthcare Services;Microsoft;12834240569
+Oil and Chemical;TotalEnergies;191626000000
+Oil and Chemical;Amazon;151438923836
+Oil and Chemical;Cloudflare;114671983008
+Oil and Chemical;Akamai;110739962145
+Oil and Chemical;IPARTNERS;74534392446
+Oil and Chemical;Others;51501610212
+Oil and Chemical;Vercara;34474068465
+Oil and Chemical;Microsoft;32852084014
+Oil and Chemical;AVO;22706369519
+Oil and Chemical;CapFin;22485751556
+Oil and Chemical;Evonik;16326536373
+Others;Vercara;74009161740
+Others;Amazon;56383315679
+Others;Akamai;25771521706
+Others;Cloudflare;23730410185
+Others;Others;22696324702
+Others;SCASGN;13987291680
+Others;Nameshield;11994934820
+Others;DataCamp;10204906501
+Others;GoDaddy;5624394102
+Others;Gandi;4016030678
+Others;NS1;3460587459
+Real Estate and Construction;Others;121734136542
+Real Estate and Construction;Cloudflare;101201824590
+Real Estate and Construction;GoDaddy;75723487726
+Real Estate and Construction;Tiscali;61445318021
+Real Estate and Construction;Vercara;52749616432
+Real Estate and Construction;Saint-Gobain;48462491025
+Real Estate and Construction;CSL;38203441528
+Real Estate and Construction;Combell;35795000000
+Real Estate and Construction;Microsoft;24438213525
+Real Estate and Construction;Amazon;21275339419
+Real Estate and Construction;Skanska;17606069143
+Sanitation and Environment;OVH;46849260997
+Sanitation and Environment;Amazon;15119882149
+Sanitation and Environment;RKU-MNT;3078764165
+Sanitation and Environment;Nameshield;1043363905
+Steel Mining and Metallurgy;Nameshield;70753749461
+Steel Mining and Metallurgy;Others;46047161539
+Steel Mining and Metallurgy;INWX;37411375538
+Steel Mining and Metallurgy;Microsoft;23459227440
+Steel Mining and Metallurgy;Verizon;18817365868
+Steel Mining and Metallurgy;Dyn (Oracle);18589786029
+Steel Mining and Metallurgy;Voestalpine;17286311985
+Steel Mining and Metallurgy;V.tal;16803763000
+Steel Mining and Metallurgy;Cirion Technologies;12004602000
+Steel Mining and Metallurgy;IONOS;10423266213
+Steel Mining and Metallurgy;home.pl;9099777155
+Technology and Telecommunications;Others;299064375058
+Technology and Telecommunications;Deutsche Telekom;182978016616
+Technology and Telecommunications;Accenture;67221493000
+Technology and Telecommunications;Amazon;60365699806
+Technology and Telecommunications;Cloudflare;49725736089
+Technology and Telecommunications;DK;44795789721
+Technology and Telecommunications;Telefónica;43509015561
+Technology and Telecommunications;Nameshield;38296526094
+Technology and Telecommunications;SAP;37859950788
+Technology and Telecommunications;Vercara;35583314495
+Technology and Telecommunications;ASML;33051361166
+Transport Logistics and Logistic Services;Akamai;129077015386
+Transport Logistics and Logistic Services;Vercara;128318580549
+Transport Logistics and Logistic Services;DHL;91275169786
+Transport Logistics and Logistic Services;Others;41564000418
+Transport Logistics and Logistic Services;Postecom;25990622936
+Transport Logistics and Logistic Services;Société Générale;18818981947
+Transport Logistics and Logistic Services;Colt;14241634946
+Transport Logistics and Logistic Services;NIC.AT;8971396735
+Transport Logistics and Logistic Services;Telefónica;8035665805
+Transport Logistics and Logistic Services;Amazon;7683238458
+Transport Logistics and Logistic Services;Incapsula Inc;6408108474
+Wholesale and Retail;Akamai;369467947122
+Wholesale and Retail;Cloudflare;227872319261
+Wholesale and Retail;Others;75548942339
+Wholesale and Retail;Vercara;71620646190
+Wholesale and Retail;Google;36045417206
+Wholesale and Retail;Eir;25073689168
+Wholesale and Retail;Nameshield;19153251402
+Wholesale and Retail;NuCDN;14522799535
+Wholesale and Retail;Amazon;13625812071
+Wholesale and Retail;Colruyt Group;11712079486
+Wholesale and Retail;CentralNic;11348055328

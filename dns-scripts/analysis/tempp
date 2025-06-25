@@ -1,0 +1,501 @@
+;sector_primary;dominant_provider;domain_count
+0;Agribusiness;DNS Made Easy;1
+1;Agribusiness;Deutsche Telekom;1
+2;Capital Goods and Industrial Equipment;AAG;1
+3;Capital Goods and Industrial Equipment;ADMIN ACENS ES;1
+4;Capital Goods and Industrial Equipment;ALBACOM-MNT;1
+5;Capital Goods and Industrial Equipment;ARUBA Network Core;3
+6;Capital Goods and Industrial Equipment;AS13039-MNT;1
+7;Capital Goods and Industrial Equipment;AS8622-MNT;1
+8;Capital Goods and Industrial Equipment;Abuse Admin Highway;1
+9;Capital Goods and Industrial Equipment;Akamai;4
+10;Capital Goods and Industrial Equipment;Amazon;5
+11;Capital Goods and Industrial Equipment;Anexia;4
+12;Capital Goods and Industrial Equipment;Bulten Fasteners AB;1
+13;Capital Goods and Industrial Equipment;CGI-FINLAND-LIR;1
+14;Capital Goods and Industrial Equipment;CHINANET JIANGSU;1
+15;Capital Goods and Industrial Equipment;CIRA;3
+16;Capital Goods and Industrial Equipment;CentralNic;8
+17;Capital Goods and Industrial Equipment;Cloud;1
+18;Capital Goods and Industrial Equipment;Cloudflare;15
+19;Capital Goods and Industrial Equipment;Combell;2
+20;Capital Goods and Industrial Equipment;DNS Made Easy;5
+21;Capital Goods and Industrial Equipment;DTS-ONLINE HOSTMASTER;2
+22;Capital Goods and Industrial Equipment;DataCamp;1
+23;Capital Goods and Industrial Equipment;DataNet;2
+24;Capital Goods and Industrial Equipment;Deutsche Telekom;3
+25;Capital Goods and Industrial Equipment;Dyn (Oracle);1
+26;Capital Goods and Industrial Equipment;EDIS GmbH - Noc Engineer;7
+27;Capital Goods and Industrial Equipment;ELISA-MNT;2
+28;Capital Goods and Industrial Equipment;ES TIC MANAGEMENT;1
+29;Capital Goods and Industrial Equipment;Eaton;1
+30;Capital Goods and Industrial Equipment;FR-DNS;1
+31;Capital Goods and Industrial Equipment;GLESYS-MNT;1
+32;Capital Goods and Industrial Equipment;GLOBALAXS-MNT;1
+33;Capital Goods and Industrial Equipment;GOPAS-MNT;1
+34;Capital Goods and Industrial Equipment;Gandi;2
+35;Capital Goods and Industrial Equipment;GoDaddy;1
+36;Capital Goods and Industrial Equipment;Hetzner;1
+37;Capital Goods and Industrial Equipment;INET-NOC;1
+38;Capital Goods and Industrial Equipment;IONOS;9
+39;Capital Goods and Industrial Equipment;IP Telecom Internet and Data Department;1
+40;Capital Goods and Industrial Equipment;IP-MNT;1
+41;Capital Goods and Industrial Equipment;IPTELECOM-MNT;1
+42;Capital Goods and Industrial Equipment;ITMSC;1
+43;Capital Goods and Industrial Equipment;Incapsula Inc;1
+44;Capital Goods and Industrial Equipment;Interactive Network Communcations GmbH Role Account;1
+45;Capital Goods and Industrial Equipment;JAGUAR-MNT;1
+46;Capital Goods and Industrial Equipment;KEIPL-MNT;1
+47;Capital Goods and Industrial Equipment;Knipp;1
+48;Capital Goods and Industrial Equipment;MAINT-AS3262;1
+49;Capital Goods and Industrial Equipment;MAYRMELNHOF-MNT;1
+50;Capital Goods and Industrial Equipment;MNT-PlusServer;1
+51;Capital Goods and Industrial Equipment;MNT-QH;1
+52;Capital Goods and Industrial Equipment;Mercedes-Benz Group;1
+53;Capital Goods and Industrial Equipment;Microsoft;9
+54;Capital Goods and Industrial Equipment;NIC.AT;11
+55;Capital Goods and Industrial Equipment;NOC Ecritel;1
+56;Capital Goods and Industrial Equipment;NPotorino;1
+57;Capital Goods and Industrial Equipment;NS1;5
+58;Capital Goods and Industrial Equipment;Nameshield;5
+59;Capital Goods and Industrial Equipment;Netnod;2
+60;Capital Goods and Industrial Equipment;Nibe AB;1
+61;Capital Goods and Industrial Equipment;NuCDN;2
+62;Capital Goods and Industrial Equipment;OVH;1
+63;Capital Goods and Industrial Equipment;Orange Business Services;2
+64;Capital Goods and Industrial Equipment;PC80199-MNT;1
+65;Capital Goods and Industrial Equipment;Plus.line AG, Network Operation Centre;1
+66;Capital Goods and Industrial Equipment;SAFENAMES-DOMREG;1
+67;Capital Goods and Industrial Equipment;SCA Forest Products AB;1
+68;Capital Goods and Industrial Equipment;Saab AB;1
+69;Capital Goods and Industrial Equipment;Safenames Ltd.;1
+70;Capital Goods and Industrial Equipment;Telecom Italia;1
+71;Capital Goods and Industrial Equipment;Vercara;27
+72;Capital Goods and Industrial Equipment;Verisign;1
+73;Capital Goods and Industrial Equipment;Vodafone Italy;1
+74;Capital Goods and Industrial Equipment;Volkswagen Group;1
+75;Capital Goods and Industrial Equipment;Volvo Group;1
+76;Capital Goods and Industrial Equipment;Xirra GmbH;1
+77;Capital Goods and Industrial Equipment;bg-cloud-1-mnt;1
+78;Capital Goods and Industrial Equipment;conova NOC;1
+79;Energy;ARUBA Network Core;1
+80;Energy;AS8953-MNT;1
+81;Energy;ATMAN;1
+82;Energy;Akamai;4
+83;Energy;Amazon;2
+84;Energy;CEZNET;1
+85;Energy;Cloudflare;2
+86;Energy;EPAG-MNT;1
+87;Energy;Elia-Asset-mntner;1
+88;Energy;EnBW;1
+89;Energy;Enel;2
+90;Energy;F5;2
+91;Energy;GARR;1
+92;Energy;Gandi;1
+93;Energy;GoDaddy;1
+94;Energy;IBSIS;1
+95;Energy;INTROWEB-MNT;1
+96;Energy;IONOS;1
+97;Energy;IRT-VNNIC-AP;1
+98;Energy;Infrastructure;2
+99;Energy;LEWTELNET-MNT;1
+100;Energy;MANET-RIPE-MNT;1
+101;Energy;MNT-EXATEL;1
+102;Energy;MNT-HOSTINGER;1
+103;Energy;Mainova AG Network Management;1
+104;Energy;Microsoft;4
+105;Energy;NETART GROUP Administrator;1
+106;Energy;NETCUP-MNT;1
+107;Energy;NIC.AT;2
+108;Energy;Netnod;1
+109;Energy;NuCDN;1
+110;Energy;PlusServer;1
+111;Energy;RWE Supply;1
+112;Energy;SCE;1
+113;Energy;SDV;1
+114;Energy;Telecom Italia;1
+115;Energy;Telefónica;1
+116;Energy;Vercara;3
+117;Energy;pt-ren-1-mnt;1
+118;Financial Sector;ALIOR-MNT;1
+119;Financial Sector;ANYCAST-MNT;1
+120;Financial Sector;ARUBA Network Core;1
+121;Financial Sector;AS12301-MNT;1
+122;Financial Sector;AS12312-MNT;1
+123;Financial Sector;AS12527-MNT;1
+124;Financial Sector;AS15814;1
+125;Financial Sector;AS8622-MNT;2
+126;Financial Sector;AXA;1
+127;Financial Sector;AZIMUT-MNT;1
+128;Financial Sector;Abuse Admin Highway;2
+129;Financial Sector;Administratorzy sieci IFS;1
+130;Financial Sector;Akamai;31
+131;Financial Sector;Amazon;4
+132;Financial Sector;BT Ireland NOC;1
+133;Financial Sector;Braintower MLP Team;1
+134;Financial Sector;Buisson Gilles;1
+135;Financial Sector;COGMPS;1
+136;Financial Sector;COLT Hostmaster;1
+137;Financial Sector;CentralNic;1
+138;Financial Sector;Cloudflare;12
+139;Financial Sector;Colt;1
+140;Financial Sector;Commerzbank;1
+141;Financial Sector;DMAYER-MNT;1
+142;Financial Sector;DNS Made Easy;1
+143;Financial Sector;Deutsche Telekom;1
+144;Financial Sector;Dyn (Oracle);1
+145;Financial Sector;EDIS GmbH - Noc Engineer;2
+146;Financial Sector;ELISA-MNT;1
+147;Financial Sector;F5;1
+148;Financial Sector;FASTWEB-MNT;1
+149;Financial Sector;GLESYS-MNT;1
+150;Financial Sector;Gandi;1
+151;Financial Sector;GoDaddy;2
+152;Financial Sector;HOSTBASKET-MNT;1
+153;Financial Sector;INET-NOC;1
+154;Financial Sector;IONOS;2
+155;Financial Sector;IT-ANIMA-SGR;1
+156;Financial Sector;ITST1;1
+157;Financial Sector;KB-CZ-MNT;1
+158;Financial Sector;MNT-CEDACRI;1
+159;Financial Sector;MNT-SGSBP;1
+160;Financial Sector;Microsoft;2
+161;Financial Sector;Money Services;1
+162;Financial Sector;NETIC-MNT;1
+163;Financial Sector;NIC.AT;1
+164;Financial Sector;NS1;2
+165;Financial Sector;Nameshield;1
+166;Financial Sector;Netia;1
+167;Financial Sector;Netnod;1
+168;Financial Sector;Nordea;1
+169;Financial Sector;Nordnet NOC;1
+170;Financial Sector;NuCDN;2
+171;Financial Sector;ODN-MNT;1
+172;Financial Sector;OTENET IP ADM;1
+173;Financial Sector;PSINet, Inc.;1
+174;Financial Sector;SEB;1
+175;Financial Sector;Société Générale;1
+176;Financial Sector;TIG;1
+177;Financial Sector;TLC;1
+178;Financial Sector;Telecom Italia;2
+179;Financial Sector;Telefónica;3
+180;Financial Sector;Vercara;10
+181;Financial Sector;XCOM-MNT;1
+182;Food and Beverages;ARSYS Role Object;1
+183;Food and Beverages;AS12635-MNT;1
+184;Food and Beverages;AS31229-MNT;1
+185;Food and Beverages;AS8412-MNT;1
+186;Food and Beverages;AS8622-MNT;1
+187;Food and Beverages;Amazon;4
+188;Food and Beverages;Amazon Technologies Inc.;2
+189;Food and Beverages;Anexia;2
+190;Food and Beverages;CIRA;2
+191;Food and Beverages;CentralNic;1
+192;Food and Beverages;Cloud;1
+193;Food and Beverages;Cloudflare;5
+194;Food and Beverages;DataCamp;1
+195;Food and Beverages;EPAG-MNT;1
+196;Food and Beverages;GoDaddy;1
+197;Food and Beverages;Microsoft;1
+198;Food and Beverages;NIC.AT;1
+199;Food and Beverages;NS1;1
+200;Food and Beverages;OVH;1
+201;Food and Beverages;Telefónica;1
+202;Food and Beverages;Vercara;13
+203;Health and Healthcare Services;ANYCAST-MNT;1
+204;Health and Healthcare Services;ARSYS Role Object;1
+205;Health and Healthcare Services;AS12301-MNT;1
+206;Health and Healthcare Services;AS1342-MNT;1
+207;Health and Healthcare Services;AS3292 Staff;2
+208;Health and Healthcare Services;AS8622-MNT;1
+209;Health and Healthcare Services;Akamai;3
+210;Health and Healthcare Services;Amazon;7
+211;Health and Healthcare Services;Anexia;2
+212;Health and Healthcare Services;BDI-EOLAS-MNT;1
+213;Health and Healthcare Services;CIRA;1
+214;Health and Healthcare Services;CentralNic;2
+215;Health and Healthcare Services;Cloudflare;9
+216;Health and Healthcare Services;Colt;1
+217;Health and Healthcare Services;Combell;1
+218;Health and Healthcare Services;DNS Made Easy;2
+219;Health and Healthcare Services;Deutsche Telekom;2
+220;Health and Healthcare Services;Dyn (Oracle);1
+221;Health and Healthcare Services;EDIS GmbH - Noc Engineer;3
+222;Health and Healthcare Services;FULCOM-MNT-RIPE;1
+223;Health and Healthcare Services;Gandi;1
+224;Health and Healthcare Services;GoDaddy;1
+225;Health and Healthcare Services;Grifols;1
+226;Health and Healthcare Services;Hetzner;1
+227;Health and Healthcare Services;IONOS;2
+228;Health and Healthcare Services;JAGUAR-MNT;1
+229;Health and Healthcare Services;Jonas Pasche;1
+230;Health and Healthcare Services;MAINT-AS3262;1
+231;Health and Healthcare Services;Medline Industries;1
+232;Health and Healthcare Services;Medtronic;1
+233;Health and Healthcare Services;Microsoft;6
+234;Health and Healthcare Services;NIC.AT;2
+235;Health and Healthcare Services;NS1;1
+236;Health and Healthcare Services;Nameshield;1
+237;Health and Healthcare Services;NuCDN;2
+238;Health and Healthcare Services;OVH;2
+239;Health and Healthcare Services;Orange Business Services;1
+240;Health and Healthcare Services;Rackspace;1
+241;Health and Healthcare Services;TELIKO-MNT;1
+242;Health and Healthcare Services;University of California at Berkeley;1
+243;Health and Healthcare Services;Vercara;8
+244;Oil and Chemical;AVO;1
+245;Oil and Chemical;Akamai;3
+246;Oil and Chemical;Amazon;5
+247;Oil and Chemical;CIRA;2
+248;Oil and Chemical;CapFin;1
+249;Oil and Chemical;Cloudflare;4
+250;Oil and Chemical;Combell;1
+251;Oil and Chemical;ES TIC MANAGEMENT;1
+252;Oil and Chemical;Evonik;1
+253;Oil and Chemical;Hetzner;1
+254;Oil and Chemical;IONOS;1
+255;Oil and Chemical;IPARTNERS;1
+256;Oil and Chemical;IWAY-NOC;1
+257;Oil and Chemical;MANET-RIPE-MNT;1
+258;Oil and Chemical;Microsoft;4
+259;Oil and Chemical;NIC - Network Administrator;1
+260;Oil and Chemical;NIC.AT;1
+261;Oil and Chemical;Nameshield;1
+262;Oil and Chemical;Orange Business Services;1
+263;Oil and Chemical;PCC IT S.A.;1
+264;Oil and Chemical;TotalEnergies;1
+265;Oil and Chemical;Vercara;5
+266;Others;ARCHER DANIELS MIDLAND;1
+267;Others;AS8622-MNT;1
+268;Others;AVO;1
+269;Others;Akamai;7
+270;Others;Amazon;9
+271;Others;Anexia;1
+272;Others;Azizul Islam;1
+273;Others;CASAWEB-MNT;1
+274;Others;CDESIGN-MNT;1
+275;Others;CentralNic;1
+276;Others;Cloudflare;7
+277;Others;DNS Made Easy;1
+278;Others;DataCamp;2
+279;Others;DataNet;1
+280;Others;EDIS GmbH - Noc Engineer;1
+281;Others;ELISA-MNT;1
+282;Others;EWETEL-MNT;1
+283;Others;Gandi;2
+284;Others;GoDaddy;2
+285;Others;IONOS;2
+286;Others;IRT-SPEEDKOM1;1
+287;Others;Microsoft;2
+288;Others;NIC.AT;1
+289;Others;NS1;2
+290;Others;Nameshield;4
+291;Others;OVH;1
+292;Others;SCASGN;1
+293;Others;Social Security Administration;1
+294;Others;Vercara;11
+295;Others;se-epm-1-mnt;1
+296;Real Estate and Construction;ADMIN ACENS ES;1
+297;Real Estate and Construction;AONET-IT-MNT;1
+298;Real Estate and Construction;ARSYS Role Object;3
+299;Real Estate and Construction;ARUBA Network Core;1
+300;Real Estate and Construction;AS1764-MNT;1
+301;Real Estate and Construction;Akamai;1
+302;Real Estate and Construction;Amazon;2
+303;Real Estate and Construction;Anexia;2
+304;Real Estate and Construction;CIRA;1
+305;Real Estate and Construction;CIRA-ACEI;1
+306;Real Estate and Construction;CSL;1
+307;Real Estate and Construction;CentralNic;1
+308;Real Estate and Construction;Cloudflare;12
+309;Real Estate and Construction;Combell;1
+310;Real Estate and Construction;DITSI-MNT;1
+311;Real Estate and Construction;DNS Made Easy;1
+312;Real Estate and Construction;DOMENESHOP-MNT;1
+313;Real Estate and Construction;DWMR1-RIPE-MNT;1
+314;Real Estate and Construction;Deutsche Telekom;1
+315;Real Estate and Construction;Dyn (Oracle);3
+316;Real Estate and Construction;ELISA-MNT;1
+317;Real Estate and Construction;ES TIC MANAGEMENT;1
+318;Real Estate and Construction;F5;1
+319;Real Estate and Construction;Gandi;2
+320;Real Estate and Construction;GoDaddy;1
+321;Real Estate and Construction;Google;1
+322;Real Estate and Construction;HOSTBASKET-MNT;1
+323;Real Estate and Construction;INETWIRE-MNT;1
+324;Real Estate and Construction;IONOS;1
+325;Real Estate and Construction;IP-ONLY-MNT;1
+326;Real Estate and Construction;IQPL-MNT;1
+327;Real Estate and Construction;KEIPL-MNT;1
+328;Real Estate and Construction;LEVEL3-MNT;1
+329;Real Estate and Construction;MAINT-AS3262;1
+330;Real Estate and Construction;MNT-PORR;1
+331;Real Estate and Construction;Microsoft;8
+332;Real Estate and Construction;NIC.AT;1
+333;Real Estate and Construction;Nameshield;4
+334;Real Estate and Construction;NuCDN;2
+335;Real Estate and Construction;OVH;7
+336;Real Estate and Construction;Saint-Gobain;1
+337;Real Estate and Construction;Skanska;1
+338;Real Estate and Construction;Ting Fiber Inc.;1
+339;Real Estate and Construction;Tiscali;1
+340;Real Estate and Construction;Vercara;7
+341;Real Estate and Construction;admnet-td-mnt;1
+342;Real Estate and Construction;team.blue Denmark Network;1
+343;Sanitation and Environment;Amazon;1
+344;Sanitation and Environment;Nameshield;1
+345;Sanitation and Environment;OVH;1
+346;Sanitation and Environment;RKU-MNT;1
+347;Steel Mining and Metallurgy;Amazon;1
+348;Steel Mining and Metallurgy;BCI-MNT;1
+349;Steel Mining and Metallurgy;Cirion Technologies;1
+350;Steel Mining and Metallurgy;Cloudflare;1
+351;Steel Mining and Metallurgy;DOMTECH;1
+352;Steel Mining and Metallurgy;DigitalOcean, LLC;1
+353;Steel Mining and Metallurgy;Dyn (Oracle);2
+354;Steel Mining and Metallurgy;Gandi;1
+355;Steel Mining and Metallurgy;INWX;1
+356;Steel Mining and Metallurgy;IONOS;1
+357;Steel Mining and Metallurgy;Michal Splawski trading as MSERWIS;1
+358;Steel Mining and Metallurgy;Microsoft;4
+359;Steel Mining and Metallurgy;NIC.AT;1
+360;Steel Mining and Metallurgy;Nameshield;3
+361;Steel Mining and Metallurgy;Netia;1
+362;Steel Mining and Metallurgy;Telefónica;1
+363;Steel Mining and Metallurgy;V.tal;1
+364;Steel Mining and Metallurgy;Vercara;2
+365;Steel Mining and Metallurgy;Verizon;1
+366;Steel Mining and Metallurgy;Voestalpine;1
+367;Steel Mining and Metallurgy;home.pl;1
+368;Steel Mining and Metallurgy;nmm-mnt;1
+369;Technology and Telecommunications;ANYCAST-MNT;1
+370;Technology and Telecommunications;ARUBA Network Core;1
+371;Technology and Telecommunications;AS12693-MNT;1
+372;Technology and Telecommunications;AS2822-MNT;1
+373;Technology and Telecommunications;AS8387 NOC;1
+374;Technology and Telecommunications;AS8412-MNT;1
+375;Technology and Telecommunications;AS8622-MNT;2
+376;Technology and Telecommunications;ASML;1
+377;Technology and Telecommunications;AT&T;1
+378;Technology and Telecommunications;ATMAN;1
+379;Technology and Telecommunications;Abuse Admin Highway;1
+380;Technology and Telecommunications;Accenture;1
+381;Technology and Telecommunications;Akamai;4
+382;Technology and Telecommunications;Allegro Network Administrators;1
+383;Technology and Telecommunications;Amazon;15
+384;Technology and Telecommunications;Amazon Data Services Italy;1
+385;Technology and Telecommunications;Anexia;1
+386;Technology and Telecommunications;Atos;1
+387;Technology and Telecommunications;BCE-LU-MNT;1
+388;Technology and Telecommunications;BDL SYSTEMES SAS;1
+389;Technology and Telecommunications;BECHTLE-MNT;1
+390;Technology and Telecommunications;BRIANTEL-MNT;1
+391;Technology and Telecommunications;Belgacom Internet Expertise Center;1
+392;Technology and Telecommunications;CEGEDIM;1
+393;Technology and Telecommunications;CIRA;1
+394;Technology and Telecommunications;COLT Hostmaster;1
+395;Technology and Telecommunications;CentralNic;1
+396;Technology and Telecommunications;Cloudflare;14
+397;Technology and Telecommunications;Criteo Network Operations Center;1
+398;Technology and Telecommunications;DATAGROUP ITS ServiceDesk;1
+399;Technology and Telecommunications;DK;1
+400;Technology and Telecommunications;DNS Made Easy;4
+401;Technology and Telecommunications;DOKOM21 Hostmaster;1
+402;Technology and Telecommunications;Datametrix AB;1
+403;Technology and Telecommunications;Deutsche Telekom;3
+404;Technology and Telecommunications;DoD Network Information Center;1
+405;Technology and Telecommunications;EPAG-MNT;1
+406;Technology and Telecommunications;Experian;1
+407;Technology and Telecommunications;F5;1
+408;Technology and Telecommunications;Gandi;5
+409;Technology and Telecommunications;GoDaddy;2
+410;Technology and Telecommunications;Google;1
+411;Technology and Telecommunications;Hetzner;1
+412;Technology and Telecommunications;IONOS;6
+413;Technology and Telecommunications;IRT-E2E-NETWORKS-IN;1
+414;Technology and Telecommunications;IRT-PUBLICISGROUPE-AU;1
+415;Technology and Telecommunications;Iver Syd Registry;1
+416;Technology and Telecommunications;KPN-MNT;1
+417;Technology and Telecommunications;MNT-RTLNET;1
+418;Technology and Telecommunications;Microsoft;8
+419;Technology and Telecommunications;NETVALLEY-MNT;1
+420;Technology and Telecommunications;NIC.AT;4
+421;Technology and Telecommunications;NS1;2
+422;Technology and Telecommunications;Nameshield;3
+423;Technology and Telecommunications;NuCDN;4
+424;Technology and Telecommunications;OVH;2
+425;Technology and Telecommunications;SAP;1
+426;Technology and Telecommunications;TPNET;1
+427;Technology and Telecommunications;Telecom Italia;2
+428;Technology and Telecommunications;Telefónica;1
+429;Technology and Telecommunications;Telia;1
+430;Technology and Telecommunications;Tieto Sweden AB;1
+431;Technology and Telecommunications;United Telephone Association, Inc.;1
+432;Technology and Telecommunications;Vaisala Inc;1
+433;Technology and Telecommunications;Vercara;8
+434;Technology and Telecommunications;Verizon;1
+435;Technology and Telecommunications;de-jenoptik-1-mnt;1
+436;Technology and Telecommunications;indra_sistemas;1
+437;Technology and Telecommunications;team.blue Denmark Network;1
+438;Transport Logistics and Logistic Services;AVO;1
+439;Transport Logistics and Logistic Services;Abuse Admin Highway;1
+440;Transport Logistics and Logistic Services;Administration Adresses;1
+441;Transport Logistics and Logistic Services;Akamai;4
+442;Transport Logistics and Logistic Services;Amazon;2
+443;Transport Logistics and Logistic Services;BTNET-MNT;1
+444;Transport Logistics and Logistic Services;Cloudflare;3
+445;Transport Logistics and Logistic Services;Colt;1
+446;Transport Logistics and Logistic Services;DHL;1
+447;Transport Logistics and Logistic Services;DNS Made Easy;1
+448;Transport Logistics and Logistic Services;DataNet;1
+449;Transport Logistics and Logistic Services;EPAG-MNT;1
+450;Transport Logistics and Logistic Services;F5;1
+451;Transport Logistics and Logistic Services;HOS-GUN;1
+452;Transport Logistics and Logistic Services;Hetzner;1
+453;Transport Logistics and Logistic Services;IONOS;1
+454;Transport Logistics and Logistic Services;Incapsula Inc;1
+455;Transport Logistics and Logistic Services;Microsoft;4
+456;Transport Logistics and Logistic Services;NIC.AT;3
+457;Transport Logistics and Logistic Services;Netnod;1
+458;Transport Logistics and Logistic Services;Network Administration;1
+459;Transport Logistics and Logistic Services;NuCDN;2
+460;Transport Logistics and Logistic Services;OVH;1
+461;Transport Logistics and Logistic Services;Postecom;1
+462;Transport Logistics and Logistic Services;Société Générale;1
+463;Transport Logistics and Logistic Services;Telefónica;1
+464;Transport Logistics and Logistic Services;UUNET-IP-MNT;1
+465;Transport Logistics and Logistic Services;Vercara;5
+466;Wholesale and Retail;ANYCAST-MNT;2
+467;Wholesale and Retail;AS8622-MNT;1
+468;Wholesale and Retail;AT&T Enterprises, LLC;1
+469;Wholesale and Retail;Akamai;8
+470;Wholesale and Retail;Amazon;4
+471;Wholesale and Retail;Anexia;3
+472;Wholesale and Retail;BDI-EOLAS-MNT;1
+473;Wholesale and Retail;CIRA;2
+474;Wholesale and Retail;COLT Hostmaster;1
+475;Wholesale and Retail;CentralNic;2
+476;Wholesale and Retail;Cloudflare;20
+477;Wholesale and Retail;Colruyt Group;1
+478;Wholesale and Retail;DNS Made Easy;1
+479;Wholesale and Retail;DR98255-MNT;1
+480;Wholesale and Retail;DataCamp;2
+481;Wholesale and Retail;EDIS GmbH - Noc Engineer;2
+482;Wholesale and Retail;EKADOS SRL;1
+483;Wholesale and Retail;Eir;1
+484;Wholesale and Retail;Google;1
+485;Wholesale and Retail;IONOS;2
+486;Wholesale and Retail;LDLC-DSI;1
+487;Wholesale and Retail;Louhi Networks Oy;1
+488;Wholesale and Retail;MANET-RIPE-MNT;1
+489;Wholesale and Retail;Microsoft;2
+490;Wholesale and Retail;NETART GROUP Administrator;1
+491;Wholesale and Retail;NIC.AT;2
+492;Wholesale and Retail;NS1;1
+493;Wholesale and Retail;Nameshield;2
+494;Wholesale and Retail;Netnod;2
+495;Wholesale and Retail;NuCDN;2
+496;Wholesale and Retail;TTI Technical Contact;1
+497;Wholesale and Retail;TransIP B.V. Admin;1
+498;Wholesale and Retail;UKFast Admin;1
+499;Wholesale and Retail;Vercara;9
