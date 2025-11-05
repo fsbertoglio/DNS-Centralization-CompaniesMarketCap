@@ -1,0 +1,585 @@
+domain,error,trimmed_domain
+progressive.com,LifetimeTimeout: The resolution lifetime expired after 3.200 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+countrygarden.com.cn,NoAnswer: The DNS response does not contain an answer to the question: countrygarden.com.cn. IN NS,com.cn
+antar.cl,NXDOMAIN: The DNS query name does not exist: antar.cl.,cl
+chinacoalenergy.com,NXDOMAIN: The DNS query name does not exist: chinacoalenergy.com.,com
+toyota-ind.co.jp,NXDOMAIN: The DNS query name does not exist: toyota-ind.co.jp.,co.jp
+3m,NXDOMAIN: The DNS query name does not exist: 3m.,
+zsauto.com,NoAnswer: The DNS response does not contain an answer to the question: zsauto.com. IN NS,com
+changan.com.cn,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.cn
+tranetechnologies,NXDOMAIN: The DNS query name does not exist: tranetechnologies.,
+fastretailing,NXDOMAIN: The DNS query name does not exist: fastretailing.,
+tohokuden.co.jp,NXDOMAIN: The DNS query name does not exist: tohokuden.co.jp.,co.jp
+lincolnfinancial.com,LifetimeTimeout: The resolution lifetime expired after 3.212 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+citicmetals.com,NXDOMAIN: The DNS query name does not exist: citicmetals.com.,com
+jseasternshenghong.com,NXDOMAIN: The DNS query name does not exist: jseasternshenghong.com.,com
+chinataiping.com,NXDOMAIN: The DNS query name does not exist: chinataiping.com.,com
+huadianpowerintl.com,NXDOMAIN: The DNS query name does not exist: huadianpowerintl.com.,com
+mitsui-fudosan.co.jp,NXDOMAIN: The DNS query name does not exist: mitsui-fudosan.co.jp.,co.jp
+citicpacificspecialsteelgroup.com,NXDOMAIN: The DNS query name does not exist: citicpacificspecialsteelgroup.com.,com
+csci-hk.com,NXDOMAIN: The DNS query name does not exist: csci-hk.com.,com
+dfmc.com.cn,NoAnswer: The DNS response does not contain an answer to the question: dfmc.com.cn. IN NS,com.cn
+otsuka-holdings.co.jp,NXDOMAIN: The DNS query name does not exist: otsuka-holdings.co.jp.,co.jp
+dteenergy.com,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+chs.net,LifetimeTimeout: The resolution lifetime expired after 3.211 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,net
+lycorporation,NXDOMAIN: The DNS query name does not exist: lycorporation.,
+daito-trust.co.jp,NXDOMAIN: The DNS query name does not exist: daito-trust.co.jp.,co.jp
+zjznd.com,NXDOMAIN: The DNS query name does not exist: zjznd.com.,com
+kintetsughd.co.jp,NXDOMAIN: The DNS query name does not exist: kintetsughd.co.jp.,co.jp
+burlington.com,LifetimeTimeout: The resolution lifetime expired after 3.202 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+hanwha-solutions.com,NXDOMAIN: The DNS query name does not exist: hanwha-solutions.com.,com
+minebea-mitsumi.com,LifetimeTimeout: The resolution lifetime expired after 3.210 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+migros.com.tr,LifetimeTimeout: The resolution lifetime expired after 3.215 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.tr
+nhfoods.co.jp,NXDOMAIN: The DNS query name does not exist: nhfoods.co.jp.,co.jp
+hanwha-ocean.com,NXDOMAIN: The DNS query name does not exist: hanwha-ocean.com.,com
+smt-hd.co.jp,NXDOMAIN: The DNS query name does not exist: smt-hd.co.jp.,co.jp
+nippon-sanso.co.jp,NXDOMAIN: The DNS query name does not exist: nippon-sanso.co.jp.,co.jp
+welcia-holdings.co.jp,NXDOMAIN: The DNS query name does not exist: welcia-holdings.co.jp.,co.jp
+awlagribusiness.com,NoAnswer: The DNS response does not contain an answer to the question: awlagribusiness.com. IN NS,com
+sem.co.kr,NXDOMAIN: The DNS query name does not exist: sem.co.kr.,co.kr
+meiji-holdings.co.jp,NXDOMAIN: The DNS query name does not exist: meiji-holdings.co.jp.,co.jp
+jxam.co.jp,NXDOMAIN: The DNS query name does not exist: jxam.co.jp.,co.jp
+centralretail.com,LifetimeTimeout: The resolution lifetime expired after 3.206 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+yokohama-rubber.co.jp,NXDOMAIN: The DNS query name does not exist: yokohama-rubber.co.jp.,co.jp
+cosmospharmaceuticals.com,NXDOMAIN: The DNS query name does not exist: cosmospharmaceuticals.com.,com
+credicorp.pe,NXDOMAIN: The DNS query name does not exist: credicorp.pe.,pe
+nisource.com,LifetimeTimeout: The resolution lifetime expired after 3.200 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+ckassetsholdings.com,NXDOMAIN: The DNS query name does not exist: ckassetsholdings.com.,com
+ccbj.co.jp,NXDOMAIN: The DNS query name does not exist: ccbj.co.jp.,co.jp
+jgchd.co.jp,NXDOMAIN: The DNS query name does not exist: jgchd.co.jp.,co.jp
+enerjisa.com.tr,LifetimeTimeout: The resolution lifetime expired after 3.214 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.tr
+schneider-electric,NXDOMAIN: The DNS query name does not exist: schneider-electric.,
+infroneerholdings.com,NXDOMAIN: The DNS query name does not exist: infroneerholdings.com.,com
+cnreht,NXDOMAIN: The DNS query name does not exist: cnreht.,
+bankofhangzhou.com,NoAnswer: The DNS response does not contain an answer to the question: bankofhangzhou.com. IN NS,com
+nhk-spring.co.jp,NXDOMAIN: The DNS query name does not exist: nhk-spring.co.jp.,co.jp
+kumhopetrochemical.co.kr,NXDOMAIN: The DNS query name does not exist: kumhopetrochemical.co.kr.,co.kr
+prada,NXDOMAIN: The DNS query name does not exist: prada.,
+nomura-realestate.co.jp,NXDOMAIN: The DNS query name does not exist: nomura-realestate.co.jp.,co.jp
+premiumbrands,NXDOMAIN: The DNS query name does not exist: premiumbrands.,
+southwestgas.com,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+longyuanpower.com,NXDOMAIN: The DNS query name does not exist: longyuanpower.com.,com
+hualuhengsheng.com,NXDOMAIN: The DNS query name does not exist: hualuhengsheng.com.,com
+sksquare.co.kr,LifetimeTimeout: The resolution lifetime expired after 3.210 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.kr
+mitsui-mining.co.jp,NXDOMAIN: The DNS query name does not exist: mitsui-mining.co.jp.,co.jp
+alibaba-health.com,NoNameservers: All nameservers failed to answer the query alibaba-health.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+tencentmusic.com,NoAnswer: The DNS response does not contain an answer to the question: tencentmusic.com. IN NS,com
+ctgregeneration.com,NXDOMAIN: The DNS query name does not exist: ctgregeneration.com.,com
+boydgaming.com,LifetimeTimeout: The resolution lifetime expired after 3.212 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+ote.gr,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,gr
+coscoshippingdevelopment.com,NXDOMAIN: The DNS query name does not exist: coscoshippingdevelopment.com.,com
+haitianflavouring.com,NXDOMAIN: The DNS query name does not exist: haitianflavouring.com.,com
+fuji-oil.co.jp,NXDOMAIN: The DNS query name does not exist: fuji-oil.co.jp.,co.jp
+breadfinancial.com,LifetimeTimeout: The resolution lifetime expired after 3.209 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+isetan-mitsukoshi-holdings.co.jp,NXDOMAIN: The DNS query name does not exist: isetan-mitsukoshi-holdings.co.jp.,co.jp
+atco,NXDOMAIN: The DNS query name does not exist: atco.,
+yuasatrading,NXDOMAIN: The DNS query name does not exist: yuasatrading.,
+bayanresources.com,NoNameservers: All nameservers failed to answer the query bayanresources.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+miraitone.co.jp,NXDOMAIN: The DNS query name does not exist: miraitone.co.jp.,co.jp
+helmerichandpayne.com,NXDOMAIN: The DNS query name does not exist: helmerichandpayne.com.,com
+crrc-times-electric.com,NXDOMAIN: The DNS query name does not exist: crrc-times-electric.com.,com
+bbbfoods,NXDOMAIN: The DNS query name does not exist: bbbfoods.,
+habibmedical.com,NoNameservers: All nameservers failed to answer the query habibmedical.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+publicbank.com.my,LifetimeTimeout: The resolution lifetime expired after 3.205 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.my
+toyo-suisan.co.jp,NXDOMAIN: The DNS query name does not exist: toyo-suisan.co.jp.,co.jp
+independentpetroleumgroup.com,NXDOMAIN: The DNS query name does not exist: independentpetroleumgroup.com.,com
+seibu-holdings.co.jp,NXDOMAIN: The DNS query name does not exist: seibu-holdings.co.jp.,co.jp
+compagnieodet.fr,NXDOMAIN: The DNS query name does not exist: compagnieodet.fr.,fr
+primameatpackers.com,NXDOMAIN: The DNS query name does not exist: primameatpackers.com.,com
+csnmineraÃ§Ã£o.com.br,NXDOMAIN: The DNS query name does not exist: xn--csnminerao-jla1cz2db.com.br.,com.br
+yanghe.com.cn,NoAnswer: The DNS response does not contain an answer to the question: yanghe.com.cn. IN NS,com.cn
+aeonmall.co.jp,LifetimeTimeout: The resolution lifetime expired after 3.207 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.jp
+credit-saison.co.jp,NXDOMAIN: The DNS query name does not exist: credit-saison.co.jp.,co.jp
+aristonholdings,NXDOMAIN: The DNS query name does not exist: aristonholdings.,
+alpataruprojectsinternational,NXDOMAIN: The DNS query name does not exist: alpataruprojectsinternational.,
+bsf.com.sa,LifetimeTimeout: The resolution lifetime expired after 3.209 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.sa
+sumco.co.jp,NXDOMAIN: The DNS query name does not exist: sumco.co.jp.,co.jp
+nippon-shokubai.co.jp,NXDOMAIN: The DNS query name does not exist: nippon-shokubai.co.jp.,co.jp
+recindia.nic.in,NoAnswer: The DNS response does not contain an answer to the question: recindia.nic.in. IN NS,nic.in
+smprimeholdings.com,NXDOMAIN: The DNS query name does not exist: smprimeholdings.com.,com
+chinagalaxysecurities.com,NXDOMAIN: The DNS query name does not exist: chinagalaxysecurities.com.,com
+com7.co.th,NXDOMAIN: The DNS query name does not exist: com7.co.th.,co.th
+maxvalu-tokai.co.jp,NXDOMAIN: The DNS query name does not exist: maxvalu-tokai.co.jp.,co.jp
+ganfengli.com,NXDOMAIN: The DNS query name does not exist: ganfengli.com.,com
+globalbusinesstravelgroup.com,NXDOMAIN: The DNS query name does not exist: globalbusinesstravelgroup.com.,com
+sananoptics.com,NXDOMAIN: The DNS query name does not exist: sananoptics.com.,com
+aeon-hokkaido.co.jp,NoNameservers: All nameservers failed to answer the query aeon-hokkaido.co.jp. IN NS: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered SERVFAIL,co.jp
+phchd.co.jp,NXDOMAIN: The DNS query name does not exist: phchd.co.jp.,co.jp
+mfhc,NXDOMAIN: The DNS query name does not exist: mfhc.,
+bancatransilvania.ro,LifetimeTimeout: The resolution lifetime expired after 3.210 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,ro
+tokai-carbon.co.jp,NXDOMAIN: The DNS query name does not exist: tokai-carbon.co.jp.,co.jp
+budimex.pl,LifetimeTimeout: The resolution lifetime expired after 3.202 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,pl
+villagesupermarket.com,NoAnswer: The DNS response does not contain an answer to the question: villagesupermarket.com. IN NS,com
+foodlifecompanies.com,NXDOMAIN: The DNS query name does not exist: foodlifecompanies.com.,com
+lapidothcapital.com,NXDOMAIN: The DNS query name does not exist: lapidothcapital.com.,com
+haitianintl.com,NXDOMAIN: The DNS query name does not exist: haitianintl.com.,com
+thgplc.com,NoNameservers: All nameservers failed to answer the query thgplc.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+tcfh.org.tw,NXDOMAIN: The DNS query name does not exist: tcfh.org.tw.,org.tw
+mediosag.ch,NXDOMAIN: The DNS query name does not exist: mediosag.ch.,ch
+acciona-renovables.com,NoNameservers: All nameservers failed to answer the query acciona-renovables.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+hanwhasystems,NXDOMAIN: The DNS query name does not exist: hanwhasystems.,
+sumitomopharma.co.jp,NXDOMAIN: The DNS query name does not exist: sumitomopharma.co.jp.,co.jp
+bombayburmah.com,NXDOMAIN: The DNS query name does not exist: bombayburmah.com.,com
+ecopro.co.kr,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.kr
+ricoh-leasing.co.jp,NXDOMAIN: The DNS query name does not exist: ricoh-leasing.co.jp.,co.jp
+fattal-holdings.com,NXDOMAIN: The DNS query name does not exist: fattal-holdings.com.,com
+chesnara.com,NoNameservers: All nameservers failed to answer the query chesnara.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+nationalaluminumandalloy.com,NXDOMAIN: The DNS query name does not exist: nationalaluminumandalloy.com.,com
+hnhf.com.tw,NXDOMAIN: The DNS query name does not exist: hnhf.com.tw.,com.tw
+keihan-hd.co.jp,NXDOMAIN: The DNS query name does not exist: keihan-hd.co.jp.,co.jp
+supergroupplc.com,NXDOMAIN: The DNS query name does not exist: supergroupplc.com.,com
+sumitomobakelite.co.jp,NXDOMAIN: The DNS query name does not exist: sumitomobakelite.co.jp.,co.jp
+tavairportholding.com,NXDOMAIN: The DNS query name does not exist: tavairportholding.com.,com
+"Could you clarify whether you want the root domain without the top-level domain (e.g., just the name, without .com/.cn)? If you want the full domain, Iâ€™d need to look it up",LabelTooLong: A DNS label is > 63 octets long.,"g., just the name, without .com/.cn)? If you want the full domain, Iâ€™d need to look it up"
+alsglobal,NXDOMAIN: The DNS query name does not exist: alsglobal.,
+maruichi-steel-tube.co.jp,NXDOMAIN: The DNS query name does not exist: maruichi-steel-tube.co.jp.,co.jp
+fukuokafg.co.jp,NXDOMAIN: The DNS query name does not exist: fukuokafg.co.jp.,co.jp
+qib.com.qa,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.qa
+sotetsu-hd.co.jp,NXDOMAIN: The DNS query name does not exist: sotetsu-hd.co.jp.,co.jp
+fox-wizel.com,NXDOMAIN: The DNS query name does not exist: fox-wizel.com.,com
+genting.sg,LifetimeTimeout: The resolution lifetime expired after 3.208 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,sg
+danyacebus.co.il,NXDOMAIN: The DNS query name does not exist: danyacebus.co.il.,co.il
+rlicorp.com,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+daikokutenbussan.co.jp,NXDOMAIN: The DNS query name does not exist: daikokutenbussan.co.jp.,co.jp
+integer-holdings.com,NXDOMAIN: The DNS query name does not exist: integer-holdings.com.,com
+igl.co.in,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.in
+jasamarga.com,LifetimeTimeout: The resolution lifetime expired after 3.202 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+saibu-g.co.jp,NXDOMAIN: The DNS query name does not exist: saibu-g.co.jp.,co.jp
+nec-capital-solutions.com,NXDOMAIN: The DNS query name does not exist: nec-capital-solutions.com.,com
+saudi-chemical-holding.com,NXDOMAIN: The DNS query name does not exist: saudi-chemical-holding.com.,com
+kinsale.com,NoNameservers: All nameservers failed to answer the query kinsale.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+ecoprobm,NXDOMAIN: The DNS query name does not exist: ecoprobm.,
+unitedparksresorts.com,NXDOMAIN: The DNS query name does not exist: unitedparksresorts.com.,com
+maruigroup.co.jp,NXDOMAIN: The DNS query name does not exist: maruigroup.co.jp.,co.jp
+nsunited.co.jp,NXDOMAIN: The DNS query name does not exist: nsunited.co.jp.,co.jp
+minervalparaiso.cl,NXDOMAIN: The DNS query name does not exist: minervalparaiso.cl.,cl
+shizuokafinancialgroup.co.jp,NXDOMAIN: The DNS query name does not exist: shizuokafinancialgroup.co.jp.,co.jp
+tabcorp.com.au,NXDOMAIN: The DNS query name does not exist: tabcorp.com.au.,com.au
+towa-pharm.co.jp,NXDOMAIN: The DNS query name does not exist: towa-pharm.co.jp.,co.jp
+insee.co.th,NXDOMAIN: The DNS query name does not exist: insee.co.th.,co.th
+nissan-chemical.co.jp,NXDOMAIN: The DNS query name does not exist: nissan-chemical.co.jp.,co.jp
+bunka-shutter,NXDOMAIN: The DNS query name does not exist: bunka-shutter.,
+soochowsec.com,NXDOMAIN: The DNS query name does not exist: soochowsec.com.,com
+crmicroelectronics.com,NXDOMAIN: The DNS query name does not exist: crmicroelectronics.com.,com
+technoproholdings.co.jp,NXDOMAIN: The DNS query name does not exist: technoproholdings.co.jp.,co.jp
+baldwininsurancegroup.com,NXDOMAIN: The DNS query name does not exist: baldwininsurancegroup.com.,com
+hms-bergbau.de,NXDOMAIN: The DNS query name does not exist: hms-bergbau.de.,de
+jilonggold.com,NXDOMAIN: The DNS query name does not exist: jilonggold.com.,com
+apogeeen.com,NXDOMAIN: The DNS query name does not exist: apogeeen.com.,com
+archerltd.com,NXDOMAIN: The DNS query name does not exist: archerltd.com.,com
+mitsui-hightech.co.jp,NXDOMAIN: The DNS query name does not exist: mitsui-hightech.co.jp.,co.jp
+daidan,NXDOMAIN: The DNS query name does not exist: daidan.,
+arci.com.sa,NXDOMAIN: The DNS query name does not exist: arci.com.sa.,com.sa
+dadanexus.com,NXDOMAIN: The DNS query name does not exist: dadanexus.com.,com
+thecommercialbank.com.qa,NXDOMAIN: The DNS query name does not exist: thecommercialbank.com.qa.,com.qa
+wacoalholdings.co.jp,NXDOMAIN: The DNS query name does not exist: wacoalholdings.co.jp.,co.jp
+daiichijitsugyo.co.jp,NXDOMAIN: The DNS query name does not exist: daiichijitsugyo.co.jp.,co.jp
+vieletcie.fr,NXDOMAIN: The DNS query name does not exist: vieletcie.fr.,fr
+bankdanamon.co.id,NoNameservers: All nameservers failed to answer the query bankdanamon.co.id. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,co.id
+secheenvironnement.com,NXDOMAIN: The DNS query name does not exist: secheenvironnement.com.,com
+cgpowerandindustrial.com,NXDOMAIN: The DNS query name does not exist: cgpowerandindustrial.com.,com
+meiko-elec.co.jp,NoNameservers: All nameservers failed to answer the query meiko-elec.co.jp. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,co.jp
+enactholdings.com,NoAnswer: The DNS response does not contain an answer to the question: enactholdings.com. IN NS,com
+brileyfinancial.com,NoNameservers: All nameservers failed to answer the query brileyfinancial.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+luckystrikeentertainment,NXDOMAIN: The DNS query name does not exist: luckystrikeentertainment.,
+onesoftwaretechnologies.com,NXDOMAIN: The DNS query name does not exist: onesoftwaretechnologies.com.,com
+prosperitybancshares.com,NXDOMAIN: The DNS query name does not exist: prosperitybancshares.com.,com
+newhopecorp.com.au,NXDOMAIN: The DNS query name does not exist: newhopecorp.com.au.,com.au
+nittetsu-mining.co.jp,NXDOMAIN: The DNS query name does not exist: nittetsu-mining.co.jp.,co.jp
+3circle.cn,NXDOMAIN: The DNS query name does not exist: 3circle.cn.,cn
+omegahealthcareinvestors.com,NXDOMAIN: The DNS query name does not exist: omegahealthcareinvestors.com.,com
+nanayapcb.com,NXDOMAIN: The DNS query name does not exist: nanayapcb.com.,com
+cgnmining.com,NXDOMAIN: The DNS query name does not exist: cgnmining.com.,com
+Materials,NXDOMAIN: The DNS query name does not exist: Materials.,
+engineersindia.com,NoAnswer: The DNS response does not contain an answer to the question: engineersindia.com. IN NS,com
+2g-energy.de,NXDOMAIN: The DNS query name does not exist: 2g-energy.de.,de
+alanallmanassociates.com,NXDOMAIN: The DNS query name does not exist: alanallmanassociates.com.,com
+exailtech.com,NXDOMAIN: The DNS query name does not exist: exailtech.com.,com
+oceanfirstfinancial.com,NXDOMAIN: The DNS query name does not exist: oceanfirstfinancial.com.,com
+formosasumco.com.tw,NXDOMAIN: The DNS query name does not exist: formosasumco.com.tw.,com.tw
+shaker-eg.com,NXDOMAIN: The DNS query name does not exist: shaker-eg.com.,com
+proeducaaltus,NXDOMAIN: The DNS query name does not exist: proeducaaltus.,
+timkenindia.com,LifetimeTimeout: The resolution lifetime expired after 3.202 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+prajindustries.co.in,NXDOMAIN: The DNS query name does not exist: prajindustries.co.in.,co.in
+theebrentacar.com,NXDOMAIN: The DNS query name does not exist: theebrentacar.com.,com
+glpjreit.co.jp,NXDOMAIN: The DNS query name does not exist: glpjreit.co.jp.,co.jp
+lxpindustrialtrust.com,NXDOMAIN: The DNS query name does not exist: lxpindustrialtrust.com.,com
+tadawulgroup.com,NoNameservers: All nameservers failed to answer the query tadawulgroup.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+udc.qa,NXDOMAIN: The DNS query name does not exist: udc.qa.,qa
+deltaapparel,NXDOMAIN: The DNS query name does not exist: deltaapparel.,
+japanlifeline.co.jp,NXDOMAIN: The DNS query name does not exist: japanlifeline.co.jp.,co.jp
+herculescapital.com,NoNameservers: All nameservers failed to answer the query herculescapital.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+miquelcostas.com,NXDOMAIN: The DNS query name does not exist: miquelcostas.com.,com
+delta-israel-brands.co.il,NXDOMAIN: The DNS query name does not exist: delta-israel-brands.co.il.,co.il
+zhangjiangpark.com,NXDOMAIN: The DNS query name does not exist: zhangjiangpark.com.,com
+capitalsecuritiescorp.com,NXDOMAIN: The DNS query name does not exist: capitalsecuritiescorp.com.,com
+soltec-power-holdings.com,NXDOMAIN: The DNS query name does not exist: soltec-power-holdings.com.,com
+asiafinancialholdings.com,NXDOMAIN: The DNS query name does not exist: asiafinancialholdings.com.,com
+macfarlane-group.com,NXDOMAIN: The DNS query name does not exist: macfarlane-group.com.,com
+boubyanpetrochemical.com,NXDOMAIN: The DNS query name does not exist: boubyanpetrochemical.com.,com
+birla-carbon.com,NXDOMAIN: The DNS query name does not exist: birla-carbon.com.,com
+epcc.sa,NXDOMAIN: The DNS query name does not exist: epcc.sa.,sa
+netelholding.com,NXDOMAIN: The DNS query name does not exist: netelholding.com.,com
+heliagroup,NXDOMAIN: The DNS query name does not exist: heliagroup.,
+gulfcable.com.kw,LifetimeTimeout: The resolution lifetime expired after 3.214 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.kw
+viant.com,LifetimeTimeout: The resolution lifetime expired after 3.205 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+360onewam.com,NXDOMAIN: The DNS query name does not exist: 360onewam.com.,com
+easterlygovernmentproperties.com,NXDOMAIN: The DNS query name does not exist: easterlygovernmentproperties.com.,com
+qassimcement.com,NXDOMAIN: The DNS query name does not exist: qassimcement.com.,com
+ca-tpo.fr,NXDOMAIN: The DNS query name does not exist: ca-tpo.fr.,fr
+daiwaindustries,NXDOMAIN: The DNS query name does not exist: daiwaindustries.,
+metrobrands.co.in,LifetimeTimeout: The resolution lifetime expired after 3.214 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.in
+invincible.co.jp,NXDOMAIN: The DNS query name does not exist: invincible.co.jp.,co.jp
+vastaplatform.com.br,NXDOMAIN: The DNS query name does not exist: vastaplatform.com.br.,com.br
+jcrpharm.co.jp,LifetimeTimeout: The resolution lifetime expired after 3.211 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.jp
+bos.pl,LifetimeTimeout: The resolution lifetime expired after 3.204 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,pl
+betshemeshengines.co.il,NXDOMAIN: The DNS query name does not exist: betshemeshengines.co.il.,co.il
+huhtamakiindia.in,NXDOMAIN: The DNS query name does not exist: huhtamakiindia.in.,in
+plastikakritis.gr,NXDOMAIN: The DNS query name does not exist: plastikakritis.gr.,gr
+aeonreit.co.jp,NXDOMAIN: The DNS query name does not exist: aeonreit.co.jp.,co.jp
+weyco.com,LifetimeTimeout: The resolution lifetime expired after 3.206 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+jtekt-india.com,NXDOMAIN: The DNS query name does not exist: jtekt-india.com.,com
+firstmilling.com,NXDOMAIN: The DNS query name does not exist: firstmilling.com.,com
+dohainsurancegroup.com,NXDOMAIN: The DNS query name does not exist: dohainsurancegroup.com.,com
+simplexholdings,NXDOMAIN: The DNS query name does not exist: simplexholdings.,
+forafricglobalplc,NXDOMAIN: The DNS query name does not exist: forafricglobalplc.,
+heliosunderwriting,NXDOMAIN: The DNS query name does not exist: heliosunderwriting.,
+jindalworldwide.com,NoAnswer: The DNS response does not contain an answer to the question: jindalworldwide.com. IN NS,com
+bochu,NXDOMAIN: The DNS query name does not exist: bochu.,
+africa-israel-residences.co.il,NXDOMAIN: The DNS query name does not exist: africa-israel-residences.co.il.,co.il
+amwell.com,LifetimeTimeout: The resolution lifetime expired after 3.202 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+kurasushiusa.com,NXDOMAIN: The DNS query name does not exist: kurasushiusa.com.,com
+yanbu-cement.com,NXDOMAIN: The DNS query name does not exist: yanbu-cement.com.,com
+heidelbergcementindia.com,NXDOMAIN: The DNS query name does not exist: heidelbergcementindia.com.,com
+lakelandfinancial.com,NoNameservers: All nameservers failed to answer the query lakelandfinancial.com. IN NS: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered SERVFAIL,com
+groupfivepipe.com.sa,NXDOMAIN: The DNS query name does not exist: groupfivepipe.com.sa.,com.sa
+Not available,NXDOMAIN: The DNS query name does not exist: Not\032available.,
+jaybharatmaruti.com,NXDOMAIN: The DNS query name does not exist: jaybharatmaruti.com.,com
+gig-bh.com,NXDOMAIN: The DNS query name does not exist: gig-bh.com.,com
+fujibo-holdings.com,NXDOMAIN: The DNS query name does not exist: fujibo-holdings.com.,com
+amak-ksa.com,NXDOMAIN: The DNS query name does not exist: amak-ksa.com.,com
+igpetrochemicals.com,NXDOMAIN: The DNS query name does not exist: igpetrochemicals.com.,com
+arabigroupholding.com,NXDOMAIN: The DNS query name does not exist: arabigroupholding.com.,com
+hansen-technologies.com,NXDOMAIN: The DNS query name does not exist: hansen-technologies.com.,com
+dhampursugarmills.com,NXDOMAIN: The DNS query name does not exist: dhampursugarmills.com.,com
+chinlinsecurities.com,NXDOMAIN: The DNS query name does not exist: chinlinsecurities.com.,com
+castingsplc.com,NXDOMAIN: The DNS query name does not exist: castingsplc.com.,com
+harrowhealth.com,NoNameservers: All nameservers failed to answer the query harrowhealth.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+beasleybroadcastgroup.com,NXDOMAIN: The DNS query name does not exist: beasleybroadcastgroup.com.,com
+zengame.com,NoNameservers: All nameservers failed to answer the query zengame.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+peakstonerealtytrust.com,NXDOMAIN: The DNS query name does not exist: peakstonerealtytrust.com.,com
+shibaura-electronics.com,NXDOMAIN: The DNS query name does not exist: shibaura-electronics.com.,com
+jagranprakashan.com,NXDOMAIN: The DNS query name does not exist: jagranprakashan.com.,com
+genrestaurantgroup.com,NXDOMAIN: The DNS query name does not exist: genrestaurantgroup.com.,com
+activiaproperties.com,NXDOMAIN: The DNS query name does not exist: activiaproperties.com.,com
+slategroceryreit,NXDOMAIN: The DNS query name does not exist: slategroceryreit.,
+protagonisttherapeutics.com,NXDOMAIN: The DNS query name does not exist: protagonisttherapeutics.com.,com
+alliedcooperativeinsurancegroup.com,NXDOMAIN: The DNS query name does not exist: alliedcooperativeinsurancegroup.com.,com
+softworld.co.th,NXDOMAIN: The DNS query name does not exist: softworld.co.th.,co.th
+dollarindustries.com,NXDOMAIN: The DNS query name does not exist: dollarindustries.com.,com
+bodalchemicals.com,NXDOMAIN: The DNS query name does not exist: bodalchemicals.com.,com
+axogen.com,NoNameservers: All nameservers failed to answer the query axogen.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+altaseergroup.com,NXDOMAIN: The DNS query name does not exist: altaseergroup.com.,com
+mphc.com.qa,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.qa
+basicchemicalindustries.com,NXDOMAIN: The DNS query name does not exist: basicchemicalindustries.com.,com
+sylatechnologies,NXDOMAIN: The DNS query name does not exist: sylatechnologies.,
+ise-chemicals.com,NXDOMAIN: The DNS query name does not exist: ise-chemicals.com.,com
+indocores.com,NXDOMAIN: The DNS query name does not exist: indocores.com.,com
+teikoku-sen-i.co.jp,NXDOMAIN: The DNS query name does not exist: teikoku-sen-i.co.jp.,co.jp
+rvrcholding,NXDOMAIN: The DNS query name does not exist: rvrcholding.,
+asiangranitoindia.com,NXDOMAIN: The DNS query name does not exist: asiangranitoindia.com.,com
+alsaifstores.com,NXDOMAIN: The DNS query name does not exist: alsaifstores.com.,com
+unitedwirefactories.com,NXDOMAIN: The DNS query name does not exist: unitedwirefactories.com.,com
+kvutzatacro.com,NXDOMAIN: The DNS query name does not exist: kvutzatacro.com.,com
+saudiprintingpackaging.com,NXDOMAIN: The DNS query name does not exist: saudiprintingpackaging.com.,com
+cibusnordicrealestate.com,NXDOMAIN: The DNS query name does not exist: cibusnordicrealestate.com.,com
+arwanacitra.co.id,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.id
+avingtrans.com,NXDOMAIN: The DNS query name does not exist: avingtrans.com.,com
+aljoufagri.com,NXDOMAIN: The DNS query name does not exist: aljoufagri.com.,com
+altisourceportfolio.com,LifetimeTimeout: The resolution lifetime expired after 3.204 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+moil.nic.in,NoAnswer: The DNS response does not contain an answer to the question: moil.nic.in. IN NS,nic.in
+shamalaz-zour.com,NXDOMAIN: The DNS query name does not exist: shamalaz-zour.com.,com
+qnbfinansleasing.com.tr,NXDOMAIN: The DNS query name does not exist: qnbfinansleasing.com.tr.,com.tr
+hacksaw.se,NXDOMAIN: The DNS query name does not exist: hacksaw.se.,se
+geechs,NXDOMAIN: The DNS query name does not exist: geechs.,
+mflp.co.jp,NXDOMAIN: The DNS query name does not exist: mflp.co.jp.,co.jp
+dzsinc.com,NXDOMAIN: The DNS query name does not exist: dzsinc.com.,com
+bsrreit.ca,NXDOMAIN: The DNS query name does not exist: bsrreit.ca.,ca
+shinpoongpharm.co.kr,NXDOMAIN: The DNS query name does not exist: shinpoongpharm.co.kr.,co.kr
+foresee-power.com,NXDOMAIN: The DNS query name does not exist: foresee-power.com.,com
+mekdamholdinggroup.com,NXDOMAIN: The DNS query name does not exist: mekdamholdinggroup.com.,com
+unionproperties.ae,NoNameservers: All nameservers failed to answer the query unionproperties.ae. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,ae
+malteriesfranco-belges.com,NXDOMAIN: The DNS query name does not exist: malteriesfranco-belges.com.,com
+nttudreit.co.jp,NXDOMAIN: The DNS query name does not exist: nttudreit.co.jp.,co.jp
+orionofficereit.com,NXDOMAIN: The DNS query name does not exist: orionofficereit.com.,com
+planetimageinternational.com,NXDOMAIN: The DNS query name does not exist: planetimageinternational.com.,com
+goodmanpropertytrust.co.nz,NXDOMAIN: The DNS query name does not exist: goodmanpropertytrust.co.nz.,co.nz
+pennymacreit.com,NXDOMAIN: The DNS query name does not exist: pennymacreit.com.,com
+zahrat-al-waha.com,NXDOMAIN: The DNS query name does not exist: zahrat-al-waha.com.,com
+thobalaseel.com,NXDOMAIN: The DNS query name does not exist: thobalaseel.com.,com
+montecarlo.co.in,NoNameservers: All nameservers failed to answer the query montecarlo.co.in. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,co.in
+qgirc.com,NXDOMAIN: The DNS query name does not exist: qgirc.com.,com
+imperialpetroleum.com,NoAnswer: The DNS response does not contain an answer to the question: imperialpetroleum.com. IN NS,com
+gepowerindia.com,NXDOMAIN: The DNS query name does not exist: gepowerindia.com.,com
+kncc.com.kw,NXDOMAIN: The DNS query name does not exist: kncc.com.kw.,com.kw
+isbirholding.com.tr,NXDOMAIN: The DNS query name does not exist: isbirholding.com.tr.,com.tr
+neptuneinsuranceholdings.com,NXDOMAIN: The DNS query name does not exist: neptuneinsuranceholdings.com.,com
+ihc.com.kw,NXDOMAIN: The DNS query name does not exist: ihc.com.kw.,com.kw
+gencorindustries.com,LifetimeTimeout: The resolution lifetime expired after 3.205 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+intershopholding.ch,NXDOMAIN: The DNS query name does not exist: intershopholding.ch.,ch
+vib-vermoegen.de,NXDOMAIN: The DNS query name does not exist: vib-vermoegen.de.,de
+aftpharma.com,NXDOMAIN: The DNS query name does not exist: aftpharma.com.,com
+orangecountybancorp.com,NXDOMAIN: The DNS query name does not exist: orangecountybancorp.com.,com
+adstech-energy.com,NXDOMAIN: The DNS query name does not exist: adstech-energy.com.,com
+bet-at-home,NXDOMAIN: The DNS query name does not exist: bet-at-home.,
+boneihatichon.co.il,NXDOMAIN: The DNS query name does not exist: boneihatichon.co.il.,co.il
+ayaanleasing.com,NXDOMAIN: The DNS query name does not exist: ayaanleasing.com.,com
+meeza.qa,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,qa
+rumble.com,NXDOMAIN: The DNS query name does not exist: rumble.com.,com
+widam.qa,NXDOMAIN: The DNS query name does not exist: widam.qa.,qa
+orientpapermills.com,NXDOMAIN: The DNS query name does not exist: orientpapermills.com.,com
+indianipponelectricals.com,NXDOMAIN: The DNS query name does not exist: indianipponelectricals.com.,com
+ggcic.com,NXDOMAIN: The DNS query name does not exist: ggcic.com.,com
+jassimtransport.com,NXDOMAIN: The DNS query name does not exist: jassimtransport.com.,com
+developglobal,NXDOMAIN: The DNS query name does not exist: developglobal.,
+churchillchina,NXDOMAIN: The DNS query name does not exist: churchillchina.,
+dnir.ae,NXDOMAIN: The DNS query name does not exist: dnir.ae.,ae
+blissgvspharma.com,NXDOMAIN: The DNS query name does not exist: blissgvspharma.com.,com
+lakeshorebiopharma.com,NXDOMAIN: The DNS query name does not exist: lakeshorebiopharma.com.,com
+bankwellfinancialgroup.com,NXDOMAIN: The DNS query name does not exist: bankwellfinancialgroup.com.,com
+poncefinancialgroup.com,NXDOMAIN: The DNS query name does not exist: poncefinancialgroup.com.,com
+dkrei.de,NXDOMAIN: The DNS query name does not exist: dkrei.de.,de
+trichemlabs.com,NXDOMAIN: The DNS query name does not exist: trichemlabs.com.,com
+prairieoperating.com,NXDOMAIN: The DNS query name does not exist: prairieoperating.com.,com
+alobeikanglass.com,NXDOMAIN: The DNS query name does not exist: alobeikanglass.com.,com
+cantabil.co.in,NXDOMAIN: The DNS query name does not exist: cantabil.co.in.,co.in
+commercialbancgroup.com,NXDOMAIN: The DNS query name does not exist: commercialbancgroup.com.,com
+tuaslimited.com,NXDOMAIN: The DNS query name does not exist: tuaslimited.com.,com
+plusalphaconsulting.com,NXDOMAIN: The DNS query name does not exist: plusalphaconsulting.com.,com
+sihanoukvilleport.com.kh,NXDOMAIN: The DNS query name does not exist: sihanoukvilleport.com.kh.,com.kh
+alkhaleejtakaful.com,NoNameservers: All nameservers failed to answer the query alkhaleejtakaful.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+franchi-umberto-marmi.it,NXDOMAIN: The DNS query name does not exist: franchi-umberto-marmi.it.,it
+sygnity.pl,LifetimeTimeout: The resolution lifetime expired after 3.214 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,pl
+arriyadhdevelopment.com,NXDOMAIN: The DNS query name does not exist: arriyadhdevelopment.com.,com
+tabukcement.com,NXDOMAIN: The DNS query name does not exist: tabukcement.com.,com
+fonciereinea.fr,NXDOMAIN: The DNS query name does not exist: fonciereinea.fr.,fr
+hankyu-hanshin-reit.co.jp,NXDOMAIN: The DNS query name does not exist: hankyu-hanshin-reit.co.jp.,co.jp
+nph.co.id,NXDOMAIN: The DNS query name does not exist: nph.co.id.,co.id
+bellevue-group.com,LifetimeTimeout: The resolution lifetime expired after 3.206 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+innovativesolutionsandsupport.com,NXDOMAIN: The DNS query name does not exist: innovativesolutionsandsupport.com.,com
+theravancebiopharma.com,NoNameservers: All nameservers failed to answer the query theravancebiopharma.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+europeanresidentialreit.com,NXDOMAIN: The DNS query name does not exist: europeanresidentialreit.com.,com
+arcticfishholding,NXDOMAIN: The DNS query name does not exist: arcticfishholding.,
+unknown,NXDOMAIN: The DNS query name does not exist: unknown.,
+ballard.com,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+patrimoineetcommerce.ch,NXDOMAIN: The DNS query name does not exist: patrimoineetcommerce.ch.,ch
+pennswoodsbancorp.com,NXDOMAIN: The DNS query name does not exist: pennswoodsbancorp.com.,com
+mgidigitaltechnology.com,NXDOMAIN: The DNS query name does not exist: mgidigitaltechnology.com.,com
+mainstreetbancshares.com,NXDOMAIN: The DNS query name does not exist: mainstreetbancshares.com.,com
+knowledgeeconomiccity.com,LifetimeTimeout: The resolution lifetime expired after 3.211 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+cboterritoria.mu,NXDOMAIN: The DNS query name does not exist: cboterritoria.mu.,mu
+ummc.com.sa,NXDOMAIN: The DNS query name does not exist: ummc.com.sa.,com.sa
+kamco-investment.com,NXDOMAIN: The DNS query name does not exist: kamco-investment.com.,com
+varengoldbank.com,NoNameservers: All nameservers failed to answer the query varengoldbank.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+nuevaexpresiontextil.com,NXDOMAIN: The DNS query name does not exist: nuevaexpresiontextil.com.,com
+jianzhieducationgroup,NXDOMAIN: The DNS query name does not exist: jianzhieducationgroup.,
+fillingandpackingmaterials.com,NXDOMAIN: The DNS query name does not exist: fillingandpackingmaterials.com.,com
+hangzhou-electronic-soul-network-technology.com,NXDOMAIN: The DNS query name does not exist: hangzhou-electronic-soul-network-technology.com.,com
+firstnorthwest.com,NoAnswer: The DNS response does not contain an answer to the question: firstnorthwest.com. IN NS,com
+njholdings.com,LifetimeTimeout: The resolution lifetime expired after 3.209 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+benchmarkholdings.co.uk,NoNameservers: All nameservers failed to answer the query benchmarkholdings.co.uk. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,co.uk
+onereitinc.com,NXDOMAIN: The DNS query name does not exist: onereitinc.com.,com
+alandalusproperty.com,LifetimeTimeout: The resolution lifetime expired after 3.207 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+aljoufcement.com,NXDOMAIN: The DNS query name does not exist: aljoufcement.com.,com
+kiocl.co.in,NXDOMAIN: The DNS query name does not exist: kiocl.co.in.,co.in
+eagleeyesolutionsgroup.com,NXDOMAIN: The DNS query name does not exist: eagleeyesolutionsgroup.com.,com
+qes.qa,NXDOMAIN: The DNS query name does not exist: qes.qa.,qa
+gorillatechnology.com,LifetimeTimeout: The resolution lifetime expired after 3.214 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+f45training.com,LifetimeTimeout: The resolution lifetime expired after 3.213 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+tattonassetmanagement.co.uk,NXDOMAIN: The DNS query name does not exist: tattonassetmanagement.co.uk.,co.uk
+alkathiri.com,NoNameservers: All nameservers failed to answer the query alkathiri.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+zephyruswingenergies.com,NXDOMAIN: The DNS query name does not exist: zephyruswingenergies.com.,com
+specialitiesgroupholding.com,NXDOMAIN: The DNS query name does not exist: specialitiesgroupholding.com.,com
+newronpharma.com,NXDOMAIN: The DNS query name does not exist: newronpharma.com.,com
+markaz.com.kw,NXDOMAIN: The DNS query name does not exist: markaz.com.kw.,com.kw
+pestech-cambodia.com,NXDOMAIN: The DNS query name does not exist: pestech-cambodia.com.,com
+nioxgroup.com,NXDOMAIN: The DNS query name does not exist: nioxgroup.com.,com
+mtronindustries.com,NXDOMAIN: The DNS query name does not exist: mtronindustries.com.,com
+hongleongcapital.com.my,NXDOMAIN: The DNS query name does not exist: hongleongcapital.com.my.,com.my
+haoxihealthtech.com,NXDOMAIN: The DNS query name does not exist: haoxihealthtech.com.,com
+transacttech.com,NoAnswer: The DNS response does not contain an answer to the question: transacttech.com. IN NS,com
+ash-sharqiyahdevelopment.com,NXDOMAIN: The DNS query name does not exist: ash-sharqiyahdevelopment.com.,com
+asteclifesciences.com,NXDOMAIN: The DNS query name does not exist: asteclifesciences.com.,com
+logisticpropertiesoftheamericas.com,NXDOMAIN: The DNS query name does not exist: logisticpropertiesoftheamericas.com.,com
+ellomaycapital.com,NXDOMAIN: The DNS query name does not exist: ellomaycapital.com.,com
+transcontinentalrealtyinvestors.com,NXDOMAIN: The DNS query name does not exist: transcontinentalrealtyinvestors.com.,com
+zwahlenmayr.ch,NXDOMAIN: The DNS query name does not exist: zwahlenmayr.ch.,ch
+richmondmutualbancorporation.com,NXDOMAIN: The DNS query name does not exist: richmondmutualbancorporation.com.,com
+civitanavi.it,LifetimeTimeout: The resolution lifetime expired after 3.211 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,it
+hoec.co.in,LifetimeTimeout: The resolution lifetime expired after 3.206 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.in
+atriummortgageinvestment.com,NXDOMAIN: The DNS query name does not exist: atriummortgageinvestment.com.,com
+wolverineenergyandinfrastructure,NXDOMAIN: The DNS query name does not exist: wolverineenergyandinfrastructure.,
+shuaiba-industrial.com,NXDOMAIN: The DNS query name does not exist: shuaiba-industrial.com.,com
+granitepointmortgagetrust.com,LifetimeTimeout: The resolution lifetime expired after 3.210 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+wimi-hologram-cloud.com,NXDOMAIN: The DNS query name does not exist: wimi-hologram-cloud.com.,com
+microsystemation,NXDOMAIN: The DNS query name does not exist: microsystemation.,
+providentfinancialholdings.com,NXDOMAIN: The DNS query name does not exist: providentfinancialholdings.com.,com
+atacg.com,NXDOMAIN: The DNS query name does not exist: atacg.com.,com
+soundfinancialbancorp.com,NXDOMAIN: The DNS query name does not exist: soundfinancialbancorp.com.,com
+al-arabiya-real-estate.com,NXDOMAIN: The DNS query name does not exist: al-arabiya-real-estate.com.,com
+bairdmedicalinvestmentholdings.com,NXDOMAIN: The DNS query name does not exist: bairdmedicalinvestmentholdings.com.,com
+hesterbio.com,NXDOMAIN: The DNS query name does not exist: hesterbio.com.,com
+caspian-sunrise.com,NXDOMAIN: The DNS query name does not exist: caspian-sunrise.com.,com
+lafranceedelenergie.fr,NXDOMAIN: The DNS query name does not exist: lafranceedelenergie.fr.,fr
+sadrlogistics.com,NXDOMAIN: The DNS query name does not exist: sadrlogistics.com.,com
+palmsagro.com,NXDOMAIN: The DNS query name does not exist: palmsagro.com.,com
+affinitybancshares.com,NXDOMAIN: The DNS query name does not exist: affinitybancshares.com.,com
+alarumtechnologies.com,NXDOMAIN: The DNS query name does not exist: alarumtechnologies.com.,com
+neoconceptinternationalgroup.com,NXDOMAIN: The DNS query name does not exist: neoconceptinternationalgroup.com.,com
+Cannot determine domain,NXDOMAIN: The DNS query name does not exist: Cannot\032determine\032domain.,
+solarbank.com,NoNameservers: All nameservers failed to answer the query solarbank.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+sevenhillsrealtytrust.com,NXDOMAIN: The DNS query name does not exist: sevenhillsrealtytrust.com.,com
+lakeshorebancorp.com,NXDOMAIN: The DNS query name does not exist: lakeshorebancorp.com.,com
+bananrealestate,NXDOMAIN: The DNS query name does not exist: bananrealestate.,
+solgeltech.com,NXDOMAIN: The DNS query name does not exist: solgeltech.com.,com
+rasiyatholding.com,NXDOMAIN: The DNS query name does not exist: rasiyatholding.com.,com
+energyresourcesaustralia.com.au,NXDOMAIN: The DNS query name does not exist: energyresourcesaustralia.com.au.,com.au
+melbourneenterprises.com,NXDOMAIN: The DNS query name does not exist: melbourneenterprises.com.,com
+thesecuritieshouse.com,NXDOMAIN: The DNS query name does not exist: thesecuritieshouse.com.,com
+nihco.com.kw,NXDOMAIN: The DNS query name does not exist: nihco.com.kw.,com.kw
+venuholding.com,NXDOMAIN: The DNS query name does not exist: venuholding.com.,com
+ccsctechinternationalholdings.com,NXDOMAIN: The DNS query name does not exist: ccsctechinternationalholdings.com.,com
+biolinerx.com,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+polluxproperti.co.id,NXDOMAIN: The DNS query name does not exist: polluxproperti.co.id.,co.id
+senergyholding.com.kw,NXDOMAIN: The DNS query name does not exist: senergyholding.com.kw.,com.kw
+cullmanbancorp.com,NXDOMAIN: The DNS query name does not exist: cullmanbancorp.com.,com
+wonderplanet.co.jp,LifetimeTimeout: The resolution lifetime expired after 3.203 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,co.jp
+whitefieldindustrials.co.uk,NXDOMAIN: The DNS query name does not exist: whitefieldindustrials.co.uk.,co.uk
+nreco-kw.com,NXDOMAIN: The DNS query name does not exist: nreco-kw.com.,com
+fr8tech.com,NXDOMAIN: The DNS query name does not exist: fr8tech.com.,com
+tcbancshares.com,NXDOMAIN: The DNS query name does not exist: tcbancshares.com.,com
+ahtsyngastechnology.com,NXDOMAIN: The DNS query name does not exist: ahtsyngastechnology.com.,com
+xilio.com,NoNameservers: All nameservers failed to answer the query xilio.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+barinthusbiotherapeutics.com,NXDOMAIN: The DNS query name does not exist: barinthusbiotherapeutics.com.,com
+mobile-health-network-solutions.com,NXDOMAIN: The DNS query name does not exist: mobile-health-network-solutions.com.,com
+kulrtech.com,NXDOMAIN: The DNS query name does not exist: kulrtech.com.,com
+arabseainsystems.com,NXDOMAIN: The DNS query name does not exist: arabseainsystems.com.,com
+agrob-immobilien.de,NoNameservers: All nameservers failed to answer the query agrob-immobilien.de. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,de
+goldroyaltycorp.com,LifetimeTimeout: The resolution lifetime expired after 3.207 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+capso-vision.com,NXDOMAIN: The DNS query name does not exist: capso-vision.com.,com
+zueblin-immobilien.de,NXDOMAIN: The DNS query name does not exist: zueblin-immobilien.de.,de
+alijarahholding.com,NXDOMAIN: The DNS query name does not exist: alijarahholding.com.,com
+nationalconsumerholding.com,NXDOMAIN: The DNS query name does not exist: nationalconsumerholding.com.,com
+nstsbancorp.com,NXDOMAIN: The DNS query name does not exist: nstsbancorp.com.,com
+scandinavianenviro.com,NXDOMAIN: The DNS query name does not exist: scandinavianenviro.com.,com
+miyakoshi-holdings.co.jp,NXDOMAIN: The DNS query name does not exist: miyakoshi-holdings.co.jp.,co.jp
+inspiremd,NXDOMAIN: The DNS query name does not exist: inspiremd.,
+a2zsmarttech.com,NXDOMAIN: The DNS query name does not exist: a2zsmarttech.com.,com
+preludetherapeutics.com,NXDOMAIN: The DNS query name does not exist: preludetherapeutics.com.,com
+tscantherapeutics.com,NXDOMAIN: The DNS query name does not exist: tscantherapeutics.com.,com
+gamehours,NXDOMAIN: The DNS query name does not exist: gamehours.,
+mph-healthcare.ch,NXDOMAIN: The DNS query name does not exist: mph-healthcare.ch.,ch
+econergyrenewableenergy.com,NXDOMAIN: The DNS query name does not exist: econergyrenewableenergy.com.,com
+smartgoodthingsholding.com,NXDOMAIN: The DNS query name does not exist: smartgoodthingsholding.com.,com
+ellingtonreit.com,NXDOMAIN: The DNS query name does not exist: ellingtonreit.com.,com
+internationalfinancialadvisorsholding.com,NXDOMAIN: The DNS query name does not exist: internationalfinancialadvisorsholding.com.,com
+acanthe-developpement.fr,NXDOMAIN: The DNS query name does not exist: acanthe-developpement.fr.,fr
+heliadag.ch,NXDOMAIN: The DNS query name does not exist: heliadag.ch.,ch
+astrocorporation.com,NoNameservers: All nameservers failed to answer the query astrocorporation.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+029group.com,NXDOMAIN: The DNS query name does not exist: 029group.com.,com
+xeneticbiosciences.com,NoNameservers: All nameservers failed to answer the query xeneticbiosciences.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+techcreategroup,NXDOMAIN: The DNS query name does not exist: techcreategroup.,
+kuwaitfoundry.com,NXDOMAIN: The DNS query name does not exist: kuwaitfoundry.com.,com
+magicempireglobal.com,NXDOMAIN: The DNS query name does not exist: magicempireglobal.com.,com
+servicerobotics.com,NoNameservers: All nameservers failed to answer the query servicerobotics.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+gbk-beteiligungen.de,NXDOMAIN: The DNS query name does not exist: gbk-beteiligungen.de.,de
+sequana-medical.com,NXDOMAIN: The DNS query name does not exist: sequana-medical.com.,com
+igcworldwide.com,NXDOMAIN: The DNS query name does not exist: igcworldwide.com.,com
+qatargermanmedicaldevices.com,NXDOMAIN: The DNS query name does not exist: qatargermanmedicaldevices.com.,com
+semiluxinternational.com,NXDOMAIN: The DNS query name does not exist: semiluxinternational.com.,com
+coastinvestmentdevelopmentcompany.com,NXDOMAIN: The DNS query name does not exist: coastinvestmentdevelopmentcompany.com.,com
+kuwaitemiratesholding.com,NXDOMAIN: The DNS query name does not exist: kuwaitemiratesholding.com.,com
+gamingfactory.com,NoAnswer: The DNS response does not contain an answer to the question: gamingfactory.com. IN NS,com
+baoshengmediagroup.com,NXDOMAIN: The DNS query name does not exist: baoshengmediagroup.com.,com
+fbrlimited.co.uk,NXDOMAIN: The DNS query name does not exist: fbrlimited.co.uk.,co.uk
+eternatherapeutics.com,NXDOMAIN: The DNS query name does not exist: eternatherapeutics.com.,com
+sm-wirtschaftsberatungsag.ch,NXDOMAIN: The DNS query name does not exist: sm-wirtschaftsberatungsag.ch.,ch
+almadarkuwaitholding.com,NXDOMAIN: The DNS query name does not exist: almadarkuwaitholding.com.,com
+palatintech.com,NXDOMAIN: The DNS query name does not exist: palatintech.com.,com
+adventtechnologies.com,NoNameservers: All nameservers failed to answer the query adventtechnologies.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+virtualinteractivetechnologies.com,NXDOMAIN: The DNS query name does not exist: virtualinteractivetechnologies.com.,com
+creditratingandcollectioncompany.com,NXDOMAIN: The DNS query name does not exist: creditratingandcollectioncompany.com.,com
+equipmentholding.com.kw,NXDOMAIN: The DNS query name does not exist: equipmentholding.com.kw.,com.kw
+mogo.gg,NXDOMAIN: The DNS query name does not exist: mogo.gg.,gg
+sabresresources.com.au,NXDOMAIN: The DNS query name does not exist: sabresresources.com.au.,com.au
+magneticresources.com.au,NXDOMAIN: The DNS query name does not exist: magneticresources.com.au.,com.au
+manydevstudio.com,NXDOMAIN: The DNS query name does not exist: manydevstudio.com.,com
+marimacacopper.com,NXDOMAIN: The DNS query name does not exist: marimacacopper.com.,com
+silveroneresources.com,NXDOMAIN: The DNS query name does not exist: silveroneresources.com.,com
+sanabiotechnology.com,NXDOMAIN: The DNS query name does not exist: sanabiotechnology.com.,com
+nuvectispharma.com,NXDOMAIN: The DNS query name does not exist: nuvectispharma.com.,com
+cielowaste.com,NXDOMAIN: The DNS query name does not exist: cielowaste.com.,com
+orosurmining.com,NXDOMAIN: The DNS query name does not exist: orosurmining.com.,com
+genentascience.com,NXDOMAIN: The DNS query name does not exist: genentascience.com.,com
+immixbiopharma.com,NXDOMAIN: The DNS query name does not exist: immixbiopharma.com.,com
+armata-pharma.com,NXDOMAIN: The DNS query name does not exist: armata-pharma.com.,com
+ghresearch.com,LifetimeTimeout: The resolution lifetime expired after 3.207 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+americanarestaurantsinternational.com,NXDOMAIN: The DNS query name does not exist: americanarestaurantsinternational.com.,com
+mineralystherapeutics.com,NXDOMAIN: The DNS query name does not exist: mineralystherapeutics.com.,com
+usgoldmining.com,NoNameservers: All nameservers failed to answer the query usgoldmining.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+effectortherapeutics.com,NXDOMAIN: The DNS query name does not exist: effectortherapeutics.com.,com
+adlai-nortye.com,NXDOMAIN: The DNS query name does not exist: adlai-nortye.com.,com
+menglyjquach.edu.kh,NXDOMAIN: The DNS query name does not exist: menglyjquach.edu.kh.,edu.kh
+alto-neuroscience.com,NXDOMAIN: The DNS query name does not exist: alto-neuroscience.com.,com
+methaqtakaful.com,NXDOMAIN: The DNS query name does not exist: methaqtakaful.com.,com
+thenationalinvestor.ae,NXDOMAIN: The DNS query name does not exist: thenationalinvestor.ae.,ae
+hayahinsurance.com,NXDOMAIN: The DNS query name does not exist: hayahinsurance.com.,com
+unitedfidelityinsurance.com,NXDOMAIN: The DNS query name does not exist: unitedfidelityinsurance.com.,com
+alkhaleejinvestment.ae,NXDOMAIN: The DNS query name does not exist: alkhaleejinvestment.ae.,ae
+foodco-national-foodstuff.com,NXDOMAIN: The DNS query name does not exist: foodco-national-foodstuff.com.,com
+aldhafra.ae,NXDOMAIN: The DNS query name does not exist: aldhafra.ae.,ae
+abnic.ae,NXDOMAIN: The DNS query name does not exist: abnic.ae.,ae
+awnic.ae,NXDOMAIN: The DNS query name does not exist: awnic.ae.,ae
+emiratesstallionsgroup.com,NXDOMAIN: The DNS query name does not exist: emiratesstallionsgroup.com.,com
+omantel.com.om,NXDOMAIN: The DNS query name does not exist: omantel.com.om.,com.om
+oqgasnet.com,NXDOMAIN: The DNS query name does not exist: oqgasnet.com.,com
+hsbc.com.om,LifetimeTimeout: The resolution lifetime expired after 3.205 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com.om
+al-maha-petroleum.com,NXDOMAIN: The DNS query name does not exist: al-maha-petroleum.com.,com
+thepearlreif.com,NXDOMAIN: The DNS query name does not exist: thepearlreif.com.,com
+omanreinsurance.com,NXDOMAIN: The DNS query name does not exist: omanreinsurance.com.,com
+taageerfinance.com,NoNameservers: All nameservers failed to answer the query taageerfinance.com. IN NS: Server Do53:192.168.15.1@53 answered SERVFAIL,com
+aljazeeresteel.com,NXDOMAIN: The DNS query name does not exist: aljazeeresteel.com.,com
+salalahportservices.com,NXDOMAIN: The DNS query name does not exist: salalahportservices.com.,com
+khaleeji-bank.com,NXDOMAIN: The DNS query name does not exist: khaleeji-bank.com.,com
+tamboranresources.com,NXDOMAIN: The DNS query name does not exist: tamboranresources.com.,com
+ogdcl.com,LifetimeTimeout: The resolution lifetime expired after 3.209 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+maripetroleum.com,NXDOMAIN: The DNS query name does not exist: maripetroleum.com.,com
+hubpower.com.pk,NXDOMAIN: The DNS query name does not exist: hubpower.com.pk.,com.pk
+pakpoil.com,NXDOMAIN: The DNS query name does not exist: pakpoil.com.,com
+alanwarceramictiles.com,NXDOMAIN: The DNS query name does not exist: alanwarceramictiles.com.,com
+omanunitedinsurance.com,NXDOMAIN: The DNS query name does not exist: omanunitedinsurance.com.,com
+voltampenergy.com,NXDOMAIN: The DNS query name does not exist: voltampenergy.com.,com
+nationalhotels.com.bh,NXDOMAIN: The DNS query name does not exist: nationalhotels.com.bh.,com.bh
+pso.com.pk,NXDOMAIN: The DNS query name does not exist: pso.com.pk.,com.pk
+habibmetropolitanbank.com.pk,NXDOMAIN: The DNS query name does not exist: habibmetropolitanbank.com.pk.,com.pk
+abbott.pk,NXDOMAIN: The DNS query name does not exist: abbott.pk.,pk
+rafhan.com.pk,NXDOMAIN: The DNS query name does not exist: rafhan.com.pk.,com.pk
+fauji-cement.com,NXDOMAIN: The DNS query name does not exist: fauji-cement.com.,com
+carnarvonenergy,NXDOMAIN: The DNS query name does not exist: carnarvonenergy.,
+polymetalsresources.com,NXDOMAIN: The DNS query name does not exist: polymetalsresources.com.,com
+hidroelectrica.ro,LifetimeTimeout: The resolution lifetime expired after 3.210 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,ro
+mbxbiosciences.com,LifetimeTimeout: The resolution lifetime expired after 3.201 seconds: Server Do53:192.168.15.1@53 answered The DNS operation timed out.; Server Do53:192.168.15.1@53 answered The DNS operation timed out.,com
+bicara-therapeutics.com,NXDOMAIN: The DNS query name does not exist: bicara-therapeutics.com.,com
+nationalgas.com.om,NXDOMAIN: The DNS query name does not exist: nationalgas.com.om.,com.om
+niceonebeauty.com,NXDOMAIN: The DNS query name does not exist: niceonebeauty.com.,com
+dhofar-generating.com,NXDOMAIN: The DNS query name does not exist: dhofar-generating.com.,com
+omanieurofoodindustries.com,NXDOMAIN: The DNS query name does not exist: omanieurofoodindustries.com.,com
+alanwarinvestments.com,NXDOMAIN: The DNS query name does not exist: alanwarinvestments.com.,com
+ubarhotels.com,NXDOMAIN: The DNS query name does not exist: ubarhotels.com.,com
+almadinainvestmentholding.com,NXDOMAIN: The DNS query name does not exist: almadinainvestmentholding.com.,com
+takafulomaninsurance.com,NXDOMAIN: The DNS query name does not exist: takafulomaninsurance.com.,com
+alliancelaundryholdings.com,NXDOMAIN: The DNS query name does not exist: alliancelaundryholdings.com.,com
+ekttitabholding.com,NXDOMAIN: The DNS query name does not exist: ekttitabholding.com.,com
+sgt-german-private-equity,NXDOMAIN: The DNS query name does not exist: sgt-german-private-equity.,
+inovest.co.za,NXDOMAIN: The DNS query name does not exist: inovest.co.za.,co.za
+armourresreit.com,NXDOMAIN: The DNS query name does not exist: armourresreit.com.,com

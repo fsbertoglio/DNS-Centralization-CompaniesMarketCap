@@ -1,0 +1,217 @@
+rank,company_name,revenue,country_name,country_code,sector,domain
+108,Procter & Gamble,84284000000,United States,,Consumer Staples,pg.com
+115,Archer Daniels Midland (ADM),82776000000,United States,,Materials,adm.com
+116,Progressive,82376200000,United States,,Financials,progressive.com
+179,Oracle,59018000000,United States,,Information Technology,oracle.com
+267,Telefónica,42841170344,Spain,,Communication Services,telefonica.com/es
+316,Mondelez International,37105000000,United States,,Consumer Staples,mondelezinternational.com
+343,Country Garden,34633123715,China,,Real Estate,countrygarden.com.cn
+592,Standard Chartered,20608000000,United Kingdom,,Financials,sc.com
+678,Lincoln National Corporation,18063000000,United States,,Financials,lincolnfinancial.com
+759,Mitsui Fudosan,16232469097,Japan,,Real Estate,mitsui-fudosan.co.jp
+779,Hermès,15786133016,France,,Consumer Discretionary,hermes.com/fr/fr
+870,DTE Energy,14201000000,United States,,Utilities,dteenergy.com
+955,Community Health Systems,12647000000,United States,,Health Care,chs.net
+1025,Daito Trust Construction,11814198007,Japan,,Real Estate,daito-trust.co.jp
+1085,Kintetsu GHD,11126853450,Japan,,Industrials,kintetsughd.co.jp
+1094,Burlington Stores,11016844000,United States,,Consumer Discretionary,burlington.com
+1105,lululemon athletica,10904036000,Canada,,Consumer Discretionary,shop.lululemon.com/ca/en
+1191,Cushman &amp; Wakefield,9742200000,United States,,Real Estate,cushmanwakefield.com/en-us
+1265,Migros Ticaret A.S.,9027549710,Turkey,,Consumer Staples,migros.com.tr
+1277,NH Foods (Nipponham),8908833861,Japan,,Consumer Staples,nhfoods.co.jp
+1329,Nippon Sanso,8568494111,Japan,,Materials,nippon-sanso.co.jp
+1421,AWL Agri Business,7795754325,India,,Consumer Staples,awlagribusiness.com
+1461,Wärtsilä,7556528823,Finland,,Industrials,wartsila.com/fi
+1476,JX Advanced Metals,7488730865,Japan,,Materials,jxam.co.jp
+1538,The Yokohama Rubber Company,7107929957,Japan,,Materials,yokohama-rubber.co.jp
+1565,Dassault Systèmes,6951193916,France,,Information Technology,3ds.com/fr
+1729,NiSource,6130300000,United States,,Utilities,nisource.com
+1894,Bank of Hangzhou,5385672092,China,,Financials,bankofhangzhou.com
+2099,Hualu Hengsheng,4595279793,China,,Communication Services,hualuhengsheng.com
+2158,Mitsui Mining &amp; Smelting,4412718535,Japan,,Materials,mitsui-mining.co.jp
+2219,Tencent Music Entertainment,4213695236,China,,Communication Services,tencentmusic.com
+2249,CIE Automotive,4121413846,Spain,,Industrials,cieautomotive.com
+2286,Boyd Gaming,4027724000,United States,,Consumer Discretionary,boydgaming.com
+2311,OTE Group,3952115114,Greece,,Communication Services,ote.gr
+2373,Bread Financial,3807000000,United States,,Financials,breadfinancial.com
+2386,EDP Renováveis,3770963054,Spain,,Energy,edpr.com/es
+2394,RS Group,3751582680,United Kingdom,,Industrials,uk.rs-online.com/web
+2415,Drägerwerk,3691565041,Germany,,Health Care,draeger.com/de
+2532,Helmerich &amp; Payne,3428058000,United States,,Energy,helmerichandpayne.com
+2571,PBBank (Public Bank Bhd),3366031308,Malaysia,,Financials,publicbank.com.my
+2581,Toyo Suisan,3336194021,Japan,,Consumer Staples,toyo-suisan.co.jp
+2620,Bolloré,3257437850,France,,Industrials,bollore.com
+2790,CSN Mineração,2939881305,Brazil,,Materials,csnmineração.com.br
+2835,Credit Saison,2868231054,Japan,,Financials,credit-saison.co.jp
+3002,Rural Electrification Corp,2598749666,India,,Financials,recindia.nic.in
+3101,Maxvalu Tokai,2485763218,Japan,,Consumer Staples,maxvalu-tokai.co.jp
+3150,Aeon Hokkaido Corporation,2419574616,Japan,,Consumer Discretionary,aeon-hokkaido.co.jp
+3203,Budimex,2343193434,Poland,,Industrials,budimex.pl
+3222,Village Super Market,2299254000,United States,,Consumer Staples,villagesupermarket.com
+3305,Siemens India,2183921923,India,,Industrials,new.siemens.com/in/en.html
+3385,Delta Galil Industries,2092255000,Israel,,Consumer Discretionary,deltagalil.com
+3583,Orion Corporation,1851484459,Finland,,Health Care,orion.fi
+3591,Qatar Islamic Bank,1847193653,Qatar,,Financials,qib.com.qa
+3630,RLI Corp.,1816602000,United States,,Financials,rlicorp.com
+3637,Daikokutenbussan,1799787914,Japan,,Industrials,daikokutenbussan.co.jp
+3653,Jasa Marga,1786386221,Indonesia,,Industrials,jasamarga.com
+3836,Minera Valparaíso,1583932000,Chile,,Materials,minervalparaiso.cl
+3867,Tabcorp,1560983724,Australia,,Consumer Discretionary,tabcorp.com.au
+3884,Siam City Cement (INSEE),1545153601,Thailand,,Materials,insee.co.th
+4252,Séché Environnement,1238736921,France,,Industrials,secheenvironnement.com
+4277,Enact Holdings,1223030000,United States,,Financials,enactholdings.com
+4441,CGN Mining Company,1110874189,Hong Kong,,Materials,cgnmining.com
+4461,monday.com,1100240000,Israel,,Information Technology,monday.com/il
+4493,IG Group,1085500344,United Kingdom,,Financials,ig.com/uk
+4517,Maisons du Monde,1072029321,France,,Consumer Discretionary,maisonsdumonde.com/fr-fr
+4524,Ipca Laboratories,1064953329,India,,Health Care,ipca.co.in
+4534,Zhaojin Mining Industry Company,1057813351,China,,Materials,zhaojinmining.com
+4536,China Development Financial,1057633939,Taiwan,,Financials,cdfh.com.tw
+4540,United Breweries,1053967294,India,,Consumer Staples,unitedbreweries.co.in
+4554,Hatsun Agro Products,1044187922,India,,Consumer Staples,hatsun.co.in
+4567,Eastman Kodak Company,1037000000,United States,,Information Technology,kodak.com/us
+4573,Nanya Technology,1034879220,Taiwan,,Information Technology,nanya.com.tw
+4580,Lindex Group,1032563692,Finland,,Consumer Discretionary,lindex.com/fi
+4616,Nippon Shinyaku,1013350130,Japan,,Health Care,nippon-shinyaku.co.jp
+4651,Donegal Group,994012323,United States,,Financials,donegalgroup.com
+4697,High Liner Foods,971969000,Canada,,Consumer Staples,highlinerfoods.com/ca
+4737,Dallah Healthcare,947644482,Saudi Arabia,,Health Care,dallahhealthcare.com
+4758,Spinneys,938006791,United Arab Emirates,,Consumer Staples,spinneys.com/ae-en
+4769,DeNA,932108283,Japan,,Information Technology,dena.com/jp
+4773,Fujimori Kogyo,929869519,Japan,,Industrials,fujimori-kogyo.co.jp
+4793,Solar Industries India,918446620,India,,Materials,solarindustriesindia.com
+4831,Vale Indonesia,898377000,Indonesia,,Materials,vale.com/id-id
+4865,Glacier Bancorp,877228000,United States,,Financials,glacierbancorp.com
+4883,Senshu Electric,867480659,Japan,,Utilities,senshu-electric.co.jp
+4923,Kapsch TrafficCom,846717413,Austria,,Information Technology,kapsch.net/ktc
+4943,orion-group-holdings,837494000,United States,,Industrials,orion-group-holdings.com
+4989,ACM Research,815166000,United States,,Information Technology,acmresearch.com
+4990,Neinor Homes,814826134,Spain,,Real Estate,neinorhomes.com/es
+4994,Pilot Corporation,813960052,Japan,,Consumer Discretionary,pilot.co.jp
+4996,Polyplex,812587168,India,,Materials,polyplex.co.in
+4999,Sarana Menara Nusantara,810503739,Indonesia,,Communication Services,smn.co.id
+5005,Central Puerto,807846173,Argentina,,Energy,centralpuerto.com.ar
+5020,Raito Kogyo,800359039,Japan,,Industrials,raitokogyo.co.jp
+5022,Osaka Steel,799953323,Japan,,Materials,osakasteel.co.jp
+5056,Astra Industrial Group Company,789480085,Saudi Arabia,,Industrials,astraindustrialgroup.com
+5059,Al Meera Consumer Goods Company,788222903,Qatar,,Consumer Staples,almeera.qa
+5066,Osotspa,785683711,Thailand,,Consumer Staples,osotspa.co.th
+5070,TeamViewer,784206836,Germany,,Information Technology,teamviewer.com/de
+5094,Abbott India,773234323,India,,Health Care,abbottindia.co.in
+5105,Lai Sun Development Company,767824730,Hong Kong,,Real Estate,lasun.com.hk
+5141,Kintetsu Department Store,754242294,Japan,,Consumer Discretionary,kintetsu-dept.co.jp
+5148,Cathay Real Estate Development,751897639,Taiwan,,Real Estate,cathayrealestate.com.tw
+5174,Al Salam Bank,742800588,Bahrain,,Financials,alsalambank.com/fi
+5180,T&amp;G Global,738958026,New Zealand,,Consumer Staples,tgglobal.co.nz
+5191,Sabra Health Care REIT,733040000,United States,,Real Estate,sabrahealthcare.com
+5227,Braemar Hotels &amp; Resorts,716635000,United States,,Real Estate,braemarhotels.com
+5242,Chailease Holding,711956538,Taiwan,,Financials,chailease.com.tw
+5253,Shankara Building,708456024,India,,Industrials,shankarabuilding.com
+5282,Chartwell Retirement Residences,698150978,Canada,,Real Estate,chartwell.com/ca
+5301,Ellaktor,693377025,Greece,,Industrials,ellaktor.gr
+5361,The Shiga Bank,669916542,Japan,,Financials,shiga-bank.co.jp
+5409,Dundee Precious Metals,656997000,Canada,,Materials,dundeepreciousmetals.com
+5413,International Games System,656138912,Taiwan,,Information Technology,igs.com.tw
+5425,Kameda Seika,652681433,Japan,,Consumer Staples,kameda-seika.co.jp
+5453,Nippon Building Fund,643745158,Japan,,Real Estate,nbf.co.jp
+5466,Nitto Boseki,636674384,Japan,,Materials,nitto-boseki.co.jp
+5479,Turkish Airlines,631808846,Turkey,,Industrials,turkishairlines.com/tr-TR
+5498,Talgo S.A.,625788608,Spain,,Industrials,talgo.com/es
+5531,The Bank of Nagoya,614081495,Japan,,Financials,bankofnagoya.co.jp
+5559,Rosetti Marino,605206208,Italy,,Industrials,rosettimarino.it
+5582,Jindal Poly Films,597356258,India,,Materials,jindalpolyfilms.com
+5601,CBL International,592517545,Malaysia,,Real Estate,cblinternational.com
+5605,Commercial Bank of Kuwait,591328324,Kuwait,,Financials,cbk.com.kw
+5623,Japan Real Estate Investment,584481366,Japan,,Real Estate,jreit.co.jp
+5640,Zip Co,579289209,Australia,,Information Technology,zip.co/au
+5681,Arbor Realty Trust,568680000,United States,,Real Estate,arborreit.com
+5684,Mitani Sekisan,567460234,Japan,,Industrials,mitani-sekisan.co.jp
+5687,Rane Holdings,566141846,India,,Industrials,raneholdings.com
+5698,Deezer,563717919,France,,Information Technology,deezer.com/fr
+5715,TOMONY Holdings,558060066,Japan,,Information Technology,tomony.co.jp
+5768,Asahi India Glass,543844338,India,,Materials,asahiindia.co.in
+5790,Lindsay Australia,536835177,Australia,,Industrials,lindsay.com.au
+5859,Cinda Securities,517799612,China,,Financials,cindasecurities.com.cn
+5866,Honeywell Automation India,516800710,India,,Industrials,honeywell.com/in/en
+5909,Shengfeng Development,504158000,China,,Real Estate,shengfengdevelopment.com
+5913,Essential Properties Realty Trust,503257000,United States,,Real Estate,essentialpropertiesreit.com
+5931,Filatex India,497362709,India,,Consumer Discretionary,filatexindia.com
+5936,The Musashino Bank,495857196,Japan,,Financials,musashino-bank.co.jp
+5956,SeABank (Southeast Asia Commercial Joint Stock Bank),492656569,Vietnam,,Financials,seabank.vn
+5994,Fiera Capital,482357990,Canada,,Financials,fieracapital.com/ca
+6064,Shibaura Mechatronics,460624416,Japan,,Industrials,shibaura-mechatronics.co.jp
+6097,Loar Holdings,451742000,United States,,Industrials,loarholdings.com
+6101,ZF Commercial Vehicle Control Systems India,449822821,India,,Industrials,zf.com/in/en
+6104,Enlight Renewable Energy,449575000,Israel,,Energy,enlightrenewableenergy.com
+6112,ADM Hamburg,447565098,Germany,,Consumer Staples,adm.com/de-de
+6121,Mount Gibson Iron,445702265,Australia,,Materials,mountgibsoniron.com.au
+6122,Boardwalk Real Estate Investment Trust,445640631,Canada,,Real Estate,boardwalkreit.ca
+6181,Granite Ridge Resources,432532000,United States,,Energy,graniteridgeresources.com
+6182,Juventus Turin,432520216,Italy,,Consumer Discretionary,juventus.com/it
+6186,QuantaSing Group,431337799,China,,Information Technology,quantasingroup.com
+6207,Delivery Hero,426648783,Germany,,Information Technology,deliveryhero.com/de
+6230,Dalrymple Bay Infrastructure,422347331,Australia,,Industrials,dalrymplebay.com.au
+6239,Duc Giang Chemicals Group,419836613,Vietnam,,Materials,ducgiang.com.vn
+6274,WHA Corporation,412404713,Thailand,,Real Estate,wha.co.th
+6283,ARIAKE JAPAN,409922884,Japan,,Consumer Staples,ariake.co.jp
+6303,Gravity Co.,406006912,South Korea,,Information Technology,gravity.co.kr
+6348,KLCC Property Holdings,396326823,Malaysia,,Real Estate,klccproperty.com.my
+6353,Shenzhen Bingchuan Network,395315445,China,,Information Technology,bingchuan.cn
+6367,"Sumitomo Chemical India",392053707,India,,Materials,sumitomo-chemical.co.in
+6369,Engineers India,391057738,India,,Industrials,engineersindia.com
+6394,Formosa Sumco Technology,383984732,Taiwan,,Materials,formosasumco.com.tw
+6444,Timken India,370808582,India,,Industrials,timkenindia.com
+6578,TOWA Corporation,342652655,Japan,,Industrials,towa.co.jp
+6600,Boubyan Petrochemical Company,339321550,Kuwait,,Materials,boubyanpetrochemical.com
+6743,Crédit Agricole Mutuel de la Touraine et du Poitou,308835869,France,,Financials,ca-tpo.fr
+6819,Air T,296307000,United States,,Industrials,"Please confirm the exact company name or provide a link, as ""Air T"" is ambiguous and I want to ensure I fetch the correct official site."
+6900,Weyco Group,281051000,United States,,Consumer Discretionary,weyco.com
+6971,CI&amp;T,269163789,Brazil,,Information Technology,ciandt.com/br
+7171,Arabi Group Holding,236039917,Kuwait,,Financials,arabigroupholding.com
+7235,Zengame Technology,227145011,China,,Information Technology,zengame.com
+7396,Dollar Industries,205102224,India,,Consumer Discretionary,dollarindustries.com
+7508,Al-Saif Stores for Development &amp; Investment,187074132,Saudi Arabia,,Consumer Discretionary,alsaifstores.com
+7651,MOIL,168187369,India,,Materials,moil.nic.in
+7697,Mitsui Fudosan Logistics Park,162002654,Japan,,Real Estate,mflp.co.jp
+7793,Orion Office REIT,152847000,United States,,Real Estate,orionofficereit.com
+7849,Goodman Property Trust,146132661,New Zealand,,Real Estate,goodmanpropertytrust.co.nz
+8003,GE Power India,127354675,India,,Energy,gepowerindia.com
+8052,İşbir Holding,121376591,Turkey,,Financials,isbirholding.com.tr
+8062,Neptune Insurance Holdings,119299000,United States,,Financials,neptuneinsuranceholdings.com
+8098,Financial Institutions,115735000,United States,,Financials,"Could you provide a precise company name or ticker? ""Financial Institutions"" and ""&F2Financials"" are ambiguous."
+8168,Meeza QSTP LLC (Public),106621932,Qatar,,Information Technology,meeza.qa
+8196,Rumble,104076612,United States,,Communication Services,rumble.com
+8263,Dubai National Insurance & Reinsurance Company,97633077,United Arab Emirates,,Financials,dnir.ae
+8282,LakeShore Biopharma,95805397,China,,Health Care,lakeshorebiopharma.com
+8362,Commercial Bancgroup,87868555,United States,,Financials,commercialbancgroup.com
+8375,UNITED,86315713,Japan,,Industrials,"Please provide more details: which ""UNITED"" company (full legal name) and confirm if you want the site from Japan."
+8408,Al Khaleej Takaful Insurance Company,83466530,Qatar,,Financials,alkhaleejtakaful.com
+8409,Franchi Umberto Marmi,83413667,Italy,,Materials,franchi-umberto-marmi.it
+8412,Sygnity,83222214,Poland,,Information Technology,sygnity.pl
+8451,Nusantara Pelabuhan Handal,79790633,Indonesia,,Industrials,nph.co.id
+8675,Al Jouf Cement Company,62506791,Saudi Arabia,,Materials,aljoufcement.com
+8692,Qatar Electronic Systems,60325567,Qatar,,Information Technology,qes.qa
+8777,Zephyrus Wing Energies,54834087,Israel,,Energy,zephyruswingenergies.com
+8802,Kuwait Financial Centre Markaz,53035144,Kuwait,,Financials,markaz.com.kw
+8810,NIOX Group,52455232,United Kingdom,,Health Care,nioxgroup.com
+8894,Richmond Mutual Bancorporation,44877794,United States,,Financials,richmondmutualbancorporation.com
+9182,Seven Hills Realty Trust,26396000,United States,,Real Estate,sevenhillsrealtytrust.com
+9272,Melbourne Enterprises,20795462,Hong Kong,,Industrials,melbourneenterprises.com
+9356,Cullman Bancorp,16482000,United States,,Financials,cullmanbancorp.com
+9385,"Fr8Tech (Freight Technologies)",15216152,United States,,Industrials,fr8tech.com
+9386,TC Bancshares,15177716,United States,,Financials,tcbancshares.com
+9413,Mobile-health Network Solutions,13968535,Singapore,,Health Care,mobile-health-network-solutions.com
+9514,NSTS Bancorp,9116000,United States,,Financials,nstsbancorp.com
+9641,Ellington Residential Mortgage REIT,4696000,United States,,Real Estate,ellingtonreit.com
+9670,Acanthe Développement,4080252,France,,Real Estate,acanthe-developpement.fr
+9776,Magic Empire Global (Giraffe Capital),1646710,Hong Kong,,Financials,magicempireglobal.com
+9784,Serve Robotics,1479862,United States,,Information Technology,servicerobotics.com
+9830,Kuwait Emirates Holding Company,929827,Kuwait,,Financials,kuwaitemiratesholding.com
+10000,Magnetic Resources NL,1203,Australia,,Materials,magneticresources.com.au
+10179,Sana Biotechnology,0,United States,,Health Care,sanabiotechnology.com
+10379,Emirates Stallions Group (ESG),0,United Arab Emirates,,Industrials,emiratesstallionsgroup.com
+10431,The Pearl REIF,0,Oman,,Real Estate,thepearlreif.com
+10436,Taageer Finance,0,Oman,,Financials,taageerfinance.com
+10465,Oil &amp; Gas Development Company,0,Pakistan,,Energy,ogdcl.com
+10490,Oman United Insurance,0,Oman,,Financials,omanunitedinsurance.com
+10586,UBAR Hotels & Resorts SAOG,0,Oman,,Consumer Discretionary,ubarhotels.com

@@ -1,0 +1,60 @@
+domain,NS,NS-A,company_name,revenue,country_name,sector,rank
+pg.com,ns4-05.azure-dns.info,208.84.5.5,,,,,
+pg.com,ns1-05.azure-dns.com,13.107.236.5,,,,,
+pg.com,ns2-05.azure-dns.net,150.171.21.5,,,,,
+adm.com,dns1.admworld.com,12.43.88.20,,,,,
+adm.com,dmtu.mt.ns.els-gms.att.net,99.99.99.134,,,,,
+adm.com,dbru.br.ns.els-gms.att.net,68.94.156.134,,,,,
+oracle.com,ns2.p201.dns.oraclecloud.net,108.59.168.201,,,,,
+oracle.com,ns4.p201.dns.oraclecloud.net,108.59.172.201,,,,,
+oracle.com,a1-160.akam.net,193.108.91.160,,,,,
+mondelezinternational.com,dns1.cscdns.net,156.154.130.100,,,,,
+mondelezinternational.com,dns2.cscdns.net,156.154.131.100,,,,,
+sc.com,udns2.cscdns.uk,204.74.111.1,,,,,
+sc.com,udns1.cscdns.net,204.74.66.1,,,,,
+kentaku.co.jp,dns4.dion.ne.jp,210.172.64.112,,,,,
+kentaku.co.jp,dns.kentaku.co.jp,210.249.40.37,,,,,
+kintetsu-g-hd.co.jp,ns-1217.awsdns-24.org,205.251.196.193,,,,,
+kintetsu-g-hd.co.jp,ns-1683.awsdns-18.co.uk,205.251.198.147,,,,,
+kintetsu-g-hd.co.jp,ns-320.awsdns-40.com,205.251.193.64,,,,,
+migros.com.tr,dnsa1.vodafone.net.tr,213.194.71.98,,,,,
+migros.com.tr,dnsa2.vodafone.net.tr,213.194.71.102,,,,,
+migros.com.tr,dnx1.vodafone.net.tr,213.194.71.98,,,,,
+nipponham.co.jp,ns007-mhr7d9s55cekm8gk.m.d-53.info,202.32.219.38,,,,,
+nipponham.co.jp,ns007-mhr7d9s55cekm8gk.m.d-53.jp,203.180.146.98,,,,,
+nipponham.co.jp,ns007-mhr7d9s55cekm8gk.m.d-53.net,210.138.20.98,,,,,
+hl-hengsheng.com,ns11.xincache.com,129.211.176.209,,,,,
+hl-hengsheng.com,ns12.xincache.com,112.80.181.111,,,,,
+cieautomotive.com,ns3.eurodns.com,199.167.66.108,CIE Automotive,4121413846.0,Spain,Industrials,2249.0
+cieautomotive.com,ns4.eurodns.com,104.37.178.108,CIE Automotive,4121413846.0,Spain,Industrials,2249.0
+cieautomotive.com,ns1.eurodns.com,199.167.66.107,CIE Automotive,4121413846.0,Spain,Industrials,2249.0
+bollore.com,nsa.perf1.fr,81.92.94.100,BollorÃƒÂ©,3257437850.0,France,Industrials,2620.0
+bollore.com,nsb.perf1.com,81.92.95.100,BollorÃƒÂ©,3257437850.0,France,Industrials,2620.0
+bollore.com,nsz.perf1.fr,208.80.126.13,BollorÃƒÂ©,3257437850.0,France,Industrials,2620.0
+deltagalil.com,ns-203-a.gandi.net,173.246.100.204,Delta Galil Industries,2092255000.0,Israel,Consumer Discretionary,3385.0
+deltagalil.com,ns-53-b.gandi.net,213.167.230.54,Delta Galil Industries,2092255000.0,Israel,Consumer Discretionary,3385.0
+deltagalil.com,ns-102-c.gandi.net,217.70.187.103,Delta Galil Industries,2092255000.0,Israel,Consumer Discretionary,3385.0
+orion.fi,ns-508.awsdns-63.com,205.251.193.252,Orion Corporation,1851484459.0,Finland,Health Care,3583.0
+orion.fi,ns-635.awsdns-15.net,205.251.194.123,Orion Corporation,1851484459.0,Finland,Health Care,3583.0
+orion.fi,ns-1355.awsdns-41.org,205.251.197.75,Orion Corporation,1851484459.0,Finland,Health Care,3583.0
+nippon-shinyaku.co.jp,ns002-otn6uao7hh0r80go.o.d-53.info,202.32.219.33,Nippon Shinyaku,1013350130.0,Japan,Health Care,4616.0
+nippon-shinyaku.co.jp,ns002-otn6uao7hh0r80go.o.d-53.jp,203.180.146.93,Nippon Shinyaku,1013350130.0,Japan,Health Care,4616.0
+nippon-shinyaku.co.jp,ns002-otn6uao7hh0r80go.o.d-53.net,210.138.20.93,Nippon Shinyaku,1013350130.0,Japan,Health Care,4616.0
+pilot.co.jp,ns.pri.co.jp,111.171.219.173,Pilot Corporation,813960052.0,Japan,Consumer Discretionary,4994.0
+pilot.co.jp,ns2.pri.co.jp,124.24.53.99,Pilot Corporation,813960052.0,Japan,Consumer Discretionary,4994.0
+smn.co.id,ns1.cbn.net.id,202.158.20.1,Sarana Menara Nusantara,810503739.0,Indonesia,Communication Services,4999.0
+smn.co.id,ns2.cbn.net.id,202.158.40.1,Sarana Menara Nusantara,810503739.0,Indonesia,Communication Services,4999.0
+igs.com.tw,dns02.chief.net.tw,223.26.68.246,International Games System,656138912.0,Taiwan,Information Technology,5413.0
+igs.com.tw,dns03.chief.net.tw,150.117.120.196,International Games System,656138912.0,Taiwan,Information Technology,5413.0
+igs.com.tw,dns01.chief.net.tw,223.26.68.245,International Games System,656138912.0,Taiwan,Information Technology,5413.0
+nbf.co.jp,ns05.domainserver.ne.jp,103.241.128.12,Nippon Building Fund,643745158.0,Japan,Real Estate,5453.0
+nbf.co.jp,ns06.domainserver.ne.jp,103.96.252.12,Nippon Building Fund,643745158.0,Japan,Real Estate,5453.0
+seabank.vn,ns2.inet.vn,210.211.99.38,,,,,
+seabank.vn,ns1.inet.vn,202.92.4.25,,,,,
+seabank.vn,ns3.inet.vn,203.113.174.42,,,,,
+ducgiang.com.vn,ns1.pavietnam.vn,112.213.89.3,Duc Giang Chemicals Group,419836613.0,Vietnam,Materials,6239.0
+ducgiang.com.vn,ns2.pavietnam.vn,222.255.121.247,Duc Giang Chemicals Group,419836613.0,Vietnam,Materials,6239.0
+ducgiang.com.vn,nsbak.pavietnam.net,112.213.89.22,Duc Giang Chemicals Group,419836613.0,Vietnam,Materials,6239.0
+towa.co.jp,ns018-eoe0arqj9v989t54.e.d-53.net,210.138.20.109,TOWA Corporation,342652655.0,Japan,Industrials,6578.0
+towa.co.jp,ns018-eoe0arqj9v989t54.e.d-53.info,202.32.219.49,TOWA Corporation,342652655.0,Japan,Industrials,6578.0
+towa.co.jp,ns018-eoe0arqj9v989t54.e.d-53.jp,162.159.26.190,TOWA Corporation,342652655.0,Japan,Industrials,6578.0
