@@ -1,0 +1,200 @@
+==============================================================================
+AUDITORIA DO PIPELINE - LIMITAÇÕES E EMPRESAS NÃO RESOLVIDAS
+Gerado em 2026-10-13 13:26
+==============================================================================
+
+1. FUNIL: TAMANHO DE CADA TABELA INTERMEDIÁRIA
+------------------------------------------------------------------------------
+  raw (top_companies_revenue_20261012.csv): 11345 linhas
+  01_data_after_yfinance.csv           :   10635 linhas | 10635 empresas
+  ns_resolver/companies.parquet        :   10635 linhas | 10635 empresas | 10292 com apex | 10233 apex únicos
+  ns_resolver/dns_status.parquet       :      33 domínios com falha registrada
+  ns_resolver/ns_hosts.parquet         :   31934 pares (domínio, NS) | 10200 domínios | 10768 NS únicos
+  ns_resolver/ns_ips.parquet           :   26413 linhas | 10768 NS | 18862 IPs únicos
+  asn_resolver/ip_asn.parquet          :   18862 IPs | 1424 ASNs
+  asn_resolver/asn_org_info.parquet    :    1424 ASNs com org
+  full_dns_enriched.parquet            :   83539 linhas | 10635 empresas
+
+2. CONSISTÊNCIA ENTRE TABELAS (itens órfãos = informação perdida entre etapas)
+------------------------------------------------------------------------------
+  empresas em 01 e ausentes em companies.parquet : 0
+  empresas em companies e ausentes em full       : 0
+  empresas duplicadas em 01 (rank repetido)      : 0
+  NS em ns_hosts sem registro em ns_ips          : 0
+  IPs em ns_ips sem registro em ip_asn           : 0
+  ASNs em ip_asn sem registro em asn_org_info    : 0
+  ASNs em asn_org_info com org vazia             : 1
+  IPs privados/reservados vazados no DNS público : 10
+
+3. STATUS DE CADA CONSULTA (nível de linha, antes de agrupar por empresa)
+------------------------------------------------------------------------------
+  dns_status (por apex, ns_resolver):
+              domínios
+    status            
+    no_ns           18
+    timeout         13
+    nxdomain         2
+  ip_lookup_status (por NS e tipo de registro, ns_ips):
+                             NS
+    rtype status               
+    A     no_a                7
+          no_nameservers      2
+          nxdomain           47
+          ok              13700
+          timeout            28
+    AAAA  no_aaaa          4098
+          no_nameservers     12
+          nxdomain           47
+          ok               8442
+          timeout            30
+  asn_status (por IP, ip_asn):
+                IPs
+    status         
+    ok        18849
+    nxdomain     13
+  yf_status (por empresa, 01):
+                                empresas
+    yf_status                           
+    success                        10292
+    error: ticker not resolved       342
+    NaN                                1
+
+4. ONDE CADA EMPRESA PARAROU (resolução IPv4, primeira etapa que falhou)
+------------------------------------------------------------------------------
+  1_yfinance                343    3.2%  yfinance não retornou dados da empresa (yf_status != success)
+  2_sem_website               0    0.0%  yfinance respondeu, mas sem campo 'website' -> sem domínio para consultar
+  2_apex_nao_extraido         0    0.0%  há website, mas não foi possível extrair o domínio apex
+  3_ns_lookup                33    0.3%  consulta de NS do domínio falhou (nxdomain / no_ns / timeout / sem NS)
+  4_ns_sem_ip_ipv4            9    0.1%  há NS, mas nenhum registro A (IPv4) foi obtido para eles
+  5_ip_sem_asn                0    0.0%  há IPv4, mas nenhum foi mapeado a um ASN (IP privado ou prefixo não roteado)
+  6_asn_sem_org               0    0.0%  há ASN, mas sem organização/handle na base de ASN->org
+  OK                      10250   96.4%  resolvida em IPv4 (ao menos um NS com IP, ASN e organização)
+
+  Resolvidas em IPv4 : 10250 de 10635 (96.4%)
+  Não resolvidas     : 385 (3.6%)
+
+  Detalhe por etapa:
+
+  [1_yfinance] 343 empresas - yfinance não retornou dados da empresa (yf_status != success)
+                                  empresas
+      detail                              
+      error: ticker not resolved       342
+      None                               1
+
+  [3_ns_lookup] 33 empresas - consulta de NS do domínio falhou (nxdomain / no_ns / timeout / sem NS)
+                empresas
+      detail            
+      no_ns           18
+      timeout         13
+      nxdomain         2
+
+  [4_ns_sem_ip_ipv4] 9 empresas - há NS, mas nenhum registro A (IPv4) foi obtido para eles
+                empresas
+      detail            
+      nxdomain         6
+      timeout          2
+      no_a             1
+
+5. IMPACTO NA AMOSTRA (receita e composição)
+------------------------------------------------------------------------------
+  Receita total da amostra           : 66,868,049,526,285
+  Receita das não resolvidas         : 445,237,882,705 (0.7%)
+  Taxa de não resolução por setor:
+                            empresas  nao_resolvidas     %
+    sector                                                
+    NaN                          343             334  97.4
+    Utilities                    315               4   1.3
+    Communication Services       641               5   0.8
+    Financial Services          1521              12   0.8
+    Basic Materials              727               5   0.7
+    Real Estate                  667               5   0.7
+    Healthcare                  1080               5   0.5
+    Consumer Defensive           618               2   0.3
+    Technology                  1276               4   0.3
+    Industrials                 1772               5   0.3
+    Consumer Cyclical           1265               3   0.2
+    Energy                       410               1   0.2
+  Países com mais empresas não resolvidas (top 15):
+                     empresas  nao_resolvidas      %
+    company_country                                 
+    United States        3365             120    3.6
+    India                 595              24    4.0
+    France                333              20    6.0
+    Germany               371              18    4.9
+    Bahrain                18              17   94.4
+    Canada                400              17    4.2
+    Japan                 943              16    1.7
+    China                 498              15    3.0
+    Norway                108              10    9.3
+    Kuwait                126               8    6.3
+    Switzerland           216               8    3.7
+    Sweden                220               8    3.6
+    United Kingdom        467               8    1.7
+    South Korea           176               7    4.0
+    Cambodia                6               6  100.0
+  Maiores empresas (por receita) não resolvidas (top 20):
+                               company_name ticker_symbol       company_country             stage                      detail
+    rank                                                                                                                     
+    421                            Michelin         ML.PA                France        1_yfinance  error: ticker not resolved
+    502   China Coal Energy Company Limited     601898.SS                 China       3_ns_lookup                    nxdomain
+    615                      Country Garden       2007.HK                 China       3_ns_lookup                       no_ns
+    645                              Fiserv          FISV         United States        1_yfinance  error: ticker not resolved
+    859                   Sharp Corporation        6753.T                 Japan       3_ns_lookup                       no_ns
+    1116           Community Health Systems           CYH         United States       3_ns_lookup                     timeout
+    1163                      Grupo Elektra    ELEKTRA.MX                Mexico        1_yfinance  error: ticker not resolved
+    1193                            Autoliv           ALV                Sweden       3_ns_lookup                       no_ns
+    1194                     Bank of Ningbo     002142.SZ                 China       3_ns_lookup                       no_ns
+    1368                          QVC Group         QVCGA         United States        1_yfinance  error: ticker not resolved
+    1570      International Holding Company        IHC.AE  United Arab Emirates        1_yfinance  error: ticker not resolved
+    1650     Seven Group Holdings\r\n (SGH)        SGH.AX             Australia        1_yfinance  error: ticker not resolved
+    1660                               Enea        ENA.WA                Poland       3_ns_lookup                     timeout
+    1691        Advanced Info Service (AIS)     ADVANC.BK              Thailand       3_ns_lookup                     timeout
+    1695                           Sembcorp        U96.SI             Singapore  4_ns_sem_ip_ipv4                        no_a
+    1728                           NiSource            NI         United States  4_ns_sem_ip_ipv4                     timeout
+    2026            Select Medical Holdings           SEM         United States        1_yfinance  error: ticker not resolved
+    2036                    John Wood Group          WG.L        United Kingdom        1_yfinance  error: ticker not resolved
+    2183            Macquarie Group Limited        MQG.AX             Australia        1_yfinance  error: ticker not resolved
+    2229        Tencent Music Entertainment           TME                 China       3_ns_lookup                       no_ns
+
+6. COMPLETUDE ENTRE AS EMPRESAS RESOLVIDAS (resolução parcial)
+------------------------------------------------------------------------------
+  Empresas com TODOS os NS resolvidos em IPv4        : 10183
+  Empresas com NS parcialmente resolvidos (>=1 falha): 67 (0.7% das resolvidas)
+  Fração de NS resolvidos por empresa: média=1.00 mín=0.20 mediana=1.00
+  Empresas com NS único (sem redundância)            : 30
+  Resolvidas em IPv4 que também têm IPv6 com org     : 8152 (79.5%)
+  Resolvidas em IPv4 SEM IPv6 (sem AAAA: não é falha): 2098
+  Não resolvidas em IPv4 mas com IPv6 resolvido      : 0
+
+7. LINHAS SEM as_org EM full_dns_enriched (nível NS x IP)
+------------------------------------------------------------------------------
+  7136 de 83539 linhas (8.5%)
+  Dessas, 14 têm IP mas sem org: 10 privados, 4 públicos (sem ASN ou ASN sem org)
+  Causa das linhas sem org (ip_type x ip_lookup_status x asn_status):
+                                         linhas
+    ip_type ip_lookup_status asn_status        
+    A       no_a             NaN             10
+            no_nameservers   NaN              2
+            nxdomain         NaN             60
+            ok               nxdomain        12
+                             ok               1
+            timeout          NaN             28
+    AAAA    no_aaaa          NaN           6512
+            no_nameservers   NaN             44
+            nxdomain         NaN             60
+            ok               nxdomain         1
+            timeout          NaN             30
+    NaN     NaN              NaN            376
+
+8. LIMITAÇÕES METODOLÓGICAS (para registrar no texto)
+------------------------------------------------------------------------------
+   1. Cobertura: 96.4% das 10635 empresas têm resolução IPv4 completa; 385 ficam fora da análise de concentração.
+   2. Viés de seleção: as não resolvidas somam 0.7% da receita da amostra; ver seção 5 para setores/países sobre-representados entre as perdas.
+   3. Dependência do yfinance para o website: 343 empresas perdidas por falta de dado cadastral (não há fonte alternativa de domínio).
+   4. Domínio apex único por empresa: subsidiárias, domínios regionais e serviços (CDN, e-mail, SaaS) não são capturados; a infraestrutura medida é apenas a do site corporativo principal.
+   5. Mede-se o DNS autoritativo (NS) e a rede que hospeda os servidores de nomes, não o provedor do conteúdo/web; um NS pode ser operado por terceiro distinto do hosting.
+   6. IPs privados vazados no DNS público (10 IPs) e prefixos não roteados não têm ASN e são tratados como não resolvidos.
+   7. Falhas de timeout/SERVFAIL podem ser transitórias: um novo passe pode recuperar parte delas.
+   8. Mapeamento IP->ASN e ASN->org é um retrato único no tempo; anycast, múltiplas origens (asn_all) e mudanças de prefixo não são modelados, e fica-se com o primeiro ASN.
+   9. IPv6: empresas sem AAAA não são falha, mas fazem o IPv6 cobrir população diferente do IPv4; as análises por família de endereço não são diretamente comparáveis.
+  10. Resolução parcial: parte das empresas resolvidas tem NS sem IP/org, o que pode subestimar a diversidade de provedores (seção 6).

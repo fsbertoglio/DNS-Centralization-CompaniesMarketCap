@@ -1,0 +1,89 @@
+bloco,setor,peso,n_empresas,hhi,cr1,top1
+BRICS,Basic Materials,empresas,146,834.9107625743646,0.1569767441860465,Host Europe GmbH
+BRICS,Basic Materials,receita,146,1223.7964828153479,0.2425558429177524,Alibaba
+BRICS,Communication Services,empresas,103,996.1416195491277,0.15270935960591134,China Unicom
+BRICS,Communication Services,receita,103,958.014074993274,0.13668718702293756,China Unicom
+BRICS,Consumer Cyclical,empresas,199,814.6671413314347,0.16226415094339622,"Cloudflare, Inc."
+BRICS,Consumer Cyclical,receita,199,1257.5467098807876,0.18732515908875133,China Unicom
+BRICS,Consumer Defensive,empresas,88,764.8283038501561,0.1693548387096774,Alibaba
+BRICS,Consumer Defensive,receita,88,1237.5630602859253,0.23768453768913184,Microsoft Corporation
+BRICS,Energy,empresas,33,754.4581618655693,0.12962962962962962,China Unicom
+BRICS,Energy,receita,33,1662.2107768954236,0.2628062142550699,China Unicom
+BRICS,Financial Services,empresas,195,666.9840720221608,0.11842105263157894,China Unicom
+BRICS,Financial Services,receita,195,1082.672765395304,0.19962509101753728,China Unicom
+BRICS,Healthcare,empresas,92,924.1172051089408,0.19834710743801653,Alibaba
+BRICS,Healthcare,receita,92,1504.8830057960029,0.3279028470537513,Alibaba
+BRICS,Industrials,empresas,191,834.5600000000002,0.164,Alibaba
+BRICS,Industrials,receita,191,1891.2420881052926,0.32719482204167916,Alibaba
+BRICS,Real Estate,empresas,40,815.6355801785164,0.21052631578947367,"Cloudflare, Inc."
+BRICS,Real Estate,receita,40,1726.3082244568723,0.34386825038969676,Alibaba
+BRICS,Technology,empresas,142,1025.2758988964044,0.22641509433962265,Alibaba
+BRICS,Technology,receita,142,1013.7957063790487,0.21136724611538127,China Telecom
+BRICS,Utilities,empresas,52,546.875,0.09375,China Unicom
+BRICS,Utilities,receita,52,909.7502026313774,0.17794616977118385,China Unicom
+EUA,Basic Materials,empresas,116,1915.2777777777785,0.35833333333333334,"Cloudflare, Inc."
+EUA,Basic Materials,receita,116,1447.2204701940886,0.23347343153632372,DigiCert
+EUA,Communication Services,empresas,149,1547.3943968645667,0.30120481927710846,"Amazon.com, Inc."
+EUA,Communication Services,receita,149,1194.8789705601835,0.217594096275638,Google LLC
+EUA,Consumer Cyclical,empresas,361,1309.449833530654,0.2608695652173913,"Cloudflare, Inc."
+EUA,Consumer Cyclical,receita,361,1290.4989393071246,0.23640953552733268,"Amazon.com, Inc."
+EUA,Consumer Defensive,empresas,147,1300.7284079084288,0.23870967741935484,"Cloudflare, Inc."
+EUA,Consumer Defensive,receita,147,2266.3721228821573,0.3686607984980201,Akamai
+EUA,Energy,empresas,149,1541.4738341046636,0.2893081761006289,Host Europe GmbH
+EUA,Energy,receita,149,1130.3998681899595,0.20696409802605878,DigiCert
+EUA,Financial Services,empresas,542,1725.6120135128872,0.35714285714285715,"Cloudflare, Inc."
+EUA,Financial Services,receita,542,1299.380718498193,0.2539625502079442,"Cloudflare, Inc."
+EUA,Healthcare,empresas,557,1817.6548152909477,0.2876949740034662,"Cloudflare, Inc."
+EUA,Healthcare,receita,557,1084.0050776690891,0.18023413934309604,NSONE Inc
+EUA,Industrials,empresas,452,1261.7620315245072,0.2718052738336714,"Cloudflare, Inc."
+EUA,Industrials,receita,452,881.3153140852338,0.18183330330572545,"Cloudflare, Inc."
+EUA,Real Estate,empresas,201,1778.5712618730884,0.28502415458937197,"Cloudflare, Inc."
+EUA,Real Estate,receita,201,1584.6802471823669,0.2301415173258886,"Amazon.com, Inc."
+EUA,Technology,empresas,495,1454.6554098147815,0.25508317929759705,"Amazon.com, Inc."
+EUA,Technology,receita,495,976.3756695699461,0.1517347764717695,DigiCert
+EUA,Utilities,empresas,76,1034.9032159731748,0.18518518518518517,"Cloudflare, Inc."
+EUA,Utilities,receita,76,728.4256981971095,0.1681565741055901,Microsoft Corporation
+Outros,Basic Materials,empresas,365,712.474631381183,0.20417633410672853,"Cloudflare, Inc."
+Outros,Basic Materials,receita,365,703.3387718897711,0.12732954734406382,"Cloudflare, Inc."
+Outros,Communication Services,empresas,249,1317.9698216735253,0.31851851851851853,"Amazon.com, Inc."
+Outros,Communication Services,receita,249,644.2647568595172,0.16128483526350176,"Amazon.com, Inc."
+Outros,Consumer Cyclical,empresas,467,886.1103269356524,0.2060491493383743,"Amazon.com, Inc."
+Outros,Consumer Cyclical,receita,467,907.9679292164759,0.21975179579233245,Akamai
+Outros,Consumer Defensive,empresas,276,822.3842332959459,0.2088607594936709,"Cloudflare, Inc."
+Outros,Consumer Defensive,receita,276,991.5304295114533,0.18792895970182566,DigiCert
+Outros,Energy,empresas,185,641.3908978011547,0.1581196581196581,"Cloudflare, Inc."
+Outros,Energy,receita,185,1079.780248920849,0.2119840288738958,"Amazon.com, Inc."
+Outros,Financial Services,empresas,567,616.4359861591695,0.1676470588235294,"Cloudflare, Inc."
+Outros,Financial Services,receita,567,898.50591814458,0.1911670783723191,Akamai
+Outros,Healthcare,empresas,256,737.2263601219832,0.18518518518518517,"Cloudflare, Inc."
+Outros,Healthcare,receita,256,758.9864105632978,0.19741593731855914,Akamai
+Outros,Industrials,empresas,741,616.40903686088,0.167816091954023,"Cloudflare, Inc."
+Outros,Industrials,receita,741,574.5487146793171,0.13485361475773996,"Amazon.com, Inc."
+Outros,Real Estate,empresas,294,1205.9948339281318,0.2930513595166163,"Cloudflare, Inc."
+Outros,Real Estate,receita,294,805.4769211036931,0.15032394631048185,"Cloudflare, Inc."
+Outros,Technology,empresas,427,896.7665181871007,0.20278330019880716,"Amazon.com, Inc."
+Outros,Technology,receita,427,876.8656752379045,0.1520427017017218,"Amazon.com, Inc."
+Outros,Utilities,empresas,113,607.1005917159764,0.16923076923076924,"Cloudflare, Inc."
+Outros,Utilities,receita,113,697.9492547741252,0.18773756501589106,Akamai
+UE,Basic Materials,empresas,95,418.4017449930597,0.10569105691056911,"Cloudflare, Inc."
+UE,Basic Materials,receita,95,893.1155732488672,0.19684480667217635,DigiCert
+UE,Communication Services,empresas,135,464.0095181439618,0.13414634146341464,"Cloudflare, Inc."
+UE,Communication Services,receita,135,1111.3443028774382,0.2697297840637128,Deutsche Telekom
+UE,Consumer Cyclical,empresas,235,408.1632653061226,0.12422360248447205,"Cloudflare, Inc."
+UE,Consumer Cyclical,receita,235,611.0048508369474,0.12766813329353108,NSONE Inc
+UE,Consumer Defensive,empresas,105,545.7785698373802,0.1417910447761194,"Cloudflare, Inc."
+UE,Consumer Defensive,receita,105,1591.862032029206,0.257652675785697,"Cloudflare, Inc."
+UE,Energy,empresas,42,792.0000000000001,0.2,"Cloudflare, Inc."
+UE,Energy,receita,42,1451.0709044715934,0.2741417781542624,TotalEnergies SE
+UE,Financial Services,empresas,205,483.61807958477505,0.13970588235294118,Akamai
+UE,Financial Services,receita,205,1348.0835843360594,0.3220834224040108,Akamai
+UE,Healthcare,empresas,170,324.7728980260911,0.09090909090909091,"Cloudflare, Inc."
+UE,Healthcare,receita,170,531.434556962108,0.09868007376460224,DigiCert
+UE,Industrials,empresas,383,345.05143825530183,0.09611829944547134,"Cloudflare, Inc."
+UE,Industrials,receita,383,452.555043511914,0.14180082782093856,DigiCert
+UE,Real Estate,empresas,127,509.0530697190427,0.16129032258064516,"Cloudflare, Inc."
+UE,Real Estate,receita,127,613.9039381096981,0.1173809312735164,"Cloudflare, Inc."
+UE,Technology,empresas,208,481.95266272189355,0.15,"Cloudflare, Inc."
+UE,Technology,receita,208,819.0510277367338,0.19390069680420638,"Cloudflare, Inc."
+UE,Utilities,empresas,70,427.97626562302736,0.10112359550561797,"Amazon.com, Inc."
+UE,Utilities,receita,70,832.9507920349164,0.18881728604413966,"Amazon.com, Inc."

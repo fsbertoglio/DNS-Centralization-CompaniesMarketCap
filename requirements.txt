@@ -1,0 +1,11 @@
+pyarrow
+pandas
+tqdm
+yfinance
+financedatabase
+rapidfuzz
+curl_cffi          # impersonate="chrome" contra bloqueio por fingerprint
+tenacity           # retentativas com backoff
+dnspython          # import dns.resolver (consulta NS/A/AAAA, e TXT do Team Cymru se usar)
+tldextract         # apex / domínio registrável (top_domain_under_public_suffix pede versão recente)
+requests           # download do pfx2as e do AS2Org
