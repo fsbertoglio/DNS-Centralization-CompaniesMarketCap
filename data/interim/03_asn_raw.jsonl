@@ -18860,3 +18860,30 @@
 {"ip": "50.220.49.60", "asn": 7922, "asn_all": "7922", "prefix": "50.128.0.0/9", "cc": "US", "registry": "arin", "as_name": "COMCAST-7922 - Comcast Cable Communications, LLC, US", "status": "ok"}
 {"ip": "137.131.51.114", "asn": 31898, "asn_all": "31898", "prefix": "137.131.0.0/18", "cc": "US", "registry": "arin", "as_name": "ORACLE-BMC-31898 - Oracle Corporation, US", "status": "ok"}
 {"ip": "208.78.22.124", "asn": 32850, "asn_all": "32850", "prefix": "208.78.22.0/24", "cc": "US", "registry": "arin", "as_name": "CLARITEV-VA - Claritev Corporation, US", "status": "ok"}
+{"ip": "195.142.105.92", "asn": 201178, "asn_all": "201178", "prefix": "195.142.105.0/24", "cc": "TR", "registry": "ripencc", "as_name": "EURONET - Euronet Telekomunikasyon A.S., TR", "status": "ok"}
+{"ip": "125.5.87.230", "asn": 7629, "asn_all": "7629", "prefix": "125.5.80.0/21", "cc": "PH", "registry": "apnic", "as_name": "EPLDT-AS-AP - 5F L.V. Locsin Bldg, PH", "status": "ok"}
+{"ip": "210.14.4.37", "asn": 9299, "asn_all": "9299", "prefix": "210.14.0.0/19", "cc": "PH", "registry": "apnic", "as_name": "IPG-AS-AP - Philippine Long Distance Telephone Company, PH", "status": "ok"}
+{"ip": "205.251.196.58", "asn": 16509, "asn_all": "16509", "prefix": "205.251.196.0/24", "cc": "US", "registry": "arin", "as_name": "AMAZON-02 - Amazon.com, Inc., US", "status": "ok"}
+{"ip": "195.142.105.93", "asn": 201178, "asn_all": "201178", "prefix": "195.142.105.0/24", "cc": "TR", "registry": "ripencc", "as_name": "EURONET - Euronet Telekomunikasyon A.S., TR", "status": "ok"}
+{"ip": "195.142.105.94", "asn": 201178, "asn_all": "201178", "prefix": "195.142.105.0/24", "cc": "TR", "registry": "ripencc", "as_name": "EURONET - Euronet Telekomunikasyon A.S., TR", "status": "ok"}
+{"ip": "195.142.105.91", "asn": 201178, "asn_all": "201178", "prefix": "195.142.105.0/24", "cc": "TR", "registry": "ripencc", "as_name": "EURONET - Euronet Telekomunikasyon A.S., TR", "status": "ok"}
+{"ip": "213.167.230.129", "asn": 209453, "asn_all": "209453", "prefix": "213.167.230.0/24", "cc": "FR", "registry": "ripencc", "as_name": "GANDI-LIVEDNS - GANDI SAS, FR", "status": "ok"}
+{"ip": "173.246.100.99", "asn": 209453, "asn_all": "209453", "prefix": "173.246.100.0/24", "cc": "US", "registry": "arin", "as_name": "GANDI-LIVEDNS - GANDI SAS, FR", "status": "ok"}
+{"ip": "185.132.34.17", "asn": 15418, "asn_all": "15418", "prefix": "185.132.32.0/22", "cc": "DE", "registry": "ripencc", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "185.132.32.114", "asn": 15418, "asn_all": "15418", "prefix": "185.132.32.0/22", "cc": "DE", "registry": "ripencc", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "185.132.33.52", "asn": 15418, "asn_all": "15418", "prefix": "185.132.32.0/22", "cc": "DE", "registry": "ripencc", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "185.132.35.59", "asn": 15418, "asn_all": "15418", "prefix": "185.132.32.0/22", "cc": "DE", "registry": "ripencc", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "52.52.168.88", "asn": 16509, "asn_all": "16509", "prefix": "52.52.0.0/15", "cc": "US", "registry": "arin", "as_name": "AMAZON-02 - Amazon.com, Inc., US", "status": "ok"}
+{"ip": "207.211.42.245", "asn": 14135, "asn_all": "14135", "prefix": "207.211.32.0/19", "cc": "US", "registry": "arin", "as_name": "NAVISITE-EAST-2 - Navisite Opco LLC, US", "status": "ok"}
+{"ip": "207.211.42.246", "asn": 14135, "asn_all": "14135", "prefix": "207.211.32.0/19", "cc": "US", "registry": "arin", "as_name": "NAVISITE-EAST-2 - Navisite Opco LLC, US", "status": "ok"}
+{"ip": "70.42.136.245", "asn": 12182, "asn_all": "12182", "prefix": "70.42.128.0/20", "cc": "US", "registry": "arin", "as_name": "INTERNAP-2BLK - Unitas Global, US", "status": "ok"}
+{"ip": "61.63.14.20", "asn": 18042, "asn_all": "18042", "prefix": "61.63.0.0/19", "cc": "TW", "registry": "apnic", "as_name": "KBT - Koos Broadband Telecom, TW", "status": "ok"}
+{"ip": "205.144.52.126", "asn": 13919, "asn_all": "13919", "prefix": "205.144.52.0/24", "cc": "US", "registry": "arin", "as_name": "ALLDATA-NET01 - ADS Alliance Data Systems, Inc., US", "status": "ok"}
+{"ip": "61.218.16.229", "asn": 3462, "asn_all": "3462", "prefix": "61.218.0.0/16", "cc": "TW", "registry": "apnic", "as_name": "HINET - Data Communication Business Group, TW", "status": "ok"}
+{"ip": "2001:4b98:aaaa::63", "asn": 209453, "asn_all": "209453", "prefix": "2001:4b98:aaaa::/48", "cc": "FR", "registry": "ripencc", "as_name": "GANDI-LIVEDNS - GANDI SAS, FR", "status": "ok"}
+{"ip": "2600:9000:5304:3a00::1", "asn": 16509, "asn_all": "16509", "prefix": "2600:9000:5304::/47", "cc": "US", "registry": "arin", "as_name": "AMAZON-02 - Amazon.com, Inc., US", "status": "ok"}
+{"ip": "2001:4b98:aaab::81", "asn": 209453, "asn_all": "209453", "prefix": "2001:4b98:aaab::/48", "cc": "FR", "registry": "ripencc", "as_name": "GANDI-LIVEDNS - GANDI SAS, FR", "status": "ok"}
+{"ip": "2607:f1c0:fe:53:185:132:34:17", "asn": 15418, "asn_all": "15418", "prefix": "2607:f1c0:fe::/47", "cc": "US", "registry": "arin", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "2607:f1c0:fe:53:185:132:35:59", "asn": 15418, "asn_all": "15418", "prefix": "2607:f1c0:fe::/47", "cc": "US", "registry": "arin", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "2607:f1c0:fe:53:185:132:33:52", "asn": 15418, "asn_all": "15418", "prefix": "2607:f1c0:fe::/47", "cc": "US", "registry": "arin", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}
+{"ip": "2607:f1c0:fe:53:185:132:32:114", "asn": 15418, "asn_all": "15418", "prefix": "2607:f1c0:fe::/47", "cc": "US", "registry": "arin", "as_name": "IONOS-ANYCAST - Fasthosts Internet Limited, GB", "status": "ok"}

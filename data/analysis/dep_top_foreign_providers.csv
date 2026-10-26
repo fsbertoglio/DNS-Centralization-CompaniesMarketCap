@@ -1,0 +1,21 @@
+home_bloc,provider,provider_cc,% of foreign weight
+US,Host Europe GmbH,DE,79.84537506439594
+US,"easyDNS Technologies, Inc.",CA,3.8413582505207673
+US,ipcom GmbH,AT,3.665156006182011
+US,CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet,CA,3.547190096836572
+US,Tucows.com Co.,CA,2.195061857440438
+EU,"Cloudflare, Inc.",US,24.266691485244955
+EU,DigiCert,US,12.060359528829553
+EU,Microsoft Corporation,US,9.528374702684392
+EU,"Amazon.com, Inc.",US,9.192344215020324
+EU,Akamai,US,6.575896915195337
+BRICS,"Cloudflare, Inc.",US,28.11099535404507
+BRICS,"Amazon.com, Inc.",US,18.28124174595541
+BRICS,Host Europe GmbH,DE,16.92606717818824
+BRICS,Akamai,US,8.453557605538764
+BRICS,Microsoft Corporation,US,4.945156383681483
+Others,"Cloudflare, Inc.",US,29.118856816825506
+Others,"Amazon.com, Inc.",US,21.796895585367196
+Others,Host Europe GmbH,DE,8.89923886126478
+Others,DigiCert,US,8.212341169890754
+Others,Akamai,US,7.524159496542377

@@ -607,7 +607,7 @@ beau.ns.cloudflare.com,5
 becky.ns.cloudflare.com,2
 bella.ns.cloudflare.com,5
 belldandy.guc-asic.com,1
-ben.ns.cloudflare.com,4
+ben.ns.cloudflare.com,5
 benedict.ns.cloudflare.com,3
 beta.ns.active24.cz,1
 betelgeuse.xerox.com,1
@@ -695,7 +695,7 @@ car-ibextdns-01.wiley.com,1
 carl.ns.cloudflare.com,5
 carla.ns.cloudflare.com,3
 carlane.ns.cloudflare.com,1
-carlos.ns.cloudflare.com,4
+carlos.ns.cloudflare.com,5
 carme.xerox.com,1
 carmelo.ns.cloudflare.com,3
 carol.ns.cloudflare.com,3
@@ -777,7 +777,7 @@ clay.ns.cloudflare.com,4
 clayton.ns.cloudflare.com,2
 cleo.ns.cloudflare.com,6
 clint.ns.cloudflare.com,9
-cloe.ns.cloudflare.com,1
+cloe.ns.cloudflare.com,2
 cloud1.triara.com,1
 cloud2.triara.com,1
 cloud3.triara.com,1
@@ -864,7 +864,7 @@ damien.ns.cloudflare.com,3
 damiete.ns.cloudflare.com,2
 damon.ns.cloudflare.com,4
 dan.ns.cloudflare.com,3
-dana.ns.cloudflare.com,1
+dana.ns.cloudflare.com,3
 dane.ns.cloudflare.com,5
 danica.ns.cloudflare.com,1
 daniella.ns.cloudflare.com,2
@@ -911,7 +911,7 @@ demi.ns.cloudflare.com,8
 denver.ns.cloudflare.com,1
 derek.ns.cloudflare.com,5
 desi.ns.cloudflare.com,5
-desiree.ns.cloudflare.com,1
+desiree.ns.cloudflare.com,2
 destiny.ns.cloudflare.com,4
 devin.ns.cloudflare.com,3
 dexter.ns.cloudflare.com,2
@@ -970,6 +970,7 @@ dns.baidu.com,1
 dns.biesse.it,1
 dns.carso.com.mx,1
 dns.cec-ltd.co.jp,1
+dns.chailease.com.tw,1
 dns.colruyt.be,1
 dns.deltaww.com,1
 dns.diag.pl,1
@@ -1126,7 +1127,7 @@ dns1.cocci.com,1
 dns1.comlaude-dns.com,21
 dns1.coolkata.biz,3
 dns1.cqrcb.com,1
-dns1.cscdns.net,150
+dns1.cscdns.net,151
 dns1.cummins.com,1
 dns1.czbank.com,1
 dns1.dapurhosting.net,1
@@ -1368,6 +1369,7 @@ dns2.caredx.com,1
 dns2.carso.com.mx,1
 dns2.cebbank.com,1
 dns2.cec-ltd.co.jp,1
+dns2.chailease.com.tw,1
 dns2.chicony.com,1
 dns2.citynet.net,1
 dns2.cleanharbors.com,1
@@ -1377,7 +1379,7 @@ dns2.cocci.com,1
 dns2.comlaude-dns.net,21
 dns2.coolkata.biz,3
 dns2.cqrcb.com,1
-dns2.cscdns.net,150
+dns2.cscdns.net,151
 dns2.cummins.com,1
 dns2.dapurhosting.net,1
 dns2.datapark.ch,1
@@ -2012,7 +2014,7 @@ epla1.corpnamesvcs.com,1
 epla2.corpnamesvcs.com,1
 epsom.fresnilloplc.com,1
 epsom.penoles.com.mx,1
-eric.ns.cloudflare.com,6
+eric.ns.cloudflare.com,7
 erin.ns.cloudflare.com,7
 ernest.ns.cloudflare.com,5
 esdns1.mapfre.com,1
@@ -2024,7 +2026,7 @@ eth0.omhqp13d10.uprr.com,1
 eth0.omsdp13d11.uprr.com,1
 ethan.ns.cloudflare.com,1
 etta.ns.cloudflare.com,2
-eugene.ns.cloudflare.com,4
+eugene.ns.cloudflare.com,5
 eupop.netvision.net.il,4
 eur1.akam.net,4
 eur2.akam.net,13
@@ -2322,6 +2324,8 @@ isaac.ns.cloudflare.com,10
 isabel.ns.cloudflare.com,2
 isbankns1.isbank.com.tr,1
 isbankns2.isbank.com.tr,1
+iserv01.pldt.com.ph,1
+iserv02.pldt.com.ph,1
 iserver.hanwha.co.kr,4
 isgbns3,1
 ishaan.ns.cloudflare.com,2
@@ -2345,7 +2349,7 @@ jaime.ns.cloudflare.com,2
 jake.ns.cloudflare.com,9
 jakub.ns.cloudflare.com,1
 james.ns.cloudflare.com,3
-jamie.ns.cloudflare.com,2
+jamie.ns.cloudflare.com,3
 janet.ns.cloudflare.com,6
 jarred.ns.cloudflare.com,2
 jasmine.ns.cloudflare.com,5
@@ -2458,7 +2462,7 @@ laila.ns.cloudflare.com,4
 lakas.ns.cloudflare.com,5
 lamar.ns.cloudflare.com,3
 lana.ns.cloudflare.com,6
-langston.ns.cloudflare.com,2
+langston.ns.cloudflare.com,3
 lara.ns.cloudflare.com,6
 lars.ns.cloudflare.com,3
 launch1.spaceship.net,1
@@ -2521,12 +2525,12 @@ m.coowo.com,1
 m.sec-ns.de,1
 m23.ns.els-gms.att.net,1
 m24.ns.els-gms.att.net,1
-mack.ns.cloudflare.com,7
+mack.ns.cloudflare.com,8
 macy.ns.cloudflare.com,1
 maeve.ns.cloudflare.com,1
 magali.ns.cloudflare.com,2
 magdalena.ns.cloudflare.com,4
-magnolia.ns.cloudflare.com,3
+magnolia.ns.cloudflare.com,4
 magrathea.px-pro-hosting.com,1
 mail.hathway.com,1
 mail1.alestra.net.mx,1
@@ -2824,6 +2828,7 @@ ns-1079.awsdns-06.org,4
 ns-108.awsdns-13.com,1
 ns-1080.awsdns-07.org,1
 ns-1081.awsdns-07.org,1
+ns-1082.awsdns-07.org,1
 ns-1083.awsdns-07.org,4
 ns-1084.awsdns-07.org,3
 ns-1086.awsdns-07.org,3
@@ -3023,6 +3028,7 @@ ns-1275.awsdns-31.org,4
 ns-1276.awsdns-31.org,1
 ns-1277.awsdns-31.org,2
 ns-1278.awsdns-31.org,1
+ns-128-b.gandi.net,1
 ns-128.awsdns-16.com,2
 ns-1281.awsdns-32.org,3
 ns-1282.awsdns-32.org,2
@@ -3155,7 +3161,7 @@ ns-1405.awsdns-47.org,6
 ns-1407.awsdns-47.org,5
 ns-1408.awsdns-48.org,6
 ns-1409.awsdns-48.org,4
-ns-141.awsdns-17.com,1
+ns-141.awsdns-17.com,2
 ns-1410.awsdns-48.org,4
 ns-1411.awsdns-48.org,2
 ns-1412.awsdns-48.org,3
@@ -3201,7 +3207,7 @@ ns-1451.awsdns-53.org,2
 ns-1452.awsdns-53.org,3
 ns-1453.awsdns-53.org,3
 ns-1454.awsdns-53.org,1
-ns-1455.awsdns-53.org,5
+ns-1455.awsdns-53.org,6
 ns-1456.awsdns-54.org,1
 ns-1457.awsdns-54.org,6
 ns-1458.awsdns-54.org,3
@@ -3451,7 +3457,7 @@ ns-1683.awsdns-18.co.uk,3
 ns-1684.awsdns-18.co.uk,4
 ns-1685.awsdns-18.co.uk,3
 ns-1686.awsdns-18.co.uk,2
-ns-1687.awsdns-18.co.uk,3
+ns-1687.awsdns-18.co.uk,4
 ns-1689.awsdns-19.co.uk,1
 ns-169-b.gandi.net,1
 ns-169-c.gandi.net,1
@@ -3573,7 +3579,7 @@ ns-1804.awsdns-33.co.uk,2
 ns-1805.awsdns-33.co.uk,2
 ns-1806.awsdns-33.co.uk,2
 ns-1807.awsdns-33.co.uk,1
-ns-1808.awsdns-34.co.uk,5
+ns-1808.awsdns-34.co.uk,6
 ns-1809.awsdns-34.co.uk,2
 ns-181-c.gandi.net,1
 ns-181.awsdns-22.com,2
@@ -3667,7 +3673,7 @@ ns-1899.awsdns-45.co.uk,4
 ns-19-c.gandi.net,1
 ns-19.awsdns-02.com,2
 ns-190-a.gandi.net,1
-ns-190.awsdns-23.com,4
+ns-190.awsdns-23.com,5
 ns-1901.awsdns-45.co.uk,1
 ns-1902.awsdns-45.co.uk,4
 ns-1903.awsdns-45.co.uk,2
@@ -4294,7 +4300,7 @@ ns-593.awsdns-10.net,5
 ns-594.awsdns-10.net,2
 ns-595.awsdns-10.net,5
 ns-596.awsdns-10.net,2
-ns-597.awsdns-10.net,2
+ns-597.awsdns-10.net,3
 ns-598.awsdns-10.net,3
 ns-599.awsdns-10.net,1
 ns-6-c.gandi.net,1
@@ -4367,7 +4373,7 @@ ns-66-c.gandi.net,1
 ns-66.awsdns-08.com,1
 ns-660.awsdns-18.net,3
 ns-661.awsdns-18.net,5
-ns-662.awsdns-18.net,4
+ns-662.awsdns-18.net,5
 ns-663.awsdns-18.net,1
 ns-664.awsdns-19.net,2
 ns-666.awsdns-19.net,2
@@ -4490,7 +4496,7 @@ ns-775.awsdns-32.net,3
 ns-776.awsdns-33.net,4
 ns-777.awsdns-33.net,2
 ns-778.awsdns-33.net,4
-ns-78-c.gandi.net,1
+ns-78-c.gandi.net,2
 ns-78.awsdns-09.com,1
 ns-780.awsdns-33.net,1
 ns-781.awsdns-33.net,2
@@ -4699,6 +4705,7 @@ ns-976.awsdns-58.net,1
 ns-977.awsdns-58.net,3
 ns-978.awsdns-58.net,1
 ns-979.awsdns-58.net,1
+ns-98-a.gandi.net,1
 ns-98-b.gandi.net,1
 ns-98-c.gandi.net,1
 ns-98.awsdns-12.com,2
@@ -4752,10 +4759,10 @@ ns-b3.tenten.vn,3
 ns-c.eurodns.eu,1
 ns-c.pnap.net,1
 ns-ch.hostpoint.ch,1
-ns-cloud-a1.googledomains.com,20
-ns-cloud-a2.googledomains.com,20
-ns-cloud-a3.googledomains.com,19
-ns-cloud-a4.googledomains.com,19
+ns-cloud-a1.googledomains.com,21
+ns-cloud-a2.googledomains.com,21
+ns-cloud-a3.googledomains.com,20
+ns-cloud-a4.googledomains.com,20
 ns-cloud-b1.googledomains.com,19
 ns-cloud-b2.googledomains.com,19
 ns-cloud-b3.googledomains.com,19
@@ -4879,8 +4886,8 @@ ns.forpsi.net,1
 ns.forpsi.us,1
 ns.fortune.com.tw,1
 ns.freeparking.co.nz,1
-ns.gabia.co.kr,8
-ns.gabia.net,8
+ns.gabia.co.kr,9
+ns.gabia.net,9
 ns.geberit.ch,1
 ns.geberit.de,1
 ns.gestiondecuenta.com,1
@@ -5902,11 +5909,11 @@ ns06.gcd-dns.com,5
 ns06.jpmorganchase.com,1
 ns06.pseg.com,1
 ns060.netapp.com,1
-ns07.domaincontrol.com,24
+ns07.domaincontrol.com,25
 ns07.gcd-dns.com,2
 ns07.pseg.com,1
 ns07.sac-it.dk,2
-ns08.domaincontrol.com,24
+ns08.domaincontrol.com,25
 ns08.gcd-dns.com,2
 ns08.pseg.com,1
 ns08.sac-it.dk,2
@@ -5919,7 +5926,7 @@ ns1-03.azure-dns.com,49
 ns1-04.azure-dns.com,37
 ns1-05.azure-dns.com,53
 ns1-06.azure-dns.com,30
-ns1-07.azure-dns.com,52
+ns1-07.azure-dns.com,53
 ns1-07.azuregov-dns.us,1
 ns1-08.azure-dns.com,49
 ns1-08.azuregov-dns.us,1
@@ -6139,7 +6146,7 @@ ns1.canon.net,1
 ns1.cantire.com,2
 ns1.capitalone.com,1
 ns1.carrier.com,1
-ns1.carrierzone.com,1
+ns1.carrierzone.com,2
 ns1.casecorp.com,1
 ns1.cassinfo.com,1
 ns1.cathayholdings.com,1
@@ -6364,7 +6371,7 @@ ns1.future-s.com,2
 ns1.fxh42.net,1
 ns1.g02.cfdns.net,3
 ns1.g10.cfdns.net,1
-ns1.gabia.co.kr,8
+ns1.gabia.co.kr,9
 ns1.gao.ne.jp,1
 ns1.gauzy.com,1
 ns1.gcorelabs.net,1
@@ -6574,7 +6581,7 @@ ns1.md-in-36.webhostbox.net,1
 ns1.md-in-67.webhostbox.net,1
 ns1.md-in-92.webhostbox.net,1
 ns1.mec.co.jp,1
-ns1.mediatemple.net,2
+ns1.mediatemple.net,3
 ns1.medibank.com.au,1
 ns1.meeza.com.qa,1
 ns1.meganameservers.com,1
@@ -6607,6 +6614,7 @@ ns1.mybizcloud.at,1
 ns1.mydnscloud.com,1
 ns1.mydomain.com,1
 ns1.myhostadmin.net,3
+ns1.myonlinecare.net,1
 ns1.mysecurecloudhost.com,2
 ns1.mysrsx.com,1
 ns1.mythic-beasts.com,1
@@ -6678,7 +6686,7 @@ ns1.p06.dynect.net,1
 ns1.p12.dynect.net,2
 ns1.p16.dynect.net,1
 ns1.p201.dns.oraclecloud.net,22
-ns1.p202.dns.oraclecloud.net,1
+ns1.p202.dns.oraclecloud.net,2
 ns1.p23.dynect.net,2
 ns1.p68.dns.oraclecloud.net,3
 ns1.p7s1ns.de,1
@@ -6757,6 +6765,7 @@ ns1.rilinfo.net,1
 ns1.riyadbank.com,1
 ns1.rku-it.de,1
 ns1.rochendns.com,1
+ns1.rocketcdn.com,1
 ns1.romande-energie.ch,1
 ns1.routedge.net,4
 ns1.rrpproxy.net,2
@@ -7007,6 +7016,7 @@ ns1016.ui-dns.biz,2
 ns1016.ui-dns.com,1
 ns1016.ui-dns.de,1
 ns1016.ui-dns.org,1
+ns1017.ui-dns.com,1
 ns1017.ui-dns.org,1
 ns1018.ui-dns.biz,1
 ns1018.ui-dns.com,1
@@ -7071,12 +7081,14 @@ ns1050.ui-dns.com,1
 ns1050.ui-dns.de,1
 ns1050.ui-dns.org,2
 ns1051.ui-dns.org,1
+ns1052.ui-dns.biz,1
 ns1052.ui-dns.org,1
 ns1054.ui-dns.biz,1
 ns1056.ui-dns.com,1
 ns1057.ui-dns.com,1
 ns1057.ui-dns.de,2
 ns1059.ui-dns.de,1
+ns1059.ui-dns.org,1
 ns1062.ui-dns.biz,1
 ns1062.ui-dns.com,1
 ns1062.ui-dns.de,1
@@ -7175,6 +7187,7 @@ ns111.mschosting.com,1
 ns111.ovh.net,2
 ns1110.ui-dns.biz,2
 ns1113.ui-dns.biz,1
+ns1114.ui-dns.de,1
 ns1115.ui-dns.com,1
 ns1116.ui-dns.com,1
 ns1116.ui-dns.de,1
@@ -7358,7 +7371,7 @@ ns2-03.azure-dns.net,49
 ns2-04.azure-dns.net,37
 ns2-05.azure-dns.net,52
 ns2-06.azure-dns.net,30
-ns2-07.azure-dns.net,51
+ns2-07.azure-dns.net,52
 ns2-07.azuregov-dns.us,1
 ns2-08.azure-dns.net,49
 ns2-08.azuregov-dns.us,1
@@ -7519,7 +7532,7 @@ ns2.cafe24.com,5
 ns2.canon.net,1
 ns2.cantire.com,2
 ns2.carrier.com,1
-ns2.carrierzone.com,1
+ns2.carrierzone.com,2
 ns2.casecorp.com,1
 ns2.cassinfo.com,1
 ns2.cathayholdings.com,1
@@ -7970,7 +7983,7 @@ ns2.md-in-36.webhostbox.net,1
 ns2.md-in-67.webhostbox.net,1
 ns2.md-in-92.webhostbox.net,1
 ns2.mec.co.jp,1
-ns2.mediatemple.net,2
+ns2.mediatemple.net,3
 ns2.medibank.com.au,1
 ns2.medtronic.com,2
 ns2.meeza.com.qa,1
@@ -8006,6 +8019,7 @@ ns2.mybizcloud.at,1
 ns2.mydnscloud.com,1
 ns2.mydomain.com,1
 ns2.myhostadmin.net,3
+ns2.myonlinecare.net,1
 ns2.mysecurecloudhost.com,2
 ns2.mysrsx.net,1
 ns2.mythic-beasts.com,1
@@ -8077,7 +8091,7 @@ ns2.p06.dynect.net,1
 ns2.p12.dynect.net,2
 ns2.p16.dynect.net,1
 ns2.p201.dns.oraclecloud.net,22
-ns2.p202.dns.oraclecloud.net,1
+ns2.p202.dns.oraclecloud.net,2
 ns2.p23.dynect.net,2
 ns2.p68.dns.oraclecloud.net,3
 ns2.p7s1ns.net,1
@@ -8158,6 +8172,7 @@ ns2.rilinfo.net,1
 ns2.riyadbank.com,1
 ns2.rku-it.de,1
 ns2.rochendns.com,1
+ns2.rocketcdn.com,1
 ns2.romande-energie.ch,1
 ns2.routedge.net,4
 ns2.rrpproxy.net,2
@@ -8383,7 +8398,7 @@ ns21.cez.cz,1
 ns21.cloudns.net,1
 ns21.constellix.com,16
 ns21.digicertdns.com,8
-ns21.domaincontrol.com,19
+ns21.domaincontrol.com,20
 ns21.hsbc.net,1
 ns21.hsbc.uk,1
 ns21.hyyat4host.com,1
@@ -8401,7 +8416,7 @@ ns22.bce-lu.net,1
 ns22.centene.com,1
 ns22.cloudns.net,1
 ns22.digicertdns.com,8
-ns22.domaincontrol.com,19
+ns22.domaincontrol.com,20
 ns22.go.com.sa,1
 ns22.kyivstar.net,1
 ns22.lwsdns.com,1
@@ -8454,7 +8469,7 @@ ns3-03.azure-dns.org,49
 ns3-04.azure-dns.org,37
 ns3-05.azure-dns.org,54
 ns3-06.azure-dns.org,30
-ns3-07.azure-dns.org,51
+ns3-07.azure-dns.org,52
 ns3-07.azuregov-dns.us,1
 ns3-08.azure-dns.org,49
 ns3-08.azuregov-dns.us,1
@@ -8490,6 +8505,7 @@ ns3.alcom.fi,1
 ns3.alfransi.com.sa,1
 ns3.alior.pl,1
 ns3.aliorbank.pl,1
+ns3.alliancedata.com,1
 ns3.alliant-energy.com,1
 ns3.allianz.de,1
 ns3.ameresco.com,1
@@ -8545,7 +8561,7 @@ ns3.cableone.net,1
 ns3.canon.net,1
 ns3.cantire.com,2
 ns3.capitalone.com,1
-ns3.carrierzone.com,1
+ns3.carrierzone.com,2
 ns3.casecorp.com,1
 ns3.cbncloud.net,1
 ns3.cbq.com.qa,1
@@ -8814,6 +8830,7 @@ ns3.mvmnet.it,1
 ns3.mybizcloud.at,1
 ns3.mydnscloud.com,1
 ns3.myhostadmin.net,3
+ns3.myonlinecare.net,1
 ns3.mysecurecloudhost.com,2
 ns3.mysrsx.biz,1
 ns3.n4dns.com,1
@@ -8854,7 +8871,7 @@ ns3.p06.dynect.net,1
 ns3.p12.dynect.net,2
 ns3.p16.dynect.net,1
 ns3.p201.dns.oraclecloud.net,22
-ns3.p202.dns.oraclecloud.net,1
+ns3.p202.dns.oraclecloud.net,2
 ns3.p23.dynect.net,2
 ns3.p68.dns.oraclecloud.net,3
 ns3.panthur.com,1
@@ -8885,6 +8902,7 @@ ns3.register.be,4
 ns3.relianceada.com,1
 ns3.rhone.ch,1
 ns3.rlicorp.com,1
+ns3.rocketcdn.com,1
 ns3.rrpproxy.net,2
 ns3.sabancigrubu.com,1
 ns3.sabic.com,4
@@ -9019,9 +9037,9 @@ ns34.cloudns.net,1
 ns34.domaincontrol.com,25
 ns34.softwebideas.com,1
 ns34.worldnic.com,8
-ns35.domaincontrol.com,18
+ns35.domaincontrol.com,19
 ns35.worldnic.com,2
-ns36.domaincontrol.com,18
+ns36.domaincontrol.com,19
 ns36.worldnic.com,2
 ns37.domaincontrol.com,19
 ns37.worldnic.com,4
@@ -9041,7 +9059,7 @@ ns4-03.azure-dns.info,49
 ns4-04.azure-dns.info,37
 ns4-05.azure-dns.info,53
 ns4-06.azure-dns.info,30
-ns4-07.azure-dns.info,51
+ns4-07.azure-dns.info,52
 ns4-07.azuregov-dns.us,1
 ns4-08.azure-dns.info,49
 ns4-08.azuregov-dns.us,1
@@ -9076,6 +9094,7 @@ ns4.afraid.org,1
 ns4.alcom.fi,1
 ns4.alior.pl,1
 ns4.aliorbank.pl,1
+ns4.alliancedata.com,1
 ns4.alliant-energy.com,1
 ns4.allianz.de,1
 ns4.ameresco.com,1
@@ -9102,7 +9121,7 @@ ns4.bumble.com,1
 ns4.cableone.net,1
 ns4.cantire.com,2
 ns4.capitalone.com,1
-ns4.carrierzone.com,1
+ns4.carrierzone.com,2
 ns4.cbq.qa,1
 ns4.ccb.com,1
 ns4.cdmondns-01.org,4
@@ -9272,6 +9291,7 @@ ns4.mtrltech.com,1
 ns4.mvmnet-dns.eu,1
 ns4.mydnscloud.com,1
 ns4.myhostadmin.net,3
+ns4.myonlinecare.net,1
 ns4.mysecurecloudhost.com,2
 ns4.mysrsx.org,1
 ns4.n4dns.com,1
@@ -9298,7 +9318,7 @@ ns4.p06.dynect.net,1
 ns4.p12.dynect.net,2
 ns4.p16.dynect.net,1
 ns4.p201.dns.oraclecloud.net,22
-ns4.p202.dns.oraclecloud.net,1
+ns4.p202.dns.oraclecloud.net,2
 ns4.p23.dynect.net,2
 ns4.p68.dns.oraclecloud.net,3
 ns4.panthur.com,1
@@ -9321,6 +9341,7 @@ ns4.relianceada.com,1
 ns4.rhone.ch,1
 ns4.riyadbank.com,1
 ns4.rlicorp.com,1
+ns4.rocketcdn.com,1
 ns4.sabancigrubu.com,1
 ns4.sabic.com,4
 ns4.sacombank.com.vn,1
@@ -9413,7 +9434,7 @@ ns47.worldnic.com,5
 ns48.domaincontrol.com,22
 ns48.worldnic.com,5
 ns49.a1.incapsecuredns.net,1
-ns49.domaincontrol.com,25
+ns49.domaincontrol.com,26
 ns49.worldnic.com,8
 ns4a.idcservices.it,3
 ns4ak.dell.com,1
@@ -9537,7 +9558,7 @@ ns5.wscvdns.com,1
 ns5.xc-ns.de,3
 ns5.xserver.jp,1
 ns5.xunlei.net,1
-ns50.domaincontrol.com,25
+ns50.domaincontrol.com,26
 ns50.worldnic.com,8
 ns51.as16101.net,2
 ns51.cloudns.net,2
@@ -9563,9 +9584,9 @@ ns55.domaincontrol.com,17
 ns55.worldnic.com,9
 ns56.domaincontrol.com,17
 ns56.worldnic.com,9
-ns57.domaincontrol.com,22
+ns57.domaincontrol.com,23
 ns57.worldnic.com,5
-ns58.domaincontrol.com,22
+ns58.domaincontrol.com,23
 ns58.worldnic.com,5
 ns59.domaincontrol.com,21
 ns59.worldnic.com,10
@@ -9673,7 +9694,7 @@ ns7-04.azure-dns.org,1
 ns7-64.akam.net,2
 ns7-65.akam.net,3
 ns7.acens.net,1
-ns7.alidns.com,1
+ns7.alidns.com,2
 ns7.baidu.com,1
 ns7.bumble.com,1
 ns7.chugai-pharm.co.jp,1
@@ -9720,11 +9741,11 @@ ns70.h.centralnic-dns.com,1
 ns70.ultradns2.com,1
 ns70.ultradns2.org,1
 ns70.worldnic.com,5
-ns71.domaincontrol.com,19
+ns71.domaincontrol.com,20
 ns71.ultradns2.com,1
 ns71.ultradns2.org,1
 ns71.worldnic.com,4
-ns72.domaincontrol.com,19
+ns72.domaincontrol.com,20
 ns72.worldnic.com,4
 ns73.domaincontrol.com,18
 ns73.worldnic.com,9
@@ -9732,11 +9753,11 @@ ns74.domaincontrol.com,18
 ns74.ultradns2.com,1
 ns74.ultradns2.org,1
 ns74.worldnic.com,9
-ns75.domaincontrol.com,17
+ns75.domaincontrol.com,18
 ns75.ultradns2.com,1
 ns75.ultradns2.org,1
 ns75.worldnic.com,7
-ns76.domaincontrol.com,17
+ns76.domaincontrol.com,18
 ns76.irondns.net,3
 ns76.site-internet.com,1
 ns76.worldnic.com,7
@@ -9749,7 +9770,7 @@ ns78.worldnic.com,5
 ns79.worldnic.com,3
 ns8-04.azure-dns.info,1
 ns8.166.com,1
-ns8.alidns.com,1
+ns8.alidns.com,2
 ns8.bumble.com,1
 ns8.chugai-pharm.co.jp,1
 ns8.cnmsn.net,4
@@ -10033,7 +10054,7 @@ pdns09.domaincontrol.com,21
 pdns1.cscdns.net,28
 pdns1.idline.fr,1
 pdns1.registrar-servers.com,9
-pdns1.ultradns.net,30
+pdns1.ultradns.net,31
 pdns10.domaincontrol.com,21
 pdns100.ultradns.biz,2
 pdns100.ultradns.com,3
@@ -10118,7 +10139,7 @@ pdns198.ultradns.org,1
 pdns2.cscdns.net,28
 pdns2.idline.fr,1
 pdns2.registrar-servers.com,9
-pdns2.ultradns.net,29
+pdns2.ultradns.net,30
 pdns204.ultradns.biz,1
 pdns204.ultradns.com,1
 pdns204.ultradns.net,1
@@ -10135,10 +10156,10 @@ pdns221.ultradns.biz,1
 pdns221.ultradns.com,1
 pdns221.ultradns.net,1
 pdns221.ultradns.org,1
-pdns3.ultradns.org,30
-pdns4.ultradns.org,28
-pdns5.ultradns.info,29
-pdns6.ultradns.co.uk,29
+pdns3.ultradns.org,31
+pdns4.ultradns.org,29
+pdns5.ultradns.info,30
+pdns6.ultradns.co.uk,30
 pdns67.ultradns.biz,1
 pdns67.ultradns.co.uk,1
 pdns67.ultradns.com,1
@@ -10599,11 +10620,11 @@ tymwsv02.fitweb.or.jp,1
 tzjpnmd02.hoya.com,1
 tzsinmd02.hoya.com,1
 uat-claimstatus,1
-udns1.cscdns.net,109
+udns1.cscdns.net,110
 udns1.cscudns.com,4
 udns1.salesforce.com,1
 udns1.ultradns.net,14
-udns2.cscdns.uk,109
+udns2.cscdns.uk,110
 udns2.cscudns.org,4
 udns2.salesforce.com,1
 udns2.ultradns.net,14
@@ -10731,7 +10752,7 @@ xdns1a.hermanmiller.com,1
 xdns1b.hermanmiller.com,1
 xdns2.hb.pl,1
 xdns3.hostedby.info,1
-ximena.ns.cloudflare.com,3
+ximena.ns.cloudflare.com,4
 y.ns.joker.com,2
 yadiel.ns.cloudflare.com,4
 yahir.ns.cloudflare.com,1
@@ -10757,7 +10778,7 @@ zara.ns.cloudflare.com,8
 zariyah.ns.cloudflare.com,3
 zariyah.ns.cloudflare.com.funko.com,1
 zelda.ns.cloudflare.com,6
-zeus.ns.cloudflare.com,3
+zeus.ns.cloudflare.com,4
 zita.ns.cloudflare.com,6
 zns001-0m9001.yokogawa.co.jp,1
 zns001-0m9002.yokogawa.co.jp,1

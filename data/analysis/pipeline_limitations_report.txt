@@ -1,24 +1,24 @@
 ==============================================================================
 AUDITORIA DO PIPELINE - LIMITAÇÕES E EMPRESAS NÃO RESOLVIDAS
-Gerado em 2026-10-13 13:26
+Gerado em 2026-10-24 16:58
 ==============================================================================
 
 1. FUNIL: TAMANHO DE CADA TABELA INTERMEDIÁRIA
 ------------------------------------------------------------------------------
-  raw (top_companies_revenue_20261012.csv): 11345 linhas
-  01_data_after_yfinance.csv           :   10635 linhas | 10635 empresas
-  ns_resolver/companies.parquet        :   10635 linhas | 10635 empresas | 10292 com apex | 10233 apex únicos
-  ns_resolver/dns_status.parquet       :      33 domínios com falha registrada
-  ns_resolver/ns_hosts.parquet         :   31934 pares (domínio, NS) | 10200 domínios | 10768 NS únicos
-  ns_resolver/ns_ips.parquet           :   26413 linhas | 10768 NS | 18862 IPs únicos
-  asn_resolver/ip_asn.parquet          :   18862 IPs | 1424 ASNs
-  asn_resolver/asn_org_info.parquet    :    1424 ASNs com org
+  raw (top_companies_revenue_20261024.csv): 11391 linhas
+  01_data_after_yfinance.csv           :   10664 linhas | 10664 empresas
+  ns_resolver/companies.parquet        :   10664 linhas | 10664 empresas | 10321 com apex | 10261 apex únicos
+  ns_resolver/dns_status.parquet       :      29 domínios com falha registrada
+  ns_resolver/ns_hosts.parquet         :   32024 pares (domínio, NS) | 10233 domínios | 10789 NS únicos
+  ns_resolver/ns_ips.parquet           :   26456 linhas | 10789 NS | 18889 IPs únicos
+  asn_resolver/ip_asn.parquet          :   18889 IPs | 1430 ASNs
+  asn_resolver/asn_org_info.parquet    :    1430 ASNs com org
   full_dns_enriched.parquet            :   83539 linhas | 10635 empresas
 
 2. CONSISTÊNCIA ENTRE TABELAS (itens órfãos = informação perdida entre etapas)
 ------------------------------------------------------------------------------
   empresas em 01 e ausentes em companies.parquet : 0
-  empresas em companies e ausentes em full       : 0
+  empresas em companies e ausentes em full       : 29
   empresas duplicadas em 01 (rank repetido)      : 0
   NS em ns_hosts sem registro em ns_ips          : 0
   IPs em ns_ips sem registro em ip_asn           : 0
@@ -32,7 +32,7 @@ Gerado em 2026-10-13 13:26
               domínios
     status            
     no_ns           18
-    timeout         13
+    timeout          9
     nxdomain         2
   ip_lookup_status (por NS e tipo de registro, ns_ips):
                              NS
@@ -40,22 +40,22 @@ Gerado em 2026-10-13 13:26
     A     no_a                7
           no_nameservers      2
           nxdomain           47
-          ok              13700
-          timeout            28
-    AAAA  no_aaaa          4098
+          ok              13720
+          timeout            30
+    AAAA  no_aaaa          4109
           no_nameservers     12
           nxdomain           47
-          ok               8442
-          timeout            30
+          ok               8449
+          timeout            33
   asn_status (por IP, ip_asn):
                 IPs
     status         
-    ok        18849
+    ok        18876
     nxdomain     13
   yf_status (por empresa, 01):
                                 empresas
     yf_status                           
-    success                        10292
+    success                        10321
     error: ticker not resolved       342
     NaN                                1
 
@@ -79,7 +79,7 @@ Gerado em 2026-10-13 13:26
                                   empresas
       detail                              
       error: ticker not resolved       342
-      None                               1
+      nan                                1
 
   [3_ns_lookup] 33 empresas - consulta de NS do domínio falhou (nxdomain / no_ns / timeout / sem NS)
                 empresas
