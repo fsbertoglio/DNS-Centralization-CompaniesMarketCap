@@ -1,12 +1,12 @@
 ==============================================================================
 AUDITORIA DO PIPELINE - LIMITAÇÕES E EMPRESAS NÃO RESOLVIDAS
-Gerado em 2026-10-24 16:58
+Gerado em 2026-11-02 10:32
 ==============================================================================
 
 1. FUNIL: TAMANHO DE CADA TABELA INTERMEDIÁRIA
 ------------------------------------------------------------------------------
-  raw (top_companies_revenue_20261024.csv): 11391 linhas
-  01_data_after_yfinance.csv           :   10664 linhas | 10664 empresas
+  raw (top_companies_revenue_20261102.csv): 11396 linhas
+  01_data_after_yfinance.csv           :   10667 linhas | 10667 empresas
   ns_resolver/companies.parquet        :   10664 linhas | 10664 empresas | 10321 com apex | 10261 apex únicos
   ns_resolver/dns_status.parquet       :      29 domínios com falha registrada
   ns_resolver/ns_hosts.parquet         :   32024 pares (domínio, NS) | 10233 domínios | 10789 NS únicos
@@ -17,7 +17,7 @@ Gerado em 2026-10-24 16:58
 
 2. CONSISTÊNCIA ENTRE TABELAS (itens órfãos = informação perdida entre etapas)
 ------------------------------------------------------------------------------
-  empresas em 01 e ausentes em companies.parquet : 0
+  empresas em 01 e ausentes em companies.parquet : 3
   empresas em companies e ausentes em full       : 29
   empresas duplicadas em 01 (rank repetido)      : 0
   NS em ns_hosts sem registro em ns_ips          : 0
@@ -55,7 +55,7 @@ Gerado em 2026-10-24 16:58
   yf_status (por empresa, 01):
                                 empresas
     yf_status                           
-    success                        10321
+    success                        10324
     error: ticker not resolved       342
     NaN                                1
 
