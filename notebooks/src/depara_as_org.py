@@ -28,6 +28,18 @@ DEPARA_AS_ORG = {
     "Vercara, LLC": ("DigiCert", "US"),  # aquisição concluída em set/2024 | https://www.digicert.com/news/digicert-completes-acquisition-of-vercara-strengthening-position-as-a-leader-in-digital-trust
     "Tiggee LLC": ("DigiCert", "US"),  # Tiggee = DNS Made Easy; aquisição em jun/2022 (não 2019) | https://www.digicert.com/news/digicert-acquires-dns-made-easy-extending-leadership-in-digital-trust-with-enterprise-grade-managed-dns-services
 
+    # ===== GoDaddy | US =====
+    # Host Europe Group (HEG) adquirido pela GoDaddy em 03/04/2017 (subsidiária integral)
+    #   https://www.sec.gov/Archives/edgar/data/0001609711/000160971117000070/a991hegclosingpressrelease.htm
+    # O AS44273 tem as-name GODADDY-DNS, org "Host Europe GmbH", registro DE:
+    #   https://ipgeolocation.io/browse/asn/44273
+    # e anuncia o IPv6 dos servidores nsXX.domaincontrol.com (IPv4 sai pelo AS26496 GoDaddy.com, LLC):
+    #   https://bgp.he.net/dns/NS42.DOMAINCONTROL.com
+    "Host Europe GmbH": ("GoDaddy", "US"),  # [Alta] ver evidências acima
+    "GoDaddy.com, LLC": ("GoDaddy", "US"),  # [Alta] mesma marca
+    "Go Daddy Netherlands B.V.": ("GoDaddy", "US"),  # [Alta] mesma marca (prefixos dentro de ASes da Host Europe)
+    "123 REG LIMITED": ("GoDaddy", "US"),  # [Alta] 123 Reg é marca do HEG | https://onlinedomain.com/2017/04/04/domain-name-news/godaddy-completes-acquisition-host-europe-group/
+
     # ===== Akamai | US =====
     "Akamai International B.V.": ("Akamai", "US"),  # mesma marca
     "Akamai Connected Cloud": ("Akamai", "US"),  # mesma marca (ex-Linode)
@@ -399,29 +411,3 @@ DEPARA_AS_ORG = {
 }
 
 # ---------------------------------------------------------------------------
-# REMOVIDOS (ficam sem agrupamento: mantêm o próprio nome e país de registro)
-# ---------------------------------------------------------------------------
-# Entidade vendida / fora do grupo
-#   "UD Trucks Corporation, Volvo Information Technology Japan"  -> UD Trucks vendida à Isuzu em abr/2021
-#        https://www.volvogroup.com/en/news-and-media/news/2021/apr/news-3935150.html
-#   "CTC. CORP S.A. (TELEFONICA EMPRESAS)", "TELEFONICA CHILE S.A." -> Telefónica Chile vendida a NJJ/Millicom (fev/2026)
-#        https://www.investmentmonitor.ai/?p=128672
-#   "SABIC INNOVATIVE PLASTICS US, LLC" -> negócio ETP Américas/Europa vendido à Mutares (ago/2026)
-#        https://www.chemengonline.com/sabic-completes-sale-of-engineering-thermoplastics-business-in-the-americas-and-europe/
-#        (sem ela e sem "SIPPE-SG", o grupo SABIC deixa de existir)
-#   "Hostpoint AG" -> não encontrei aquisição pela team.blue; empresa se declara 100% dos fundadores
-#        https://www.moneycab.com/company/hostpoint/
-#
-# Nome de AS ambíguo ou vínculo não confirmado
-#   "Chongqing Telecom", "SK Co.,", "SIPPE-SG", "Vodafone Data", "Easyhost BVBA",
-#   "New Century InfoComm Tech Co., Ltd.", "Taiwan Fixed Network, ...",
-#   "AyalaPort Makati, ...", "Globe Telecoms" (grupo dependia de AyalaPort),
-#   Hokuden (3 linhas), Gulfnet (2), Binat (2), Sonic (2), Equatorial (2)
-#
-# País do controlador ambíguo (agrupamento plausível, país não)
-#   Liberty Global / Telenet  -> controladora domiciliada nas Bermudas; GB discutível
-#   RTL Group / Fremantle     -> RTL (LU) é controlada pela Bertelsmann (DE)
-#   Opera (3)                 -> sede na Noruega, controle acionário chinês
-#   Techint: Ternium/Tenaris  -> holdings em LU/NL; juntar as duas é escolha, não fato
-#   Advania (3), GlobalConnect (2), Webzilla (2), Web Werks (2)
-#        GlobalConnect: em processo de aquisição pela Telenor (ver link do Telia Norge)

@@ -1,6 +1,6 @@
 ==============================================================================
 AUDITORIA DO PIPELINE - LIMITAÇÕES E EMPRESAS NÃO RESOLVIDAS
-Gerado em 2026-11-02 10:32
+Gerado em 2026-11-02 20:15
 ==============================================================================
 
 1. FUNIL: TAMANHO DE CADA TABELA INTERMEDIÁRIA
@@ -79,7 +79,7 @@ Gerado em 2026-11-02 10:32
                                   empresas
       detail                              
       error: ticker not resolved       342
-      nan                                1
+      None                               1
 
   [3_ns_lookup] 33 empresas - consulta de NS do domínio falhou (nxdomain / no_ns / timeout / sem NS)
                 empresas
