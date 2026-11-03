@@ -14,6 +14,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[2]
 INTERIM = ROOT / "data" / "interim"
+FINAL = ROOT / "data" / "final"     # saída do notebook 04 (mesma base das análises)
 RAW = ROOT / "data" / "raw"
 OUT = ROOT / "data" #/ "analysis"
 
@@ -109,7 +110,8 @@ def run_audit(out_path=None):
     ns_ips = pd.read_parquet(INTERIM / "ns_resolver" / "ns_ips.parquet")
     ip_asn = pd.read_parquet(INTERIM / "asn_resolver" / "ip_asn.parquet")
     asn_org = pd.read_parquet(INTERIM / "asn_resolver" / "asn_org_info.parquet")
-    full = pd.read_parquet(INTERIM / "full_dns_enriched.parquet")
+    full = pd.read_parquet(FINAL / "full_dns_enriched.parquet")
+    final = pd.read_parquet(FINAL / "final_data.parquet")   # base usada nas análises (05 a 08)
 
     w("=" * 78)
     w("AUDITORIA DO PIPELINE - LIMITAÇÕES E EMPRESAS NÃO RESOLVIDAS")
@@ -136,7 +138,8 @@ def run_audit(out_path=None):
       f"{ns_ips['ip'].nunique()} IPs únicos")
     w(f"  asn_resolver/ip_asn.parquet          : {len(ip_asn):>7} IPs | {ip_asn['asn'].nunique()} ASNs")
     w(f"  asn_resolver/asn_org_info.parquet    : {len(asn_org):>7} ASNs com org")
-    w(f"  full_dns_enriched.parquet            : {len(full):>7} linhas | {full['rank'].nunique()} empresas")
+    w(f"  final/full_dns_enriched.parquet      : {len(full):>7} linhas | {full['rank'].nunique()} empresas")
+    w(f"  final/final_data.parquet             : {len(final):>7} linhas | {final['rank'].nunique()} empresas")
 
     # ---------------------------------------------- 2. consistência entre tabelas
     w("\n2. CONSISTÊNCIA ENTRE TABELAS (itens órfãos = informação perdida entre etapas)")
@@ -274,6 +277,28 @@ def run_audit(out_path=None):
     ]
     for i, t in enumerate(lims, 1):
         w(f"  {i:>2}. {t}")
+
+    # ------------------------------------------- 9. tabela do artigo (funil por empresa)
+    w("\n9. TABELA DO ARTIGO: FUNIL POR EMPRESA (perdas sempre em nº de empresas)")
+    w("-" * 78)
+    perdas = counts.drop("OK")
+    linhas_tab = [
+        ("Companies with revenue > 0", full.loc[full["revenue_ttm"] > 0, "rank"].nunique(), None),
+        ("Resolved websites", full.loc[full["apex"].notna(), "rank"].nunique(),
+         perdas[["1_yfinance", "2_sem_website", "2_apex_nao_extraido"]].sum()),
+        ("Domains with NS records", full.loc[full["ns"].notna(), "rank"].nunique(), perdas["3_ns_lookup"]),
+        ("Distinct name servers", full["ns"].nunique(), None),
+        ("Server addresses (v4+v6)", full["ip"].nunique(), perdas["4_ns_sem_ip_ipv4"]),
+        ("Distinct ASes", full["asn"].nunique(), perdas[["5_ip_sem_asn", "6_asn_sem_org"]].sum()),
+        ("Complete resolution chain", counts["OK"], n_fail),
+    ]
+    for nome, valor, perda in linhas_tab:
+        w(f"  {nome:<28} {valor:>7,}   {'--' if perda is None else f'{perda:,}':>5}")
+    w(f"\n  Domínios distintos com NS (sem contar empresas que compartilham domínio): "
+      f"{full.loc[full['ns'].notna(), 'apex'].nunique():,}")
+    w(f"  Conferência: {n} - {n_fail} perdas = {counts['OK']} resolvidas; "
+      f"final_data tem {final['rank'].nunique()} empresas "
+      f"({'BATE' if final['rank'].nunique() == counts['OK'] else 'NÃO BATE'})")
 
     text = "\n".join(L) + "\n"
     out_path = Path(out_path) if out_path else OUT / "pipeline_limitations_report.txt"
